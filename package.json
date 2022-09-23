@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "chrome-aws-lambda": "^10.1.0",
+    "chrome-aws-lambda": "1.6.3",
     "next": "12.3.1",
     "next-api-og-image": "^4.3.0",
     "react": "18.2.0",
