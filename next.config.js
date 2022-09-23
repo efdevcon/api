@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://github.com/efdevcon/og-generator',
+        destination: 'https://github.com/efdevcon/api',
         permanent: true,
       },
     ]
