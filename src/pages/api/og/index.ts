@@ -4,33 +4,36 @@ import moment from 'moment'
 import sessions from 'data/session-data.json'
 
 interface QueryParams {
-  id: string
+    id: string
 }
 
 const baseUri = process.env.NODE_ENV === "production" ? SITE_URL : 'http://localhost:3000/'
-// TEST IDs
 // - 9BDUZU (no avatar)
 // - PUWLD9 (7 speakers)
 // - EWZLCP (single speaker)
-// - DQYCFT
-export default withOGImage<'query', QueryParams>({
-  // cacheControl: 'public, max-age=604800, immutable',
-  dev: {
-    inspectHtml: false,
-  },
-  template: {
-    html: async ({ id }) => {
-      console.log('GET session', id)
-      const session = sessions.find(i => i.id === id)
-      if (!session) {
-        console.warn('Session not found')
-        return '' // Default OG image 
-      }
+// - KNPHBZ (longest title)
 
-      return `
+export default withOGImage<'query', QueryParams>({
+    // cacheControl: 'public, max-age=604800, immutable',
+    dev: {
+        inspectHtml: false,
+    },
+    template: {
+        html: async ({ id }) => {
+            console.log('GET session', id)
+            const session = sessions.find(i => i.id === id)
+            if (!session) {
+                console.warn('Session not found')
+                return '' // Default OG image 
+            }
+
+            const reduceFontSize = session.title.length > 100 ||
+                session.speakers.map(i => i.name).join(', ').length > 60
+
+            return `
         <html>
             <head>
-                ${style}
+                ${getStyle(reduceFontSize)}
             </head>
             <body>
             <div class="container ${getTrackId(session.track)}">
@@ -57,49 +60,49 @@ export default withOGImage<'query', QueryParams>({
             </div>
             </body>
         </html>`
+        }
     }
-  }
 })
 
 function getTrackId(track: string) {
-  if (track === 'Cryptoeconomics') return 'cryptoeconomics'
-  if (track === 'Developer Infrastructure') return 'developer-infrastructure'
-  if (track === 'Governance & Coordination') return 'governance'
-  if (track === 'Layer 1 Protocol') return 'layer-1'
-  if (track === 'Layer 2s') return 'layer-2'
-  if (track === 'Opportunity & Global Impact') return 'global-impact'
-  if (track === 'Security') return 'security'
-  if (track === 'Staking & Validator Experience') return 'staking'
-  if (track === 'UX & Design') return 'ux-design'
-  if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return 'zkps'
-  return ''
+    if (track === 'Cryptoeconomics') return 'cryptoeconomics'
+    if (track === 'Developer Infrastructure') return 'developer-infrastructure'
+    if (track === 'Governance & Coordination') return 'governance'
+    if (track === 'Layer 1 Protocol') return 'layer-1'
+    if (track === 'Layer 2s') return 'layer-2'
+    if (track === 'Opportunity & Global Impact') return 'global-impact'
+    if (track === 'Security') return 'security'
+    if (track === 'Staking & Validator Experience') return 'staking'
+    if (track === 'UX & Design') return 'ux-design'
+    if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return 'zkps'
+    return ''
 }
 
 function getTrackImage(track: string) {
-  if (track === 'Cryptoeconomics') return `${baseUri}assets/tracks/Cryptoeconomics.svg`
-  if (track === 'Developer Infrastructure') return `${baseUri}assets/tracks/Developer Infrastructure.svg`
-  if (track === 'Governance & Coordination') return `${baseUri}assets/tracks/Governance & Coordination.svg`
-  if (track === 'Layer 1 Protocol') return `${baseUri}assets/tracks/Layer 2s.svg`
-  if (track === 'Layer 2s') return `${baseUri}assets/tracks/Layer 2s.svg`
-  if (track === 'Opportunity & Global Impact') return `${baseUri}assets/tracks/Opportunity & Global Impact.svg`
-  if (track === 'Security') return `${baseUri}assets/tracks/Security.svg`
-  if (track === 'Staking & Validator Experience') return `${baseUri}assets/tracks/Staking & Validator Experience.svg`
-  if (track === 'UX & Design') return `${baseUri}assets/tracks/UX & Design.svg`
-  if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return `${baseUri}assets/tracks/ZKPs and Privacy.svg`
+    if (track === 'Cryptoeconomics') return `${baseUri}assets/tracks/Cryptoeconomics.svg`
+    if (track === 'Developer Infrastructure') return `${baseUri}assets/tracks/Developer Infrastructure.svg`
+    if (track === 'Governance & Coordination') return `${baseUri}assets/tracks/Governance & Coordination.svg`
+    if (track === 'Layer 1 Protocol') return `${baseUri}assets/tracks/Layer 2s.svg`
+    if (track === 'Layer 2s') return `${baseUri}assets/tracks/Layer 2s.svg`
+    if (track === 'Opportunity & Global Impact') return `${baseUri}assets/tracks/Opportunity & Global Impact.svg`
+    if (track === 'Security') return `${baseUri}assets/tracks/Security.svg`
+    if (track === 'Staking & Validator Experience') return `${baseUri}assets/tracks/Staking & Validator Experience.svg`
+    if (track === 'UX & Design') return `${baseUri}assets/tracks/UX & Design.svg`
+    if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return `${baseUri}assets/tracks/ZKPs and Privacy.svg`
 
-  return null
+    return null
 }
 
 function getSpeakers(speakers: any[]) {
-  if (speakers.length === 1) {
-    const speaker = speakers[0]
-    return `<footer class="single">
+    if (speakers.length === 1) {
+        const speaker = speakers[0]
+        return `<footer class="single">
       <img src="${getAvatar(speaker.avatar)}" alt="${speaker.name}" class="avatar" />
       <p>${speaker.name}</p>
     </footer>`
-  }
+    }
 
-  const footer = `<footer class="multiple">
+    const footer = `<footer class="multiple">
     <div class="avatars">
       ${speakers.map(i => `<img src="${getAvatar(i.avatar)}" alt="${i.name}" class="avatar" />`).join('')}
     </div>
@@ -107,21 +110,22 @@ function getSpeakers(speakers: any[]) {
       ${speakers.map(i => i.name).join(', ')}
     </p>
   </footer>`
-  return footer
+    return footer
 }
 
 function getAvatar(url: string) {
-  return url || `${baseUri}assets/avatar.png`
+    return url || `${baseUri}assets/avatar.png`
 }
 
 function getDay(date: number) {
-  if (moment(date).format('DD') === '11') return 'Day 1'
-  if (moment(date).format('DD') === '12') return 'Day 2'
-  if (moment(date).format('DD') === '13') return 'Day 3'
-  if (moment(date).format('DD') === '14') return 'Day 4'
+    if (moment(date).format('DD') === '11') return 'Day 1'
+    if (moment(date).format('DD') === '12') return 'Day 2'
+    if (moment(date).format('DD') === '13') return 'Day 3'
+    if (moment(date).format('DD') === '14') return 'Day 4'
 }
 
-const style = `
+function getStyle(reduceSize: boolean) {
+    return `
 <style>
 *,
 *::before,
@@ -130,15 +134,13 @@ const style = `
     padding: 0;
     box-sizing: border-box;
     color: #000;
-    font-size: 1.25rem;
+    font-size: ${reduceSize ? '1.25rem' : '1.5rem'};
 }
 
 .container {
     width: 100vw;
     height: 100vh;
     position: relative;
-    /* width: 1200px;
-    height: 630px; */
     display: flex;
     flex-direction: column;
     padding: 2rem;
@@ -164,7 +166,7 @@ header {
     z-index: 10;
 }
 .logo {
-    width: 200px;
+    width: 300px;
 }
 .session-type {
     color: #666;
@@ -182,7 +184,7 @@ main div {
     flex-grow: 1;
 }
 .title {
-    font-size: 1.5rem;
+    font-size: ${reduceSize ? '1.5rem' : '2rem'};
 }
 .date {
     margin-top: 16px;
@@ -277,3 +279,4 @@ footer {
 }
 </style>
 `
+}
