@@ -1,7 +1,6 @@
 import { withOGImage } from 'next-api-og-image'
-import { SITE_URL } from 'utils/constants'
+import { APP_URL, SITE_URL } from 'utils/constants'
 import moment from 'moment'
-import sessions from 'data/session-data.json'
 
 interface QueryParams {
     id: string
@@ -14,26 +13,29 @@ const baseUri = process.env.NODE_ENV === "production" ? SITE_URL : 'http://local
 // - KNPHBZ (longest title)
 
 export default withOGImage<'query', QueryParams>({
-    // cacheControl: 'public, max-age=604800, immutable',
+    cacheControl: 'public, max-age=0, s-maxage=86400, stale-while-revalidate=60',
     dev: {
         inspectHtml: false,
     },
     template: {
         html: async ({ id }) => {
             console.log('GET session', id)
-            const session = sessions.find(i => i.id === id)
+            const response = await fetch(`${APP_URL}api/schedule/${id}`)
+            const body = await response.json()
+            const session = body.data
+
             if (!session) {
                 console.warn('Session not found')
                 return '' // Default OG image 
             }
 
-            const reduceFontSize = session.title.length > 100 ||
-                session.speakers.map(i => i.name).join(', ').length > 60
+            const reduzeTitleSize = session.title.length > 100 
+            const reduceSpeakerSize = session.speakers.map((i: any) => i.name).join(', ').length > 60
 
             return `
         <html>
             <head>
-                ${getStyle(reduceFontSize)}
+                ${getStyle(reduzeTitleSize, reduceSpeakerSize)}
             </head>
             <body>
             <div class="container ${getTrackId(session.track)}">
@@ -124,7 +126,7 @@ function getDay(date: number) {
     if (moment(date).format('DD') === '14') return 'Day 4'
 }
 
-function getStyle(reduceSize: boolean) {
+function getStyle(reduceTitleSize: boolean, reduceSpeakerSize: boolean) {
     return `
 <style>
 *,
@@ -134,7 +136,7 @@ function getStyle(reduceSize: boolean) {
     padding: 0;
     box-sizing: border-box;
     color: #000;
-    font-size: ${reduceSize ? '1.25rem' : '1.5rem'};
+    font-size: 1.4rem;
 }
 
 .container {
@@ -184,7 +186,7 @@ main div {
     flex-grow: 1;
 }
 .title {
-    font-size: ${reduceSize ? '1.5rem' : '2rem'};
+    font-size: ${reduceTitleSize ? '1.4rem' : '1.8rem'};
 }
 .date {
     margin-top: 16px;
@@ -199,6 +201,7 @@ footer {
     z-index: 10;
     display: flex;
     gap: 16px;
+    font-size: ${reduceTitleSize ? '1.2rem' : '1.4rem'};
 }
 .single {
     align-items: center;
