@@ -11,7 +11,7 @@ async function Run() {
     const response = await fetch(`${APP_URL}api/schedule`)
     const body = await response.json()
 
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < body.data.length; i++) {
         const session = body.data[i]
         console.log('PROCESSING', session.id)
 
