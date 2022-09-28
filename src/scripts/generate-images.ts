@@ -5,13 +5,17 @@ import fs from 'fs'
 
 Run()
 
+const baseUri = GetBaseUri()
+
 async function Run() {
     console.log('RUN Image processor..')
+    console.log('on', baseUri)
 
     const response = await fetch(`${APP_URL}api/schedule`)
     const body = await response.json()
+    console.log(body.data.length, 'sessions')
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < body.data.length; i++) {
         const session = body.data[i]
 
         setTimeout(async () => {
@@ -30,7 +34,7 @@ async function GenerateImage(session: any, type: 'og' | 'video') {
     const day = getDay(session.start)
     const room = session.room.name
 
-    const res = await fetch(`${GetBaseUri()}api/image/${type}?id=${session.id}`)
+    const res = await fetch(`${baseUri}api/image/${type}?id=${session.id}`)
     if (res.status === 200) {
         const arr = await res.arrayBuffer()
         const png = isPng(new Uint8Array(arr))
