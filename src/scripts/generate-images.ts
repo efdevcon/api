@@ -5,9 +5,8 @@ import fs from 'fs'
 
 Run()
 
-const baseUri = GetBaseUri()
-
 async function Run() {
+    const baseUri = GetBaseUri()
     console.log('RUN Image processor..')
     console.log('on', baseUri)
 
@@ -33,6 +32,7 @@ async function Run() {
 async function GenerateImage(session: any, type: 'og' | 'video') {
     const day = getDay(session.start)
     const room = session.room.name
+    const baseUri = GetBaseUri()
 
     const res = await fetch(`${baseUri}api/image/${type}?id=${session.id}`)
     if (res.status === 200) {
