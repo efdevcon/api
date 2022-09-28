@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scripts:generate": "ts-node src/scripts/generate-stills"
+    "scripts:generate-images": "ts-node src/scripts/generate-images"
   },
   "dependencies": {
     "chrome-aws-lambda": "^6.0.0",
