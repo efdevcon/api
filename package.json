@@ -11,7 +11,9 @@
     "scripts:generate": "ts-node src/scripts/generate"
   },
   "dependencies": {
+    "@ethersproject/providers": "^5.7.1",
     "chrome-aws-lambda": "^6.0.0",
+    "ethereum-blockies-base64": "^1.0.2",
     "moment": "^2.29.4",
     "next": "12.3.1",
     "next-api-og-image": "^4.3.0",
