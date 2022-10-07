@@ -15,21 +15,25 @@ async function Run() {
     console.log(body.data.length, 'sessions')
 
     for (let i = 0; i < body.data.length; i++) {
-        const session = body.data[i]
-
-        setTimeout(async () => {
-            console.log('PROCESSING', session.id, 'social')
-            await GenerateImage(session, 'og')
-        }, i * 2000)
-
-        setTimeout(async () => {
-            console.log('PROCESSING', session.id, 'video')
-            await GenerateImage(session, 'video')
-        }, i * 2000)
+        await GenerateImages(body.data[i])
     }
+
+    console.log('Done')
 }
 
-async function GenerateImage(session: any, type: 'og' | 'video') {
+export async function GenerateImages(session: any) {
+    setTimeout(async () => {
+        console.log('PROCESSING', session.id, 'social')
+        await GenerateImage(session, 'og')
+    }, 2000)
+
+    setTimeout(async () => {
+        console.log('PROCESSING', session.id, 'video')
+        await GenerateImage(session, 'video')
+    }, 2000)
+}
+
+export async function GenerateImage(session: any, type: 'og' | 'video') {
     const day = getDay(session.start)
     const room = session.room.name
     const baseUri = GetBaseUri()
