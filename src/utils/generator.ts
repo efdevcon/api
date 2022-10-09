@@ -94,7 +94,9 @@ export function GetHtmlTemplate(session: any, type: string = 'og') {
             <img src="${getTrackImage(session.track)}" alt="${session.track}" class="track-icon">
         </main>
 
-        ${getSpeakers(session.speakers)}
+        ${getSpeakers(session.speakers.sort((a: any, b: any) => {
+            return a.name.localeCompare(b.name)
+        }))}
     </div>
     </body>
 </html>`
