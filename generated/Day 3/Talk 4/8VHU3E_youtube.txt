@@ -1,0 +1,17 @@
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
+https://archive.devcon.org/archive/watch/6/how-to-integrate-diverse-sources-of-reputational-evidence-learnings-from-the-lens-protocol-reputation-system/index
+
+Machine learning is typically a compute-intensive task that is prohibitively expensive to do on-chain. In this talk I’ll discuss strategies that Aave and the Lens API have used for training and deploying machine learning models in a way that maintains the transparent and trustless ethos of web3. I’ll also cover how we developed some of the models used in the Lens API and how to contribute your own models to the Lens ecosystem.
+
+Speaker(s): Pedro Alcocer
+Skill level: Intermediate
+Track: Developer Infrastructure
+Keywords: machine learning,data,lens
+
+Follow us: https://twitter.com/efdevcon, https://twitter.com/ethereum
+Learn more about devcon: https://www.devcon.org/
+Learn more about ethereum: https://ethereum.org/ 
+
+Devcon is the Ethereum conference for developers, researchers, thinkers, and makers. 
+Devcon 6 was held in Bogotá, Colombia on Oct 11 - 14, 2022.
+Devcon is organized and presented by the Ethereum Foundation, with the support of our sponsors. To find out more, please visit https://ethereum.foundation/
