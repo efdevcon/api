@@ -1,6 +1,6 @@
 import fetch from 'cross-fetch'
 import { APP_URL, GetBaseUri } from 'utils/constants'
-import { GenerateImages } from './generate-images'
+import { GenerateAssets } from './generate-images'
 
 Run()
 
@@ -18,7 +18,7 @@ async function Run() {
     const session = body.data.find((i: any) => i.id === sessionId)
     if (!session) return console.warn('Session not found')
 
-    await GenerateImages(session)
+    await GenerateAssets(session)
 
     console.log('Done')
 }

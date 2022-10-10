@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scripts:generate-images": "ts-node src/scripts/generate-images",
-    "scripts:generate": "ts-node src/scripts/generate"
+    "scripts:generator": "ts-node src/scripts/generate-images",
+    "scripts:generate": "ts-node src/scripts/generate",
   },
   "dependencies": {
     "@ethersproject/providers": "^5.7.1",
@@ -18,7 +18,8 @@
     "next": "12.3.1",
     "next-api-og-image": "^4.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "slugify": "^1.6.5"
   },
   "devDependencies": {
     "@types/node": "18.7.18",

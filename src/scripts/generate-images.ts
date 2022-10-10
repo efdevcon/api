@@ -2,6 +2,7 @@ import fetch from 'cross-fetch'
 import { APP_URL, GetBaseUri } from 'utils/constants'
 import { getDay } from 'utils/generator'
 import fs from 'fs'
+import slugify from'slugify'
 
 Run()
 
@@ -15,13 +16,39 @@ async function Run() {
     console.log(body.data.length, 'sessions')
 
     for (let i = 0; i < body.data.length; i++) {
-        await GenerateImages(body.data[i])
+        await GenerateAssets(body.data[i])
+        await GenerateCopy(body.data[i])
     }
 
     console.log('Done')
 }
 
-export async function GenerateImages(session: any) {
+export async function GenerateCopy(session: any) {
+    const day = getDay(session.start)
+    const room = session.room.name
+    const text = `Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
+https://archive.devcon.org/archive/watch/6/${slugify(session.title.toLowerCase(), { strict: true })}/index
+
+${session.description}
+
+Speaker(s): ${session.speakers.map((i: any) => i.name).join(', ')}
+${session.expertise ? `Skill level: ${session.expertise}\n` : ''}Track: ${session.track}
+Keywords: ${session.tags}
+
+Follow us: https://twitter.com/efdevcon, https://twitter.com/ethereum
+Learn more about devcon: https://www.devcon.org/
+Learn more about ethereum: https://ethereum.org/ 
+
+Devcon is the Ethereum conference for developers, researchers, thinkers, and makers. 
+Devcon 6 was held in Bogotá, Colombia on Oct 11 - 14, 2022.
+Devcon is organized and presented by the Ethereum Foundation, with the support of our sponsors. To find out more, please visit https://ethereum.foundation/`
+
+    const dirName = `./generated/${day}/${room}`
+    fs.mkdir(dirName, { recursive: true }, () => '')
+    fs.writeFile(`${dirName}/${session.id}_youtube.txt`, text, () => '')
+}
+
+export async function GenerateAssets(session: any) {
     setTimeout(async () => {
         console.log('PROCESSING', session.id, 'social')
         await GenerateImage(session, 'og')

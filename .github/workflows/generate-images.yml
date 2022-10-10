@@ -2,7 +2,7 @@ name: Generate Programming Images
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
         run: yarn install
 
       - name: Generate images
-        run: yarn scripts:generate-images
+        run: yarn scripts:generator
 
       - name: Commit updates
         uses: EndBug/add-and-commit@v9
