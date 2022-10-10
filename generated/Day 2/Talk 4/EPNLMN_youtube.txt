@@ -5,7 +5,7 @@ Pluralism — the understanding that diversity of people, beliefs, opinions, mec
 
 In this lightning talk, Regen Web3 Founders Trent Van Epps, Abbey Titcomb, Karl Flouresch, Kevin Owocki, Griff Green, and Auryn MacMillan will talk about how they're baking pluralism into their projects + building a more pluralistic world by doing so.
 
-Speaker(s): Kevin Owocki, Griff Green, Auryn, Karl Floersch, Trent Van Epps
+Speaker(s): Kevin Owocki, Griff Green, Auryn, Karl Floersch, Trent Van Epps, abbey
 Track: Developer Infrastructure
 Keywords: pluralism,developers
 

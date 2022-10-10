@@ -5,7 +5,7 @@ The staking industry is on the verge of a new and exciting innovation cycle. The
 
 This panel seeks to discuss key trends and developments driving the growth of the staking economy and what lies ahead.
 
-Speaker(s): Mara Schmiedt, Mark, Viktor
+Speaker(s): Mara Schmiedt, Mark, Viktor Bunin | Coinbase Cloud
 Track: Staking & Validator Experience
 Keywords: Staking,Validators
 
