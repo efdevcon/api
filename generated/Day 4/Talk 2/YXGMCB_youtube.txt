@@ -1,5 +1,5 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/scaling-privacy-with-nightfall-and-starlight/index
+https://archive.devcon.org/archive/watch/6/scaling-privacy-with-starlight/index
 
 Five years ago, at DevCon in Prague, EY took the wraps off Nightfall, our open source public domain approach to privacy. Now it's live on Ethereum as a layer 2 privacy-enabled ZK-optimistic roll-up solution called Polygon Nightfall.  That's only half the story though - we also need private smart contracts.  This talk will cover our roadmap to that end, including our newest tool in development (also open source) called Starlight.
 
