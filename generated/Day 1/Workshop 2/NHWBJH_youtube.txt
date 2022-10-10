@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/building-blockchain-products-for-unic
 
 UNICEF has been experimenting with Ethereum and blockchain for several years. Examples of the solutions they've built include the UNICEF cryptofund (the first crypto denominated fund in the UN), Patchwork kingdoms (the largest UN's NFT for good collection) or staking as financing tool. Do you want be part of this journey? Come to the session and learn more about the solutions (architecture, tech stack, deployment process) and understand how you can help.
 
-Speaker(s): Shane O'Connor, Naroa
+Speaker(s): Shane O'Connor, Naroa, Gerben Kijne
 Track: Opportunity & Global Impact
 Keywords: innovation,development,blockchain for good
 
