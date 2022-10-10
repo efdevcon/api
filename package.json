@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "scripts:generator": "ts-node src/scripts/generate-images",
-    "scripts:generate": "ts-node src/scripts/generate",
+    "scripts:generate": "ts-node src/scripts/generate"
   },
   "dependencies": {
     "@ethersproject/providers": "^5.7.1",
