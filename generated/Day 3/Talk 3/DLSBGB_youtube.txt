@@ -5,7 +5,7 @@ Demonstration of how drawing from a standard cryptographic library can reduce ze
 
 The Join split circuit is a popular circuit that originated from Zcash and is being used in Aztec. Using the Aztec Noir standard library, we reconstruct the join split in 10 lines hiding all of the circuit complexities involved.
 
-Speaker(s): Maxim
+Speaker(s): Maxim Vezenov
 Skill level: Intermediate
 Track: ZKPs: Privacy, Identity, Infrastructure, & More
 Keywords: zero knowledge,languages,scaling
