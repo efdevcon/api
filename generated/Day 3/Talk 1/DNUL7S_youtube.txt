@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/giga-how-can-blockchain-help-connect-
 
 2.9 billion people are still offline and 96% of these people live in developing countries. During the session, public and private sector leaders from Giga countries like Rwanda or South Africa will speak about 1) how they are using blockchain to connect schools, 2) the opportunities of this technology in emerging markets. In particular, they’ll talk about blockchain as tool to automate payments, staking to finance school connectivity, NFTs to fundraise or a marketplace to incentivize providers.
 
-Speaker(s): Naroa, Gerben Kijne
+Speaker(s): Naroa, Gerben Kijne, Anda Ngcaba
 Track: Opportunity & Global Impact
 Keywords: blockchain for good,connectivity,innovation
 
