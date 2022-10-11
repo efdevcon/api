@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/notable-security-incidents-since-devc
 
 October 2019 seems like an eternity ago, and there have been a variety of interesting, sometimes novel, and sometimes repetitive security incidents across the ecosystem since then.  We will discuss those incidents, what went wrong, how they've been resolved, and what lessons have been learned, or new mechanisms put in place, in the service of preventing a repeat.
 
-Speaker(s): Lane Rettig, Ryan Lackey, Tom Howard, ARUN DEVABHAKTUNI
+Speaker(s): Lane Rettig, Ryan Lackey, Tom Howard, Arun Devabhaktuni
 Track: Security
 Keywords: security,lessons learned,countermeasures
 
