@@ -1,5 +1,5 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/time-in-ethereum/index
+https://archive.devcon.org/archive/watch/6/time-in-ethereum-on-the-implications-of-replacing-our-dear-friend-poisson/index
 
 Time in PoW is a random process, whereas in PoS we make progress in fixed time intervals. This has far reaching implications and incentivizing timely behavior by validators is non-trivial - especially in the context of MEV.
 

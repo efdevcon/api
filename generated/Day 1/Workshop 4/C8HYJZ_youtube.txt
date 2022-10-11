@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/eli5-account-abstraction/index
 
 .
 
-Speaker(s): Yoav Weiss
+Speaker(s): Liraz
 Skill level: Beginner
 Track: Developer Infrastructure
 Keywords: account,abstraction
