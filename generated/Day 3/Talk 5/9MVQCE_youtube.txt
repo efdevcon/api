@@ -1,7 +1,14 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
 https://archive.devcon.org/archive/watch/6/account-abstraction-panel/index
 
-.
+Account Abstraction: Experts agree, if we don't have Account Abstraction, then Ethereum is at stake!
+
+Your private key wallet will soon be a thing of the past. Account Abstraction promises to put programmability into every Ethereum wallet, and unlock new frontiers for both developers and users. 
+
+How will Ethereum be different, when every wallet upgrades to a smart wallet?
+What will it take to get there? 
+What commercial use-cases emerge? 
+What other parts of Ethereum does AA touch?
 
 Speaker(s): Yoav Weiss
 Skill level: Beginner
