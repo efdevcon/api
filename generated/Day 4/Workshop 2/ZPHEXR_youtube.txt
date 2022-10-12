@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/danksharding-data-availability-sampling-das-workshop/index
+https://archive.devcon.org/archive/watch/6/danksharding-workshop/index
 
-[Danksharding](https://notes.ethereum.org/3t5cbN7cQnG6VxjgNMKymA) and [Data Availability Sampling (DAS)](https://hackmd.io/@vbuterin/sharding_proposal) are the two main Ethereum layer 1 scaling mechanisms in the near future. This workshop is organized by the Ethereum Foundation Consensus R&D team.
+Danksharding (full danksharding and EIP-4844) is the Ethereum layer 1 scaling protocol that Ethereum R&D teams are working on these days. This workshop is organized by the Ethereum Foundation Consensus R&D team. We will introduce to you the danksharding family solutions.
 
 Speaker(s): Ansgar Dietrichs, Hsiao-Wei Wang, Dankrad Feist, George, protolambda, Francesco
 Track: Layer 1 Protocol

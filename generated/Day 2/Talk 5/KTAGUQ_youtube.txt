@@ -1,18 +1,10 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/multidimensional-resource-pricing-or-l2evm-or-tbd/index
+https://archive.devcon.org/archive/watch/6/how-to-scale-a-blockchain-motivating-the-ethereum-rollup-centric-roadmap/index
 
-Multidim. Resource Pricing: EIP-4844 will for the first time introduce a new resource type, priced independently from main execution. Can we split existing pricing into multiple dimensions as well, to make resource usage more efficient?
-
-OR
-
-L2EVM: Rollups are converging on EVM equivalence. Minimizing the difference to the base layer EVM brings many standardization benefits, but reduces speed of innovation. Can we have the best of both worlds by having a separate standard L2EVM?
-
-OR
-
-tbd
+Scaling blockchains to support billions of users without compromising decentralization is one of the biggest remaining challenges in the crypto space. This talk will showcase why there is a fundamental scalability-dencentralization tradeoff for any monolithic chain, and how scalable rollups on top of decentralized settlement chains can overcome this tradeoff. What implications does this have for the future of Ethereum? Beginner friendly, with pictures!
 
 Speaker(s): Ansgar Dietrichs
-Skill level: Intermediate
+Skill level: Beginner
 Track: Layer 1 Protocol
 Keywords: base layer,research
 

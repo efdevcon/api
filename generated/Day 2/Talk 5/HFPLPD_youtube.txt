@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/brewster-kahle/index
+https://archive.devcon.org/archive/watch/6/publishers-denial-of-digital-ownership-vs-decentralization/index
 
-TBD - Hold for Brewster
+.
 
 Speaker(s): 
 Skill level: Beginner

@@ -1,13 +1,14 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/zk-badges/index
+https://archive.devcon.org/archive/watch/6/zk-badges-a-new-primitive-for-self-sovereign-identities/index
 
 How to prove that you donated to Gitcoin grants or that you voted for a specific DAO proposal without giving out your Ethereum address? 
 
-You can prove - in a SNARK - that you own an Ethereum account part of a group (e.g Gitcoin donors or DAO voters) and receive a ZK Badge!
+How to aggregate your reputation from multiple wallets?
 
-Built as a new primitive, ZK Badges are a reputation and access control tool used by on-chain (e.g governances) and off-chain apps.
-
-They enable users to fully leverage their on-chain data, with privacy.
+Built as a new primitive, ZK Badges enable you to: 
+- Import reputation from an account to another
+- Selectively reveal personal data
+- Aggregate your personal data from multiple accounts
 
 Speaker(s): dhadrien
 Skill level: Intermediate

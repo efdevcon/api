@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
 https://archive.devcon.org/archive/watch/6/how-to-integrate-diverse-sources-of-reputational-evidence-learnings-from-the-lens-protocol-reputation-system/index
 
-Machine learning is typically a compute-intensive task that is prohibitively expensive to do on-chain. In this talk I’ll discuss strategies that Aave and the Lens API have used for training and deploying machine learning models in a way that maintains the transparent and trustless ethos of web3. I’ll also cover how we developed some of the models used in the Lens API and how to contribute your own models to the Lens ecosystem.
+Many people are working on reputation systems. Many are computing reputation scores as linear models, which is less than ideal. I propose a new way of combining sources of reputational evidence based on Bayesian updating.
 
 Speaker(s): Pedro Alcocer
 Skill level: Intermediate

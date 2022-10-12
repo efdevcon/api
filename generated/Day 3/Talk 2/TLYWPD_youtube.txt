@@ -1,9 +1,9 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
 https://archive.devcon.org/archive/watch/6/how-to-use-executable-consensus-pyspec/index
 
-[Ethereum consensus pyspec](https://github.com/ethereum/consensus-specs) is an executable specification that serves as a reference for consensus layer devs. It is also used for creating the test case vectors for client teams.
+Ethereum consensus pyspec (https://github.com/ethereum/consensus-specs) is an executable specification that serves as a reference for consensus layer devs. It is also used for creating the test case vectors for client teams.
 
-In this lightning talk, we will have a tutorial on how to run [Ethereum consensus pyspec](https://github.com/ethereum/consensus-specs). And bonus, learn how to write a test by yourself!
+In this lightning talk, we will have a tutorial on how to run the Ethereum consensus pyspec. And bonus, learn how to write a test by yourself!
 
 Speaker(s): Hsiao-Wei Wang
 Track: Layer 1 Protocol

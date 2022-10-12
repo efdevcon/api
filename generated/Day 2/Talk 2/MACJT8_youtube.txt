@@ -4,7 +4,7 @@ https://archive.devcon.org/archive/watch/6/time-in-ethereum-on-the-implications-
 Time in PoW is a random process, whereas in PoS we make progress in fixed time intervals. This has far reaching implications and incentivizing timely behavior by validators is non-trivial - especially in the context of MEV.
 
 Speaker(s): Caspar Schwarz-Schilling
-Skill level: Advanced
+Skill level: Intermediate
 Track: Layer 1 Protocol
 Keywords: L1 research,reorgs,fork choice
 
