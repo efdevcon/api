@@ -1,5 +1,5 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/a-new-defi-primitive-private-dca-trading-with-aztec-connect/index
+https://archive.devcon.org/archive/watch/6/a-new-defi-primitive-private-trading-with-aztec-connect/index
 
 Trading on decentralised exchanges is missing a key primitive, **privacy**. In traditional markets, an OTC desk enables large orders to trade without moving the price on chain this is missing and everyone can see everything.
 
@@ -9,7 +9,7 @@ ZKP's deployed in production allow us to implement private trading on Ethereum. 
 2. How to build a private dollar cost averaging smart contract using Aztec Connect
 3. A code walkthrough and a demo
 
-Speaker(s): Joe Andrews
+Speaker(s): Joe Andrews, Jan Beneš
 Skill level: Intermediate
 Track: ZKPs: Privacy, Identity, Infrastructure, & More
 Keywords: ZKPs

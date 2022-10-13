@@ -10,7 +10,7 @@ What will it take to get there?
 What commercial use-cases emerge? 
 What other parts of Ethereum does AA touch?
 
-Speaker(s): Yoav Weiss
+Speaker(s): lightclient, Julien Niset, Yoav Weiss, Vitalik Buterin, David Hoffman
 Skill level: Beginner
 Track: Opportunity & Global Impact
 Keywords: banks,private sector
