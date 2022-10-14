@@ -4,7 +4,7 @@ https://archive.devcon.org/archive/watch/6/autonomous-worlds-self-led-session/in
 A session for those interested in the latest developments in Autonomous Worlds and fully on-chain games, including demos of cutting-edge projects, a panel with Optimism co-founder Kevin Ho and Dark Forest creator gubsheep, and an introduction to MUD — the open-source engine for building Autonomous Worlds.
 More info here: https://0xparc.notion.site/Autonomous-Worlds-SLS-612ff18a99f54594806776971b5a8ec6
 
-Speaker(s): Justin Glibert, Remy, Andy, Lethe, Arthur Baer, GVN
+Speaker(s): Justin Glibert, Remy, Andy, Lethe, Arthur Baer, GVN, Flynn Calcutt, Fraser, Omar Mezenner
 Skill level: Intermediate
 Track: Developer Infrastructure
 Keywords: Autonomous,Worlds

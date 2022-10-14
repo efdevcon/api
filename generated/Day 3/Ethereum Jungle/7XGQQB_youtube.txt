@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/meditation-and-public-goods-workshop/index
+https://archive.devcon.org/archive/watch/6/decompressing-and-social-impact/index
 
--
+Join DoinGud for a workshop on social impact in the Ethereum Jungle on the 2nd floor!
 
 Speaker(s): 
 Skill level: Beginner

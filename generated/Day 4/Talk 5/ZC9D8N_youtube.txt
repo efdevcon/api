@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/pia-mancini/index
+https://archive.devcon.org/archive/watch/6/the-future-is-collective/index
 
-TBD
+The future is Collective. Building bridges between the legacy and decentralized systems to fund public goods for the future.
 
 Speaker(s): Pia Mancini
 Skill level: Beginner

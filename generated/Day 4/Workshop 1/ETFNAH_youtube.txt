@@ -1,15 +1,12 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/evm-first-eips-workshop/index
+https://archive.devcon.org/archive/watch/6/hands-on-nft-workshop-by-web3beach/index
 
-This is a workshop discussion about the EVM. Anyone can come up and pitch their favourite EVM-first EIPs.
+We'll explore multiples uses of NFT across various industries. We'll have art supplies and also help attendees mint their Devcon photos or videos as NFTs.
 
-We want to be a bit more unconventional and would like to transform the room into a "live voting space" where attendees can fight for their favourite new EVM feature.
-
-Different proposals will be listed and discussed for 3-5 minutes each, where invited panelists give a short opinion followed by loud interaction from the audience.
-
-Speaker(s): Alex Beregszaszi, Paweł Bylica
-Track: Developer Infrastructure
-Keywords: evm
+Speaker(s): 
+Skill level: Intermediate
+Track: 
+Keywords: NFT,minting,workshop
 
 Follow us: https://twitter.com/efdevcon, https://twitter.com/ethereum
 Learn more about devcon: https://www.devcon.org/

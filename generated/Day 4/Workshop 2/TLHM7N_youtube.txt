@@ -1,15 +1,11 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/evm-first-eips-workshop/index
+https://archive.devcon.org/archive/watch/6/herodotus-workshop/index
 
-This is a workshop discussion about the EVM. Anyone can come up and pitch their favourite EVM-first EIPs.
+In this workshop, we will cover how you can leverage the power of Storage Proofs to enable your applications to read the current and historical state of another blockchain in a secure and verifiable manner.
 
-We want to be a bit more unconventional and would like to transform the room into a "live voting space" where attendees can fight for their favourite new EVM feature.
-
-Different proposals will be listed and discussed for 3-5 minutes each, where invited panelists give a short opinion followed by loud interaction from the audience.
-
-Speaker(s): Alex Beregszaszi, Paweł Bylica
+Speaker(s): Marcello Bardus
 Track: Developer Infrastructure
-Keywords: evm
+Keywords: State expiry,SNARKS,L2s
 
 Follow us: https://twitter.com/efdevcon, https://twitter.com/ethereum
 Learn more about devcon: https://www.devcon.org/

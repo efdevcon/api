@@ -1,7 +1,7 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/the-community-support-team-in-china/index
+https://archive.devcon.org/archive/watch/6/building-ethereum-community-together-in-china/index
 
-We hope to share our community growth experience in China with more people
+Introducing the many Ether communities in China and how they are growing together
 
 Speaker(s): Haoyun, Yanyan Ho
 Track: Opportunity & Global Impact
