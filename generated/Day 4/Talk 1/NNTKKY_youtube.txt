@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/sustainable-ecosystem-scaling-how-do-
 
 "Institutions are functional when they promote a delicate balance between what people can do for themselves and what tools at the service of anonymous institutions can do for them," Illich writes in Tools for Conviviality. Governance is one tool that helps with resource allocation towards what we want to see more of, at the protocol level and at the social level. Let's explore different ways of funding ecosystem and community growth including grants, on-chain funding, and new mechanisms.
 
-Speaker(s): Eugene Leventhal, Juan, Anna Kryukova, Alp Ergin, Alejandra Borda
+Speaker(s): Juan, Anna Kryukova, Alp Ergin, abbey
 Track: Governance & Coordination
 Keywords: Community,Ecosystem,Funding
 
