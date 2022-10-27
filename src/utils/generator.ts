@@ -61,6 +61,18 @@ export async function GetHtmlUserTemplate(agenda: any) {
 }
 
 export function GetHtmlTemplate(session: any, type: string = 'og') {
+    // Render custom sessions
+    // session = {
+    //     title: 'Live Coding Performance',
+    //     "track": "Music",
+    //     type: 'Music',
+    //     "start": 1665684000000,
+    //     speakers: [{
+    //         "name": "IX Shells",
+    //         "avatar": "https://pbs.twimg.com/profile_images/1585299186983047168/Q9oIrWR0_400x400.jpg"
+    //     }]
+    // }
+
     const baseUri = GetBaseUri()
     const reduzeTitleSize = session.title.length > 100
     const reduceSpeakerSize = session.speakers.map((i: any) => i.name).join(', ').length > 60
@@ -95,8 +107,8 @@ export function GetHtmlTemplate(session: any, type: string = 'og') {
         </main>
 
         ${getSpeakers(session.speakers.sort((a: any, b: any) => {
-            return a.name.localeCompare(b.name)
-        }))}
+        return a.name.localeCompare(b.name)
+    }))}
     </div>
     </body>
 </html>`
@@ -119,6 +131,8 @@ function getTrackId(track: string) {
     if (track === 'Staking & Validator Experience') return 'staking'
     if (track === 'UX & Design') return 'ux-design'
     if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return 'zkps'
+
+    if (track === 'Music') return 'cryptoeconomics'
     return ''
 }
 
@@ -127,7 +141,7 @@ function getTrackImage(track: string) {
     if (track === 'Cryptoeconomics') return `${baseUri}assets/tracks/Cryptoeconomics.svg`
     if (track === 'Developer Infrastructure') return `${baseUri}assets/tracks/Developer Infrastructure.svg`
     if (track === 'Governance & Coordination') return `${baseUri}assets/tracks/Governance & Coordination.svg`
-    if (track === 'Layer 1 Protocol') return `${baseUri}assets/tracks/Layer 2s.svg`
+    if (track === 'Layer 1 Protocol') return `${baseUri}assets/tracks/Layer 1 Protocol.svg`
     if (track === 'Layer 2s') return `${baseUri}assets/tracks/Layer 2s.svg`
     if (track === 'Opportunity & Global Impact') return `${baseUri}assets/tracks/Opportunity & Global Impact.svg`
     if (track === 'Security') return `${baseUri}assets/tracks/Security.svg`
@@ -135,6 +149,7 @@ function getTrackImage(track: string) {
     if (track === 'UX & Design') return `${baseUri}assets/tracks/UX & Design.svg`
     if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return `${baseUri}assets/tracks/ZKPs and Privacy.svg`
 
+    if (track === 'Music') return `${baseUri}/assets/tracks/Activities.png`
     return null
 }
 
