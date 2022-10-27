@@ -1,5 +1,5 @@
-Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/how-to-integrate-diverse-sources-of-reputational-evidence-learnings-from-the-lens-protocol-reputation-system/index
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on Swarm, IPFS and more.
+https://archive.devcon.org/archive/watch/6/how-to-integrate-diverse-sources-of-reputational-evidence-learnings-from-the-lens-protocol-reputation-system/
 
 Many people are working on reputation systems. Many are computing reputation scores as linear models, which is less than ideal. I propose a new way of combining sources of reputational evidence based on Bayesian updating.
 

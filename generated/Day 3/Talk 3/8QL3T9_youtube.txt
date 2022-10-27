@@ -1,5 +1,5 @@
-Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/vampire-a-novel-cheap-to-verify-zksnark/index
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on Swarm, IPFS and more.
+https://archive.devcon.org/archive/watch/6/vampire-a-novel-cheap-to-verify-zksnark/
 
 In this talk, I would like to introduce Vampire (https://eprint.iacr.org/2022/406) -- a novel zkSNARK that has the smallest communication complexity and on-chain verification cost of all known updatable zkSNARKs.
 

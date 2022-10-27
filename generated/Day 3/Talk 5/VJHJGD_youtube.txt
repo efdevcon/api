@@ -1,5 +1,5 @@
-Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/how-to-talk-to-girls-users-at-parties-your-app-how-to-do-user-research-in-a-remote-environment/index
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on Swarm, IPFS and more.
+https://archive.devcon.org/archive/watch/6/how-to-talk-to-girls-users-at-parties-your-app-how-to-do-user-research-in-a-remote-environment/
 
 We often rely too much on our instincts about how our product work or prior knowledge on how it should be read. More often than not, we are wrong. Newcomers will always use your app in the "wrong" manner and talking to them will reveal many ways in which you can improve your product.
 

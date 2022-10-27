@@ -1,5 +1,5 @@
-Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum/index
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on Swarm, IPFS and more.
+https://archive.devcon.org/archive/watch/6/smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum/
 
 DeSci is the combination of open science principles and decentralization. This workshop aims to unite founders and developers in the DeSci ecosystem to explore what infrastructure is needed: from reputation systems for scientific credentials, to file storage, public good funding and financialisation. Participants will actively determine pressing needs and a roadmap to functioning DeSci dapps, while also exploring the cultural complexity and UX of scientists as a user group.
 

@@ -1,9 +1,7 @@
-Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/closing-ceremonies-featuring-kurt-opsahl/index
+Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on Swarm, IPFS and more.
+https://archive.devcon.org/archive/watch/6/closing-ceremonies-kurt-opsahl/
 
-Closing Ceremonies
-
-Speaker(s): Ethereum Foundation, Kurt Opsahl
+Speaker(s): Kurt Opsahl
 Skill level: Beginner
 Track: Opportunity & Global Impact
 Keywords: Ethereum,Foundation
