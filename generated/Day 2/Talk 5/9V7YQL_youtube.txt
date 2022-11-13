@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/lessons-from-the-field-threat-modelin
 
 [GiveDirectly](https://givedirectly.org) is a charity that sends money directly to people living in poverty. Over the past decade, GD has transferred hundreds of millions of dollars to recipients using centralized digital currency systems, specifically telco-operated mobile money. Andrew will share some of the measures GD takes to reduce fraud and offer suggestions about how better privacy could drive the everyday use of Ethereum.
 
-Speaker(s): Andrew
+Speaker(s): Andrew Vaziri
 Track: ZKPs: Privacy, Identity, Infrastructure, & More
 Keywords: Privacy,Charity,Impact
 
