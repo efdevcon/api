@@ -1,5 +1,5 @@
 Visit the https://archive.devcon.org/ to gain access to the entire library of Devcon talks with the ease of filtering, playlists, personalized suggestions, decentralized access on IPFS and more.
-https://archive.devcon.org/archive/watch/6/the-future-of-plonk-ish-systems/index
+https://archive.devcon.org/archive/watch/6/cryptographic-optimizations-in-aztec/index
 
 .
 
