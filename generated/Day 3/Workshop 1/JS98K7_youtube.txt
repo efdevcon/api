@@ -3,7 +3,7 @@ https://archive.devcon.org/archive/watch/6/auditing-strategy-for-zkevm/index
 
 A panel discussing approaches to auditing the zkEVM.
 
-Speaker(s): Barry Whitehat
+Speaker(s): Jordi Baylina, David Theodore, Barry Whitehat, Haichen Shen
 Skill level: Beginner
 Track: ZKPs: Privacy, Identity, Infrastructure, & More
 Keywords: zk
