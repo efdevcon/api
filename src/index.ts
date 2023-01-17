@@ -1,27 +1,6 @@
 import { SERVER_CONFIG } from 'utils/config'
-import express, { json, urlencoded } from 'express'
-import cors from 'cors'
-import helmet from 'helmet'
-import { errorHandler } from 'middleware/error'
-import { notFoundHandler } from 'middleware/notfound'
+import app from 'app'
 
-// configure express app
-const app = express()
-app.use(helmet())
-app.use(cors())
-app.use(json())
-app.use(urlencoded())
-
-// add routes before error handlers
-app.get('/', (req, res) => {
-  res.send('Hello world!')
-})
-
-// add error handlers after routes
-app.use(errorHandler)
-app.use(notFoundHandler)
-
-// start server
 app.listen(SERVER_CONFIG.PORT, () => {
   console.log(`[SERVER]: Listening on port ${SERVER_CONFIG.PORT}`)
 })
