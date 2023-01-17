@@ -1,24 +1,14 @@
 {
+  "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
-    "target": "es6",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
-    "esModuleInterop": true,
-    "module": "commonjs",
-    "moduleResolution": "node",
     "resolveJsonModule": true,
-    "isolatedModules": true,
-    "jsx": "preserve",
-    "baseUrl": "./src",
-    "incremental": true
+    "isolatedModules": false,
+    "outDir": "dist",
+    "baseUrl": "./src"
   },
   "ts-node": {
     "require": ["tsconfig-paths/register"]
   },
-  "include": ["next-env.d.ts", "src"],
+  "include": ["./src"],
   "exclude": ["node_modules"]
 }
