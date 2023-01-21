@@ -1,15 +1,15 @@
-import express, { json, Router, urlencoded } from 'express'
+import express, { json, urlencoded } from 'express'
 import path from 'path'
 import cors from 'cors'
 import helmet from 'helmet'
+import swaggerUi from 'swagger-ui-express'
+import swaggerDocument from 'swagger/definition.json'
 import { errorHandler } from 'middleware/error'
 import { notFoundHandler } from 'middleware/notfound'
 import { logHandler } from 'middleware/log'
-import { registerEvents } from 'controllers/events'
-import { registerImages } from 'controllers/images'
+import { router } from './routes'
 
 const app = express()
-const router = Router()
 
 // configure express app
 app.use(helmet())
@@ -18,19 +18,14 @@ app.use(json())
 app.use(urlencoded({ extended: true }))
 app.use(logHandler)
 
-// add static files
+// static endpoints
 app.use('/static', express.static(path.join(__dirname, '..', 'public')))
+app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument))
 
 // add routes before error handlers
-router.get('/', (req, res) => {
-  res.send('Devcon API')
-})
-
-registerEvents(router)
-registerImages(router)
+app.use(router)
 
 // add handlers after routes
-app.use('/', router)
 app.use(errorHandler)
 app.use(notFoundHandler)
 
