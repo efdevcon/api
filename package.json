@@ -11,7 +11,7 @@
     "lint": "eslint --fix",
     "prettier": "prettier './src' --write",
     "swagger:generate": "ts-node ./src/swagger/generate",
-    "postinstall": "tsc"
+    "postinstall": "tsc && yarn swagger:generate"
   },
   "husky": {
     "hooks": {

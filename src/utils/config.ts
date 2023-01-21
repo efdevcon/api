@@ -3,6 +3,7 @@ import { join } from 'path'
 import dotenv from 'dotenv'
 dotenv.config()
 
+export const DEFAULT_HOST = 'https://devcon-api.herokuapp.com/'
 export const TITLE = 'Devcon API'
 export const API_VERSION = () => {
   const packageJson = fs.readFileSync(join(process.cwd(), 'package.json'), 'utf-8')
