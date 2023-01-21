@@ -7,7 +7,7 @@ const doc = {
     title: TITLE,
     version: API_VERSION(),
   },
-  host: SERVER_CONFIG.NODE_ENV === 'development' ? 'localhost:3000' : DEFAULT_HOST,
+  host: SERVER_CONFIG.NODE_ENV === 'development' ? 'http://localhost:3000' : DEFAULT_HOST,
   schemes: SERVER_CONFIG.NODE_ENV === 'development' ? ['http'] : ['https'],
 }
 const outputFile = './definition.json'
