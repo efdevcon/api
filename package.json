@@ -4,13 +4,14 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "start": "yarn swagger:generate && tsc && NODE_PATH=./dist node ./dist/index",
+    "start": "NODE_PATH=./dist node ./dist/index",
     "dev": "yarn swagger:generate && nodemon ./src/index.ts",
     "test": "NODE_ENV=test jest --detectOpenHandles --watchAll --no-cache",
     "test:coverage": "NODE_ENV=test jest --coverage --detectOpenHandles --no-cache",
     "lint": "eslint --fix",
     "prettier": "prettier './src' --write",
-    "swagger:generate": "ts-node ./src/swagger/generate"
+    "swagger:generate": "ts-node ./src/swagger/generate",
+    "postinstall": "tsc"
   },
   "husky": {
     "hooks": {
