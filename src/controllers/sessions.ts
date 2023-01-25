@@ -6,13 +6,28 @@ import { ogImageTemplate } from 'templates/og'
 import { templateStyles } from 'templates/styles'
 import { GetAvatar, GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
 
-const basePath = '/images'
+export const sessionsRouter = Router()
+sessionsRouter.get(`/sessions`, GetSessions)
+sessionsRouter.get(`/sessions/:id`, GetSession)
+sessionsRouter.get(`/sessions/:id/image`, GetSessionImage)
 
-export const registerImages = (router: Router) => {
-  router.get(`${basePath}`, GetImage)
+async function GetSessions(req: Request, res: Response) {
+  // #swagger.tags = ['Sessions']
+  const data = ['']
+
+  res.status(200).send({ status: 200, message: '', data })
 }
 
-async function GetImage(req: Request, res: Response) {
+async function GetSession(req: Request, res: Response) {
+  // #swagger.tags = ['Sessions']
+  const data = {}
+
+  res.status(200).send({ status: 200, message: '', data })
+}
+
+async function GetSessionImage(req: Request, res: Response) {
+  // #swagger.tags = ['Sessions']
+
   // TODO: Get Session
   const imageType: string = 'og' // og | video
   const session = {

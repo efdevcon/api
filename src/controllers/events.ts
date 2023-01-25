@@ -5,20 +5,34 @@ import { Event } from 'types/events'
 export const eventsRouter = Router()
 eventsRouter.get(`/events`, GetEvents)
 eventsRouter.get(`/events/:id`, GetEvent)
+eventsRouter.get(`/events/:id/sessions`, GetSessions)
+eventsRouter.get(`/events/:id/speakers`, GetSpeakers)
 
 async function GetEvents(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const events = await GetData<Event>('events')
+  const data = await GetData<Event>('events')
 
-  res.status(200).send({ status: 200, message: '', data: events })
+  res.status(200).send({ status: 200, message: '', data })
 }
 
 async function GetEvent(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const events = await GetData<Event>('events')
-  const event = events.find((e) => e.id === req.params.id)
+  const data = await GetData<Event>('events')
+  const item = data.find((e) => e.id === req.params.id)
 
-  if (!event) return res.status(404).send({ status: 404, message: 'Not Found' })
+  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
 
-  res.status(200).send({ status: 200, message: '', data: event })
+  res.status(200).send({ status: 200, message: '', data: item })
+}
+
+async function GetSpeakers(req: Request, res: Response) {
+  // #swagger.tags = ['Events']
+
+  res.status(200).send({ status: 200, message: '', data: [] })
+}
+
+async function GetSessions(req: Request, res: Response) {
+  // #swagger.tags = ['Events']
+
+  res.status(200).send({ status: 200, message: '', data: [] })
 }

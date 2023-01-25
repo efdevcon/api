@@ -11,6 +11,6 @@ const doc = {
   schemes: SERVER_CONFIG.NODE_ENV === 'development' ? ['http'] : ['https'],
 }
 const outputFile = './definition.json'
-const endpointsFiles = ['../routes', '../controllers/events']
+const endpointsFiles = ['../routes', '../controllers/*.ts']
 
 swaggerAutogen(outputFile, endpointsFiles, doc)
