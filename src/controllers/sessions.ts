@@ -4,7 +4,8 @@ import Handlebars from 'handlebars'
 import puppeteer from 'puppeteer'
 import { ogImageTemplate } from 'templates/og'
 import { templateStyles } from 'templates/styles'
-import { GetAvatar, GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
+import { GetAvatar } from 'utils/account'
+import { GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
 
 export const sessionsRouter = Router()
 sessionsRouter.get(`/sessions`, GetSessions)

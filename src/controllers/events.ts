@@ -7,6 +7,7 @@ eventsRouter.get(`/events`, GetEvents)
 eventsRouter.get(`/events/:id`, GetEvent)
 eventsRouter.get(`/events/:id/sessions`, GetSessions)
 eventsRouter.get(`/events/:id/speakers`, GetSpeakers)
+eventsRouter.get(`/events/:id/venue`, GetVenue)
 
 async function GetEvents(req: Request, res: Response) {
   // #swagger.tags = ['Events']
@@ -32,6 +33,12 @@ async function GetSpeakers(req: Request, res: Response) {
 }
 
 async function GetSessions(req: Request, res: Response) {
+  // #swagger.tags = ['Events']
+
+  res.status(200).send({ status: 200, message: '', data: [] })
+}
+
+async function GetVenue(req: Request, res: Response) {
   // #swagger.tags = ['Events']
 
   res.status(200).send({ status: 200, message: '', data: [] })

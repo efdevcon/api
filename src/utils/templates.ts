@@ -56,20 +56,3 @@ export function GetTrackImage(baseUri: string, track: string) {
   if (track === 'Music') return `${baseUri}/static/dc6/tracks/Activities.png`
   return null
 }
-
-export async function GetAvatar(username: string) {
-  if (username.endsWith('.eth')) {
-    try {
-      const provider = getDefaultProvider()
-      const resolver = await provider.getResolver(username)
-      const ensAvatar = await resolver?.getAvatar()
-      if (ensAvatar?.url) {
-        return ensAvatar?.url
-      }
-    } catch (e) {
-      console.warn('Unable to resolve ENS avatar')
-    }
-  }
-
-  return makeBlockie(username)
-}
