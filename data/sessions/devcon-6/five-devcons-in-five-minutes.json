@@ -1,0 +1,42 @@
+{
+  "id": "five-devcons-in-five-minutes",
+  "sourceId": "FWBVFX",
+  "eventId": "devcon-6",
+  "title": "Five Devcons in Five Minutes",
+  "description": "A humorous, yet informative, whistle-stop tour of our conference, with focus on the changing demographics and social themes of our favourite week of the year!",
+  "track": "Opportunity & Global Impact",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Opportunity & Global Impact",
+    "Devcon",
+    "Meta",
+    "Modern History"
+  ],
+  "speakers": [
+    "thomas-barker"
+  ],
+  "resources": {
+    "slides": "/resources/6/five-devcons-in-five-minutes.pdf"
+  },
+  "slot": {
+    "start": 1665509400000,
+    "end": 1665510000000,
+    "length": 600,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 412,
+    "language": "en",
+    "sources": {
+      "youtube": "B6c0UMSh9p8",
+      "swarm": "08a37eb760029cacd9ddf63970b0813a91a7e0c7065ce6c7b557a5139b3904c5"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bridges-tosomewhere",
+  "sourceId": "bridges-tosomewhere",
+  "eventId": "devcon-5",
+  "title": "Bridges to...Somewhere?",
+  "description": "Interoperability",
+  "track": "Governance & Coordination",
+  "type": "Panel",
+  "expertise": "Intermediate",
+  "tags": [
+    "Governance & Coordination",
+    "interoperability",
+    "technical"
+  ],
+  "speakers": [
+    "james-prestwich",
+    "brian-behlendorf",
+    "justin-drake",
+    "joseph-schweitzer"
+  ],
+  "media": {
+    "duration": 2430,
+    "language": "en",
+    "sources": {
+      "youtube": "Z-LNbnfDHfk",
+      "ipfs": "QmPHnoqMWatzwLTBU5PuQYeBApA8S97qX6uSBRnxHFffuz",
+      "swarm": "f10c823c25ed09ee2b5979040e2356485f26165306f35a533da578cccfe477cf"
+    }
+  }
+}

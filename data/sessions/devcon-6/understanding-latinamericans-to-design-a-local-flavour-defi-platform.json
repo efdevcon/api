@@ -1,0 +1,43 @@
+{
+  "id": "understanding-latinamericans-to-design-a-local-flavour-defi-platform",
+  "sourceId": "PTFAR3",
+  "eventId": "devcon-6",
+  "title": "Understanding Latinamericans to Design a Local Flavour DeFi Platform",
+  "description": "From El Salvador to Argentina, passing through Colombia, we applied local UX research iteratively with our own methodology TUD \"Tropykal User Dive\"  to define specific financial needs across different countries in Latam. This process has helped us to define a DeFi product designed for the needs of Latinamericans and with a highlighted local flavour. We would like to share our method openly to be replicated in other emerging economies around the world.",
+  "track": "UX & Design",
+  "type": "Lightning Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "UX & Design",
+    "multicultural",
+    "research",
+    "latam",
+    ""
+  ],
+  "speakers": [
+    "diego-mazo"
+  ],
+  "resources": {
+    "slides": "/resources/6/understanding-latinamericans-to-design-a-local-flavour-defi-platform.pdf"
+  },
+  "slot": {
+    "start": 1665682200000,
+    "end": 1665682800000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 489,
+    "language": "en",
+    "sources": {
+      "youtube": "jlLTym-fvCY",
+      "swarm": "434e2893418d5dd1b2eb9594dd584eb609b06e3f55dbef0a7bb04b8fbc3886b9"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sign-in-with-ethereum-the-most-powerful-protocol-in-web3",
+  "sourceId": "LRQM9S",
+  "eventId": "devcon-6",
+  "title": "Sign in With Ethereum: the Most Powerful Protocol in #Web3?",
+  "description": "Sign in with Ethereum is an almost accidental byproduct of #Web3, but is already turning into an incredibly powerful tool for user engagement and convenience. Wallet holders sign into DeFi protocols to manage their money or sales of NFTs but can it be much more than it already is. Linking seams of rich data to an ethereum address is the future of identity, ease and monetisation on the web.   Join Lang Cui (Struck Capital), Nick Johnson (ENS) Justina Petraitytė (3boxx) & Shiv Malik (Pool Data)",
+  "track": "Opportunity & Global Impact",
+  "type": "Panel",
+  "expertise": "",
+  "tags": [
+    "Opportunity & Global Impact",
+    "Identity",
+    "storage",
+    "data unions"
+  ],
+  "speakers": [
+    "shiv-malik",
+    "nick-johnson",
+    "justina-petraityte",
+    "lang-cui"
+  ],
+  "resources": {
+    "slides": "/resources/6/sign-in-with-ethereum-the-most-powerful-protocol-in-web3.pdf"
+  },
+  "slot": {
+    "start": 1665658800000,
+    "end": 1665662400000,
+    "length": 3600,
+    "room": {
+      "id": "talk-5",
+      "name": "Talk 5",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 1140
+    }
+  },
+  "media": {
+    "duration": 3076,
+    "language": "en",
+    "sources": {
+      "youtube": "y4Q7Y_8wjAs",
+      "swarm": "07f9a70f0db38d8d719cbffe7c617169e5b025424fa7afae82dc7657fb3fb952"
+    }
+  }
+}

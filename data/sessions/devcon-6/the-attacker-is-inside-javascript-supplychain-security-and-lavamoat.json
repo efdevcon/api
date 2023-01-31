@@ -1,0 +1,42 @@
+{
+  "id": "the-attacker-is-inside-javascript-supplychain-security-and-lavamoat",
+  "sourceId": "9G7RQ8",
+  "eventId": "devcon-6",
+  "title": "The Attacker is Inside: Javascript Supplychain Security and LavaMoat",
+  "description": "We all use open source, it is the wealth of the commons that forms the foundations we all build on. While this is incredibly empowering, we may be inviting the devil to dine with us. This talk examines software supplychain attacks in the javascript and crypto ecosystems and how to keep your app, wallet, and users safe. We'll look at the free and opensource tool LavaMoat that protects MetaMask.",
+  "track": "Security",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Security",
+    "security",
+    "javascript",
+    "development"
+  ],
+  "speakers": [
+    "kumavis",
+    "naugtur"
+  ],
+  "resources": {
+    "slides": "/resources/6/the-attacker-is-inside-javascript-supplychain-security-and-lavamoat.pdf"
+  },
+  "slot": {
+    "start": 1665667800000,
+    "end": 1665669600000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1350,
+    "language": "en",
+    "sources": {
+      "youtube": "Z5Bz0DYga1k"
+    }
+  }
+}

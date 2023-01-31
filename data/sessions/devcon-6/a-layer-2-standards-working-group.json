@@ -1,0 +1,42 @@
+{
+  "id": "a-layer-2-standards-working-group",
+  "sourceId": "BBCK7D",
+  "eventId": "devcon-6",
+  "title": "A Layer 2 Standards Working Group",
+  "description": "The L2 ecosystem needs standards!  We formed a L2 standards working group as an EEA Community Project, managed by OASIS.  We will provide a quick overview of L2 standards discussion topics thus far.  Others in the L2 ecosystem are invited to join and participate in existing discussions or raise new topics. https://github.com/eea-oasis/L2",
+  "track": "Layer 2s",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Layer 2s",
+    "L2",
+    "standards"
+  ],
+  "speakers": [
+    "tas-dienes",
+    "dan-shaw"
+  ],
+  "resources": {
+    "slides": "/resources/6/a-layer-2-standards-working-group.pdf"
+  },
+  "slot": {
+    "start": 1665508800000,
+    "end": 1665509400000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 358,
+    "language": "en",
+    "sources": {
+      "youtube": "CwN8k0ij_Ys",
+      "swarm": "7db5337bdada11a66017c8cdf64e96e9062adc67f4f0b9b445d954d75b0ed5d8"
+    }
+  }
+}

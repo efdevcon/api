@@ -1,0 +1,42 @@
+{
+  "id": "the-fight-for-mev",
+  "sourceId": "ELDVRA",
+  "eventId": "devcon-6",
+  "title": "The Fight for MEV",
+  "description": "The Fight for MEV is a talk that focuses on the two most \"famous\" MEV solutions designs, CowSwap and Flashbots. It will go over the differences in how each model is designed, and why each solution has made those choices (users, objectives). We will end on how we see the future at CowSwap in relation to the merge, MEV, and the overall Ethereum DeFi ecosystem.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Cryptoeconomics",
+    "MEV",
+    "Auction",
+    "DeFi"
+  ],
+  "speakers": [
+    "alex-vinyas"
+  ],
+  "resources": {
+    "slides": "/resources/6/the-fight-for-mev.pdf"
+  },
+  "slot": {
+    "start": 1665572400000,
+    "end": 1665574200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1604,
+    "language": "en",
+    "sources": {
+      "youtube": "w8H6z9Z4ZZg",
+      "swarm": "49eb365b1b79d570782aaeb29d85cd68114546a96ee9cbdeb3478247d8b7c67a"
+    }
+  }
+}

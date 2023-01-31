@@ -1,0 +1,38 @@
+{
+  "id": "eli5-zero-knowledge",
+  "sourceId": "CTBFSQ",
+  "eventId": "devcon-6",
+  "title": "ELI5: Zero Knowledge",
+  "description": ".",
+  "track": "Privacy",
+  "type": "Workshop",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zero",
+    "knowledge"
+  ],
+  "speakers": [
+    "wanseob-lim"
+  ],
+  "slot": {
+    "start": 1665505800000,
+    "end": 1665508800000,
+    "length": 3000,
+    "room": {
+      "id": "workshop-4",
+      "name": "Workshop 4",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 2548,
+    "language": "en",
+    "sources": {
+      "youtube": "O1Ysz1XPNDY",
+      "swarm": "d5f0a67ec29fe6ba36b7f4e2abf0f9d3cc86eb24ba9ec79becc373f6d41f6b18"
+    }
+  }
+}

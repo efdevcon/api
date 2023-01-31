@@ -1,0 +1,25 @@
+{
+  "id": "digital-identity",
+  "sourceId": "digital-identity",
+  "eventId": "devcon-1",
+  "title": "Digital Identity",
+  "description": "Christian Lundkvist of ConsenSys (https://consensys.net/) presents on digital identity.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "christian-lundkvist"
+  ],
+  "media": {
+    "duration": 1040,
+    "language": "en",
+    "sources": {
+      "youtube": "QpaTOvAhLR4",
+      "ipfs": "Qmc5kCKvDJrf5WtvSe32CJFGpwtuzokVssLuiZ76hVxnEn",
+      "swarm": "7a1d0a682b4771370f130ffc7685a47b707e36b710f6ec104a2cfa6f6e8fca84"
+    }
+  }
+}

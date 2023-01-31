@@ -1,0 +1,47 @@
+{
+  "id": "what-to-know-about-zero-knowledge",
+  "sourceId": "BVGABU",
+  "eventId": "devcon-6",
+  "title": "What to know about Zero Knowledge",
+  "description": "Zero Knowledge, aka ZK, has become a catch-all term to represent much of \"modern\" or \"advanced\" cryptography -- especially cryptography that's relevant to the future of blockchains.  In this panel, we will share our perspectives on ZK -- how to think about it, what to look out for, and what to focus in on. We'll also discuss how ZK may alter and complement Ethereum's own future.",
+  "track": "Privacy",
+  "type": "Panel",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "ZKP",
+    "Zero Knowledge",
+    "Future of Ethereum",
+    "Scalability",
+    "Security"
+  ],
+  "speakers": [
+    "gubsheep",
+    "albert-ni",
+    "barry-whitehat",
+    "vitalik-buterin"
+  ],
+  "resources": {
+    "slides": "/resources/6/what-to-know-about-zero-knowledge.pdf"
+  },
+  "slot": {
+    "start": 1665500400000,
+    "end": 1665504000000,
+    "length": 3600,
+    "room": {
+      "id": "talk-5-opening-ceremonies",
+      "name": "Talk 5 - Opening Ceremonies",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 3060
+    }
+  },
+  "media": {
+    "duration": 3283,
+    "language": "en",
+    "sources": {
+      "youtube": "hBupNf1igbY",
+      "swarm": "29a20d3a33d05e1ff025062704fadb176c09cf28262275e10888db5f71d11462"
+    }
+  }
+}

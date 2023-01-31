@@ -1,0 +1,43 @@
+{
+  "id": "decentralized-programmable-key-pairs",
+  "sourceId": "FRLHBC",
+  "eventId": "devcon-6",
+  "title": "Decentralized Programmable Key Pairs",
+  "description": "Join this talk to get an introduction to Decentralized Programable Key Pairs (PKPs), by Lit Protocol. PKPs are 'distributed custody cloud wallets' that act as a personal compute platform that can write to a variety of state machines (e.g Ethereum, IPFS) because they are 'smart contracts with a secret' that can make arbitrary HTTP requests and use that data in the computation.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "decentralized compute",
+    "threshold cryptography",
+    "privacy"
+  ],
+  "speakers": [
+    "david-sneider",
+    "chris-cassano"
+  ],
+  "resources": {
+    "slides": "/resources/6/decentralized-programmable-key-pairs.pdf"
+  },
+  "slot": {
+    "start": 1665588600000,
+    "end": 1665590400000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1463,
+    "language": "en",
+    "sources": {
+      "youtube": "7dN2F2P_6Xo",
+      "swarm": "6c0afa9a5a73b06df609ee9b86900fdc42b612eb0a0aca6a9fd8cb7d3ec23a0f"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "demystifying-l2-transactions",
+  "sourceId": "FTUUF3",
+  "eventId": "devcon-6",
+  "title": "Demystifying L2 Transactions",
+  "description": "Transactions executed on rollups have a different lifecycle to L1 transactions. In this hands-on workshop, for devs and users alike, we’ll use Arbitrum as a demonstration tool to send transactions, follow them through their different stages of finality and analyse what fees they pay.",
+  "track": "Layer 2s",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Layer 2s",
+    "rollups",
+    "transactions",
+    "gas"
+  ],
+  "speakers": [
+    "chris-buckland"
+  ],
+  "resources": {
+    "slides": "/resources/6/demystifying-l2-transactions.pdf"
+  },
+  "slot": {
+    "start": 1665568800000,
+    "end": 1665572400000,
+    "length": 3600,
+    "room": {
+      "id": "workshop-2",
+      "name": "Workshop 2",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 3538,
+    "language": "en",
+    "sources": {
+      "youtube": "cN_RWbX8fgQ"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "designing-autonomous-markets-for-stablecoin-monetary-policy",
+  "sourceId": "GXPLZU",
+  "eventId": "devcon-6",
+  "title": "Designing Autonomous Markets for Stablecoin Monetary Policy",
+  "description": "We discuss the design of primary (i.e., minting and redemption) market mechanisms for non-custodial stablecoins. We first introduce a new analytical tool, the *redemption curve*, which represents the redemption price as a function of redemption pressure. We use it to discuss historical de-peggings (e.g. in DAI, UST). We then describe a new dynamic redemption curve with desirable robustness properties and show how to implement a primary market based on this curve. The system is part of Gyroscope.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Cryptoeconomics",
+    "Stablecoin Design",
+    "AMMs",
+    "Protocol Controlled Value"
+  ],
+  "speakers": [
+    "ariah-klages-mundt",
+    "steffen-schuldenzucker"
+  ],
+  "resources": {
+    "slides": "/resources/6/designing-autonomous-markets-for-stablecoin-monetary-policy.pdf"
+  },
+  "slot": {
+    "start": 1665673200000,
+    "end": 1665675000000,
+    "length": 1800,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 1603,
+    "language": "en",
+    "sources": {
+      "youtube": "3Yw2ASIBRgw",
+      "swarm": "3d004e8186ae4bc5ef3eb2657593026ca19634bc5e42f7468b1cd77ceac13896"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "whats-new-in-remix",
+  "sourceId": "QLNUV9",
+  "eventId": "devcon-6",
+  "title": "What's new in Remix",
+  "description": "We’ve been pumping up Remix with new tools & features for users of all levels.  Come learn the latest Remix tricks & techniques.  We'll cue up editor improvements, tool integrations (including Git), Remix shortcuts, and our new workflows. We’ll also demo our new interface for using Remix with proxy contracts.  This talk will take your scratchings on Remix to 11.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "Remix IDE",
+    "Smart Contract Development"
+  ],
+  "speakers": [
+    "rob-stupay"
+  ],
+  "resources": {
+    "slides": "/resources/6/whats-new-in-remix.pdf"
+  },
+  "slot": {
+    "start": 1665585000000,
+    "end": 1665586800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1389,
+    "language": "en",
+    "sources": {
+      "youtube": "wjokE5EhuCs",
+      "swarm": "99eaf415340e5010006e8709d3758fa7a207a27ba6c799962e5728fcec358b76"
+    }
+  }
+}

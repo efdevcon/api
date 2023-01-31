@@ -1,0 +1,32 @@
+{
+  "id": "progpow-a-programmatic-proof-of-work",
+  "sourceId": "progpow-a-programmatic-proof-of-work",
+  "eventId": "devcon-4",
+  "title": "ProgPoW - A Programmatic Proof of Work",
+  "description": "Kristy-Leigh Minehan speaks about ProgPoW.",
+  "track": "Governance & Coordination",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Governance & Coordination",
+    "trust",
+    "ethash",
+    "algorithms",
+    "asic",
+    "mining",
+    "cpus",
+    "fnv"
+  ],
+  "speakers": [
+    "kristy-leigh-minehan"
+  ],
+  "media": {
+    "duration": 3638,
+    "language": "en",
+    "sources": {
+      "youtube": "pe1pDGDy6iE",
+      "ipfs": "Qmdk9Zrpr1xDHrGb1BNvsgAYWLhvNMQ6RJmpAeEiFA7VGV",
+      "swarm": "35c05be9086fc2f9da24181de78f649f8f25fb79e02ecd17f816471892ad21b4"
+    }
+  }
+}

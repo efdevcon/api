@@ -1,0 +1,25 @@
+{
+  "id": "provenance",
+  "sourceId": "provenance",
+  "eventId": "devcon-1",
+  "title": "Provenance",
+  "description": "Provenance",
+  "track": "Governance & Coordination",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Governance & Coordination"
+  ],
+  "speakers": [
+    "jessi-baker"
+  ],
+  "media": {
+    "duration": 528,
+    "language": "en",
+    "sources": {
+      "youtube": "wRoRMSo7Q4M",
+      "ipfs": "Qmc68wy4LVNjUHUxDtWaxXX8dKQPjA7xx4BG9Q2DaE9z99",
+      "swarm": "9ffcc4e7f8f1369978a9d10590302efb006d1bd369f958411177f369e021f132"
+    }
+  }
+}

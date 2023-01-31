@@ -1,0 +1,31 @@
+{
+  "id": "we-come-in-peace-why-vc-matters-to-ethereum",
+  "sourceId": "we-come-in-peace-why-vc-matters-to-ethereum",
+  "eventId": "devcon-5",
+  "title": "We Come in Peace: Why VC Matters to Ethereum",
+  "description": "Jehan Chu speaks about VCs in the ecosystem.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Cryptoeconomics",
+    "VC",
+    "venture",
+    "capital",
+    "funding",
+    "investing",
+    "general"
+  ],
+  "speakers": [
+    "jehan-chu"
+  ],
+  "media": {
+    "duration": 1319,
+    "language": "en",
+    "sources": {
+      "youtube": "Ex78bKxHYbM",
+      "ipfs": "QmUAuZs7e9MNjwQSk6RNtpris9giuDpWTxAp6AhsrXJWGZ",
+      "swarm": "781f96183c7b2f7e945d49625a10a1aa16d227b91feb9fe3af36fab3125d6d35"
+    }
+  }
+}

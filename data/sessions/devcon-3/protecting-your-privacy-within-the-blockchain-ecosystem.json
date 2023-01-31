@@ -1,0 +1,25 @@
+{
+  "id": "protecting-your-privacy-within-the-blockchain-ecosystem",
+  "sourceId": "protecting-your-privacy-within-the-blockchain-ecosystem",
+  "eventId": "devcon-3",
+  "title": "Protecting your Privacy within the Blockchain Ecosystem",
+  "description": "Robertas Visinskis gives their talk titled, \"Protecting your Privacy within the Blockchain Ecosystem\"",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Privacy"
+  ],
+  "speakers": [
+    "robertas-visinskis"
+  ],
+  "media": {
+    "duration": 665,
+    "language": "en",
+    "sources": {
+      "youtube": "1WrdRbsCEAA",
+      "ipfs": "QmdqzuCjggy495sWrj8dWWXugmEQqC8PCwFuZsEVCEephU",
+      "swarm": "ad5bdddd69b46cd62f09847ea783612764b412b91cdab5eef7acc638ac24e289"
+    }
+  }
+}

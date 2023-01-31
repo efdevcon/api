@@ -1,0 +1,42 @@
+{
+  "id": "one-block-one-batch-examining-the-potential-of-frequent-batch-auctions-in-ethereum",
+  "sourceId": "K3EVX3",
+  "eventId": "devcon-6",
+  "title": "One Block, One Batch: Examining the Potential of Frequent Batch Auctions in Ethereum",
+  "description": "This talk will focus on the future of (de)centralized trading, and examine how frequent batch auctions can revolutionize existing market economics by bringing fairness and protection to Ethereum’s various stakeholders. We will review why Ethereum would benefit from a global batch settlement layer, touching on MEV and unfair pricing of CFMMs.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Cryptoeconomics",
+    "P2P",
+    "DeFi",
+    "MEV"
+  ],
+  "speakers": [
+    "anna-george"
+  ],
+  "resources": {
+    "slides": "/resources/6/one-block-one-batch-examining-the-potential-of-frequent-batch-auctions-in-ethereum.pdf"
+  },
+  "slot": {
+    "start": 1665493200000,
+    "end": 1665495000000,
+    "length": 1800,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 1550,
+    "language": "en",
+    "sources": {
+      "youtube": "qSdE4LrPjG0",
+      "swarm": "bd723678b9458859c2bd3ddb660dfd545950b49723e9845690e2441681e49fa0"
+    }
+  }
+}

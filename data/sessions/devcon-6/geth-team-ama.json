@@ -1,0 +1,40 @@
+{
+  "id": "geth-team-ama",
+  "sourceId": "7JJFFH",
+  "eventId": "devcon-6",
+  "title": "Geth Team AMA",
+  "description": ".",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Developer Infrastructure",
+    "geth"
+  ],
+  "speakers": [
+    "marius-van-der-wijden",
+    "lightclient",
+    "guillaume-ballet",
+    "peter-szilagyi"
+  ],
+  "slot": {
+    "start": 1665579600000,
+    "end": 1665582600000,
+    "length": 3000,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 3296,
+    "language": "en",
+    "sources": {
+      "youtube": "yNxbIb3d4KY",
+      "swarm": "1727d1b6d933fa5776e13a4b266a000063ba70c5cfda24137d8c2f89d102d9c2"
+    }
+  }
+}

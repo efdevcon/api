@@ -1,0 +1,42 @@
+{
+  "id": "evm-some-assembly-required",
+  "sourceId": "XWBW7V",
+  "eventId": "devcon-6",
+  "title": "EVM - Some Assembly Required",
+  "description": "EVM assembly can be quite opaque and intimidating at first glance.  In this talk we'll take a look at exactly how EVM assembly works under the hood while analyzing some common functionality we see in smart contracts - as well as showing some optimization techniques you can use by jumping down to assembly in your solidity contracts.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "Solidity",
+    "Assembly",
+    "EVM"
+  ],
+  "speakers": [
+    "alex-bazhenov"
+  ],
+  "resources": {
+    "slides": "/resources/6/evm-some-assembly-required.pdf"
+  },
+  "slot": {
+    "start": 1665680400000,
+    "end": 1665682200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1454,
+    "language": "en",
+    "sources": {
+      "youtube": "yxgU80jdwL0",
+      "swarm": "de53e6335b96527ee25aed3827a7c067137846151d609240a00759010d2d8968"
+    }
+  }
+}

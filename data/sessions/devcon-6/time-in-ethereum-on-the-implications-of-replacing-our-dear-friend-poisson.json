@@ -1,0 +1,42 @@
+{
+  "id": "time-in-ethereum-on-the-implications-of-replacing-our-dear-friend-poisson",
+  "sourceId": "MACJT8",
+  "eventId": "devcon-6",
+  "title": "Time in Ethereum - on the implications of replacing our dear friend Poisson",
+  "description": "Time in PoW is a random process, whereas in PoS we make progress in fixed time intervals. This has far reaching implications and incentivizing timely behavior by validators is non-trivial - especially in the context of MEV.",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Layer 1 Protocol",
+    "L1 research",
+    "reorgs",
+    "fork choice"
+  ],
+  "speakers": [
+    "caspar-schwarz-schilling"
+  ],
+  "resources": {
+    "slides": "/resources/6/time-in-ethereum-on-the-implications-of-replacing-our-dear-friend-poisson.pdf"
+  },
+  "slot": {
+    "start": 1665592200000,
+    "end": 1665593700000,
+    "length": 1500,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1822,
+    "language": "en",
+    "sources": {
+      "youtube": "gsFU-inKRQ8",
+      "swarm": "0e6e51466c7669e8eefb1fbcf9547359f76ced3a95465fd4e251fa30bcd571d4"
+    }
+  }
+}

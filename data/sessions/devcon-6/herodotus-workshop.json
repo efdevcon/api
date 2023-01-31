@@ -1,0 +1,41 @@
+{
+  "id": "herodotus-workshop",
+  "sourceId": "TLHM7N",
+  "eventId": "devcon-6",
+  "title": "Herodotus Workshop",
+  "description": "In this workshop, we will cover how you can leverage the power of Storage Proofs to enable your applications to read the current and historical state of another blockchain in a secure and verifiable manner.",
+  "track": "Developer Infrastructure",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Developer Infrastructure",
+    "State expiry",
+    "SNARKS",
+    "L2s"
+  ],
+  "speakers": [
+    "marcello-bardus"
+  ],
+  "resources": {
+    "slides": "/resources/6/herodotus-workshop.pdf"
+  },
+  "slot": {
+    "start": 1665759300000,
+    "end": 1665762300000,
+    "length": 3000,
+    "room": {
+      "id": "workshop-2",
+      "name": "Workshop 2",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 2891,
+    "language": "en",
+    "sources": {
+      "youtube": "8mE_0qZNVjo"
+    }
+  }
+}

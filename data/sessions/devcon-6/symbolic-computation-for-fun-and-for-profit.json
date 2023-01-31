@@ -1,0 +1,42 @@
+{
+  "id": "symbolic-computation-for-fun-and-for-profit",
+  "sourceId": "SRVAM7",
+  "eventId": "devcon-6",
+  "title": "Symbolic Computation for Fun and for Profit",
+  "description": "How symbolic computation in EVM / Solidity works, end-to-end. I'll try to give insights on problems that can be solved efficiently, forming constraints, relaxations, how to build custom solvers from scratch, and produce computer proofs. We'll be saving gas!",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "solidity",
+    "optimizor",
+    "smart-contracts"
+  ],
+  "speakers": [
+    "hari"
+  ],
+  "resources": {
+    "slides": "/resources/6/symbolic-computation-for-fun-and-for-profit.pdf"
+  },
+  "slot": {
+    "start": 1665675000000,
+    "end": 1665676800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1607,
+    "language": "en",
+    "sources": {
+      "youtube": "4JODicZ1r-U",
+      "swarm": "30b08581978c0066c13788ab102e9891832ea2f9ff7c684b7d52c9d9d95e824b"
+    }
+  }
+}

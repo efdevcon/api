@@ -1,0 +1,42 @@
+{
+  "id": "going-on-safari-researching-users-in-the-metaverse",
+  "sourceId": "PNHKVG",
+  "eventId": "devcon-6",
+  "title": "Going on Safari: Researching Users in the Metaverse",
+  "description": "A research study was conducted to understand the experiences of users in the metaverse. The deep conversations with participants in that study inspired the researchers to explore how web3 interactive platforms could act as a tool for qualitative ethnographic research in their own right, using 'netnography' to uncover behaviors and cultural learnings. In this talk, Georgia will share what can be gained by 'going on safari' and observing users in this new social ecosystem.",
+  "track": "UX & Design",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "UX & Design",
+    "metaverse",
+    "design",
+    "research"
+  ],
+  "speakers": [
+    "georgia-rakusen"
+  ],
+  "resources": {
+    "slides": "/resources/6/going-on-safari-researching-users-in-the-metaverse.pdf"
+  },
+  "slot": {
+    "start": 1665594000000,
+    "end": 1665595800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1607,
+    "language": "en",
+    "sources": {
+      "youtube": "Ow8wkRLftvs",
+      "swarm": "b07e7da7f6767171be1ac7dcf2880f0fbb00035804e2b68e7078b770fba7ae2b"
+    }
+  }
+}

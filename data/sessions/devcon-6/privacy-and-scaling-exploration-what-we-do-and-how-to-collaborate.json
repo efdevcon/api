@@ -1,0 +1,37 @@
+{
+  "id": "privacy-and-scaling-exploration-what-we-do-and-how-to-collaborate",
+  "sourceId": "NQHE7W",
+  "eventId": "devcon-6",
+  "title": "Privacy & Scaling Exploration — What We Do and How to Collaborate",
+  "description": "TBD",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "Zero Knowledge Proofs",
+    "Cryptographic research"
+  ],
+  "speakers": [
+    "thore-hildebrandt"
+  ],
+  "slot": {
+    "start": 1665568800000,
+    "end": 1665570300000,
+    "length": 1500,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 1225,
+    "language": "en",
+    "sources": {
+      "youtube": "kn2Rc-bT6X4"
+    }
+  }
+}

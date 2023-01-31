@@ -1,0 +1,30 @@
+{
+  "id": "what-do-we-do-about-libra",
+  "sourceId": "what-do-we-do-about-libra",
+  "eventId": "devcon-5",
+  "title": "What Do We Do About Libra?",
+  "description": "Lucas Geiger talks about Facebook's Libra & its impact.",
+  "track": "Governance & Coordination",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Governance & Coordination",
+    "Libra",
+    "facebook",
+    "governance",
+    "compatibility",
+    "technical"
+  ],
+  "speakers": [
+    "lucas-geiger"
+  ],
+  "media": {
+    "duration": 1128,
+    "language": "en",
+    "sources": {
+      "youtube": "3dpBy3CCK4Q",
+      "ipfs": "QmdeefZBoGcgkYsfiqscHfD5YdgB17uQCzJsCko7pkheM1",
+      "swarm": "899ec1d48dce3bee847e6d57d86bdb2b3282e9e593dc6a34b9dfe519abc439a4"
+    }
+  }
+}

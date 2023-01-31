@@ -1,0 +1,25 @@
+{
+  "id": "dapps-framework",
+  "sourceId": "dapps-framework",
+  "eventId": "devcon-1",
+  "title": "DApps Framework",
+  "description": "Ethereum's Konstantin Kudryavtsev presents on Embark, a DApp Development Framework built by Iuri Mathias.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "konstantin-kudryavtsev"
+  ],
+  "media": {
+    "duration": 564,
+    "language": "en",
+    "sources": {
+      "youtube": "ZxFvFEGak7Y",
+      "ipfs": "QmYWDAGyERcsqDjvpUHuvYWXURuWZ6DMYsrK9YLBHosuyx",
+      "swarm": "9d4324a002dedb5bfff53b3d8b703b40833d13aefca327a118ddc357da5aeef8"
+    }
+  }
+}

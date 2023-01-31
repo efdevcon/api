@@ -1,0 +1,42 @@
+{
+  "id": "how-to-not-be-worth-kidnapping",
+  "sourceId": "SSUSXS",
+  "eventId": "devcon-6",
+  "title": "How to Not Be Worth Kidnapping",
+  "description": "Personal physical security, specifically violent kidnapping and compulsion to disclose keys, is often brought up as a concern by cryptocurrency participants. We will quickly present a way of thinking about these threats and a model for not merely protecting from loss of cryptocurrency, but prevention of victimization through violence entirely.",
+  "track": "Security",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Security",
+    "security",
+    "violence",
+    "kidnapping"
+  ],
+  "speakers": [
+    "ryan-lackey"
+  ],
+  "resources": {
+    "slides": "/resources/6/how-to-not-be-worth-kidnapping.pdf"
+  },
+  "slot": {
+    "start": 1665681000000,
+    "end": 1665681600000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 514,
+    "language": "en",
+    "sources": {
+      "youtube": "DYLzqorm6Z4",
+      "swarm": "06813dd661ecba8a3c45bb446bf04711dc7ec5dfdd7ae2061846a5a325cd7fe7"
+    }
+  }
+}

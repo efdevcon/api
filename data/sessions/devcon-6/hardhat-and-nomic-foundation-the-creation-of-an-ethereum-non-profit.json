@@ -1,0 +1,42 @@
+{
+  "id": "hardhat-and-nomic-foundation-the-creation-of-an-ethereum-non-profit",
+  "sourceId": "XYFHFZ",
+  "eventId": "devcon-6",
+  "title": "Hardhat & Nomic Foundation: the creation of an Ethereum non-profit",
+  "description": "Learn about the creation of the Nomic Foundation and what's coming next from the creators of Hardhat.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Developer Infrastructure",
+    "developer experience",
+    "hardhat",
+    "nomic"
+  ],
+  "speakers": [
+    "franco-zeoli"
+  ],
+  "resources": {
+    "slides": "/resources/6/hardhat-and-nomic-foundation-the-creation-of-an-ethereum-non-profit.pdf"
+  },
+  "slot": {
+    "start": 1665671400000,
+    "end": 1665673200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1320,
+    "language": "en",
+    "sources": {
+      "youtube": "C9jtgs0vOI4",
+      "swarm": "a4e06a690d90f3ab9b624a157bca1faebea577eee26ec9462fc8ae416d0a4e51"
+    }
+  }
+}

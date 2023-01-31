@@ -1,0 +1,41 @@
+{
+  "id": "remix-rewards",
+  "sourceId": "RL8ZMC",
+  "eventId": "devcon-6",
+  "title": "Remix Rewards",
+  "description": "Remix has a program to reward our contributors with non-transferable NFT’s on Optimism.  We’ll go over the details and the goals of this token / badge.",
+  "track": "Developer Infrastructure",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Developer Infrastructure",
+    "soul bound tokens",
+    "NFT certifications"
+  ],
+  "speakers": [
+    "rob-stupay"
+  ],
+  "resources": {
+    "slides": "/resources/6/remix-rewards.pdf"
+  },
+  "slot": {
+    "start": 1665510000000,
+    "end": 1665510420000,
+    "length": 420,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 432,
+    "language": "en",
+    "sources": {
+      "youtube": "KtinS_tVu-w",
+      "swarm": "d91ffdbba1bc3aea8693b1de4a440ec4ddb38dfe3671142c7ac9ce731f06602a"
+    }
+  }
+}

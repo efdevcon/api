@@ -1,0 +1,36 @@
+{
+  "id": "zero-knowledge-machine-learning",
+  "sourceId": "LEQ7EY",
+  "eventId": "devcon-6",
+  "title": "Zero-Knowledge Machine Learning",
+  "description": "ZKML could be the key to giving the blockchain eyes, letting smart contracts exercise judgment, one-person oracles, and generally getting data on-chain in a scalable way. I'll discuss applications, how to quickly convert PyTorch models to zero-knowledge proofs, and the roadmap.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "jason-morton"
+  ],
+  "slot": {
+    "start": 1665669600000,
+    "end": 1665670500000,
+    "length": 900,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 970,
+    "language": "en",
+    "sources": {
+      "youtube": "s9IfxTMq4ks"
+    }
+  }
+}

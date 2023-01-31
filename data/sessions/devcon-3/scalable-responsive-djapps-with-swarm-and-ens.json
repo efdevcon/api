@@ -1,0 +1,25 @@
+{
+  "id": "scalable-responsive-djapps-with-swarm-and-ens",
+  "sourceId": "scalable-responsive-djapps-with-swarm-and-ens",
+  "eventId": "devcon-3",
+  "title": "Scalable Responsive Đapps with Swarm and ENS",
+  "description": "Daniel Nagy gives their talk titled, \"Scalable Responsive Đapps with Swarm and ENS\"",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "daniel-nagy"
+  ],
+  "media": {
+    "duration": 1608,
+    "language": "en",
+    "sources": {
+      "youtube": "y01YJ_e5oHw",
+      "ipfs": "QmQt82ncnNDBuxxwTWhSjrcxXH972YYRW7xuPp9G4zRhwN",
+      "swarm": "bf9033033e88ea0f156b932b609cadfd909d986b30c39c4ac3e3ca3d7626ea97"
+    }
+  }
+}

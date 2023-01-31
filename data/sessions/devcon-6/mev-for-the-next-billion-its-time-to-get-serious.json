@@ -1,0 +1,42 @@
+{
+  "id": "mev-for-the-next-billion-its-time-to-get-serious",
+  "sourceId": "EPJJTM",
+  "eventId": "devcon-6",
+  "title": "MEV for the Next Billion: It's Time to Get Serious...",
+  "description": "We will take a birds-eye view of research, industry, and L1 developments on MEV. We start with the reasons behind the origins of MEV, a years-old warnings to developers. We revisit these against an explosion of research and industry interest in MEV. We cover the big picture of why these topics, including PBS, MEV auctions, MEV ethics, \"fair ordering\", cryptography, etc. are key to the decentralization and UX of L1. We will attempt to provide a roadmap to avoid the centralizing effects of MEV.",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Layer 1 Protocol",
+    "mev",
+    "decentralizaton",
+    "research"
+  ],
+  "speakers": [
+    "philip-daian"
+  ],
+  "resources": {
+    "slides": "/resources/6/mev-for-the-next-billion-its-time-to-get-serious.pdf"
+  },
+  "slot": {
+    "start": 1665750600000,
+    "end": 1665752400000,
+    "length": 1800,
+    "room": {
+      "id": "talk-5",
+      "name": "Talk 5",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 1140
+    }
+  },
+  "media": {
+    "duration": 1740,
+    "language": "en",
+    "sources": {
+      "youtube": "ACXAzLy3iWY",
+      "swarm": "9728725892a455504cc98f32dd630bfd4639bb2ae43e01f06cb1d8cc335bfe87"
+    }
+  }
+}

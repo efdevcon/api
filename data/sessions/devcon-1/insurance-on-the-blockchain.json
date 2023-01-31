@@ -1,0 +1,25 @@
+{
+  "id": "insurance-on-the-blockchain",
+  "sourceId": "insurance-on-the-blockchain",
+  "eventId": "devcon-1",
+  "title": "Insurance on the blockchain",
+  "description": "Elias Haase of B9 Lab presents on insurance on the blockchain.",
+  "track": "Governance & Coordination",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Governance & Coordination"
+  ],
+  "speakers": [
+    "elias-haase"
+  ],
+  "media": {
+    "duration": 915,
+    "language": "en",
+    "sources": {
+      "youtube": "Tk5jPHei8R4",
+      "ipfs": "QmbbYFSGyaWHHfCX4ofy8tQoWxbzYrrn9Tz9HLSXRSLNuh",
+      "swarm": "72f63f3fc004c14bec54e070efaed787ab256cdef9ab971841e1bf7161ad676a"
+    }
+  }
+}

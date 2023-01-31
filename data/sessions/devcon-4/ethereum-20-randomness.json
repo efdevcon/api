@@ -1,0 +1,28 @@
+{
+  "id": "ethereum-20-randomness",
+  "sourceId": "ethereum-20-randomness",
+  "eventId": "devcon-4",
+  "title": "Ethereum 2.0 randomness",
+  "description": "Justin Drake talks about the randomness behind Ethereum 2.0 using a Verifiable Delay Function.",
+  "track": "Staking & Validator Experience",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Staking & Validator Experience",
+    "eth2",
+    "updates",
+    "sharding"
+  ],
+  "speakers": [
+    "justin-drake"
+  ],
+  "media": {
+    "duration": 2034,
+    "language": "en",
+    "sources": {
+      "youtube": "rUOBPu4W28c",
+      "ipfs": "QmbmrGzw2TXJdtVMUCJhh7vqaz3sTK1WovUvUgsG993JcF",
+      "swarm": "062608fd6697ff6601b67ffe274d06157a16674072cec551efeb2dfb24281e84"
+    }
+  }
+}

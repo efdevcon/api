@@ -1,0 +1,42 @@
+{
+  "id": "mev-capturing-ammsmcamms",
+  "sourceId": "LJZT7Y",
+  "eventId": "devcon-6",
+  "title": "MEV Capturing AMMs(McAMMs)",
+  "description": "A prevailing thought is that the power of transaction ordering is mostly in the hands of block-builders in the current MEV-Boost and PBS specifications. This talk will present a new AMM design, which could shift the transaction ordering power, at least partly, to AMM designers and liquidity providers. These constructions would allow AMMs to capture part of the MEV that is currently only harvested by block-builders and proposers.",
+  "track": "Layer 2s",
+  "type": "Lightning Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Layer 2s",
+    "AMMs",
+    "MEV",
+    "DEX",
+    ""
+  ],
+  "speakers": [
+    "federico-giacon"
+  ],
+  "resources": {
+    "slides": "/resources/6/mev-capturing-ammsmcamms.pdf"
+  },
+  "slot": {
+    "start": 1665663000000,
+    "end": 1665663600000,
+    "length": 600,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 499,
+    "language": "en",
+    "sources": {
+      "youtube": "kK8gt318WeI"
+    }
+  }
+}

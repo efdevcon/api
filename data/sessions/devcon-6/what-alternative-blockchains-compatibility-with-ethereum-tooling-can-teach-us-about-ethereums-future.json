@@ -1,0 +1,42 @@
+{
+  "id": "what-alternative-blockchains-compatibility-with-ethereum-tooling-can-teach-us-about-ethereums-future",
+  "sourceId": "CZRWES",
+  "eventId": "devcon-6",
+  "title": "What Alternative Blockchains Compatibility with Ethereum Tooling Can Teach Us About Ethereum's Future",
+  "description": "In this talk the various techniques that some L1s and L2s use to provide EVM and RPC compatibility with end user and developer tooling will be examined. Special attention will be paid to features (address aliasing and expansion, RPC handing of system contracts, account abstraction) of other blockchains that Ethereum developers have discussed with an eye towards the compatibility issues they introduce.",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Layer 1 Protocol",
+    "EVM",
+    "JSON-RPC",
+    "COMPATIBILITY"
+  ],
+  "speakers": [
+    "danno-ferrin"
+  ],
+  "resources": {
+    "slides": "/resources/6/what-alternative-blockchains-compatibility-with-ethereum-tooling-can-teach-us-about-ethereums-future.pdf"
+  },
+  "slot": {
+    "start": 1665756000000,
+    "end": 1665757500000,
+    "length": 1500,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1224,
+    "language": "en",
+    "sources": {
+      "youtube": "KqE9HN4QGpM",
+      "swarm": "51aecc8fbb15df4433e992a3ab19de90ad59e3e7dccf04cd985fcdb900911096"
+    }
+  }
+}

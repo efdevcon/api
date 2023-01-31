@@ -1,0 +1,36 @@
+{
+  "id": "auditing-strategy-for-zkevm",
+  "sourceId": "JS98K7",
+  "eventId": "devcon-6",
+  "title": "Auditing Strategy for zkEVM",
+  "description": "A panel discussing approaches to auditing the zkEVM.",
+  "track": "ZKPs: Privacy, Identity, Infrastructure, & More",
+  "type": "Panel",
+  "expertise": "Beginner",
+  "tags": [
+    "ZKPs: Privacy, Identity, Infrastructure, & More",
+    "zk"
+  ],
+  "speakers": [
+    "barry-whitehat"
+  ],
+  "slot": {
+    "start": 1665682200000,
+    "end": 1665684000000,
+    "length": 1800,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 2290,
+    "language": "en",
+    "sources": {
+      "youtube": "WJewE8fdlmU"
+    }
+  }
+}

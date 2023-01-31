@@ -1,0 +1,41 @@
+{
+  "id": "updates-on-proposer-builder-separation",
+  "sourceId": "EWZLCP",
+  "eventId": "devcon-6",
+  "title": "Updates on Proposer-Builder Separation",
+  "description": "In this talk, I will discuss updates on PBS and economic models for validators, builders, searchers and users.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Cryptoeconomics",
+    "proposer builder separation",
+    "cryptoeconomics"
+  ],
+  "speakers": [
+    "barnabe-monnot"
+  ],
+  "resources": {
+    "slides": "/resources/6/updates-on-proposer-builder-separation.pdf"
+  },
+  "slot": {
+    "start": 1665496800000,
+    "end": 1665498600000,
+    "length": 1800,
+    "room": {
+      "id": "talk-5-opening-ceremonies",
+      "name": "Talk 5 - Opening Ceremonies",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 3060
+    }
+  },
+  "media": {
+    "duration": 1311,
+    "language": "en",
+    "sources": {
+      "youtube": "sQQ2UYB3qOI",
+      "swarm": "f52ccbd17460d38c992ec1313c61f487e432e77b8696bcf991abadf26056e751"
+    }
+  }
+}

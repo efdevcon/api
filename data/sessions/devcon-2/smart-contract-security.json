@@ -1,0 +1,49 @@
+{
+  "id": "smart-contract-security",
+  "sourceId": "smart-contract-security",
+  "eventId": "devcon-2",
+  "title": "Smart Contract Security",
+  "description": "Christoph Jentzsch",
+  "track": "Security",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Security",
+    "DAO",
+    "hack",
+    "exploit",
+    "cap",
+    "solidity",
+    "formal",
+    "proof",
+    "verification",
+    "invariance",
+    "centralization",
+    "fork",
+    "failsafe",
+    "governance",
+    "dapps",
+    "community",
+    "multisig",
+    "updates",
+    "delays",
+    "libraries",
+    "developers",
+    "tools",
+    "compiler",
+    "IDEs"
+  ],
+  "speakers": [
+    "after-a-quick-overview-of-smart-contract-failures-in-the-past",
+    "a-list-of-important-takeaways-will-be-covered-some-coding-techniques-to-prevent-unexpected-behaviour-in-smart-contracts-will-be-covered-as-well-as-some-remarks-about-governance-in-decentralized-systems"
+  ],
+  "media": {
+    "duration": 724,
+    "language": "en",
+    "sources": {
+      "youtube": "466bmp6bs9g",
+      "ipfs": "QmT9CexFZrhdti3HVmUioygpKB48gmi5aLeBRWLCPVJH99",
+      "swarm": "328dc136a13d6e410f14b49eb4c5b2f16c765e2069cec0078926413934c2ec95"
+    }
+  }
+}

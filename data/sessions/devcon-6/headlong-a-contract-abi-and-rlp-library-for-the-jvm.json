@@ -1,0 +1,40 @@
+{
+  "id": "headlong-a-contract-abi-and-rlp-library-for-the-jvm",
+  "sourceId": "8ZUZQN",
+  "eventId": "devcon-6",
+  "title": "headlong: A Contract ABI and RLP Library for the JVM",
+  "description": "I describe how I implemented the solidity Contract ABI specification to make encoding and decoding faster and therefore more scaleable while also improving usability. headlong can parse any function signature or JSON description at runtime and do the type-checking of inputs before encoding and of outputs during decoding. I also discuss how the command-line interface uses human-to-machine and machine-to-machine RLP-based serialization formats to consume arguments and produce results.",
+  "track": "Developer Infrastructure",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Developer Infrastructure",
+    "developers"
+  ],
+  "speakers": [
+    "evan-saulpaugh"
+  ],
+  "resources": {
+    "slides": "/resources/6/headlong-a-contract-abi-and-rlp-library-for-the-jvm.pdf"
+  },
+  "slot": {
+    "start": 1665748800000,
+    "end": 1665749400000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 345,
+    "language": "en",
+    "sources": {
+      "youtube": "wifJbkY87-U",
+      "swarm": "23a6aca924384b28c2517c3d1e6a6fb5bef8ee7fe4371d1afb6887a981700558"
+    }
+  }
+}

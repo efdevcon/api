@@ -1,0 +1,42 @@
+{
+  "id": "funding-ethereum-with-the-protocol-guild",
+  "sourceId": "HLPKSR",
+  "eventId": "devcon-6",
+  "title": "Funding Ethereum with the Protocol Guild",
+  "description": "This talk will include an overview of Ethereum Public Goods, existing funding mechanisms and their limitations, our design responses to shape the Protocol Guild, and an update on the 2022 Pilot.",
+  "track": "Governance & Coordination",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Governance & Coordination",
+    "Public Goods",
+    "Ethereum",
+    "core devs"
+  ],
+  "speakers": [
+    "trent-van-epps"
+  ],
+  "resources": {
+    "slides": "/resources/6/funding-ethereum-with-the-protocol-guild.pdf"
+  },
+  "slot": {
+    "start": 1665585000000,
+    "end": 1665586500000,
+    "length": 1500,
+    "room": {
+      "id": "talk-5",
+      "name": "Talk 5",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 1140
+    }
+  },
+  "media": {
+    "duration": 1396,
+    "language": "en",
+    "sources": {
+      "youtube": "hSgJiZQ70k8",
+      "swarm": "498ce4004ca175a10473687e6c847f3d6b7a8a9f13052cd68968f25b64cb8d00"
+    }
+  }
+}

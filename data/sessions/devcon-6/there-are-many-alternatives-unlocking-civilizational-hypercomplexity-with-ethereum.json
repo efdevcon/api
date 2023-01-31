@@ -1,0 +1,39 @@
+{
+  "id": "there-are-many-alternatives-unlocking-civilizational-hypercomplexity-with-ethereum",
+  "sourceId": "B3UQM7",
+  "eventId": "devcon-6",
+  "title": "There Are Many Alternatives: Unlocking Civilizational Hypercomplexity with Ethereum",
+  "description": "Venkatesh Rao is a consultant and writer @ Ribbonfarm. He's the author of 'Tempo' and 6 eBooks including 'Be Slightly Evil', 'Crash Early Crash Often', & more.",
+  "track": "Opportunity & Global Impact",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Opportunity & Global Impact",
+    "networks"
+  ],
+  "speakers": [
+    "venkatesh-rao"
+  ],
+  "resources": {
+    "slides": "/resources/6/there-are-many-alternatives-unlocking-civilizational-hypercomplexity-with-ethereum.pdf"
+  },
+  "slot": {
+    "start": 1665491400000,
+    "end": 1665492900000,
+    "length": 1500,
+    "room": {
+      "id": "talk-5-opening-ceremonies",
+      "name": "Talk 5 - Opening Ceremonies",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 3060
+    }
+  },
+  "media": {
+    "duration": 1406,
+    "language": "en",
+    "sources": {
+      "youtube": "FxBA_9dm6xk"
+    }
+  }
+}

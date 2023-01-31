@@ -1,0 +1,41 @@
+{
+  "id": "build-your-first-contract-with-the-wizard-of-oz",
+  "sourceId": "NK3KHN",
+  "eventId": "devcon-6",
+  "title": "Build Your First Contract with the Wizard of OZ",
+  "description": "Whether you are a new developer writing your first contract, or an advanced one starting a new project, the OpenZepplin wizard is here to help you bootstrap your smart contract contracts. Let's see how to use it, from the basic contract idea to its deployment, in under 5 minutes!",
+  "track": "Developer Infrastructure",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Developer Infrastructure",
+    "Smart contract",
+    "Solidity",
+    "Cairo"
+  ],
+  "speakers": [
+    "hadrien-croubois"
+  ],
+  "resources": {
+    "slides": "/resources/6/build-your-first-contract-with-the-wizard-of-oz.pdf"
+  },
+  "slot": {
+    "start": 1665576600000,
+    "end": 1665577020000,
+    "length": 420,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 471,
+    "language": "en",
+    "sources": {
+      "youtube": "b46q-O-42xE"
+    }
+  }
+}

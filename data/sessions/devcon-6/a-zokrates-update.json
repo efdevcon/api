@@ -1,0 +1,42 @@
+{
+  "id": "a-zokrates-update",
+  "sourceId": "9BDUZU",
+  "eventId": "devcon-6",
+  "title": "A ZoKrates Update",
+  "description": "zkSNARKs are becoming a cornerstone of decentralised technologies. Yet they are often considered impenetrable to newcomers. We will present an update on the ZoKrates toolbox, a set of tools aimed at making developing zkSNARK applications easier using a high-level language instead of handcrafted circuits.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Privacy",
+    "language",
+    "zksnark",
+    "zokrates"
+  ],
+  "speakers": [
+    "thibaut-schaeffer"
+  ],
+  "resources": {
+    "slides": "/resources/6/a-zokrates-update.pdf"
+  },
+  "slot": {
+    "start": 1665507600000,
+    "end": 1665509400000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1454,
+    "language": "en",
+    "sources": {
+      "youtube": "umLmjsi_GbY",
+      "swarm": "178fdc0cebe759a83a3cf0dd87761a259188e73243fbc24770694d9ca0122227"
+    }
+  }
+}

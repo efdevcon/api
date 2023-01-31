@@ -1,0 +1,45 @@
+{
+  "id": "its-10pm-do-you-know-where-your-mnemonic-is",
+  "sourceId": "87ZQFG",
+  "eventId": "devcon-6",
+  "title": "\"It's 10pm, do you know where your mnemonic is?\"",
+  "description": "Many stakers set up their validators nearly two years ago, and will soon need to revisit them to obtain the rewards they have earned since. This panel provides a refresher for what stakers did, and why they did it.  It discusses protecting mnemonics and keys, and what can be done if they are misplaced or compromised. Bringing together experts on validating key creation, protection and use, this is a wide-ranging discussion that will be useful for all stakers and potential stakers.",
+  "track": "Staking & Validator Experience",
+  "type": "Panel",
+  "expertise": "",
+  "tags": [
+    "Staking & Validator Experience",
+    "staking",
+    "withdrawals",
+    "security"
+  ],
+  "speakers": [
+    "adrian-sutton",
+    "oisin-kyne",
+    "paul-hauner",
+    "vasiliy-shapovalov"
+  ],
+  "resources": {
+    "slides": "/resources/6/its-10pm-do-you-know-where-your-mnemonic-is.pdf"
+  },
+  "slot": {
+    "start": 1665496800000,
+    "end": 1665500400000,
+    "length": 3600,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 2991,
+    "language": "en",
+    "sources": {
+      "youtube": "zf7HJT_DMFw",
+      "swarm": "55eb9ef78548d2d02a820244ebe1c479b63d11ac28a9fed7761e1197aed953e5"
+    }
+  }
+}

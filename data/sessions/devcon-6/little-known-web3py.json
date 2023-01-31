@@ -1,0 +1,42 @@
+{
+  "id": "little-known-web3py",
+  "sourceId": "VLFUWS",
+  "eventId": "devcon-6",
+  "title": "Little-known Web3.py",
+  "description": "A Web3.py maintainer steps though how to use some of the lesser-known features recently released: async functionality, off-chain data lookups, plugin support and more.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Developer Infrastructure",
+    "Python",
+    "Web3",
+    "Ethereum"
+  ],
+  "speakers": [
+    "marc-garreau"
+  ],
+  "resources": {
+    "slides": "/resources/6/little-known-web3py.pdf"
+  },
+  "slot": {
+    "start": 1665590400000,
+    "end": 1665592200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1434,
+    "language": "en",
+    "sources": {
+      "youtube": "rNkRtMPhK3M",
+      "swarm": "2cf7093d26c682729c42347c19abd62eeb4ac09377e75971ae3123430a7f4033"
+    }
+  }
+}

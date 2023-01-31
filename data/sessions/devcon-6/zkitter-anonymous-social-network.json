@@ -1,0 +1,36 @@
+{
+  "id": "zkitter-anonymous-social-network",
+  "sourceId": "NACHCA",
+  "eventId": "devcon-6",
+  "title": "Zkitter - Anonymous Social Network",
+  "description": "A brief overview of Zkitter, an anonymous social network built using ZK technology. Learn how you can start posting and chatting anonymously while using your real life reputation.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "tsukino"
+  ],
+  "slot": {
+    "start": 1665673800000,
+    "end": 1665675000000,
+    "length": 1200,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 662,
+    "language": "en",
+    "sources": {
+      "youtube": "GOQZHWC3cH0"
+    }
+  }
+}

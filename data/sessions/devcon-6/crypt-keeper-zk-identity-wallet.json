@@ -1,0 +1,37 @@
+{
+  "id": "crypt-keeper-zk-identity-wallet",
+  "sourceId": "LP9T3D",
+  "eventId": "devcon-6",
+  "title": "Crypt-Keeper ZK Identity Wallet",
+  "description": "We demo the Crypt-Keeper identity commitment and zk proof generation wallet for semaphore, RLN, and other ZK identities.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "atheartengineer",
+    "iskander"
+  ],
+  "slot": {
+    "start": 1665672600000,
+    "end": 1665673200000,
+    "length": 600,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 507,
+    "language": "en",
+    "sources": {
+      "youtube": "F5ic66_eNAs"
+    }
+  }
+}

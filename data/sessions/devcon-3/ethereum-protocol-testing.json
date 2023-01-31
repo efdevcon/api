@@ -1,0 +1,25 @@
+{
+  "id": "ethereum-protocol-testing",
+  "sourceId": "ethereum-protocol-testing",
+  "eventId": "devcon-3",
+  "title": "Ethereum Protocol Testing",
+  "description": "Dimitry Khokhlov gives their talk titled, \"Ethereum Protocol Testing\"",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "dimitry-khokhlov"
+  ],
+  "media": {
+    "duration": 729,
+    "language": "en",
+    "sources": {
+      "youtube": "5c4suAq7j0A",
+      "ipfs": "QmNUsmnBLK397jZL6GoThJqyFfE22YTx13EJ8wF2xbHC5c",
+      "swarm": "e161cefc4defb967ec2fe0766f7b90d485333bcb8d1a0f9f00d7f21d6dd4662b"
+    }
+  }
+}

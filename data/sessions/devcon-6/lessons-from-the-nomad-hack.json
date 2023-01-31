@@ -1,0 +1,41 @@
+{
+  "id": "lessons-from-the-nomad-hack",
+  "sourceId": "XSRJCU",
+  "eventId": "devcon-6",
+  "title": "Lessons from the Nomad Hack",
+  "description": "The Nomad Bridge suffered an incident in early August, resulting in about $190M in cryptocurrencies lost. We will see how the Nomad Bridge was able to get hacked and how it relates to the Nomad Protocol. Finally, we will share learnings and insights we got from this incident, actionable tips that all protocols should take into serious consideration in order to reduce the probability of a potential hack.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "Solidity",
+    "Foundry",
+    "cross-chain applications (xapps)"
+  ],
+  "speakers": [
+    "odysseas"
+  ],
+  "resources": {
+    "slides": "/resources/6/lessons-from-the-nomad-hack.pdf"
+  },
+  "slot": {
+    "start": 1665741600000,
+    "end": 1665743400000,
+    "length": 1800,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1190,
+    "language": "en",
+    "sources": {
+      "youtube": "jfquE4S2clQ"
+    }
+  }
+}

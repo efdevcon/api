@@ -1,0 +1,36 @@
+{
+  "id": "cryptographic-optimizations-in-aztec",
+  "sourceId": "KYJ9H7",
+  "eventId": "devcon-6",
+  "title": "Cryptographic Optimizations in Aztec",
+  "description": ".",
+  "track": "ZKPs: Privacy, Identity, Infrastructure, & More",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "ZKPs: Privacy, Identity, Infrastructure, & More",
+    "zk"
+  ],
+  "speakers": [
+    "adrian-hamelink"
+  ],
+  "slot": {
+    "start": 1665657600000,
+    "end": 1665658200000,
+    "length": 600,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 1017,
+    "language": "en",
+    "sources": {
+      "youtube": "lDL-sirFB-Y"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "maze-aggregation-tool-for-circom-plonk-proofs",
+  "sourceId": "XVUVWF",
+  "eventId": "devcon-6",
+  "title": "Maze - Aggregation Tool for Circom-PLONK Proofs",
+  "description": "The session aims to demo Maze, a CLI-based tool for aggregating several circom-plonk proofs into a single aggregated proof developed using Halo2 library. The session will also include a high level explanation of aggregation of plonk proofs using Proof Carrying Data (PCD).",
+  "track": "ZKPs: Privacy, Identity, Infrastructure, & More",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "ZKPs: Privacy, Identity, Infrastructure, & More",
+    "zk"
+  ],
+  "speakers": [
+    "janmajaya-mall"
+  ],
+  "slot": {
+    "start": 1665657300000,
+    "end": 1665657900000,
+    "length": 600,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 423,
+    "language": "en",
+    "sources": {
+      "youtube": "dFp0ckj7K_4"
+    }
+  }
+}

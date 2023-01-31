@@ -1,0 +1,37 @@
+{
+  "id": "zkemail-decentralized-id-verification-on-chain-without-servers",
+  "sourceId": "SRRP8G",
+  "eventId": "devcon-6",
+  "title": "zkemail: Decentralized ID Verification on Chain Without Servers",
+  "description": "We demo zk-email, a new primitive that lets you verify emails trustlessly. We demo a simple trustless Twitter badge on chain, and show how almost any data in web2 can be turned into trustless badges or zk badges on a blockchain. Launching with Personae Labs!",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "aayush-gupta",
+    "sampriti-panda"
+  ],
+  "slot": {
+    "start": 1665675900000,
+    "end": 1665677700000,
+    "length": 1800,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 1030,
+    "language": "en",
+    "sources": {
+      "youtube": "sPCHiUT3TmA"
+    }
+  }
+}

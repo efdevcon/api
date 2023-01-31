@@ -1,0 +1,42 @@
+{
+  "id": "smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum",
+  "sourceId": "DAEYKF",
+  "eventId": "devcon-6",
+  "title": "Smart Contracts and Petri Dishes: Creating a Shared Technical Infrastructure Roadmap for Descentralised Science (DeSci) on Ethereum",
+  "description": "DeSci is the combination of open science principles and decentralization. This workshop aims to unite founders and developers in the DeSci ecosystem to explore what infrastructure is needed: from reputation systems for scientific credentials, to file storage, public good funding and financialisation. Participants will actively determine pressing needs and a roadmap to functioning DeSci dapps, while also exploring the cultural complexity and UX of scientists as a user group.",
+  "track": "Developer Infrastructure",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Developer Infrastructure",
+    "Tooling",
+    "DeSci",
+    "Data"
+  ],
+  "speakers": [
+    "paul-kohlhaas"
+  ],
+  "resources": {
+    "slides": "/resources/6/smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum.pdf"
+  },
+  "slot": {
+    "start": 1665676800000,
+    "end": 1665684000000,
+    "length": 7200,
+    "room": {
+      "id": "workshop-2",
+      "name": "Workshop 2",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 4916,
+    "language": "en",
+    "sources": {
+      "youtube": "SNkd2o7cKOU",
+      "swarm": "35e7a043309cb419aeffef8dcc1c185feae8b873deb6c197f2ffd09647a1b764"
+    }
+  }
+}

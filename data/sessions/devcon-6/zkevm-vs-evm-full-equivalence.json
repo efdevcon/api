@@ -1,0 +1,42 @@
+{
+  "id": "zkevm-vs-evm-full-equivalence",
+  "sourceId": "9VJVKG",
+  "eventId": "devcon-6",
+  "title": "zkEVM Vs EVM: Full Equivalence?",
+  "description": "At Polygon-Hermez we have bet for the zero-knowledge EVM to solve Ethereum scalability.  We will talk about what is the ZK-EVM and how are we dealing with it at Polygon. We will explain the differences between zkEVM and EVM, Also the main challenges, tricks, tech decisions and differences we had to apply to achieve EVM compatibility will be explained.",
+  "track": "Layer 2s",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Layer 2s",
+    "zkEVM",
+    "zkrollup",
+    "EVM"
+  ],
+  "speakers": [
+    "ignasi-ramos"
+  ],
+  "resources": {
+    "slides": "/resources/6/zkevm-vs-evm-full-equivalence.pdf"
+  },
+  "slot": {
+    "start": 1665585000000,
+    "end": 1665586800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 1165,
+    "language": "en",
+    "sources": {
+      "youtube": "BEo4F9IlK70",
+      "swarm": "a9bf6777df4d34f23d135e7e54ba065cfee414c16fc6bc8404ae6667d6ff31f7"
+    }
+  }
+}

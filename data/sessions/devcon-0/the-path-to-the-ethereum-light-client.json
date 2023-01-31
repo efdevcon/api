@@ -1,0 +1,44 @@
+{
+  "id": "the-path-to-the-ethereum-light-client",
+  "sourceId": "the-path-to-the-ethereum-light-client",
+  "eventId": "devcon-0",
+  "title": "The Path to the Ethereum Light Client",
+  "description": "Vitalik Buterin and Dr. Gavin Wood take a look at the Ethereum light client roadmap.",
+  "track": "Layer 2s",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Layer 2s",
+    "consensus",
+    "node",
+    "txn",
+    "state",
+    "merkle",
+    "proof",
+    "transition",
+    "validity",
+    "events",
+    "dapps",
+    "logs",
+    "opcode",
+    "API",
+    "roadmap",
+    "archive",
+    "receipt",
+    "dht",
+    ""
+  ],
+  "speakers": [
+    "vitalik-buterin",
+    "gavin-wood"
+  ],
+  "media": {
+    "duration": 1153,
+    "language": "en",
+    "sources": {
+      "youtube": "WD2sRXbmims",
+      "ipfs": "Qmdg8onnP9bxCN6x8bAjz4mLYHzyA5bY4rff3bqJArNY93",
+      "swarm": "d806232cee4a1220fe019d20cc6d99dad6665bf702d2bd5bc7fd325722f27757"
+    }
+  }
+}

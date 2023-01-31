@@ -1,0 +1,43 @@
+{
+  "id": "parameter-optimization-and-emergent-behavior-in-defi-agent-based-simulations-and-reinforcement-learning",
+  "sourceId": "JXCNKQ",
+  "eventId": "devcon-6",
+  "title": "Parameter Optimization and Emergent Behavior in DeFi: Agent Based Simulations and Reinforcement Learning",
+  "description": "As in any complex system there may be emergent behaviors in DeFi protocols. In this workshop we will show the basics of how agent based simulations combined with reinforcement learning can be used to explore these and also for optimization of various protocol parameter values.  This will be based on https://github.com/vegaprotocol/vega-market-sim and https://github.com/msabvid/cpm_agent_based_sim . Ideally, try to follow setup in Vega-market-sim beforehand, but we'll go through it together.",
+  "track": "Governance & Coordination",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Governance & Coordination",
+    "Protocol development",
+    "agent based models",
+    "validation"
+  ],
+  "speakers": [
+    "david-siska",
+    "marc",
+    "tom-mclean"
+  ],
+  "resources": {
+    "slides": "/resources/6/parameter-optimization-and-emergent-behavior-in-defi-agent-based-simulations-and-reinforcement-learning.pdf"
+  },
+  "slot": {
+    "start": 1665579600000,
+    "end": 1665586800000,
+    "length": 7200,
+    "room": {
+      "id": "workshop-3",
+      "name": "Workshop 3",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 2673,
+    "language": "en",
+    "sources": {
+      "youtube": "GUvliKzKN1Q"
+    }
+  }
+}

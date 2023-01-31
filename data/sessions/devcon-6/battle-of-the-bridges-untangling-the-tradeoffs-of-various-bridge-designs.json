@@ -1,0 +1,44 @@
+{
+  "id": "battle-of-the-bridges-untangling-the-tradeoffs-of-various-bridge-designs",
+  "sourceId": "CLUZBW",
+  "eventId": "devcon-6",
+  "title": "Battle of the Bridges: Untangling the Tradeoffs of Various Bridge Designs",
+  "description": "This panel invites 3 of the leading bridge protocols to debate the various tradeoffs that have emerged between different cross chain bridge designs, including pros and cons, and security considerations. Panelists include the founders of Across (Hart Lambur), Hop (Chris Whinfrey), Succinct (Uma Roy), and will be moderated by Tarun Chitra (Gauntlet).",
+  "track": "Security",
+  "type": "Panel",
+  "expertise": "",
+  "tags": [
+    "Security",
+    "bridges",
+    "cross-chain"
+  ],
+  "speakers": [
+    "tarun-chitra",
+    "hart-lambur",
+    "chris-whinfrey",
+    "uma-roy"
+  ],
+  "resources": {
+    "slides": "/resources/6/battle-of-the-bridges-untangling-the-tradeoffs-of-various-bridge-designs.pdf"
+  },
+  "slot": {
+    "start": 1665676800000,
+    "end": 1665680400000,
+    "length": 3600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 3669,
+    "language": "en",
+    "sources": {
+      "youtube": "1xL4c9zxoS0",
+      "swarm": "af0f0f28998649cefcee9518ab6510a34b27fc73ff630f795878b9388982f657"
+    }
+  }
+}

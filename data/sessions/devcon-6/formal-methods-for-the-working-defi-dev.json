@@ -1,0 +1,41 @@
+{
+  "id": "formal-methods-for-the-working-defi-dev",
+  "sourceId": "EC8MBB",
+  "eventId": "devcon-6",
+  "title": "Formal Methods for the Working DeFi Dev",
+  "description": "Lecture notes: https://bit.ly/3RFwvBx Runtime Verification is known for formal methods, but you don't need a PhD to make your code better by thinking like a prover. Here we want to show you how you as a developer or auditor can apply fairly simple mathematical thinking to make your code more robust and your security work simpler. By thinking “invariants first” you can get stronger tests, better docs, and reduce the risk of introducing bugs in your future coding.",
+  "track": "Security",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Security",
+    "formal methods",
+    "invariants",
+    "mathematical thinking"
+  ],
+  "speakers": [
+    "rikard-hjort"
+  ],
+  "resources": {
+    "slides": "/resources/6/formal-methods-for-the-working-defi-dev.pdf"
+  },
+  "slot": {
+    "start": 1665572400000,
+    "end": 1665576000000,
+    "length": 3600,
+    "room": {
+      "id": "workshop-3",
+      "name": "Workshop 3",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 3811,
+    "language": "en",
+    "sources": {
+      "youtube": "ETlNhV9jYJw"
+    }
+  }
+}

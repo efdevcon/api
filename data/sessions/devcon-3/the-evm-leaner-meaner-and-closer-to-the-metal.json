@@ -1,0 +1,25 @@
+{
+  "id": "the-evm-leaner-meaner-and-closer-to-the-metal",
+  "sourceId": "the-evm-leaner-meaner-and-closer-to-the-metal",
+  "eventId": "devcon-3",
+  "title": "The EVM: Leaner, Meaner, and Closer to the Metal",
+  "description": "Dr. Greg Colvin gives their talk titled, \"The EVM: Leaner, Meaner, and Closer to the Metal\"",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Layer 1 Protocol"
+  ],
+  "speakers": [
+    "dr-greg-colvin"
+  ],
+  "media": {
+    "duration": 1135,
+    "language": "en",
+    "sources": {
+      "youtube": "ArR2W4v5evk",
+      "ipfs": "QmScrkbpimHJkPM77yWtNMyBhvymXm7ugCSmzuPvABmXo6",
+      "swarm": "c34bc13226c9caa00c463d105e241a454048691ef961ac19801e0455c8f292b0"
+    }
+  }
+}

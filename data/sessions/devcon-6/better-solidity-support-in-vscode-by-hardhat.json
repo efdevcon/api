@@ -1,0 +1,41 @@
+{
+  "id": "better-solidity-support-in-vscode-by-hardhat",
+  "sourceId": "NVGJZL",
+  "eventId": "devcon-6",
+  "title": "Better Solidity Support in VSCode by Hardhat",
+  "description": "A brisk jaunt through the state of the art in Solidity editor tooling, a tour of Nomic's Solidity Language Server and how we can take Solidity editor support to the next level.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Developer Infrastructure",
+    "developer",
+    "infrastructure"
+  ],
+  "speakers": [
+    "john-kane"
+  ],
+  "resources": {
+    "slides": "/resources/6/better-solidity-support-in-vscode-by-hardhat.pdf"
+  },
+  "slot": {
+    "start": 1665583200000,
+    "end": 1665585000000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1482,
+    "language": "en",
+    "sources": {
+      "youtube": "L1XArlLt4cQ",
+      "swarm": "57d13d6e9ecdcedc840107e4997cda403c94beff8506130787aa95f2be6a52ee"
+    }
+  }
+}

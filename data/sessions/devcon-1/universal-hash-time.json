@@ -1,0 +1,35 @@
+{
+  "id": "universal-hash-time",
+  "sourceId": "universal-hash-time",
+  "eventId": "devcon-1",
+  "title": "Universal Hash Time",
+  "description": "Jeff Coleman of Ledger Labs (http://ledgerlabs.io/) presents on the Universal Hash Time + State Channels.",
+  "track": "Layer 2s",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Layer 2s",
+    "proof",
+    "existence",
+    "ads",
+    "root",
+    "hash",
+    "tick",
+    "signature",
+    "state",
+    "channels",
+    "time"
+  ],
+  "speakers": [
+    "jeff-coleman"
+  ],
+  "media": {
+    "duration": 954,
+    "language": "en",
+    "sources": {
+      "youtube": "phXohYF0xGo",
+      "ipfs": "QmPxkaeJCB2Z7cnf6ZVvbHVwrNngVsv3hLnBCpHJWg76fT",
+      "swarm": "08064f8f4fad4d33b01001d68142d0db5284a26f89166974521361fc3d7f0d86"
+    }
+  }
+}

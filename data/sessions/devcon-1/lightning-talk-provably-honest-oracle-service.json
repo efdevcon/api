@@ -1,0 +1,25 @@
+{
+  "id": "lightning-talk-provably-honest-oracle-service",
+  "sourceId": "lightning-talk-provably-honest-oracle-service",
+  "eventId": "devcon-1",
+  "title": "Lightning Talk: Provably Honest Oracle Service",
+  "description": "Thomas Bertani presents on Oraclize (http://www.oraclize.it/), a set of tools and APIs aiming to enhance the power of smart contracts by pushing external data to the blockchain.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "thomas-bertani"
+  ],
+  "media": {
+    "duration": 290,
+    "language": "en",
+    "sources": {
+      "youtube": "PDQuXwspMa0",
+      "ipfs": "Qmd7BqMGS9JiL9rcJbAxCnTcjo9H4cp2aksHroUrQYJsDJ",
+      "swarm": "c44bb91bbeb73bbcd68cd1f715bc20fe5996fedef0e3787c03cc17f41664be5d"
+    }
+  }
+}

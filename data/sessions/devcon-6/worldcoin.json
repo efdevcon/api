@@ -1,0 +1,36 @@
+{
+  "id": "worldcoin",
+  "sourceId": "SBEFUD",
+  "eventId": "devcon-6",
+  "title": "Worldcoin",
+  "description": ".",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "remco-bloemen"
+  ],
+  "slot": {
+    "start": 1665671400000,
+    "end": 1665672300000,
+    "length": 900,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 949,
+    "language": "en",
+    "sources": {
+      "youtube": "0aJsreeTqIw"
+    }
+  }
+}

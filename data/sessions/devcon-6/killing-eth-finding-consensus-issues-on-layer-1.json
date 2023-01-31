@@ -1,0 +1,40 @@
+{
+  "id": "killing-eth-finding-consensus-issues-on-layer-1",
+  "sourceId": "K37NWN",
+  "eventId": "devcon-6",
+  "title": "Killing ETH - Finding Consensus Issues on Layer 1",
+  "description": "Ethereum's core protocol is highly security critical and thus needs to be tested thoroughly. This talk will discuss the testing methods we use to make sure that all execution layer clients implement the same protocol: - Regression testing on hive - EVM-fuzzing - Devnets - Shadow forks We will discuss a bunch of interesting issues that we found with that",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Layer 1 Protocol",
+    "Testing",
+    "Fuzzing"
+  ],
+  "speakers": [
+    "marius-van-der-wijden"
+  ],
+  "resources": {
+    "slides": "/resources/6/killing-eth-finding-consensus-issues-on-layer-1.pdf"
+  },
+  "slot": {
+    "start": 1665495000000,
+    "end": 1665496800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-5-opening-ceremonies",
+      "name": "Talk 5 - Opening Ceremonies",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 3060
+    }
+  },
+  "media": {
+    "duration": 0,
+    "language": "en",
+    "sources": {
+      "youtube": "FS9PPDSK6wc"
+    }
+  }
+}

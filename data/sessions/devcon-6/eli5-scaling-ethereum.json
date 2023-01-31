@@ -1,0 +1,37 @@
+{
+  "id": "eli5-scaling-ethereum",
+  "sourceId": "V8TRFU",
+  "eventId": "devcon-6",
+  "title": "ELI5: Scaling Ethereum",
+  "description": "Everything you wanted to know about approaches to scaling Ethereum",
+  "track": "Layer 2s",
+  "type": "Workshop",
+  "expertise": "Beginner",
+  "tags": [
+    "Layer 2s",
+    "scaling"
+  ],
+  "speakers": [
+    "patrick-mccorry"
+  ],
+  "slot": {
+    "start": 1665502200000,
+    "end": 1665505200000,
+    "length": 3000,
+    "room": {
+      "id": "workshop-4",
+      "name": "Workshop 4",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 3217,
+    "language": "en",
+    "sources": {
+      "youtube": "zADuI0a1c9A",
+      "swarm": "4af3ca64fb014a74302409988daf8442756b0891acf7749712a81d759f9791bc"
+    }
+  }
+}

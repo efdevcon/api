@@ -1,0 +1,33 @@
+{
+  "id": "testing-ethereum-consensus",
+  "sourceId": "testing-ethereum-consensus",
+  "eventId": "devcon-2",
+  "title": "Testing Ethereum Consensus",
+  "description": "Ethereum tests overview and integration instructions for client developers.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Developer Infrastructure",
+    "state",
+    "test",
+    "client",
+    "json",
+    "homestead",
+    "vmtest",
+    "security",
+    "testing"
+  ],
+  "speakers": [
+    "dimitry-khoklov"
+  ],
+  "media": {
+    "duration": 557,
+    "language": "en",
+    "sources": {
+      "youtube": "J7gRay0CYRg",
+      "ipfs": "QmT1rmXpPQS9Uf78NSEPLAW1nQNP75NoqTco8NXvxkmCGH",
+      "swarm": "ac8afa08e68ca7fab50a095a25f425016a7d7c976c9d3cd5814a3900ddc2a691"
+    }
+  }
+}

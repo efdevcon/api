@@ -1,0 +1,36 @@
+{
+  "id": "golem",
+  "sourceId": "golem",
+  "eventId": "devcon-0",
+  "title": "Golem",
+  "description": "Piotr Janiuk presents on Golem, a P2P distributed computation network running on top of Ethereum.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Developer Infrastructure",
+    "turing",
+    "consensus",
+    "supercomputer",
+    "prosumer",
+    "computational",
+    "power",
+    "distributed",
+    "share",
+    "rendering",
+    "p2p",
+    "saas"
+  ],
+  "speakers": [
+    "piotr-janiuk"
+  ],
+  "media": {
+    "duration": 1109,
+    "language": "en",
+    "sources": {
+      "youtube": "JA-UkjnapAU",
+      "ipfs": "QmRWxDv74fag6TzTUfNvoJ9EYrekPuxUA5e38PpEQnwavb",
+      "swarm": "2574941bd3ec06c934758d464a46534994aab713dbf18547676da9ccaf3af3d9"
+    }
+  }
+}

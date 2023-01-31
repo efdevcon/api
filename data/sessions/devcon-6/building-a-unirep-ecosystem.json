@@ -1,0 +1,42 @@
+{
+  "id": "building-a-unirep-ecosystem",
+  "sourceId": "XADPAV",
+  "eventId": "devcon-6",
+  "title": "Building a Unirep ecosystem",
+  "description": "What does an identity ecosystem built on top of Unirep look like? Learn how reputation works in a system where participants are anonymous and how it can be used to build applications.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Privacy",
+    "identity",
+    "reputation",
+    "privacy"
+  ],
+  "speakers": [
+    "chance-hudson"
+  ],
+  "resources": {
+    "slides": "/resources/6/building-a-unirep-ecosystem.pdf"
+  },
+  "slot": {
+    "start": 1665585000000,
+    "end": 1665586800000,
+    "length": 1800,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1520,
+    "language": "en",
+    "sources": {
+      "youtube": "jd2Dg9czJzI",
+      "swarm": "f2bbbbf434d5237b38ec264895a0d5db11199c90f676b7a39445db058b5c9bdb"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "building-ethereum-community-together-in-china",
+  "sourceId": "AMZ7GZ",
+  "eventId": "devcon-6",
+  "title": "Building ethereum community together in china",
+  "description": "Introducing the many Ether communities in China and how they are growing together",
+  "track": "Opportunity & Global Impact",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Opportunity & Global Impact",
+    "China",
+    "Community"
+  ],
+  "speakers": [
+    "guo-haoyun",
+    "yanyan-ho"
+  ],
+  "resources": {
+    "slides": "/resources/6/building-ethereum-community-together-in-china.pdf"
+  },
+  "slot": {
+    "start": 1665759000000,
+    "end": 1665759600000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 539,
+    "language": "en",
+    "sources": {
+      "youtube": "f0qAPx3ReXw",
+      "swarm": "74f80489232df9451cdf3beb25b5d31fc0b08e769878504998ce301f0b20cc5a"
+    }
+  }
+}

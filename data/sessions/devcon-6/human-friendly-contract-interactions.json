@@ -1,0 +1,42 @@
+{
+  "id": "human-friendly-contract-interactions",
+  "sourceId": "MY938N",
+  "eventId": "devcon-6",
+  "title": "Human-Friendly Contract Interactions",
+  "description": "Web3 users often sign transactions without knowing what they are doing. How can we let them take more informed decisions? Contracts verified on Sourcify (https://sourcify.dev) can be presented with human-friendly information via the ABI and the NatSpec documentation The talk will explain how it's made possible with \"Solidity contract metadata\" and how Sourcify's \"full verification\" works. We'll also touch upon alternative approaches to how to display human-readable tx information to the users",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure",
+    "sourcify",
+    "contract verification",
+    "contract metadata"
+  ],
+  "speakers": [
+    "kaan"
+  ],
+  "resources": {
+    "slides": "/resources/6/human-friendly-contract-interactions.pdf"
+  },
+  "slot": {
+    "start": 1665496800000,
+    "end": 1665498600000,
+    "length": 1800,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1538,
+    "language": "en",
+    "sources": {
+      "youtube": "Ggm82pnalCI",
+      "swarm": "44dc8c325a1c6d9950cb634a984477a6132663f91670fb016848a73b2b3a16c7"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "next-generation-dsls-and-irs",
+  "sourceId": "YXEADU",
+  "eventId": "devcon-6",
+  "title": "Next-Generation DSLs and IRs",
+  "description": "We discuss the future of higher-level langauges and circuit representations with developers from a number of toolstacks.",
+  "track": "Privacy",
+  "type": "Panel",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "jordi-baylina",
+    "ying-tong",
+    "louis-guthmann",
+    "brandon-kase",
+    "kev"
+  ],
+  "slot": {
+    "start": 1665660000000,
+    "end": 1665662700000,
+    "length": 2700,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 3676,
+    "language": "en",
+    "sources": {
+      "youtube": "gS1gWD1oEBs"
+    }
+  }
+}

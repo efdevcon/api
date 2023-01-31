@@ -1,0 +1,42 @@
+{
+  "id": "penumbra-building-a-private-dex-with-zkps-and-threshold-cryptography",
+  "sourceId": "3Y8WP3",
+  "eventId": "devcon-6",
+  "title": "Penumbra: Building a Private DEX with ZKPs and Threshold Cryptography",
+  "description": "ZKPs allow transactions to prove their state transition was valid, without revealing anything about what it was.  But this isn't enough, because useful applications require shared state, which ZKPs can't provide.  In this talk, we'll describe how to break this barrier by combining ZKPs with flow encryption, a new threshold crypto primitive, to allow private interaction with public shared state, and how Penumbra uses this technique to build a private DEX.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Privacy",
+    "ZKP",
+    "threshold crypto",
+    "DEX"
+  ],
+  "speakers": [
+    "henry-de-valence"
+  ],
+  "resources": {
+    "slides": "/resources/6/penumbra-building-a-private-dex-with-zkps-and-threshold-cryptography.pdf"
+  },
+  "slot": {
+    "start": 1665570600000,
+    "end": 1665572100000,
+    "length": 1500,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1586,
+    "language": "en",
+    "sources": {
+      "youtube": "JjmOelgfqNo",
+      "swarm": "92084dbb07543bb8b3e008176af3245c4ad19427e635fc8a177e2537bfb09c40"
+    }
+  }
+}

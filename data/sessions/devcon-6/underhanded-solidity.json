@@ -1,0 +1,41 @@
+{
+  "id": "underhanded-solidity",
+  "sourceId": "ZANTJE",
+  "eventId": "devcon-6",
+  "title": "Underhanded Solidity",
+  "description": "A brief description of the exploit behind the winning submission to the Underhanded Solidity Contest 2022.",
+  "track": "Security",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Security",
+    "Exploit",
+    "Underhanded"
+  ],
+  "speakers": [
+    "tynan-richards"
+  ],
+  "resources": {
+    "slides": "/resources/6/underhanded-solidity.pdf"
+  },
+  "slot": {
+    "start": 1665508800000,
+    "end": 1665509220000,
+    "length": 420,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 341,
+    "language": "en",
+    "sources": {
+      "youtube": "hyXls2mymR8",
+      "swarm": "1a668e250bf79bc31f6d91c7d70c2eb43d3667755228bab5b38423e7c1f097a3"
+    }
+  }
+}

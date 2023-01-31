@@ -1,0 +1,41 @@
+{
+  "id": "be-a-superhero-tangible-actions-to-support-diverse-builders-and-show-allyship-in-web3-communities",
+  "sourceId": "YRFEMP",
+  "eventId": "devcon-6",
+  "title": "Be a Superhero!  Tangible Actions to Support Diverse Builders and Show Allyship in Web3 Communities",
+  "description": "In this session, we will discuss the need for Diversity, Inclusion, and Belonging and how it affects builder communities. We will also learn actional ways to be a better accomplice to diverse builders, colleagues, and communities. This workshop will address ways to attract, retain, and promote diverse talent as well as advocate for diverse perspectives in policy and personal spaces.",
+  "track": "Opportunity & Global Impact",
+  "type": "Workshop",
+  "expertise": "",
+  "tags": [
+    "Opportunity & Global Impact",
+    "Developers",
+    "DEI",
+    "community"
+  ],
+  "speakers": [
+    "gloria-kimbwala"
+  ],
+  "resources": {
+    "slides": "/resources/6/be-a-superhero-tangible-actions-to-support-diverse-builders-and-show-allyship-in-web3-communities.pdf"
+  },
+  "slot": {
+    "start": 1665586800000,
+    "end": 1665590400000,
+    "length": 3600,
+    "room": {
+      "id": "workshop-3",
+      "name": "Workshop 3",
+      "description": "",
+      "info": "Floor 3",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 2087,
+    "language": "en",
+    "sources": {
+      "youtube": "Ry0KK5iAlyU"
+    }
+  }
+}

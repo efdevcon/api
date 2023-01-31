@@ -1,0 +1,28 @@
+{
+  "id": "towards-eth2-developer-tooling",
+  "sourceId": "towards-eth2-developer-tooling",
+  "eventId": "devcon-5",
+  "title": "Towards Eth2 Developer Tooling",
+  "description": "Gregory Markou gives his talk on Eth2 Developer Tooling.",
+  "track": "Staking & Validator Experience",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Staking & Validator Experience",
+    "eth2",
+    "developers",
+    "technical"
+  ],
+  "speakers": [
+    "gregory-markou"
+  ],
+  "media": {
+    "duration": 731,
+    "language": "en",
+    "sources": {
+      "youtube": "b2RW2-QOq0U",
+      "ipfs": "QmUNmFioKVghQ2N6esNMEegPDMaUg8SGzpjp9HjqEaHBfj",
+      "swarm": "94159ff8b825676810ab882f83a9a08ac5e680d76ed2c3c3a21a2277f673eee1"
+    }
+  }
+}

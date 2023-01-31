@@ -1,0 +1,42 @@
+{
+  "id": "economic-incentives-and-souls-in-schelling-point-based-oracles",
+  "sourceId": "BQHN3R",
+  "eventId": "devcon-6",
+  "title": "Economic Incentives and Souls in Schelling-point Based Oracles",
+  "description": "Schelling-point based oracles, such as Kleros, can be used to attribute soulbound tokens (SBTs) to individuals based on subjective evaluations of their backgrounds and expertise. Moreover, mechanisms using SBTs can complement economic incentives in such oracles; for example, an SBT-conscious random selection process can determine the voters on a given question. We will focus on how the interplay of economic and social elements in such systems can be designed to maximize resistance to attacks.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Cryptoeconomics",
+    "oracles",
+    "soulbound",
+    "incentives"
+  ],
+  "speakers": [
+    "william-george"
+  ],
+  "resources": {
+    "slides": "/resources/6/economic-incentives-and-souls-in-schelling-point-based-oracles.pdf"
+  },
+  "slot": {
+    "start": 1665741600000,
+    "end": 1665743100000,
+    "length": 1500,
+    "room": {
+      "id": "talk-5",
+      "name": "Talk 5",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 1140
+    }
+  },
+  "media": {
+    "duration": 1456,
+    "language": "en",
+    "sources": {
+      "youtube": "KKpVzdUvXE0",
+      "swarm": "90ec51f4378f2218c00ce95ca03985111cbefc1fe3316daeb7677f28c31ea7a1"
+    }
+  }
+}

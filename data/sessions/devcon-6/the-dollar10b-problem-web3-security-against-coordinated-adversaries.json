@@ -1,0 +1,42 @@
+{
+  "id": "the-dollar10b-problem-web3-security-against-coordinated-adversaries",
+  "sourceId": "MVQRNJ",
+  "eventId": "devcon-6",
+  "title": "The $10B Problem - web3 Security Against Coordinated Adversaries",
+  "description": "Bored Ape Yacht Club Discord hacked, Ronin Bridge compromised, the news articles are fraught with Ethereum exploits. Chainalysis has identified that these attacks are often executed by a small circle of well-funded, well-coordinated adversaries. In this session, Chainalysis examines how these actors operate, how we investigate the flow of funds to try to disrupt attacks, and how the web3 community can work together to raise costs for attackers using the transparency of public blockchains.",
+  "track": "Security",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Security",
+    "Hack",
+    "Investigation"
+  ],
+  "speakers": [
+    "julia-hardy",
+    "adam-hart"
+  ],
+  "resources": {
+    "slides": "/resources/6/the-dollar10b-problem-web3-security-against-coordinated-adversaries.pdf"
+  },
+  "slot": {
+    "start": 1665502200000,
+    "end": 1665504000000,
+    "length": 1800,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1287,
+    "language": "en",
+    "sources": {
+      "youtube": "YFK5pY1yFas",
+      "swarm": "618476e35b3cd11a63be09be135d378d017cb923d7154e5ab425191b47369c12"
+    }
+  }
+}

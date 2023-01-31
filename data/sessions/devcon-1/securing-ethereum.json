@@ -1,0 +1,26 @@
+{
+  "id": "securing-ethereum",
+  "sourceId": "securing-ethereum",
+  "eventId": "devcon-1",
+  "title": "Securing Ethereum",
+  "description": "Ethereum's Dr. Jutta Steiner and Gustav Simonsson present on the work undertaken to secure Ethereum.",
+  "track": "Security",
+  "type": "Talk",
+  "expertise": "Advanced",
+  "tags": [
+    "Security"
+  ],
+  "speakers": [
+    "jutta-steiner",
+    "gustav-simonsson"
+  ],
+  "media": {
+    "duration": 1235,
+    "language": "en",
+    "sources": {
+      "youtube": "QjncRYUXYWc",
+      "ipfs": "QmSCruACxgmqqSMwguPu1JBwAYAfWnCDZUEz1qC6ktxvgs",
+      "swarm": "b9cf13c78f48eddbcf92e87f6f8babd2c58d06214b9db7cabc3fac783ab2c00e"
+    }
+  }
+}

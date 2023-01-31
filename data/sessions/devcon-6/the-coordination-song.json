@@ -1,0 +1,43 @@
+{
+  "id": "the-coordination-song",
+  "sourceId": "9FBEBE",
+  "eventId": "devcon-6",
+  "title": "The Coordination Song 🌎✨🎵",
+  "description": "You've heard that public goods are good.  You've heard that crypto can regenerative the world.  But have you heard the song? Join noted web3 musiciian Justin Myles for a musical ensemble about coordination, regenerative crypto, public goods.",
+  "track": "Opportunity & Global Impact",
+  "type": "Lightning Talk",
+  "expertise": "",
+  "tags": [
+    "Opportunity & Global Impact",
+    "music",
+    "coordination",
+    "culture"
+  ],
+  "speakers": [
+    "kevin-owocki",
+    "justin-holmes"
+  ],
+  "resources": {
+    "slides": "/resources/6/the-coordination-song.pdf"
+  },
+  "slot": {
+    "start": 1665597000000,
+    "end": 1665597600000,
+    "length": 600,
+    "room": {
+      "id": "talk-4",
+      "name": "Talk 4",
+      "description": "River",
+      "info": "Floor 3",
+      "capacity": 110
+    }
+  },
+  "media": {
+    "duration": 320,
+    "language": "en",
+    "sources": {
+      "youtube": "Xx5TuhyFvSE",
+      "swarm": "580db0d13034970e8da1b5ece0cf32b157582daf3f9e6cfb24acd27a7b3d708b"
+    }
+  }
+}

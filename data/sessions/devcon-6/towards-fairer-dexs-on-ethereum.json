@@ -1,0 +1,41 @@
+{
+  "id": "towards-fairer-dexs-on-ethereum",
+  "sourceId": "QVPC3L",
+  "eventId": "devcon-6",
+  "title": "Towards Fairer DEXs on Ethereum",
+  "description": "MEV is inherent to Ethereum and cannot be banned at the core protocol layer. Dapps should therefore carefully assess and reduce the amount of MEV they create. Multi-dimensional batch auctions with just in time competition for order flow offer a fundamentally fairer way of trading on Ethereum. P2P matching reduces the amount of extractable AMM interactions, while best price execution is guaranteed through a network of competing “solvers”.",
+  "track": "Cryptoeconomics",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Cryptoeconomics",
+    "Mechanism Design",
+    "MEV",
+    "Batch Auctions"
+  ],
+  "speakers": [
+    "felix-leupold"
+  ],
+  "resources": {
+    "slides": "/resources/6/towards-fairer-dexs-on-ethereum.pdf"
+  },
+  "slot": {
+    "start": 1665757800000,
+    "end": 1665759300000,
+    "length": 1500,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1567,
+    "language": "en",
+    "sources": {
+      "youtube": "msUvYJSCRjk"
+    }
+  }
+}

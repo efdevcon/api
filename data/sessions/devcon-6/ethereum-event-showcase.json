@@ -1,0 +1,40 @@
+{
+  "id": "ethereum-event-showcase",
+  "sourceId": "XUVZTP",
+  "eventId": "devcon-6",
+  "title": "Ethereum Event Showcase",
+  "description": "tbd",
+  "track": "Opportunity & Global Impact",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Opportunity & Global Impact",
+    "democracy"
+  ],
+  "speakers": [
+    "juan-david-reyes"
+  ],
+  "resources": {
+    "slides": "/resources/6/ethereum-event-showcase.pdf"
+  },
+  "slot": {
+    "start": 1665752400000,
+    "end": 1665753900000,
+    "length": 1500,
+    "room": {
+      "id": "talk-2",
+      "name": "Talk 2",
+      "description": "Cold Forest",
+      "info": "Floor 3",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 984,
+    "language": "en",
+    "sources": {
+      "youtube": "ZWZc8psbFSk",
+      "swarm": "bed6e3d7db62fd36ab9a7d3e7cff6e1ae34f021931669a8afdb4e63d2a7f4b39"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "swarm-city-decentralized-peer-to-peer-commerce",
+  "sourceId": "swarm-city-decentralized-peer-to-peer-commerce",
+  "eventId": "devcon-3",
+  "title": "Swarm City: Decentralized Peer to Peer Commerce",
+  "description": "We will describe the technical architecture of Swarm City. Specifically how we use Whisper to communicate and initiate the payment without having to send a public key.",
+  "track": "Developer Infrastructure",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Developer Infrastructure"
+  ],
+  "speakers": [
+    "michael-thuy",
+    "stefaan-ponnet"
+  ],
+  "media": {
+    "duration": 1037,
+    "language": "en",
+    "sources": {
+      "youtube": "zLNUdmz9nog",
+      "ipfs": "QmPnwKmFn52Lcu8TGktaoZhuvuYF811ookm7YQDyuqZ5An",
+      "swarm": "9510605ae88fc992be08f33d2f9289b13669359e43cc7c6ff3ec72698c46ed02"
+    }
+  }
+}

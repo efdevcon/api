@@ -1,0 +1,36 @@
+{
+  "id": "unirep-social-a-demo-application-of-unirep-protocol",
+  "sourceId": "KW3RWB",
+  "eventId": "devcon-6",
+  "title": "Unirep Social - A demo application of Unirep protocol",
+  "description": "Unirep is a private reputation system. In this session we will use a social media app called Unirep Social to demo the Unirep protocol.",
+  "track": "Privacy",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Privacy",
+    "zk"
+  ],
+  "speakers": [
+    "ya-wen-jeng"
+  ],
+  "slot": {
+    "start": 1665673200000,
+    "end": 1665673800000,
+    "length": 600,
+    "room": {
+      "id": "workshop-1",
+      "name": "Workshop 1",
+      "description": "SLS/Community Room",
+      "info": "Floor 2",
+      "capacity": 112
+    }
+  },
+  "media": {
+    "duration": 650,
+    "language": "en",
+    "sources": {
+      "youtube": "O2p92yM0-tI"
+    }
+  }
+}

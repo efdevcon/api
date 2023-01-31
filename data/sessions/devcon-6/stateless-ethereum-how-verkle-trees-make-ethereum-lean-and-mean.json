@@ -1,0 +1,42 @@
+{
+  "id": "stateless-ethereum-how-verkle-trees-make-ethereum-lean-and-mean",
+  "sourceId": "9BTCHC",
+  "eventId": "devcon-6",
+  "title": "Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean",
+  "description": "This talk goes over the changes brought by verkle trees. It will give a high-level overview of the technical changes, an update on the implementation of verkle trees, and paint a picture of a stateless Ethereum.",
+  "track": "Layer 1 Protocol",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Layer 1 Protocol",
+    "verkle",
+    "stateless",
+    "state"
+  ],
+  "speakers": [
+    "guillaume-ballet"
+  ],
+  "resources": {
+    "slides": "/resources/6/stateless-ethereum-how-verkle-trees-make-ethereum-lean-and-mean.pdf"
+  },
+  "slot": {
+    "start": 1665572400000,
+    "end": 1665574200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-5",
+      "name": "Talk 5",
+      "description": "On Top of the Mountain",
+      "info": "Floor 5",
+      "capacity": 1140
+    }
+  },
+  "media": {
+    "duration": 1468,
+    "language": "en",
+    "sources": {
+      "youtube": "Q7rStTKwuYs",
+      "swarm": "391bd786cac98c315e6c025accf003e355af9514573c42feb817f9a381a19ac9"
+    }
+  }
+}

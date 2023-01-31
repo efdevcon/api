@@ -1,0 +1,41 @@
+{
+  "id": "web3-in-the-ukraine-government-integration-and-impact",
+  "sourceId": "DNEG8Y",
+  "eventId": "devcon-6",
+  "title": "Web3 in the Ukraine government: integration & impact",
+  "description": ".",
+  "track": "Opportunity & Global Impact",
+  "type": "Talk",
+  "expertise": "Beginner",
+  "tags": [
+    "Opportunity & Global Impact",
+    "ukraine",
+    "web3"
+  ],
+  "speakers": [
+    "max-semenchuk"
+  ],
+  "resources": {
+    "slides": "/resources/6/web3-in-the-ukraine-government-integration-and-impact.pdf"
+  },
+  "slot": {
+    "start": 1665495000000,
+    "end": 1665496500000,
+    "length": 1500,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 1128,
+    "language": "en",
+    "sources": {
+      "youtube": "oZYgrEs6-HI",
+      "swarm": "be03439b3f63db53dbbf07f70d7637be209092675b55646328530abaf12fb40d"
+    }
+  }
+}

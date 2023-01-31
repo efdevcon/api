@@ -1,0 +1,42 @@
+{
+  "id": "how-latam-cities-are-thinking-about-blockchain-solutions",
+  "sourceId": "NESKMJ",
+  "eventId": "devcon-6",
+  "title": "How Latam cities are thinking about blockchain solutions.",
+  "description": "Mayors or Innovation Ministers/Secretaries to discuss and share their blockchain projects and impact in citizens.",
+  "track": "Opportunity & Global Impact",
+  "type": "Panel",
+  "expertise": "Beginner",
+  "tags": [
+    "Opportunity & Global Impact",
+    "latam",
+    "cities"
+  ],
+  "speakers": [
+    "jaime-pumarejo",
+    "diego-fernandez",
+    "mauricio-tovar",
+    "irais-reyes",
+    "alfredo-bateman"
+  ],
+  "slot": {
+    "start": 1665505800000,
+    "end": 1665508800000,
+    "length": 3000,
+    "room": {
+      "id": "talk-1",
+      "name": "Talk 1",
+      "description": "Tropical Sunset",
+      "info": "Floor 2",
+      "capacity": 414
+    }
+  },
+  "media": {
+    "duration": 3164,
+    "language": "en",
+    "sources": {
+      "youtube": "ynEjmvdB_gY",
+      "swarm": "44bc9f9a58fb63472977aa76233901eac7b10f36d8b89c839452bcc52f086783"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tackling-rounding-errors-with-precision-analysis",
+  "sourceId": "X9SYBT",
+  "eventId": "devcon-6",
+  "title": "Tackling Rounding Errors with Precision Analysis",
+  "description": "Rounding errors in smart contracts can lead to severe security vulnerabilities. In this talk, we'll motivate the importance of rigorous numerical analysis through real-world exploits, and review existing precision analysis techniques. We'll then argue for the development of automated error propagation analysis tools to overcome the tediousness of manual efforts.",
+  "track": "Security",
+  "type": "Talk",
+  "expertise": "Intermediate",
+  "tags": [
+    "Security",
+    "Security techniques",
+    "code quality",
+    "rounding errors"
+  ],
+  "speakers": [
+    "raoul-schaffranek"
+  ],
+  "resources": {
+    "slides": "/resources/6/tackling-rounding-errors-with-precision-analysis.pdf"
+  },
+  "slot": {
+    "start": 1665500400000,
+    "end": 1665502200000,
+    "length": 1800,
+    "room": {
+      "id": "talk-3",
+      "name": "Talk 3",
+      "description": "Flowers",
+      "info": "Floor 3",
+      "capacity": 260
+    }
+  },
+  "media": {
+    "duration": 1621,
+    "language": "en",
+    "sources": {
+      "youtube": "nUfcsblYQH0",
+      "swarm": "80775d2c0377a3354fa323bb4278ff48100b31705afc3d5dd0072af3eedcc75d"
+    }
+  }
+}
