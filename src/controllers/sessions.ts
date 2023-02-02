@@ -4,7 +4,8 @@ import Handlebars from 'handlebars'
 import puppeteer from 'puppeteer'
 import { ogImageTemplate } from 'templates/og'
 import { templateStyles } from 'templates/styles'
-import { GetAvatar } from 'utils/account'
+import { Session } from 'types/sessions'
+import { GetData, GetSessionData } from 'clients/filesystem'
 import { GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
 
 export const sessionsRouter = Router()
@@ -14,39 +15,32 @@ sessionsRouter.get(`/sessions/:id/image`, GetSessionImage)
 
 async function GetSessions(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = ['']
+  const data = GetData<Session>('sessions')
 
   res.status(200).send({ status: 200, message: '', data })
 }
 
 async function GetSession(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = {}
+  const data = GetData<Session>('sessions')
+  const item = data.find((e) => e.id.toLowerCase() === req.params.id.toLowerCase() || e.sourceId.toLowerCase() === req.params.id.toLowerCase())
+
+  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
 
   res.status(200).send({ status: 200, message: '', data })
 }
 
 async function GetSessionImage(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
+  const data = GetSessionData()
+  const item = data.find((e) => e.id.toLowerCase() === req.params.id.toLowerCase() || e.sourceId.toLowerCase() === req.params.id.toLowerCase())
 
-  // TODO: Get Session
+  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
+
   const imageType: string = 'og' // og | video
-  const session = {
-    title: 'Test OG Session',
-    track: 'Security',
-    type: 'Workshop',
-    start: 1665684000000,
-    speakers: [
-      {
-        name: 'IX Shells',
-        avatar: await GetAvatar('ixshells'),
-      },
-    ],
-  }
-
   const styles = Handlebars.compile(templateStyles)({
     fontSize: imageType === 'video' ? '1.8rem' : '1.4rem',
-    scaledFontSize: session.title.length > 100 ? 'smaller' : session.title.length < 50 ? 'larger' : 'inherit',
+    scaledFontSize: item.title.length > 100 ? 'smaller' : item.title.length < 50 ? 'larger' : 'inherit',
   })
 
   const baseUri = `${req.protocol}://${req.headers.host}`
@@ -54,14 +48,14 @@ async function GetSessionImage(req: Request, res: Response) {
     cssStyle: styles,
     logoUrl: `${baseUri}/static/dc6/dcvibogota.svg`,
     imageType: imageType,
-    track: GetTrackId(session.track),
-    trackImage: GetTrackImage(baseUri, session.track),
-    type: session.type,
-    title: session.title,
-    eventDay: GetEventDay(session.start),
-    eventDate: dayjs(session.start).format('MMM DD, YYYY'),
-    speaker: session.speakers.length === 1 ? session.speakers[0] : null,
-    speakers: session.speakers.length > 1 ? session.speakers : [],
+    track: GetTrackId(item.track),
+    trackImage: GetTrackImage(baseUri, item.track),
+    type: item.type,
+    title: item.title,
+    eventDay: GetEventDay(item.slot?.start || 0),
+    eventDate: dayjs(item.slot?.start).format('MMM DD, YYYY'),
+    speaker: item.speakers.length === 1 ? item.speakers[0] : null,
+    speakers: item.speakers.length > 1 ? item.speakers : [],
   })
 
   const browser = await puppeteer.launch({ args: ['--no-sandbox'] })

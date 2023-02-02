@@ -3,7 +3,7 @@
   "info": {
     "title": "Devcon API",
     "description": "Devcon API exposes information about Devcon, past events, schedules and our video archive. You can find more information at https://github.com/efdevcon/api",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "contact": {
       "email": "support@devcon.org"
     },
@@ -318,6 +318,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
           }
         }
       }
@@ -339,7 +342,11 @@
             "type": "string"
           }
         ],
-        "responses": {}
+        "responses": {
+          "404": {
+            "description": "Not Found"
+          }
+        }
       }
     },
     "/speakers": {
