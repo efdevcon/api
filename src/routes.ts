@@ -1,3 +1,4 @@
+import { PrismaClient } from '@prisma/client'
 import { accountRouter } from 'controllers/account'
 import { dipsRouter } from 'controllers/dips'
 import { eventsRouter } from 'controllers/events'
@@ -12,6 +13,15 @@ router.get('/', (req, res) => {
   // #swagger.tags = ['Default']
 
   res.status(200).send({ status: 200, message: '', data: API_INFO })
+})
+
+router.get('/test', async (req, res) => {
+  // #swagger.tags = ['Default']
+
+  const client = new PrismaClient()
+  const data = await client.user.findMany({ include: { posts: true } })
+
+  res.status(200).send({ status: 200, message: '', data })
 })
 
 router.use(accountRouter)

@@ -34,6 +34,20 @@
         }
       }
     },
+    "/test": {
+      "get": {
+        "tags": [
+          "Default"
+        ],
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/account": {
       "get": {
         "tags": [

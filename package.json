@@ -12,11 +12,14 @@
   "scripts": {
     "build": "tsc",
     "start": "NODE_PATH=./dist node ./dist/index",
-    "dev": "yarn swagger:generate && nodemon ./src/index.ts",
+    "predev": "yarn swagger:generate && yarn db:generate",
+    "dev": "yarn db:sync && nodemon ./src/index.ts",
     "test": "NODE_ENV=test jest --detectOpenHandles --watchAll --no-cache",
     "test:coverage": "NODE_ENV=test jest --coverage --detectOpenHandles --no-cache",
     "lint": "eslint --fix",
     "prettier": "prettier './src' --write",
+    "db:generate": "prisma generate --schema ./src/db/schema.prisma",
+    "db:sync": "ts-node ./src/db/sync",
     "swagger:generate": "ts-node ./src/swagger/generate",
     "postinstall": "tsc && yarn swagger:generate"
   },
@@ -49,6 +52,7 @@
     "@elastic/elasticsearch": "^8.6.0",
     "@ethersproject/providers": "^5.7.1",
     "@octokit/rest": "^19.0.7",
+    "@prisma/client": "4.9.0",
     "chrome-aws-lambda": "^6.0.0",
     "cors": "^2.8.5",
     "cross-fetch": "^3.1.5",
@@ -60,8 +64,10 @@
     "handlebars": "^4.7.7",
     "helmet": "^6.0.1",
     "markdown-it": "^13.0.1",
+    "prisma": "^4.9.0",
     "puppeteer": "^19.5.2",
     "slugify": "^1.6.5",
+    "sqlite3": "^5.1.4",
     "swagger-ui-express": "^4.6.0"
   },
   "devDependencies": {
@@ -76,6 +82,7 @@
     "@types/markdown-it": "^12.2.3",
     "@types/node": "^18.11.18",
     "@types/puppeteer": "^7.0.4",
+    "@types/sqlite3": "^3.1.8",
     "@types/supertest": "^2.0.12",
     "@types/swagger-ui-express": "^4.1.3",
     "@typescript-eslint/eslint-plugin": "^5.48.2",
