@@ -13,15 +13,19 @@
     "build": "tsc",
     "start": "NODE_PATH=./dist node ./dist/index",
     "predev": "yarn swagger:generate && yarn db:generate",
-    "dev": "yarn db:sync && nodemon ./src/index.ts",
+    "dev": "nodemon ./src/index.ts",
     "test": "NODE_ENV=test jest --detectOpenHandles --watchAll --no-cache",
     "test:coverage": "NODE_ENV=test jest --coverage --detectOpenHandles --no-cache",
     "lint": "eslint --fix",
     "prettier": "prettier './src' --write",
-    "db:generate": "prisma generate --schema ./src/db/schema.prisma",
-    "db:sync": "ts-node ./src/db/sync",
+    "db:generate": "prisma db push --force-reset --accept-data-loss && prisma db seed",
+    "db:studio": "prisma studio",
     "swagger:generate": "ts-node ./src/swagger/generate",
-    "postinstall": "tsc && yarn swagger:generate"
+    "postinstall": "tsc && yarn swagger:generate && yarn db:generate"
+  },
+  "prisma": {
+    "schema": "./src/db/schema.prisma",
+    "seed": "ts-node ./src/db/seed"
   },
   "husky": {
     "hooks": {
