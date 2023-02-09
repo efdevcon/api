@@ -16,13 +16,9 @@
   "speakers": [
     "alistair-stewart"
   ],
-  "media": {
-    "duration": 924,
-    "language": "en",
-    "sources": {
-      "youtube": "Ex_1XXF29Yo",
-      "ipfs": "QmUGvyskbkHf25qRJgKHEHZtAaRNBS67ALmUDzWV8Jf5UF",
-      "swarm": "95dfdb36e5ac8300829afd0850e6fe0000270558d8eeed3bda31272df22d80d9"
-    }
-  }
+  "sources_youtubeId": "Ex_1XXF29Yo",
+  "sources_ipfsHash": "QmUGvyskbkHf25qRJgKHEHZtAaRNBS67ALmUDzWV8Jf5UF",
+  "sources_swarmHash": "95dfdb36e5ac8300829afd0850e6fe0000270558d8eeed3bda31272df22d80d9",
+  "duration": 924,
+  "language": "en"
 }

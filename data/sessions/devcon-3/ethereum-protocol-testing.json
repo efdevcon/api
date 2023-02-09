@@ -13,13 +13,9 @@
   "speakers": [
     "dimitry-khokhlov"
   ],
-  "media": {
-    "duration": 729,
-    "language": "en",
-    "sources": {
-      "youtube": "5c4suAq7j0A",
-      "ipfs": "QmNUsmnBLK397jZL6GoThJqyFfE22YTx13EJ8wF2xbHC5c",
-      "swarm": "e161cefc4defb967ec2fe0766f7b90d485333bcb8d1a0f9f00d7f21d6dd4662b"
-    }
-  }
+  "sources_youtubeId": "5c4suAq7j0A",
+  "sources_ipfsHash": "QmNUsmnBLK397jZL6GoThJqyFfE22YTx13EJ8wF2xbHC5c",
+  "sources_swarmHash": "e161cefc4defb967ec2fe0766f7b90d485333bcb8d1a0f9f00d7f21d6dd4662b",
+  "duration": 729,
+  "language": "en"
 }

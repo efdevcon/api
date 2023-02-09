@@ -13,13 +13,9 @@
   "speakers": [
     "aeron-davis"
   ],
-  "media": {
-    "duration": 538,
-    "language": "en",
-    "sources": {
-      "youtube": "Gz7yVz2iYK8",
-      "ipfs": "QmVr6BAX4n1M6BfU5Qa58cCYu7cLLVpVJvumdZA6SFbVNe",
-      "swarm": "88c2e3060d0201dc2927e41205cf2d2b0f578d72033df319b4bd1bb998830c30"
-    }
-  }
+  "sources_youtubeId": "Gz7yVz2iYK8",
+  "sources_ipfsHash": "QmVr6BAX4n1M6BfU5Qa58cCYu7cLLVpVJvumdZA6SFbVNe",
+  "sources_swarmHash": "88c2e3060d0201dc2927e41205cf2d2b0f578d72033df319b4bd1bb998830c30",
+  "duration": 538,
+  "language": "en"
 }

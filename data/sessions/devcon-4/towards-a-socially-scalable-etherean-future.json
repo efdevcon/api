@@ -14,13 +14,9 @@
   "speakers": [
     "lane-rettig"
   ],
-  "media": {
-    "duration": 1523,
-    "language": "en",
-    "sources": {
-      "youtube": "32MVIJMuBjE",
-      "ipfs": "QmcX5jzUhz6MaLbCKJybRtXwW51g9eceKq7mHBJSj8U8qA",
-      "swarm": "45c24566d98f2d0ac6af188ab3045856d4bf3aa74509172ecdde77c9fa16a795"
-    }
-  }
+  "sources_youtubeId": "32MVIJMuBjE",
+  "sources_ipfsHash": "QmcX5jzUhz6MaLbCKJybRtXwW51g9eceKq7mHBJSj8U8qA",
+  "sources_swarmHash": "45c24566d98f2d0ac6af188ab3045856d4bf3aa74509172ecdde77c9fa16a795",
+  "duration": 1523,
+  "language": "en"
 }

@@ -18,24 +18,11 @@
     "gerben-kijne",
     "anda-ngcaba"
   ],
-  "slot": {
-    "start": 1665680400000,
-    "end": 1665683400000,
-    "length": 3000,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 2914,
-    "language": "en",
-    "sources": {
-      "youtube": "38NxwjlNCMQ",
-      "swarm": "97dd7e99c5a6518d21f8c91b47b5d15eeb136223e475391000be4d5093260b69"
-    }
-  }
+  "slot_start": 1665680400000,
+  "slot_end": 1665683400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "38NxwjlNCMQ",
+  "sources_swarmHash": "97dd7e99c5a6518d21f8c91b47b5d15eeb136223e475391000be4d5093260b69",
+  "duration": 2914,
+  "language": "en"
 }

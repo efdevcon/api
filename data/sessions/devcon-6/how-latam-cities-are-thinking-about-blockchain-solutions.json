@@ -19,24 +19,11 @@
     "irais-reyes",
     "alfredo-bateman"
   ],
-  "slot": {
-    "start": 1665505800000,
-    "end": 1665508800000,
-    "length": 3000,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 3164,
-    "language": "en",
-    "sources": {
-      "youtube": "ynEjmvdB_gY",
-      "swarm": "44bc9f9a58fb63472977aa76233901eac7b10f36d8b89c839452bcc52f086783"
-    }
-  }
+  "slot_start": 1665505800000,
+  "slot_end": 1665508800000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "ynEjmvdB_gY",
+  "sources_swarmHash": "44bc9f9a58fb63472977aa76233901eac7b10f36d8b89c839452bcc52f086783",
+  "duration": 3164,
+  "language": "en"
 }

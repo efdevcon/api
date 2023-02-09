@@ -14,13 +14,9 @@
   "speakers": [
     "rikard-hjort"
   ],
-  "media": {
-    "duration": 269,
-    "language": "en",
-    "sources": {
-      "youtube": "0RGA-F9P2w8",
-      "ipfs": "QmRGBcf7G8qopVHXhgc2YK9e1NLDwj7sqFobNHvjhEKm53",
-      "swarm": "0794ca39b560ab1172df827899522803d84f36c83a947ae95fc3589483044841"
-    }
-  }
+  "sources_youtubeId": "0RGA-F9P2w8",
+  "sources_ipfsHash": "QmRGBcf7G8qopVHXhgc2YK9e1NLDwj7sqFobNHvjhEKm53",
+  "sources_swarmHash": "0794ca39b560ab1172df827899522803d84f36c83a947ae95fc3589483044841",
+  "duration": 269,
+  "language": "en"
 }

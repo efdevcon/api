@@ -14,23 +14,10 @@
   "speakers": [
     "ye-zhang"
   ],
-  "slot": {
-    "start": 1665664500000,
-    "end": 1665666000000,
-    "length": 1500,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1275,
-    "language": "en",
-    "sources": {
-      "youtube": "2bb8wMEYCfA"
-    }
-  }
+  "slot_start": 1665664500000,
+  "slot_end": 1665666000000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "2bb8wMEYCfA",
+  "duration": 1275,
+  "language": "en"
 }

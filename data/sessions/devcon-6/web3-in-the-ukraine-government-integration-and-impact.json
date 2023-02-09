@@ -15,27 +15,12 @@
   "speakers": [
     "max-semenchuk"
   ],
-  "resources": {
-    "slides": "/resources/6/web3-in-the-ukraine-government-integration-and-impact.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665496500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1128,
-    "language": "en",
-    "sources": {
-      "youtube": "oZYgrEs6-HI",
-      "swarm": "be03439b3f63db53dbbf07f70d7637be209092675b55646328530abaf12fb40d"
-    }
-  }
+  "resources_slides": "/resources/6/web3-in-the-ukraine-government-integration-and-impact.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665496500000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "oZYgrEs6-HI",
+  "sources_swarmHash": "be03439b3f63db53dbbf07f70d7637be209092675b55646328530abaf12fb40d",
+  "duration": 1128,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
     "dave-hrycyszyn",
     "jedrzej-stuczynski"
   ],
-  "media": {
-    "duration": 3496,
-    "language": "en",
-    "sources": {
-      "youtube": "PveslzdXZhE",
-      "ipfs": "QmfAsEYHuqDdQJ5bU1tCLpNQhNwQ5DUAvTUAqK5wpgBaUp",
-      "swarm": "8e25016d3cbe89a4bb5fcf0d7b4b6beef4490be0ad8cc995ce4c2a09dbcd3f6e"
-    }
-  }
+  "sources_youtubeId": "PveslzdXZhE",
+  "sources_ipfsHash": "QmfAsEYHuqDdQJ5bU1tCLpNQhNwQ5DUAvTUAqK5wpgBaUp",
+  "sources_swarmHash": "8e25016d3cbe89a4bb5fcf0d7b4b6beef4490be0ad8cc995ce4c2a09dbcd3f6e",
+  "duration": 3496,
+  "language": "en"
 }

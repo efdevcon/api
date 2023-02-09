@@ -13,13 +13,9 @@
   "speakers": [
     "nick-johnson"
   ],
-  "media": {
-    "duration": 1122,
-    "language": "en",
-    "sources": {
-      "youtube": "R-fE51sQdtY",
-      "ipfs": "QmXEGq8uWNuDdaTiz3Yedyu2K2hqrKQ1dD1zM8bmt8KMHg",
-      "swarm": "67f2eef63c799c6cb79e27e09ddd4fb2dfeefed6dd48d56a13c9dd287797444e"
-    }
-  }
+  "sources_youtubeId": "R-fE51sQdtY",
+  "sources_ipfsHash": "QmXEGq8uWNuDdaTiz3Yedyu2K2hqrKQ1dD1zM8bmt8KMHg",
+  "sources_swarmHash": "67f2eef63c799c6cb79e27e09ddd4fb2dfeefed6dd48d56a13c9dd287797444e",
+  "duration": 1122,
+  "language": "en"
 }

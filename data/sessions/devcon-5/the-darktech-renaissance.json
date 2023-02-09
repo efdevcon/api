@@ -17,13 +17,9 @@
   "speakers": [
     "amir-taaki"
   ],
-  "media": {
-    "duration": 1290,
-    "language": "en",
-    "sources": {
-      "youtube": "tfFkX4dxsKA",
-      "ipfs": "QmaJQUqenNkanT9MEpo74s999RS4ocmboepbRWBUTCa5pS",
-      "swarm": "183c96a883e199804a387955994f96c43437cb175ac606768b310bdffae42dd5"
-    }
-  }
+  "sources_youtubeId": "tfFkX4dxsKA",
+  "sources_ipfsHash": "QmaJQUqenNkanT9MEpo74s999RS4ocmboepbRWBUTCa5pS",
+  "sources_swarmHash": "183c96a883e199804a387955994f96c43437cb175ac606768b310bdffae42dd5",
+  "duration": 1290,
+  "language": "en"
 }

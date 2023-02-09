@@ -16,13 +16,9 @@
     "bryant-eisenbach",
     "kirill-pimenov"
   ],
-  "media": {
-    "duration": 1643,
-    "language": "en",
-    "sources": {
-      "youtube": "sEt1t_29DLw",
-      "ipfs": "QmSzbRAGhwpTSp11aY9EjxGZM7389UJ4uwx9jz6zsTEKzb",
-      "swarm": "020a5d29d288335ccf109c84cc78086f168af28ceb7a845423ce7b1df9eb2d77"
-    }
-  }
+  "sources_youtubeId": "sEt1t_29DLw",
+  "sources_ipfsHash": "QmSzbRAGhwpTSp11aY9EjxGZM7389UJ4uwx9jz6zsTEKzb",
+  "sources_swarmHash": "020a5d29d288335ccf109c84cc78086f168af28ceb7a845423ce7b1df9eb2d77",
+  "duration": 1643,
+  "language": "en"
 }

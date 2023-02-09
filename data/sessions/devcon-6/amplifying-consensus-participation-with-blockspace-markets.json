@@ -16,27 +16,12 @@
   "speakers": [
     "julian-traversa"
   ],
-  "resources": {
-    "slides": "/resources/6/amplifying-consensus-participation-with-blockspace-markets.pdf"
-  },
-  "slot": {
-    "start": 1665675000000,
-    "end": 1665676800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1054,
-    "language": "en",
-    "sources": {
-      "youtube": "EU_-HOLAO00",
-      "swarm": "aa6d6e7ba3ef9a0a576c1e50d9bc9d281f727b159331ebfb7c5ce077666f6a92"
-    }
-  }
+  "resources_slides": "/resources/6/amplifying-consensus-participation-with-blockspace-markets.pdf",
+  "slot_start": 1665675000000,
+  "slot_end": 1665676800000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "EU_-HOLAO00",
+  "sources_swarmHash": "aa6d6e7ba3ef9a0a576c1e50d9bc9d281f727b159331ebfb7c5ce077666f6a92",
+  "duration": 1054,
+  "language": "en"
 }

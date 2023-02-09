@@ -16,13 +16,9 @@
     "joseph-lubin",
     "william-mougayar"
   ],
-  "media": {
-    "duration": 2487,
-    "language": "en",
-    "sources": {
-      "youtube": "IsIjUNuG4pw",
-      "ipfs": "QmPD82tUDcZWNTKGsBQaodVbg5FnxpKmzsoK6iJ1TJDZos",
-      "swarm": "edb5a139ab2e61762af6432fd787267ed3fa6512f388eb2c7b164e70f8dd9d5a"
-    }
-  }
+  "sources_youtubeId": "IsIjUNuG4pw",
+  "sources_ipfsHash": "QmPD82tUDcZWNTKGsBQaodVbg5FnxpKmzsoK6iJ1TJDZos",
+  "sources_swarmHash": "edb5a139ab2e61762af6432fd787267ed3fa6512f388eb2c7b164e70f8dd9d5a",
+  "duration": 2487,
+  "language": "en"
 }

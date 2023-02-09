@@ -16,27 +16,12 @@
   "speakers": [
     "paul-kohlhaas"
   ],
-  "resources": {
-    "slides": "/resources/6/smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665676800000,
-    "end": 1665684000000,
-    "length": 7200,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 4916,
-    "language": "en",
-    "sources": {
-      "youtube": "SNkd2o7cKOU",
-      "swarm": "35e7a043309cb419aeffef8dcc1c185feae8b873deb6c197f2ffd09647a1b764"
-    }
-  }
+  "resources_slides": "/resources/6/smart-contracts-and-petri-dishes-creating-a-shared-technical-infrastructure-roadmap-for-descentralised-science-desci-on-ethereum.pdf",
+  "slot_start": 1665676800000,
+  "slot_end": 1665684000000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "SNkd2o7cKOU",
+  "sources_swarmHash": "35e7a043309cb419aeffef8dcc1c185feae8b873deb6c197f2ffd09647a1b764",
+  "duration": 4916,
+  "language": "en"
 }

@@ -16,13 +16,9 @@
   "speakers": [
     "leonardo-alt"
   ],
-  "media": {
-    "duration": 1541,
-    "language": "en",
-    "sources": {
-      "youtube": "QQbWpN76HEg",
-      "ipfs": "Qmd27FhSnYYbgPyxMWyJr8w7LjXhmiD36Xu4x6fMU8ooRd",
-      "swarm": "f9de69a6561e67aaa72c9171a5c60e99697ed3279be23426e6ad72ab3e1bc906"
-    }
-  }
+  "sources_youtubeId": "QQbWpN76HEg",
+  "sources_ipfsHash": "Qmd27FhSnYYbgPyxMWyJr8w7LjXhmiD36Xu4x6fMU8ooRd",
+  "sources_swarmHash": "f9de69a6561e67aaa72c9171a5c60e99697ed3279be23426e6ad72ab3e1bc906",
+  "duration": 1541,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "josh-cincinnati"
   ],
-  "media": {
-    "duration": 1847,
-    "language": "en",
-    "sources": {
-      "youtube": "Bl8qdiJQ4Tc",
-      "ipfs": "QmVJ1RzF73u1M2qkvDpkA8hQDudb9qyDTyYB8iZgnoVr4s",
-      "swarm": "17a19749b8afc0bafd54b256754efb0e8469a6e2f544488a8175966093b47855"
-    }
-  }
+  "sources_youtubeId": "Bl8qdiJQ4Tc",
+  "sources_ipfsHash": "QmVJ1RzF73u1M2qkvDpkA8hQDudb9qyDTyYB8iZgnoVr4s",
+  "sources_swarmHash": "17a19749b8afc0bafd54b256754efb0e8469a6e2f544488a8175966093b47855",
+  "duration": 1847,
+  "language": "en"
 }

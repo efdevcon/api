@@ -13,13 +13,9 @@
   "speakers": [
     "niklas-kunkel"
   ],
-  "media": {
-    "duration": 1072,
-    "language": "en",
-    "sources": {
-      "youtube": "a38EiugxBdg",
-      "ipfs": "QmS9SacUQVFjWkAYNswFbRq4o5CCZQFqFoNQDRNDhHgHBk",
-      "swarm": "9765cb073eb42e0dc35777dcfd3d9cd2bbbf5425b88643988afea4a6d2bc120e"
-    }
-  }
+  "sources_youtubeId": "a38EiugxBdg",
+  "sources_ipfsHash": "QmS9SacUQVFjWkAYNswFbRq4o5CCZQFqFoNQDRNDhHgHBk",
+  "sources_swarmHash": "9765cb073eb42e0dc35777dcfd3d9cd2bbbf5425b88643988afea4a6d2bc120e",
+  "duration": 1072,
+  "language": "en"
 }

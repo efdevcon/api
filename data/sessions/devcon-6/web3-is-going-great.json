@@ -20,23 +20,10 @@
     "eda",
     "mauricio-tovar-moderator"
   ],
-  "slot": {
-    "start": 1665575100000,
-    "end": 1665577200000,
-    "length": 2100,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1845,
-    "language": "en",
-    "sources": {
-      "youtube": "oPPnAW7r6QQ"
-    }
-  }
+  "slot_start": 1665575100000,
+  "slot_end": 1665577200000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "oPPnAW7r6QQ",
+  "duration": 1845,
+  "language": "en"
 }

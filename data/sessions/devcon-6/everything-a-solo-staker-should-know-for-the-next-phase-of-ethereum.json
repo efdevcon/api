@@ -15,27 +15,12 @@
   "speakers": [
     "pol"
   ],
-  "resources": {
-    "slides": "/resources/6/everything-a-solo-staker-should-know-for-the-next-phase-of-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665496800000,
-    "end": 1665498300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1369,
-    "language": "en",
-    "sources": {
-      "youtube": "F-mlHOAtq2c",
-      "swarm": "93a04abe51acad4e639b2a9dfbd5f16cb4bfa3da260015dabb15dc7c79a875b3"
-    }
-  }
+  "resources_slides": "/resources/6/everything-a-solo-staker-should-know-for-the-next-phase-of-ethereum.pdf",
+  "slot_start": 1665496800000,
+  "slot_end": 1665498300000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "F-mlHOAtq2c",
+  "sources_swarmHash": "93a04abe51acad4e639b2a9dfbd5f16cb4bfa3da260015dabb15dc7c79a875b3",
+  "duration": 1369,
+  "language": "en"
 }

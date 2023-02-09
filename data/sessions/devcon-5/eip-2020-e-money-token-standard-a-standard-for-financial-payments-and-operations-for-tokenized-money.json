@@ -15,13 +15,9 @@
     "daniel-lehrner",
     "fernando-paris"
   ],
-  "media": {
-    "duration": 364,
-    "language": "en",
-    "sources": {
-      "youtube": "aqy1u3hRtsY",
-      "ipfs": "QmdJEPb2YWq9sKgKcTYEtchyEmfxHpxciR2mPmeDoVEqVw",
-      "swarm": "b696ad10f92e8ff9c6562670f4c80a2d7813d1503f481e7a4415e2862d58eff5"
-    }
-  }
+  "sources_youtubeId": "aqy1u3hRtsY",
+  "sources_ipfsHash": "QmdJEPb2YWq9sKgKcTYEtchyEmfxHpxciR2mPmeDoVEqVw",
+  "sources_swarmHash": "b696ad10f92e8ff9c6562670f4c80a2d7813d1503f481e7a4415e2862d58eff5",
+  "duration": 364,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "igor-yalovoy"
   ],
-  "resources": {
-    "slides": "/resources/6/unlimited-size-contracts-using-solidity.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665498600000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1886,
-    "language": "en",
-    "sources": {
-      "youtube": "XA19iX2J_4g",
-      "swarm": "3c34a6d0ed38e877005a5d07ed97479961abf88c5e54243203eb1503bad8632c"
-    }
-  }
+  "resources_slides": "/resources/6/unlimited-size-contracts-using-solidity.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665498600000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "XA19iX2J_4g",
+  "sources_swarmHash": "3c34a6d0ed38e877005a5d07ed97479961abf88c5e54243203eb1503bad8632c",
+  "duration": 1886,
+  "language": "en"
 }

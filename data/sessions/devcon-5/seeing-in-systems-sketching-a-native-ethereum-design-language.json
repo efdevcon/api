@@ -14,13 +14,9 @@
   "speakers": [
     "alexander-singh"
   ],
-  "media": {
-    "duration": 1106,
-    "language": "en",
-    "sources": {
-      "youtube": "X7tAzLm6_QA",
-      "ipfs": "QmdWcbuUUF24BnxuyN9oexkmmcicEhYKrPz1Zkz2SyPvad",
-      "swarm": "64d927c94e4aec33d074ff450df6dcc2861c20c7f667264575bdb71733ffa851"
-    }
-  }
+  "sources_youtubeId": "X7tAzLm6_QA",
+  "sources_ipfsHash": "QmdWcbuUUF24BnxuyN9oexkmmcicEhYKrPz1Zkz2SyPvad",
+  "sources_swarmHash": "64d927c94e4aec33d074ff450df6dcc2861c20c7f667264575bdb71733ffa851",
+  "duration": 1106,
+  "language": "en"
 }

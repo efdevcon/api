@@ -14,13 +14,9 @@
   "speakers": [
     "shane-fontaine"
   ],
-  "media": {
-    "duration": 1448,
-    "language": "en",
-    "sources": {
-      "youtube": "yAm8rDPcdrA",
-      "ipfs": "QmfAMTo6eW5PCRAMThp5iKaFK7Pm7jfUxQ9e2WbtRRe8r1",
-      "swarm": "fd3c096888737a12f24c8069674ae12cbdf3e00ff4e0042325179ace90ead1d4"
-    }
-  }
+  "sources_youtubeId": "yAm8rDPcdrA",
+  "sources_ipfsHash": "QmfAMTo6eW5PCRAMThp5iKaFK7Pm7jfUxQ9e2WbtRRe8r1",
+  "sources_swarmHash": "fd3c096888737a12f24c8069674ae12cbdf3e00ff4e0042325179ace90ead1d4",
+  "duration": 1448,
+  "language": "en"
 }

@@ -16,13 +16,9 @@
   "speakers": [
     "wei-tang"
   ],
-  "media": {
-    "duration": 785,
-    "language": "en",
-    "sources": {
-      "youtube": "A9KNNS_uxpM",
-      "ipfs": "QmbXaPT89XMwhNssoiGGX9JFqAQHTSdQkEfRjiZdV75dhm",
-      "swarm": "53c2f3669bc3ec19f23c92f7f8cf8db322dbb603c4567a549dc769630ec9f33b"
-    }
-  }
+  "sources_youtubeId": "A9KNNS_uxpM",
+  "sources_ipfsHash": "QmbXaPT89XMwhNssoiGGX9JFqAQHTSdQkEfRjiZdV75dhm",
+  "sources_swarmHash": "53c2f3669bc3ec19f23c92f7f8cf8db322dbb603c4567a549dc769630ec9f33b",
+  "duration": 785,
+  "language": "en"
 }

@@ -15,27 +15,12 @@
   "speakers": [
     "soy-fira"
   ],
-  "resources": {
-    "slides": "/resources/6/art-reflects-what-happens-in-society.pdf"
-  },
-  "slot": {
-    "start": 1665758400000,
-    "end": 1665759000000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 635,
-    "language": "en",
-    "sources": {
-      "youtube": "wZZPzMOuXVI",
-      "swarm": "d625e4d5fae9b8a36037f2b8d66c0bea567a5dcdc673110a06626be0f71d70d6"
-    }
-  }
+  "resources_slides": "/resources/6/art-reflects-what-happens-in-society.pdf",
+  "slot_start": 1665758400000,
+  "slot_end": 1665759000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "wZZPzMOuXVI",
+  "sources_swarmHash": "d625e4d5fae9b8a36037f2b8d66c0bea567a5dcdc673110a06626be0f71d70d6",
+  "duration": 635,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "theo-diamandis"
   ],
-  "resources": {
-    "slides": "/resources/6/a-mechanism-for-pricing-non-fungible-resources-toward-multi-dimensional-fee-markets.pdf"
-  },
-  "slot": {
-    "start": 1665759600000,
-    "end": 1665761100000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1697,
-    "language": "en",
-    "sources": {
-      "youtube": "h4c5FuTpIZk",
-      "swarm": "abf252b46c6b61ac2e09d8cbe0b960a578272c45169ee3067e3d32b2b2f0230f"
-    }
-  }
+  "resources_slides": "/resources/6/a-mechanism-for-pricing-non-fungible-resources-toward-multi-dimensional-fee-markets.pdf",
+  "slot_start": 1665759600000,
+  "slot_end": 1665761100000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "h4c5FuTpIZk",
+  "sources_swarmHash": "abf252b46c6b61ac2e09d8cbe0b960a578272c45169ee3067e3d32b2b2f0230f",
+  "duration": 1697,
+  "language": "en"
 }

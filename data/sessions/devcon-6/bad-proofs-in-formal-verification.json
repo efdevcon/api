@@ -16,27 +16,12 @@
   "speakers": [
     "uri-kirstein"
   ],
-  "resources": {
-    "slides": "/resources/6/bad-proofs-in-formal-verification.pdf"
-  },
-  "slot": {
-    "start": 1665590400000,
-    "end": 1665592200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1728,
-    "language": "en",
-    "sources": {
-      "youtube": "U-4D7tWLNNo",
-      "swarm": "ba54dafa6dba2cd66cbe3d3e0d83865a9ed085f309a54c890890ef523bd71c1a"
-    }
-  }
+  "resources_slides": "/resources/6/bad-proofs-in-formal-verification.pdf",
+  "slot_start": 1665590400000,
+  "slot_end": 1665592200000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "U-4D7tWLNNo",
+  "sources_swarmHash": "ba54dafa6dba2cd66cbe3d3e0d83865a9ed085f309a54c890890ef523bd71c1a",
+  "duration": 1728,
+  "language": "en"
 }

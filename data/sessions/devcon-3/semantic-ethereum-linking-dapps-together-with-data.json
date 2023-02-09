@@ -13,13 +13,9 @@
   "speakers": [
     "james-pitts"
   ],
-  "media": {
-    "duration": 1036,
-    "language": "en",
-    "sources": {
-      "youtube": "k1gQTNxSFB8",
-      "ipfs": "QmNr2BwkMwcDyFScuRVsrcjChmzSK6JrE5EWkWED476QFV",
-      "swarm": "f00c07aa9148be7092cb7d5a1fa4568b8fc7bb1220c10b253134433b92b772b0"
-    }
-  }
+  "sources_youtubeId": "k1gQTNxSFB8",
+  "sources_ipfsHash": "QmNr2BwkMwcDyFScuRVsrcjChmzSK6JrE5EWkWED476QFV",
+  "sources_swarmHash": "f00c07aa9148be7092cb7d5a1fa4568b8fc7bb1220c10b253134433b92b772b0",
+  "duration": 1036,
+  "language": "en"
 }

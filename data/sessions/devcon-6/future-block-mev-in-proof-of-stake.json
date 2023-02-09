@@ -16,27 +16,12 @@
   "speakers": [
     "torgin-mackinga"
   ],
-  "resources": {
-    "slides": "/resources/6/future-block-mev-in-proof-of-stake.pdf"
-  },
-  "slot": {
-    "start": 1665508200000,
-    "end": 1665508800000,
-    "length": 600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 359,
-    "language": "en",
-    "sources": {
-      "youtube": "rnR7puADz-o",
-      "swarm": "e3259d2f4ad4ad33e67e48829f2bfbe17831e41698978ac360a6c7334a5a0e00"
-    }
-  }
+  "resources_slides": "/resources/6/future-block-mev-in-proof-of-stake.pdf",
+  "slot_start": 1665508200000,
+  "slot_end": 1665508800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "rnR7puADz-o",
+  "sources_swarmHash": "e3259d2f4ad4ad33e67e48829f2bfbe17831e41698978ac360a6c7334a5a0e00",
+  "duration": 359,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "grant-passmore"
   ],
-  "media": {
-    "duration": 1210,
-    "language": "en",
-    "sources": {
-      "youtube": "xeg_Q5uN73Q",
-      "ipfs": "QmakJ296d58rELuSsujPsrrJiss2jHzLioQTj117dQXjKH",
-      "swarm": "9bdf05e02a070498dd2e4412fb47a8763a6e5681aa20955a997c04e85cec6519"
-    }
-  }
+  "sources_youtubeId": "xeg_Q5uN73Q",
+  "sources_ipfsHash": "QmakJ296d58rELuSsujPsrrJiss2jHzLioQTj117dQXjKH",
+  "sources_swarmHash": "9bdf05e02a070498dd2e4412fb47a8763a6e5681aa20955a997c04e85cec6519",
+  "duration": 1210,
+  "language": "en"
 }

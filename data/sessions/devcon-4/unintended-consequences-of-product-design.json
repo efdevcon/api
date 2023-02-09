@@ -16,13 +16,9 @@
   "speakers": [
     "taylor-monahan"
   ],
-  "media": {
-    "duration": 2011,
-    "language": "en",
-    "sources": {
-      "youtube": "ULU0yfpSsKk",
-      "ipfs": "QmSHpMPnzfSmneBoBUd2MQybjqXNLQ6ZYd3RSBoYwzCQh8",
-      "swarm": "3890ff52174153e731562265bc4b3c731f380134d344d8976dd74db330baf0b3"
-    }
-  }
+  "sources_youtubeId": "ULU0yfpSsKk",
+  "sources_ipfsHash": "QmSHpMPnzfSmneBoBUd2MQybjqXNLQ6ZYd3RSBoYwzCQh8",
+  "sources_swarmHash": "3890ff52174153e731562265bc4b3c731f380134d344d8976dd74db330baf0b3",
+  "duration": 2011,
+  "language": "en"
 }

@@ -18,27 +18,12 @@
     "ariah-klages-mundt",
     "lewis-gudgeon"
   ],
-  "resources": {
-    "slides": "/resources/6/security-risks-in-defi-delineating-technical-and-economic-security.pdf"
-  },
-  "slot": {
-    "start": 1665756000000,
-    "end": 1665757500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1667,
-    "language": "en",
-    "sources": {
-      "youtube": "1Gw0jb52plM",
-      "swarm": "61167efcbb7cadf64fd2471de7bb9661569c68b17e15f799425c4a5092595395"
-    }
-  }
+  "resources_slides": "/resources/6/security-risks-in-defi-delineating-technical-and-economic-security.pdf",
+  "slot_start": 1665756000000,
+  "slot_end": 1665757500000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "1Gw0jb52plM",
+  "sources_swarmHash": "61167efcbb7cadf64fd2471de7bb9661569c68b17e15f799425c4a5092595395",
+  "duration": 1667,
+  "language": "en"
 }

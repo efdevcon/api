@@ -17,13 +17,9 @@
     "chaals-neville",
     "charles-stlouis"
   ],
-  "media": {
-    "duration": 7013,
-    "language": "en",
-    "sources": {
-      "youtube": "zuUJ3J3SCEM",
-      "ipfs": "QmNtiYNdte85MhBhqv5hfWWXdP2Ksqc3GwmzpomEq5FzxC",
-      "swarm": "635295e7a82d6cac1e7bd8b5ed0fcce26318e0abdf64a8e658dea5172928216d"
-    }
-  }
+  "sources_youtubeId": "zuUJ3J3SCEM",
+  "sources_ipfsHash": "QmNtiYNdte85MhBhqv5hfWWXdP2Ksqc3GwmzpomEq5FzxC",
+  "sources_swarmHash": "635295e7a82d6cac1e7bd8b5ed0fcce26318e0abdf64a8e658dea5172928216d",
+  "duration": 7013,
+  "language": "en"
 }

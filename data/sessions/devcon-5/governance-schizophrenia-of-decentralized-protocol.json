@@ -16,13 +16,9 @@
   "speakers": [
     "dusan-kovacic"
   ],
-  "media": {
-    "duration": 1702,
-    "language": "en",
-    "sources": {
-      "youtube": "KRHlf4sCZJc",
-      "ipfs": "QmRBGCtktV7gXjhU3yU49qsgkx6qitL28e5Zo8yPg1P39W",
-      "swarm": "31c706caa9b6ef4c6f14cc8e40901bea826a13ff66101e3eac42c533f35a5b60"
-    }
-  }
+  "sources_youtubeId": "KRHlf4sCZJc",
+  "sources_ipfsHash": "QmRBGCtktV7gXjhU3yU49qsgkx6qitL28e5Zo8yPg1P39W",
+  "sources_swarmHash": "31c706caa9b6ef4c6f14cc8e40901bea826a13ff66101e3eac42c533f35a5b60",
+  "duration": 1702,
+  "language": "en"
 }

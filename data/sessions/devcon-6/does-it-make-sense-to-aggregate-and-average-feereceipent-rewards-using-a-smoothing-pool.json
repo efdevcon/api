@@ -16,27 +16,12 @@
   "speakers": [
     "ken-smith"
   ],
-  "resources": {
-    "slides": "/resources/6/does-it-make-sense-to-aggregate-and-average-feereceipent-rewards-using-a-smoothing-pool.pdf"
-  },
-  "slot": {
-    "start": 1665574200000,
-    "end": 1665576000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1368,
-    "language": "en",
-    "sources": {
-      "youtube": "2NU6pij2OzU",
-      "swarm": "492348e64bf9b97faa904c0aa12001e3d3a3067f3762f67427f346fe7eb7df82"
-    }
-  }
+  "resources_slides": "/resources/6/does-it-make-sense-to-aggregate-and-average-feereceipent-rewards-using-a-smoothing-pool.pdf",
+  "slot_start": 1665574200000,
+  "slot_end": 1665576000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "2NU6pij2OzU",
+  "sources_swarmHash": "492348e64bf9b97faa904c0aa12001e3d3a3067f3762f67427f346fe7eb7df82",
+  "duration": 1368,
+  "language": "en"
 }

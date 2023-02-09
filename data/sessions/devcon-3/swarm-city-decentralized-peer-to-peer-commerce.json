@@ -14,13 +14,9 @@
     "michael-thuy",
     "stefaan-ponnet"
   ],
-  "media": {
-    "duration": 1037,
-    "language": "en",
-    "sources": {
-      "youtube": "zLNUdmz9nog",
-      "ipfs": "QmPnwKmFn52Lcu8TGktaoZhuvuYF811ookm7YQDyuqZ5An",
-      "swarm": "9510605ae88fc992be08f33d2f9289b13669359e43cc7c6ff3ec72698c46ed02"
-    }
-  }
+  "sources_youtubeId": "zLNUdmz9nog",
+  "sources_ipfsHash": "QmPnwKmFn52Lcu8TGktaoZhuvuYF811ookm7YQDyuqZ5An",
+  "sources_swarmHash": "9510605ae88fc992be08f33d2f9289b13669359e43cc7c6ff3ec72698c46ed02",
+  "duration": 1037,
+  "language": "en"
 }

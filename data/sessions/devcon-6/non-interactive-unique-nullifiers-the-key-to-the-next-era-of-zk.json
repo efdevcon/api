@@ -16,27 +16,12 @@
   "speakers": [
     "aayush-gupta"
   ],
-  "resources": {
-    "slides": "/resources/6/non-interactive-unique-nullifiers-the-key-to-the-next-era-of-zk.pdf"
-  },
-  "slot": {
-    "start": 1665669600000,
-    "end": 1665671400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1390,
-    "language": "en",
-    "sources": {
-      "youtube": "dZKFG2i1gec",
-      "swarm": "c03386b8828a26bee4c9e214419ecc9471e7fb30b695268fa402bbfbf4777253"
-    }
-  }
+  "resources_slides": "/resources/6/non-interactive-unique-nullifiers-the-key-to-the-next-era-of-zk.pdf",
+  "slot_start": 1665669600000,
+  "slot_end": 1665671400000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "dZKFG2i1gec",
+  "sources_swarmHash": "c03386b8828a26bee4c9e214419ecc9471e7fb30b695268fa402bbfbf4777253",
+  "duration": 1390,
+  "language": "en"
 }

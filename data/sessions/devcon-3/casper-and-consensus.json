@@ -17,13 +17,9 @@
     "vlad-zamfir",
     "elaine-shi"
   ],
-  "media": {
-    "duration": 1915,
-    "language": "en",
-    "sources": {
-      "youtube": "2r2k6awEJr8",
-      "ipfs": "QmPJ8Fy6dNC5ALSjFxbhkBJxxg2Ftx5Eh1wDK5rvWwG1KE",
-      "swarm": "2e4a20f73f0739f643e3db12225d9e8ce8140170a60dc2d40015fdf3fa2fe8cc"
-    }
-  }
+  "sources_youtubeId": "2r2k6awEJr8",
+  "sources_ipfsHash": "QmPJ8Fy6dNC5ALSjFxbhkBJxxg2Ftx5Eh1wDK5rvWwG1KE",
+  "sources_swarmHash": "2e4a20f73f0739f643e3db12225d9e8ce8140170a60dc2d40015fdf3fa2fe8cc",
+  "duration": 1915,
+  "language": "en"
 }

@@ -16,13 +16,9 @@
   "speakers": [
     "mustafa-al-bassam"
   ],
-  "media": {
-    "duration": 1565,
-    "language": "en",
-    "sources": {
-      "youtube": "niqAo4dSLWw",
-      "ipfs": "QmVRJQwmY8x786VSPetPAfNUx5u5SQHUUK26bRRrvm6wGT",
-      "swarm": "9b0a532fd212a0ca09bdbbab15d70043f53e340751c47e20445fc2afc86ca703"
-    }
-  }
+  "sources_youtubeId": "niqAo4dSLWw",
+  "sources_ipfsHash": "QmVRJQwmY8x786VSPetPAfNUx5u5SQHUUK26bRRrvm6wGT",
+  "sources_swarmHash": "9b0a532fd212a0ca09bdbbab15d70043f53e340751c47e20445fc2afc86ca703",
+  "duration": 1565,
+  "language": "en"
 }

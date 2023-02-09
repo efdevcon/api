@@ -16,13 +16,9 @@
     "wei-jie-koh",
     "barry-whitehat"
   ],
-  "media": {
-    "duration": 1148,
-    "language": "en",
-    "sources": {
-      "youtube": "GzVT16lFOHU",
-      "ipfs": "QmexzfCyLca4XwjstsJ9cqEVVkjzzzvXmdK73DUww9hWrU",
-      "swarm": "d31be1615014a5b9f0f6cece52fb5b55f2061e628a1454c15935f198ebc84243"
-    }
-  }
+  "sources_youtubeId": "GzVT16lFOHU",
+  "sources_ipfsHash": "QmexzfCyLca4XwjstsJ9cqEVVkjzzzvXmdK73DUww9hWrU",
+  "sources_swarmHash": "d31be1615014a5b9f0f6cece52fb5b55f2061e628a1454c15935f198ebc84243",
+  "duration": 1148,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
     "antoine-rondelet",
     "michal-zajac"
   ],
-  "media": {
-    "duration": 1221,
-    "language": "en",
-    "sources": {
-      "youtube": "iWPnava8ojE",
-      "ipfs": "QmYe5i53Zsohw6rs6RdERSmXQeQvNskZSGyrBnVG8ELQFi",
-      "swarm": "82db6ecd119bf3a0a6821ac0f54538760bf124755ddcbe1a98243a35631bc89d"
-    }
-  }
+  "sources_youtubeId": "iWPnava8ojE",
+  "sources_ipfsHash": "QmYe5i53Zsohw6rs6RdERSmXQeQvNskZSGyrBnVG8ELQFi",
+  "sources_swarmHash": "82db6ecd119bf3a0a6821ac0f54538760bf124755ddcbe1a98243a35631bc89d",
+  "duration": 1221,
+  "language": "en"
 }

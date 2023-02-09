@@ -16,27 +16,12 @@
   "speakers": [
     "kevin-owocki"
   ],
-  "resources": {
-    "slides": "/resources/6/1-human-1-vote-money-legos-more-democratic-daos.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665498600000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3065,
-    "language": "en",
-    "sources": {
-      "youtube": "TRoO5fD7TI4",
-      "swarm": "e8caa4dd5a1d7a7c8edb7e71933031f29f7feadcea2d2ce017d30c0dceb97850"
-    }
-  }
+  "resources_slides": "/resources/6/1-human-1-vote-money-legos-more-democratic-daos.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665498600000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "TRoO5fD7TI4",
+  "sources_swarmHash": "e8caa4dd5a1d7a7c8edb7e71933031f29f7feadcea2d2ce017d30c0dceb97850",
+  "duration": 3065,
+  "language": "en"
 }

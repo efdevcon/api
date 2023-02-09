@@ -15,13 +15,9 @@
     "lev-livnev",
     "martin-lundfall"
   ],
-  "media": {
-    "duration": 3125,
-    "language": "en",
-    "sources": {
-      "youtube": "7wFbDWWkpzM",
-      "ipfs": "QmNQzLs9p3X5PbgmnP2RWoopGh7DH36CNgSDrYa7mU4MzF",
-      "swarm": "5cfaaa0cfafd375ed1a224ce63059d43b7b14009cd3f4e35fabd2c4b02da7ce7"
-    }
-  }
+  "sources_youtubeId": "7wFbDWWkpzM",
+  "sources_ipfsHash": "QmNQzLs9p3X5PbgmnP2RWoopGh7DH36CNgSDrYa7mU4MzF",
+  "sources_swarmHash": "5cfaaa0cfafd375ed1a224ce63059d43b7b14009cd3f4e35fabd2c4b02da7ce7",
+  "duration": 3125,
+  "language": "en"
 }

@@ -27,13 +27,9 @@
   "speakers": [
     "jan-xie"
   ],
-  "media": {
-    "duration": 909,
-    "language": "en",
-    "sources": {
-      "youtube": "qL0zk6RNRTk",
-      "ipfs": "QmQhq2zSwL85AgFDLGNF8kSZFn9yRe6C2bymK2HGCKbqEh",
-      "swarm": "0fa023b19a377410ca5031e757dba9071dbb75618bb1a2b314fdbfaac16cc9d4"
-    }
-  }
+  "sources_youtubeId": "qL0zk6RNRTk",
+  "sources_ipfsHash": "QmQhq2zSwL85AgFDLGNF8kSZFn9yRe6C2bymK2HGCKbqEh",
+  "sources_swarmHash": "0fa023b19a377410ca5031e757dba9071dbb75618bb1a2b314fdbfaac16cc9d4",
+  "duration": 909,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "fabian-vogelsteller"
   ],
-  "media": {
-    "duration": 1302,
-    "language": "en",
-    "sources": {
-      "youtube": "pkwYVagytuA",
-      "ipfs": "QmYj1sE23xwPzYB15NuvVaF4vmx8dSqnA7zhP1K3zqypAs",
-      "swarm": "eeef5c34a45c758e086e1e7f65b090f6328c9c359a7d80e20d247c32e895265c"
-    }
-  }
+  "sources_youtubeId": "pkwYVagytuA",
+  "sources_ipfsHash": "QmYj1sE23xwPzYB15NuvVaF4vmx8dSqnA7zhP1K3zqypAs",
+  "sources_swarmHash": "eeef5c34a45c758e086e1e7f65b090f6328c9c359a7d80e20d247c32e895265c",
+  "duration": 1302,
+  "language": "en"
 }

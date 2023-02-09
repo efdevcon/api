@@ -20,23 +20,10 @@
   "speakers": [
     "diego-losada"
   ],
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665658200000,
-    "length": 3000,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2744,
-    "language": "en",
-    "sources": {
-      "youtube": "lPjsXJX6skI"
-    }
-  }
+  "slot_start": 1665655200000,
+  "slot_end": 1665658200000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "lPjsXJX6skI",
+  "duration": 2744,
+  "language": "en"
 }

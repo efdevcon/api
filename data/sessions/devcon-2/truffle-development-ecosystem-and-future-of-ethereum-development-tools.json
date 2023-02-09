@@ -26,13 +26,9 @@
   "speakers": [
     "tim-coulter"
   ],
-  "media": {
-    "duration": 569,
-    "language": "en",
-    "sources": {
-      "youtube": "k3LFURkxTAU",
-      "ipfs": "QmWpCp242nd86Yw2DEr8LYKZ2QVYivg1wAhmPDVF94FQXT",
-      "swarm": "c5a4c4963313f75eef61d1f71b683e8f3a30ce44edfda19557c320726866814a"
-    }
-  }
+  "sources_youtubeId": "k3LFURkxTAU",
+  "sources_ipfsHash": "QmWpCp242nd86Yw2DEr8LYKZ2QVYivg1wAhmPDVF94FQXT",
+  "sources_swarmHash": "c5a4c4963313f75eef61d1f71b683e8f3a30ce44edfda19557c320726866814a",
+  "duration": 569,
+  "language": "en"
 }

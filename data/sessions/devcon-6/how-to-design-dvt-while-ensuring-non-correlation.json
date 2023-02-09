@@ -17,27 +17,12 @@
     "collin-myers",
     "oisin-kyne"
   ],
-  "resources": {
-    "slides": "/resources/6/how-to-design-dvt-while-ensuring-non-correlation.pdf"
-  },
-  "slot": {
-    "start": 1665660600000,
-    "end": 1665662400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1386,
-    "language": "en",
-    "sources": {
-      "youtube": "ZbTerJXs23E",
-      "swarm": "99fa65dfb9c41db123ce3acf5c08ef36613d968612caa0bfe28799dff8fe99e9"
-    }
-  }
+  "resources_slides": "/resources/6/how-to-design-dvt-while-ensuring-non-correlation.pdf",
+  "slot_start": 1665660600000,
+  "slot_end": 1665662400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "ZbTerJXs23E",
+  "sources_swarmHash": "99fa65dfb9c41db123ce3acf5c08ef36613d968612caa0bfe28799dff8fe99e9",
+  "duration": 1386,
+  "language": "en"
 }

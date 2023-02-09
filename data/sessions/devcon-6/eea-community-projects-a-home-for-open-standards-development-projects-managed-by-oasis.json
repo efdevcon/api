@@ -16,27 +16,12 @@
     "tas-dienes",
     "daniel-burnett"
   ],
-  "resources": {
-    "slides": "/resources/6/eea-community-projects-a-home-for-open-standards-development-projects-managed-by-oasis.pdf"
-  },
-  "slot": {
-    "start": 1665510600000,
-    "end": 1665511200000,
-    "length": 600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 582,
-    "language": "en",
-    "sources": {
-      "youtube": "sIK5XuuvKh8",
-      "swarm": "b937f0d7dfb41a463b9767964caa0c15a7f830f0e3dca0bd1b0ff22c341b616b"
-    }
-  }
+  "resources_slides": "/resources/6/eea-community-projects-a-home-for-open-standards-development-projects-managed-by-oasis.pdf",
+  "slot_start": 1665510600000,
+  "slot_end": 1665511200000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "sIK5XuuvKh8",
+  "sources_swarmHash": "b937f0d7dfb41a463b9767964caa0c15a7f830f0e3dca0bd1b0ff22c341b616b",
+  "duration": 582,
+  "language": "en"
 }

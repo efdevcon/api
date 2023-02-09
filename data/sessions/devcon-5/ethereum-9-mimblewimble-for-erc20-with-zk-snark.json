@@ -14,13 +14,9 @@
   "speakers": [
     "wanseob-lim"
   ],
-  "media": {
-    "duration": 1130,
-    "language": "en",
-    "sources": {
-      "youtube": "5LRh9iDb1sw",
-      "ipfs": "QmRPAZ6kpnRMRoNsovU1my53GhSSTE2FQM39E4DkwdQajc",
-      "swarm": "f1660512f61de715363ef66bfd567eb50d84e9e122c46ee5c76aec845630d8f1"
-    }
-  }
+  "sources_youtubeId": "5LRh9iDb1sw",
+  "sources_ipfsHash": "QmRPAZ6kpnRMRoNsovU1my53GhSSTE2FQM39E4DkwdQajc",
+  "sources_swarmHash": "f1660512f61de715363ef66bfd567eb50d84e9e122c46ee5c76aec845630d8f1",
+  "duration": 1130,
+  "language": "en"
 }

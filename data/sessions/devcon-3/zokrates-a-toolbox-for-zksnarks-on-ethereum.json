@@ -13,13 +13,9 @@
   "speakers": [
     "jacob-eberhardt"
   ],
-  "media": {
-    "duration": 1015,
-    "language": "en",
-    "sources": {
-      "youtube": "sSlrywb5J_0",
-      "ipfs": "QmVsYC3bMktfFMLEhJDNmDqfCtkH5pgtvrs8VyY1zpdt8g",
-      "swarm": "4baa05c43bf6b4a7c1917d008d590c0afe02cb84c80e735537cb3813f96996de"
-    }
-  }
+  "sources_youtubeId": "sSlrywb5J_0",
+  "sources_ipfsHash": "QmVsYC3bMktfFMLEhJDNmDqfCtkH5pgtvrs8VyY1zpdt8g",
+  "sources_swarmHash": "4baa05c43bf6b4a7c1917d008d590c0afe02cb84c80e735537cb3813f96996de",
+  "duration": 1015,
+  "language": "en"
 }

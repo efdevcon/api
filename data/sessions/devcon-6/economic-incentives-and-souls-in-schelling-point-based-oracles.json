@@ -16,27 +16,12 @@
   "speakers": [
     "william-george"
   ],
-  "resources": {
-    "slides": "/resources/6/economic-incentives-and-souls-in-schelling-point-based-oracles.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665743100000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1456,
-    "language": "en",
-    "sources": {
-      "youtube": "KKpVzdUvXE0",
-      "swarm": "90ec51f4378f2218c00ce95ca03985111cbefc1fe3316daeb7677f28c31ea7a1"
-    }
-  }
+  "resources_slides": "/resources/6/economic-incentives-and-souls-in-schelling-point-based-oracles.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665743100000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "KKpVzdUvXE0",
+  "sources_swarmHash": "90ec51f4378f2218c00ce95ca03985111cbefc1fe3316daeb7677f28c31ea7a1",
+  "duration": 1456,
+  "language": "en"
 }

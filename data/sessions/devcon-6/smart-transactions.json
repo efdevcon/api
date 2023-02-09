@@ -16,27 +16,12 @@
   "speakers": [
     "vlad-zamfir"
   ],
-  "resources": {
-    "slides": "/resources/6/smart-transactions.pdf"
-  },
-  "slot": {
-    "start": 1665504000000,
-    "end": 1665505500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1593,
-    "language": "en",
-    "sources": {
-      "youtube": "dS3NRPu5L9s",
-      "swarm": "3cda3eeaa55a9acbbfc7bba48337363eeb1c94247ed92883f71ca979ccd58e8b"
-    }
-  }
+  "resources_slides": "/resources/6/smart-transactions.pdf",
+  "slot_start": 1665504000000,
+  "slot_end": 1665505500000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "dS3NRPu5L9s",
+  "sources_swarmHash": "3cda3eeaa55a9acbbfc7bba48337363eeb1c94247ed92883f71ca979ccd58e8b",
+  "duration": 1593,
+  "language": "en"
 }

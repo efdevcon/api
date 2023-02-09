@@ -29,13 +29,9 @@
   "speakers": [
     "vitalik-buterin"
   ],
-  "media": {
-    "duration": 1601,
-    "language": "en",
-    "sources": {
-      "youtube": "bSdwqa3Yl0Q",
-      "ipfs": "QmWhBc3ZoFWDRYGC8oFu3BS7RpcpKnFyXF6HhbAhDf8U8C",
-      "swarm": "18212f47118564203ad5bf66b7a06d68e626d606113f08f844e86451aded4093"
-    }
-  }
+  "sources_youtubeId": "bSdwqa3Yl0Q",
+  "sources_ipfsHash": "QmWhBc3ZoFWDRYGC8oFu3BS7RpcpKnFyXF6HhbAhDf8U8C",
+  "sources_swarmHash": "18212f47118564203ad5bf66b7a06d68e626d606113f08f844e86451aded4093",
+  "duration": 1601,
+  "language": "en"
 }

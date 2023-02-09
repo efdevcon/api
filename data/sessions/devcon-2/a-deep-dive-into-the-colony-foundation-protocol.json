@@ -33,13 +33,9 @@
     "aron-fischer",
     "elena-dimitrova"
   ],
-  "media": {
-    "duration": 869,
-    "language": "en",
-    "sources": {
-      "youtube": "zSF5fGPG4Ro",
-      "ipfs": "Qmc73hXeAAGEuzppap4cmnpX1d9MUMXucxdt5Eh2oBbtXJ",
-      "swarm": "da0fc7d36e40b8326be08c4e8e91db5ae96c66d4574a1dad8fd8522fd46092e5"
-    }
-  }
+  "sources_youtubeId": "zSF5fGPG4Ro",
+  "sources_ipfsHash": "Qmc73hXeAAGEuzppap4cmnpX1d9MUMXucxdt5Eh2oBbtXJ",
+  "sources_swarmHash": "da0fc7d36e40b8326be08c4e8e91db5ae96c66d4574a1dad8fd8522fd46092e5",
+  "duration": 869,
+  "language": "en"
 }

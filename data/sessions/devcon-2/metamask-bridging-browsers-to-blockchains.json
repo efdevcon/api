@@ -24,13 +24,9 @@
   "speakers": [
     "aaron-davis"
   ],
-  "media": {
-    "duration": 867,
-    "language": "en",
-    "sources": {
-      "youtube": "EIc4UmRmQSg",
-      "ipfs": "QmYzYJxu9DabFM6meph8zreLNewnfTX66N6VZ82aZek7F3",
-      "swarm": "e70b0d35c269cff5128cd181e624893122c7cd8148c143c73d27240725ac921d"
-    }
-  }
+  "sources_youtubeId": "EIc4UmRmQSg",
+  "sources_ipfsHash": "QmYzYJxu9DabFM6meph8zreLNewnfTX66N6VZ82aZek7F3",
+  "sources_swarmHash": "e70b0d35c269cff5128cd181e624893122c7cd8148c143c73d27240725ac921d",
+  "duration": 867,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
   "speakers": [
     "alejandro-machado"
   ],
-  "media": {
-    "duration": 382,
-    "language": "en",
-    "sources": {
-      "youtube": "B-45JJhgCFo",
-      "ipfs": "QmPyen3BcmY7xgBGevysHDn86agFwrQTwJscKZXDZ6upgo",
-      "swarm": "fcf63a9274e9c33dc98c172c261babaf5ac0533c094b097fe6668964f9642ca3"
-    }
-  }
+  "sources_youtubeId": "B-45JJhgCFo",
+  "sources_ipfsHash": "QmPyen3BcmY7xgBGevysHDn86agFwrQTwJscKZXDZ6upgo",
+  "sources_swarmHash": "fcf63a9274e9c33dc98c172c261babaf5ac0533c094b097fe6668964f9642ca3",
+  "duration": 382,
+  "language": "en"
 }

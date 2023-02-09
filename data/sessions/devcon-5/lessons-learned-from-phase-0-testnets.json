@@ -16,13 +16,9 @@
   "speakers": [
     "preston-van-loon"
   ],
-  "media": {
-    "duration": 1045,
-    "language": "en",
-    "sources": {
-      "youtube": "ljpM2cgTLMM",
-      "ipfs": "Qmd7ZT3W98DwpsZT2TZWLpcjSmvur7vbp5rdqtgtsN7Ri3",
-      "swarm": "bfda86da04482cf2a900e0d9252f5589ee6919646af4534179bb3227a44761a4"
-    }
-  }
+  "sources_youtubeId": "ljpM2cgTLMM",
+  "sources_ipfsHash": "Qmd7ZT3W98DwpsZT2TZWLpcjSmvur7vbp5rdqtgtsN7Ri3",
+  "sources_swarmHash": "bfda86da04482cf2a900e0d9252f5589ee6919646af4534179bb3227a44761a4",
+  "duration": 1045,
+  "language": "en"
 }

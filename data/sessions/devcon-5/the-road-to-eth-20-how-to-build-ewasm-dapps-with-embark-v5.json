@@ -18,13 +18,9 @@
     "pascal-precht",
     "richard-ramos"
   ],
-  "media": {
-    "duration": 2626,
-    "language": "en",
-    "sources": {
-      "youtube": "t2LgFXxcFtc",
-      "ipfs": "QmQnbm36MntwUHNrzTv7pcsRThJcNTyzsURZzu3VxbKdLu",
-      "swarm": "f4e70f6d197792f37f8f65a98e0a240f93016e14381117bdd7eaf7a6bf2ee3d6"
-    }
-  }
+  "sources_youtubeId": "t2LgFXxcFtc",
+  "sources_ipfsHash": "QmQnbm36MntwUHNrzTv7pcsRThJcNTyzsURZzu3VxbKdLu",
+  "sources_swarmHash": "f4e70f6d197792f37f8f65a98e0a240f93016e14381117bdd7eaf7a6bf2ee3d6",
+  "duration": 2626,
+  "language": "en"
 }

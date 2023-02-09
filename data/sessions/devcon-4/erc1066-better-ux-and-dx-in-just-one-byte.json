@@ -15,13 +15,9 @@
   "speakers": [
     "brooklyn-zelenka"
   ],
-  "media": {
-    "duration": 1223,
-    "language": "en",
-    "sources": {
-      "youtube": "N_QdraCtsMc",
-      "ipfs": "QmZZUhE9CNqq7FyhbrMYTXuxDCY7pfsKvufHoLbzwhsYNP",
-      "swarm": "8e79d22880d9acd163fba59ba3f67c5ca2ed18d247cf73fbeff53c9053a0dd2f"
-    }
-  }
+  "sources_youtubeId": "N_QdraCtsMc",
+  "sources_ipfsHash": "QmZZUhE9CNqq7FyhbrMYTXuxDCY7pfsKvufHoLbzwhsYNP",
+  "sources_swarmHash": "8e79d22880d9acd163fba59ba3f67c5ca2ed18d247cf73fbeff53c9053a0dd2f",
+  "duration": 1223,
+  "language": "en"
 }

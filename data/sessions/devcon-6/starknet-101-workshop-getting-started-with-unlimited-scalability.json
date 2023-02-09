@@ -17,23 +17,10 @@
     "omar-espejel",
     "henri"
   ],
-  "slot": {
-    "start": 1665590400000,
-    "end": 1665594000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3010,
-    "language": "en",
-    "sources": {
-      "youtube": "W0809SF6lFA"
-    }
-  }
+  "slot_start": 1665590400000,
+  "slot_end": 1665594000000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "W0809SF6lFA",
+  "duration": 3010,
+  "language": "en"
 }

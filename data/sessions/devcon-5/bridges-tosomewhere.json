@@ -18,13 +18,9 @@
     "justin-drake",
     "joseph-schweitzer"
   ],
-  "media": {
-    "duration": 2430,
-    "language": "en",
-    "sources": {
-      "youtube": "Z-LNbnfDHfk",
-      "ipfs": "QmPHnoqMWatzwLTBU5PuQYeBApA8S97qX6uSBRnxHFffuz",
-      "swarm": "f10c823c25ed09ee2b5979040e2356485f26165306f35a533da578cccfe477cf"
-    }
-  }
+  "sources_youtubeId": "Z-LNbnfDHfk",
+  "sources_ipfsHash": "QmPHnoqMWatzwLTBU5PuQYeBApA8S97qX6uSBRnxHFffuz",
+  "sources_swarmHash": "f10c823c25ed09ee2b5979040e2356485f26165306f35a533da578cccfe477cf",
+  "duration": 2430,
+  "language": "en"
 }

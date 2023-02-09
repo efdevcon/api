@@ -15,24 +15,11 @@
   "speakers": [
     "will-villanueva"
   ],
-  "slot": {
-    "start": 1665754200000,
-    "end": 1665755700000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1354,
-    "language": "en",
-    "sources": {
-      "youtube": "DeF2q-8zL1o",
-      "swarm": "80ceee6fcd708959bbb7f9c2527e5b36e9b26cd6ead54b0a6d90721872afb729"
-    }
-  }
+  "slot_start": 1665754200000,
+  "slot_end": 1665755700000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "DeF2q-8zL1o",
+  "sources_swarmHash": "80ceee6fcd708959bbb7f9c2527e5b36e9b26cd6ead54b0a6d90721872afb729",
+  "duration": 1354,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "alex-vinyas"
   ],
-  "resources": {
-    "slides": "/resources/6/the-fight-for-mev.pdf"
-  },
-  "slot": {
-    "start": 1665572400000,
-    "end": 1665574200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1604,
-    "language": "en",
-    "sources": {
-      "youtube": "w8H6z9Z4ZZg",
-      "swarm": "49eb365b1b79d570782aaeb29d85cd68114546a96ee9cbdeb3478247d8b7c67a"
-    }
-  }
+  "resources_slides": "/resources/6/the-fight-for-mev.pdf",
+  "slot_start": 1665572400000,
+  "slot_end": 1665574200000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "w8H6z9Z4ZZg",
+  "sources_swarmHash": "49eb365b1b79d570782aaeb29d85cd68114546a96ee9cbdeb3478247d8b7c67a",
+  "duration": 1604,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "yaron-velner"
   ],
-  "media": {
-    "duration": 1224,
-    "language": "en",
-    "sources": {
-      "youtube": "W1mmbBYOclc",
-      "ipfs": "QmT4RDkP1t2jy8Cf7f6nRTVxreiYvVFevxu3my9EU5UbWm",
-      "swarm": "fe1fd21b7e05d6a4cd32c24707ea40962a7ce0e818974fd78d3b775d8489fbc2"
-    }
-  }
+  "sources_youtubeId": "W1mmbBYOclc",
+  "sources_ipfsHash": "QmT4RDkP1t2jy8Cf7f6nRTVxreiYvVFevxu3my9EU5UbWm",
+  "sources_swarmHash": "fe1fd21b7e05d6a4cd32c24707ea40962a7ce0e818974fd78d3b775d8489fbc2",
+  "duration": 1224,
+  "language": "en"
 }

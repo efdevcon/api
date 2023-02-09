@@ -15,13 +15,9 @@
     "shuhei-hiya",
     "yuriko-nishijima"
   ],
-  "media": {
-    "duration": 1312,
-    "language": "en",
-    "sources": {
-      "youtube": "ylVkoa_hUe0",
-      "ipfs": "QmP1XQMkgAFVFL3YwzmptnLrWCVHcEWun6HYuvJcCBugiL",
-      "swarm": "d2c711a4791de6b7ef5519e4cf0ea063184cf82b439ec0752b7d4448d0d6dfcf"
-    }
-  }
+  "sources_youtubeId": "ylVkoa_hUe0",
+  "sources_ipfsHash": "QmP1XQMkgAFVFL3YwzmptnLrWCVHcEWun6HYuvJcCBugiL",
+  "sources_swarmHash": "d2c711a4791de6b7ef5519e4cf0ea063184cf82b439ec0752b7d4448d0d6dfcf",
+  "duration": 1312,
+  "language": "en"
 }

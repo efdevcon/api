@@ -14,13 +14,9 @@
   "speakers": [
     "mudit-gupta"
   ],
-  "media": {
-    "duration": 208,
-    "language": "en",
-    "sources": {
-      "youtube": "z7NruBa2yFc",
-      "ipfs": "QmVGHQEefFH2fSseHHap6ayckceBWunECzGfqieGCfiiGA",
-      "swarm": "5bf6e64bc609753f0651cfe965e793f62a43c7e06099cf9068caac6e9cf3f1a9"
-    }
-  }
+  "sources_youtubeId": "z7NruBa2yFc",
+  "sources_ipfsHash": "QmVGHQEefFH2fSseHHap6ayckceBWunECzGfqieGCfiiGA",
+  "sources_swarmHash": "5bf6e64bc609753f0651cfe965e793f62a43c7e06099cf9068caac6e9cf3f1a9",
+  "duration": 208,
+  "language": "en"
 }

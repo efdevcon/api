@@ -16,27 +16,12 @@
     "tarun-chitra",
     "guillermo-angeris"
   ],
-  "resources": {
-    "slides": "/resources/6/cost-of-feudalism-towards-a-theory-of-mev.pdf"
-  },
-  "slot": {
-    "start": 1665588600000,
-    "end": 1665590400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1805,
-    "language": "en",
-    "sources": {
-      "youtube": "6JA4_5QWG0s",
-      "swarm": "4d26575763ab1e0a28d34bc213bb3413647973ac2ea20ad2987f27b6cab08cbe"
-    }
-  }
+  "resources_slides": "/resources/6/cost-of-feudalism-towards-a-theory-of-mev.pdf",
+  "slot_start": 1665588600000,
+  "slot_end": 1665590400000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "6JA4_5QWG0s",
+  "sources_swarmHash": "4d26575763ab1e0a28d34bc213bb3413647973ac2ea20ad2987f27b6cab08cbe",
+  "duration": 1805,
+  "language": "en"
 }

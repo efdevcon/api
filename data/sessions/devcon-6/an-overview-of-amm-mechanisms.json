@@ -16,27 +16,12 @@
   "speakers": [
     "matt-deible"
   ],
-  "resources": {
-    "slides": "/resources/6/an-overview-of-amm-mechanisms.pdf"
-  },
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665570300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1607,
-    "language": "en",
-    "sources": {
-      "youtube": "KxuyHfmLHP0",
-      "swarm": "7a3af6af8d7987973275516c65ba4686243ef0bf3525753dd92458c165bb304a"
-    }
-  }
+  "resources_slides": "/resources/6/an-overview-of-amm-mechanisms.pdf",
+  "slot_start": 1665568800000,
+  "slot_end": 1665570300000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "KxuyHfmLHP0",
+  "sources_swarmHash": "7a3af6af8d7987973275516c65ba4686243ef0bf3525753dd92458c165bb304a",
+  "duration": 1607,
+  "language": "en"
 }

@@ -18,27 +18,12 @@
     "marina-markezic",
     "simon-polrot"
   ],
-  "resources": {
-    "slides": "/resources/6/the-influence-of-crypto-regulation-on-open-blockchains-opportunities-and-challenges.pdf"
-  },
-  "slot": {
-    "start": 1665586800000,
-    "end": 1665588300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1877,
-    "language": "en",
-    "sources": {
-      "youtube": "5ay_nVdXAiI",
-      "swarm": "97eda295c15289702c6115c771b495252b59ee9c276c9037624c576a35043068"
-    }
-  }
+  "resources_slides": "/resources/6/the-influence-of-crypto-regulation-on-open-blockchains-opportunities-and-challenges.pdf",
+  "slot_start": 1665586800000,
+  "slot_end": 1665588300000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "5ay_nVdXAiI",
+  "sources_swarmHash": "97eda295c15289702c6115c771b495252b59ee9c276c9037624c576a35043068",
+  "duration": 1877,
+  "language": "en"
 }

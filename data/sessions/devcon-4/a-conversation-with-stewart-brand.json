@@ -14,13 +14,9 @@
   "speakers": [
     "stewart-brand"
   ],
-  "media": {
-    "duration": 3034,
-    "language": "en",
-    "sources": {
-      "youtube": "oLGZdLpHl1w",
-      "ipfs": "QmNdYkjrya3DWTGxoyyeB751phmfkESyMRnoQZHezbZktm",
-      "swarm": "fcb72c55b03fa10e5463b01ae9700eebc8135eb62be2c492f2c641e8315fdc69"
-    }
-  }
+  "sources_youtubeId": "oLGZdLpHl1w",
+  "sources_ipfsHash": "QmNdYkjrya3DWTGxoyyeB751phmfkESyMRnoQZHezbZktm",
+  "sources_swarmHash": "fcb72c55b03fa10e5463b01ae9700eebc8135eb62be2c492f2c641e8315fdc69",
+  "duration": 3034,
+  "language": "en"
 }

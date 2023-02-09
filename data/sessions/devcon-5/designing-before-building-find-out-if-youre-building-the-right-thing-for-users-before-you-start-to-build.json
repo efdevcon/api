@@ -14,13 +14,9 @@
     "charlie-ellington",
     "andrej-ktitarev"
   ],
-  "media": {
-    "duration": 1437,
-    "language": "en",
-    "sources": {
-      "youtube": "TcZpkmw5ABU",
-      "ipfs": "QmSbVu8YvaLADuzmKPCnmvWzfwSD2Dq71pQ1Y8gWpTw5i3",
-      "swarm": "27d8e311e7b89a386636303a5579b41b89a578b0c8a30dad889a94774084eb50"
-    }
-  }
+  "sources_youtubeId": "TcZpkmw5ABU",
+  "sources_ipfsHash": "QmSbVu8YvaLADuzmKPCnmvWzfwSD2Dq71pQ1Y8gWpTw5i3",
+  "sources_swarmHash": "27d8e311e7b89a386636303a5579b41b89a578b0c8a30dad889a94774084eb50",
+  "duration": 1437,
+  "language": "en"
 }

@@ -24,13 +24,9 @@
     "lane-rettig",
     "jared-wasinger"
   ],
-  "media": {
-    "duration": 2528,
-    "language": "en",
-    "sources": {
-      "youtube": "W4T4Q_SUQt0",
-      "ipfs": "QmQkfRoZJSP6LQmM13jL3GPg4SoiBjPWqLcPGzRhWFmfR1",
-      "swarm": "29dfd1879615995bfdc149097796013e9c1e6154c00dfa67ecefceadb4967ab5"
-    }
-  }
+  "sources_youtubeId": "W4T4Q_SUQt0",
+  "sources_ipfsHash": "QmQkfRoZJSP6LQmM13jL3GPg4SoiBjPWqLcPGzRhWFmfR1",
+  "sources_swarmHash": "29dfd1879615995bfdc149097796013e9c1e6154c00dfa67ecefceadb4967ab5",
+  "duration": 2528,
+  "language": "en"
 }

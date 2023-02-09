@@ -14,13 +14,9 @@
   "speakers": [
     "cory-doctorow"
   ],
-  "media": {
-    "duration": 3028,
-    "language": "en",
-    "sources": {
-      "youtube": "fbvEerKOcYs",
-      "ipfs": "QmaRpPXyc1VhwFGdXjnCiNumCyZS9SUXyzAkoYHQN38DU3",
-      "swarm": "100690990e02bc67e3acf2fd224beeea09df57d4825ef8c669d4ca762e0e1295"
-    }
-  }
+  "sources_youtubeId": "fbvEerKOcYs",
+  "sources_ipfsHash": "QmaRpPXyc1VhwFGdXjnCiNumCyZS9SUXyzAkoYHQN38DU3",
+  "sources_swarmHash": "100690990e02bc67e3acf2fd224beeea09df57d4825ef8c669d4ca762e0e1295",
+  "duration": 3028,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "nicolas-bacca"
   ],
-  "media": {
-    "duration": 1111,
-    "language": "en",
-    "sources": {
-      "youtube": "0W6pqQhcs6E",
-      "ipfs": "QmeyScvDSxFD2MRC8xFaCbP8m2LktWe9xrG2t7MK6xV1te",
-      "swarm": "ea16fe35e1f6a5e5ac2085ef7a0bfbc67a102773479def1ded93511d9e049655"
-    }
-  }
+  "sources_youtubeId": "0W6pqQhcs6E",
+  "sources_ipfsHash": "QmeyScvDSxFD2MRC8xFaCbP8m2LktWe9xrG2t7MK6xV1te",
+  "sources_swarmHash": "ea16fe35e1f6a5e5ac2085ef7a0bfbc67a102773479def1ded93511d9e049655",
+  "duration": 1111,
+  "language": "en"
 }

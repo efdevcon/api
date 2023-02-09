@@ -17,27 +17,12 @@
     "dan-shaw",
     "daniel-burnett"
   ],
-  "resources": {
-    "slides": "/resources/6/ethereum-business-readiness-in-2022.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665493200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1657,
-    "language": "en",
-    "sources": {
-      "youtube": "iCpKnYIBTGU",
-      "swarm": "93fd40876d3b0142254db94f8c884a8ceea03fc6287453ddb2b3581cbf588776"
-    }
-  }
+  "resources_slides": "/resources/6/ethereum-business-readiness-in-2022.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665493200000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "iCpKnYIBTGU",
+  "sources_swarmHash": "93fd40876d3b0142254db94f8c884a8ceea03fc6287453ddb2b3581cbf588776",
+  "duration": 1657,
+  "language": "en"
 }

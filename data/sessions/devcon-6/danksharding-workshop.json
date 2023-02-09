@@ -21,26 +21,11 @@
     "protolambda",
     "francesco"
   ],
-  "resources": {
-    "slides": "/resources/6/danksharding-workshop.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665748800000,
-    "length": 7200,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 8457,
-    "language": "en",
-    "sources": {
-      "youtube": "8L2C6RDMV9Q"
-    }
-  }
+  "resources_slides": "/resources/6/danksharding-workshop.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665748800000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "8L2C6RDMV9Q",
+  "duration": 8457,
+  "language": "en"
 }

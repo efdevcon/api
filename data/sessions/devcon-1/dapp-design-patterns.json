@@ -13,13 +13,9 @@
   "speakers": [
     "joris-bontje"
   ],
-  "media": {
-    "duration": 1160,
-    "language": "en",
-    "sources": {
-      "youtube": "XkJ8mg-R7C0",
-      "ipfs": "QmP2gext6fvHQCi5Yzx6u9yiWhXWX1aMYfFqxXsfzfQefM",
-      "swarm": "c175e8a4d70e027107daf62f8ec0ec262e59eba31122a4f98f82daffa30e822c"
-    }
-  }
+  "sources_youtubeId": "XkJ8mg-R7C0",
+  "sources_ipfsHash": "QmP2gext6fvHQCi5Yzx6u9yiWhXWX1aMYfFqxXsfzfQefM",
+  "sources_swarmHash": "c175e8a4d70e027107daf62f8ec0ec262e59eba31122a4f98f82daffa30e822c",
+  "duration": 1160,
+  "language": "en"
 }

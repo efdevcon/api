@@ -26,13 +26,9 @@
   "speakers": [
     "greg-colvin"
   ],
-  "media": {
-    "duration": 741,
-    "language": "en",
-    "sources": {
-      "youtube": "p30mjDMhmlE",
-      "ipfs": "QmcGjifvJB8C7G82k1TobZ9UfDyExE95QnGAsXSFJeqrGQ",
-      "swarm": "760f11653dec423bb88f7b8a53ddd7ec2c9d5389205a251fd8be67304d856def"
-    }
-  }
+  "sources_youtubeId": "p30mjDMhmlE",
+  "sources_ipfsHash": "QmcGjifvJB8C7G82k1TobZ9UfDyExE95QnGAsXSFJeqrGQ",
+  "sources_swarmHash": "760f11653dec423bb88f7b8a53ddd7ec2c9d5389205a251fd8be67304d856def",
+  "duration": 741,
+  "language": "en"
 }

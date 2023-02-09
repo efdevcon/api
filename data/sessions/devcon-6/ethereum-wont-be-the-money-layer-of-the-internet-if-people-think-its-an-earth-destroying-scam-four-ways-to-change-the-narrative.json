@@ -16,27 +16,12 @@
   "speakers": [
     "james-beck"
   ],
-  "resources": {
-    "slides": "/resources/6/ethereum-wont-be-the-money-layer-of-the-internet-if-people-think-its-an-earth-destroying-scam-four-ways-to-change-the-narrative.pdf"
-  },
-  "slot": {
-    "start": 1665588600000,
-    "end": 1665590400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1678,
-    "language": "en",
-    "sources": {
-      "youtube": "25WV3gAXJqA",
-      "swarm": "8653c5a1bd2d54d7182934eca50897edbf18c1319cd5cb7aa96f747550e1866a"
-    }
-  }
+  "resources_slides": "/resources/6/ethereum-wont-be-the-money-layer-of-the-internet-if-people-think-its-an-earth-destroying-scam-four-ways-to-change-the-narrative.pdf",
+  "slot_start": 1665588600000,
+  "slot_end": 1665590400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "25WV3gAXJqA",
+  "sources_swarmHash": "8653c5a1bd2d54d7182934eca50897edbf18c1319cd5cb7aa96f747550e1866a",
+  "duration": 1678,
+  "language": "en"
 }

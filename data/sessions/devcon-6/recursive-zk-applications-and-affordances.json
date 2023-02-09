@@ -16,27 +16,12 @@
     "ying-tong",
     "nalin-bhardwaj"
   ],
-  "resources": {
-    "slides": "/resources/6/recursive-zk-applications-and-affordances.pdf"
-  },
-  "slot": {
-    "start": 1665595800000,
-    "end": 1665597600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1487,
-    "language": "en",
-    "sources": {
-      "youtube": "VmYpbFxBdtM",
-      "swarm": "116356b3acb12fa6b84416b02752ca14e29e48e3281a57892290eb395b372e78"
-    }
-  }
+  "resources_slides": "/resources/6/recursive-zk-applications-and-affordances.pdf",
+  "slot_start": 1665595800000,
+  "slot_end": 1665597600000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "VmYpbFxBdtM",
+  "sources_swarmHash": "116356b3acb12fa6b84416b02752ca14e29e48e3281a57892290eb395b372e78",
+  "duration": 1487,
+  "language": "en"
 }

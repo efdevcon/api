@@ -13,13 +13,9 @@
   "speakers": [
     "roman-mandeleil"
   ],
-  "media": {
-    "duration": 1278,
-    "language": "en",
-    "sources": {
-      "youtube": "uNnshJQF4x8",
-      "ipfs": "QmW7mHbw7bvpuht2NGeFYRJG6doTxgrJXT2zWxfJkbfxqR",
-      "swarm": "a5273f145f7cda13206049fd5e492f4ce664af9f0684b0f315faca46f77686d7"
-    }
-  }
+  "sources_youtubeId": "uNnshJQF4x8",
+  "sources_ipfsHash": "QmW7mHbw7bvpuht2NGeFYRJG6doTxgrJXT2zWxfJkbfxqR",
+  "sources_swarmHash": "a5273f145f7cda13206049fd5e492f4ce664af9f0684b0f315faca46f77686d7",
+  "duration": 1278,
+  "language": "en"
 }

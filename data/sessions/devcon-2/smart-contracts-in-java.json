@@ -27,13 +27,9 @@
   "speakers": [
     "david-roon"
   ],
-  "media": {
-    "duration": 939,
-    "language": "en",
-    "sources": {
-      "youtube": "KWeNSvori4I",
-      "ipfs": "QmRSpUthQg6me9863is5Ck6jNokEDT94zaGFqufYL2vRra",
-      "swarm": "99d1307327a1cc8f8488e28737d008ab5208641bb4df5648130d9e9d0c032e3c"
-    }
-  }
+  "sources_youtubeId": "KWeNSvori4I",
+  "sources_ipfsHash": "QmRSpUthQg6me9863is5Ck6jNokEDT94zaGFqufYL2vRra",
+  "sources_swarmHash": "99d1307327a1cc8f8488e28737d008ab5208641bb4df5648130d9e9d0c032e3c",
+  "duration": 939,
+  "language": "en"
 }

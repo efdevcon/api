@@ -14,13 +14,9 @@
     "everton-fraga",
     "victor-maia"
   ],
-  "media": {
-    "duration": 2048,
-    "language": "en",
-    "sources": {
-      "youtube": "69vkfHKyAGY",
-      "ipfs": "QmTKFJjHJEkZHKZ5YSGoAUtDpc5i34kHwKYR99aZyFhywr",
-      "swarm": "66ed001f0367ecfceec51dbd8c8ce3e70b09d0bbddebf4f1cb1d9e1f5846e3dd"
-    }
-  }
+  "sources_youtubeId": "69vkfHKyAGY",
+  "sources_ipfsHash": "QmTKFJjHJEkZHKZ5YSGoAUtDpc5i34kHwKYR99aZyFhywr",
+  "sources_swarmHash": "66ed001f0367ecfceec51dbd8c8ce3e70b09d0bbddebf4f1cb1d9e1f5846e3dd",
+  "duration": 2048,
+  "language": "en"
 }

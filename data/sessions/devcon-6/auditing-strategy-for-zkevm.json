@@ -14,23 +14,10 @@
   "speakers": [
     "barry-whitehat"
   ],
-  "slot": {
-    "start": 1665682200000,
-    "end": 1665684000000,
-    "length": 1800,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2290,
-    "language": "en",
-    "sources": {
-      "youtube": "WJewE8fdlmU"
-    }
-  }
+  "slot_start": 1665682200000,
+  "slot_end": 1665684000000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "WJewE8fdlmU",
+  "duration": 2290,
+  "language": "en"
 }

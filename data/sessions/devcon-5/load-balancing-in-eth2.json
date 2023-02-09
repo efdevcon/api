@@ -15,13 +15,9 @@
   "speakers": [
     "joe-delong"
   ],
-  "media": {
-    "duration": 724,
-    "language": "en",
-    "sources": {
-      "youtube": "QELHMKInjj0",
-      "ipfs": "QmU4nKvxn4N17bpdJ2xwMe9G9NgN1VPZJgq9kX3M1cU2ux",
-      "swarm": "538717f37df36aeb64074b3b25f457f6d7a957e7b4ce7ba06d198d8151091964"
-    }
-  }
+  "sources_youtubeId": "QELHMKInjj0",
+  "sources_ipfsHash": "QmU4nKvxn4N17bpdJ2xwMe9G9NgN1VPZJgq9kX3M1cU2ux",
+  "sources_swarmHash": "538717f37df36aeb64074b3b25f457f6d7a957e7b4ce7ba06d198d8151091964",
+  "duration": 724,
+  "language": "en"
 }

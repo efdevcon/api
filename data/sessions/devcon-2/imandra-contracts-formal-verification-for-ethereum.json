@@ -24,13 +24,9 @@
     "grant-passmore",
     "evgeny-gokhberg"
   ],
-  "media": {
-    "duration": 927,
-    "language": "en",
-    "sources": {
-      "youtube": "ejHOff-WYtw",
-      "ipfs": "QmeM3v56ExuoQ1J4m6nw1rFWFykwg8LJGYsSARQkWFQ4vJ",
-      "swarm": "c212ebc310899ca3c73e77ae130ee495d1fe7d9513b9964382d4c8652db0b8bf"
-    }
-  }
+  "sources_youtubeId": "ejHOff-WYtw",
+  "sources_ipfsHash": "QmeM3v56ExuoQ1J4m6nw1rFWFykwg8LJGYsSARQkWFQ4vJ",
+  "sources_swarmHash": "c212ebc310899ca3c73e77ae130ee495d1fe7d9513b9964382d4c8652db0b8bf",
+  "duration": 927,
+  "language": "en"
 }

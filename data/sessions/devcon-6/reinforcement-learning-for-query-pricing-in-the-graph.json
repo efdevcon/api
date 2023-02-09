@@ -16,27 +16,12 @@
   "speakers": [
     "tomasz-kornuta"
   ],
-  "resources": {
-    "slides": "/resources/6/reinforcement-learning-for-query-pricing-in-the-graph.pdf"
-  },
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665570600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1655,
-    "language": "en",
-    "sources": {
-      "youtube": "LRl9uFfmjEs",
-      "swarm": "ba0a5cc935cdeb5c7477670747030f43f646403a7f60af46c0b6c3229eb65724"
-    }
-  }
+  "resources_slides": "/resources/6/reinforcement-learning-for-query-pricing-in-the-graph.pdf",
+  "slot_start": 1665568800000,
+  "slot_end": 1665570600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "LRl9uFfmjEs",
+  "sources_swarmHash": "ba0a5cc935cdeb5c7477670747030f43f646403a7f60af46c0b6c3229eb65724",
+  "duration": 1655,
+  "language": "en"
 }

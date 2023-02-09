@@ -33,13 +33,9 @@
     "alex-van-de-sande",
     "gavin-wood"
   ],
-  "media": {
-    "duration": 2765,
-    "language": "en",
-    "sources": {
-      "youtube": "BUARih8_f68",
-      "ipfs": "QmPHHhsBadvDsJ3rd7zyG7oshUfxe1hyRJa8W5ATTku5bL",
-      "swarm": "efabf2c7398f174679e3b0dbb739748c5a5a76d892f1ef3796f279e0ca2a3e0e"
-    }
-  }
+  "sources_youtubeId": "BUARih8_f68",
+  "sources_ipfsHash": "QmPHHhsBadvDsJ3rd7zyG7oshUfxe1hyRJa8W5ATTku5bL",
+  "sources_swarmHash": "efabf2c7398f174679e3b0dbb739748c5a5a76d892f1ef3796f279e0ca2a3e0e",
+  "duration": 2765,
+  "language": "en"
 }

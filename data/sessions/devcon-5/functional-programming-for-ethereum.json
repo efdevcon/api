@@ -16,13 +16,9 @@
     "kristoffer-josefsson",
     "irakli-safareli"
   ],
-  "media": {
-    "duration": 2654,
-    "language": "en",
-    "sources": {
-      "youtube": "QO0Nu2XFLwg",
-      "ipfs": "Qmdm6EM8mMyc8DkgK1M4x8G4ySbuCmJF1yaeuLoPVfki6B",
-      "swarm": "c8481ee50662c51b27df3b22198430bc25516729867552664c073604c76f0bc6"
-    }
-  }
+  "sources_youtubeId": "QO0Nu2XFLwg",
+  "sources_ipfsHash": "Qmdm6EM8mMyc8DkgK1M4x8G4ySbuCmJF1yaeuLoPVfki6B",
+  "sources_swarmHash": "c8481ee50662c51b27df3b22198430bc25516729867552664c073604c76f0bc6",
+  "duration": 2654,
+  "language": "en"
 }

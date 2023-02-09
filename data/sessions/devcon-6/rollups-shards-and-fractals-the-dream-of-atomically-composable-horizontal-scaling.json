@@ -16,27 +16,12 @@
   "speakers": [
     "norswap"
   ],
-  "resources": {
-    "slides": "/resources/6/rollups-shards-and-fractals-the-dream-of-atomically-composable-horizontal-scaling.pdf"
-  },
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665657000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1337,
-    "language": "en",
-    "sources": {
-      "youtube": "AIkavv9wlQs",
-      "swarm": "ad6d55eb1e2f0c53ca349134645cee113550661ba10134da21d329226c1670cb"
-    }
-  }
+  "resources_slides": "/resources/6/rollups-shards-and-fractals-the-dream-of-atomically-composable-horizontal-scaling.pdf",
+  "slot_start": 1665655200000,
+  "slot_end": 1665657000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "AIkavv9wlQs",
+  "sources_swarmHash": "ad6d55eb1e2f0c53ca349134645cee113550661ba10134da21d329226c1670cb",
+  "duration": 1337,
+  "language": "en"
 }

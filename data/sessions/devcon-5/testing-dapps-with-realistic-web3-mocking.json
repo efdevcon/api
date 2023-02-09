@@ -14,13 +14,9 @@
   "speakers": [
     "daenam-kim"
   ],
-  "media": {
-    "duration": 290,
-    "language": "en",
-    "sources": {
-      "youtube": "qyvq9-dPMH4",
-      "ipfs": "QmSL9Zfz11xtVV1DrKMYVRiMV4kZiNJLKwaNoCHFXkgHx9",
-      "swarm": "ccee3125c05da5bffcb9a78d8125985f2097b35d70469373f672359235e5ad2a"
-    }
-  }
+  "sources_youtubeId": "qyvq9-dPMH4",
+  "sources_ipfsHash": "QmSL9Zfz11xtVV1DrKMYVRiMV4kZiNJLKwaNoCHFXkgHx9",
+  "sources_swarmHash": "ccee3125c05da5bffcb9a78d8125985f2097b35d70469373f672359235e5ad2a",
+  "duration": 290,
+  "language": "en"
 }

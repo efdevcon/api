@@ -13,13 +13,9 @@
   "speakers": [
     "wendell-davis"
   ],
-  "media": {
-    "duration": 231,
-    "language": "en",
-    "sources": {
-      "youtube": "4jGqmlA4KEY",
-      "ipfs": "QmQErCzzBdwTi1qpARmnWyZWN86rn8PveVCByR2dyW4Bhn",
-      "swarm": "89744ac1d17501c66f8017a4fcf868ecd32797ab2ae6db5bb33addae9ca6ecd0"
-    }
-  }
+  "sources_youtubeId": "4jGqmlA4KEY",
+  "sources_ipfsHash": "QmQErCzzBdwTi1qpARmnWyZWN86rn8PveVCByR2dyW4Bhn",
+  "sources_swarmHash": "89744ac1d17501c66f8017a4fcf868ecd32797ab2ae6db5bb33addae9ca6ecd0",
+  "duration": 231,
+  "language": "en"
 }

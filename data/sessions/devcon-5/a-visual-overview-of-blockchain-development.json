@@ -14,13 +14,9 @@
   "speakers": [
     "felipe-faraggi"
   ],
-  "media": {
-    "duration": 391,
-    "language": "en",
-    "sources": {
-      "youtube": "iONPGPbByWU",
-      "ipfs": "QmcBwQTqiNzkVWdo5SPmeR58t6kDLrLsueejRsT1VzKSmk",
-      "swarm": "efde25a9fbc0acdbdc24aa0c14fb04c6e38e2fd0eb62f2622a4794f70081b612"
-    }
-  }
+  "sources_youtubeId": "iONPGPbByWU",
+  "sources_ipfsHash": "QmcBwQTqiNzkVWdo5SPmeR58t6kDLrLsueejRsT1VzKSmk",
+  "sources_swarmHash": "efde25a9fbc0acdbdc24aa0c14fb04c6e38e2fd0eb62f2622a4794f70081b612",
+  "duration": 391,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
     "iuri-matias",
     "richard-ramos"
   ],
-  "media": {
-    "duration": 440,
-    "language": "en",
-    "sources": {
-      "youtube": "8KPWoDgvVd0",
-      "ipfs": "QmSEDkmHxAfC9NV7sfpoqirv9QQuf6REkq9FQtR9GSQ1EE",
-      "swarm": "e5147c1f26aa51cf1285b9b03bb9109721c51652f9ddb5752531ca1b28637537"
-    }
-  }
+  "sources_youtubeId": "8KPWoDgvVd0",
+  "sources_ipfsHash": "QmSEDkmHxAfC9NV7sfpoqirv9QQuf6REkq9FQtR9GSQ1EE",
+  "sources_swarmHash": "e5147c1f26aa51cf1285b9b03bb9109721c51652f9ddb5752531ca1b28637537",
+  "duration": 440,
+  "language": "en"
 }

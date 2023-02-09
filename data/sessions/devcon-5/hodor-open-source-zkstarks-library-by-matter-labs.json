@@ -15,13 +15,9 @@
     "konstantin-panarin",
     "alexander-vlasov"
   ],
-  "media": {
-    "duration": 4831,
-    "language": "en",
-    "sources": {
-      "youtube": "a6Cx650qnDk",
-      "ipfs": "QmSfjLMWA3DTxeZMAb7wNWmXY4DEEcy144QyurWSwD5FmP",
-      "swarm": "4ce8cac6a5b7819ea026ddcbd97582de515604afbe471357734ea01d5eaf3659"
-    }
-  }
+  "sources_youtubeId": "a6Cx650qnDk",
+  "sources_ipfsHash": "QmSfjLMWA3DTxeZMAb7wNWmXY4DEEcy144QyurWSwD5FmP",
+  "sources_swarmHash": "4ce8cac6a5b7819ea026ddcbd97582de515604afbe471357734ea01d5eaf3659",
+  "duration": 4831,
+  "language": "en"
 }

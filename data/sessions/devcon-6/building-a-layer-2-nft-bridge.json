@@ -16,24 +16,11 @@
   "speakers": [
     "daniel-zachary-goldman"
   ],
-  "slot": {
-    "start": 1665658800000,
-    "end": 1665662400000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3027,
-    "language": "en",
-    "sources": {
-      "youtube": "7fyyaPuPtW0",
-      "swarm": "556f4c0c1d232267af4231f2cd013fcf98ea1ca3e5e55edf1e0d5c7e34b21dd1"
-    }
-  }
+  "slot_start": 1665658800000,
+  "slot_end": 1665662400000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "7fyyaPuPtW0",
+  "sources_swarmHash": "556f4c0c1d232267af4231f2cd013fcf98ea1ca3e5e55edf1e0d5c7e34b21dd1",
+  "duration": 3027,
+  "language": "en"
 }

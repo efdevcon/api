@@ -16,27 +16,12 @@
   "speakers": [
     "chih-cheng-liang"
   ],
-  "resources": {
-    "slides": "/resources/6/little-things-ive-learned-in-developing-halo2-circuits.pdf"
-  },
-  "slot": {
-    "start": 1665509400000,
-    "end": 1665511200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1819,
-    "language": "en",
-    "sources": {
-      "youtube": "wSfkpJDq8AI",
-      "swarm": "d89f0154f82f1eacede341418f9a3679462f7a7386a94261467603ebd012dad6"
-    }
-  }
+  "resources_slides": "/resources/6/little-things-ive-learned-in-developing-halo2-circuits.pdf",
+  "slot_start": 1665509400000,
+  "slot_end": 1665511200000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "wSfkpJDq8AI",
+  "sources_swarmHash": "d89f0154f82f1eacede341418f9a3679462f7a7386a94261467603ebd012dad6",
+  "duration": 1819,
+  "language": "en"
 }

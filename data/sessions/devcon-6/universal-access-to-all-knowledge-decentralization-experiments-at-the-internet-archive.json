@@ -16,26 +16,11 @@
   "speakers": [
     "arkadiy-kukarkin"
   ],
-  "resources": {
-    "slides": "/resources/6/universal-access-to-all-knowledge-decentralization-experiments-at-the-internet-archive.pdf"
-  },
-  "slot": {
-    "start": 1665756000000,
-    "end": 1665757800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1442,
-    "language": "en",
-    "sources": {
-      "youtube": "-StPz14N034"
-    }
-  }
+  "resources_slides": "/resources/6/universal-access-to-all-knowledge-decentralization-experiments-at-the-internet-archive.pdf",
+  "slot_start": 1665756000000,
+  "slot_end": 1665757800000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "-StPz14N034",
+  "duration": 1442,
+  "language": "en"
 }

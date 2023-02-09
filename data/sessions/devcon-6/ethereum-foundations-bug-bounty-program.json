@@ -16,27 +16,12 @@
   "speakers": [
     "fredrik-svantes"
   ],
-  "resources": {
-    "slides": "/resources/6/ethereum-foundations-bug-bounty-program.pdf"
-  },
-  "slot": {
-    "start": 1665681600000,
-    "end": 1665682200000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 464,
-    "language": "en",
-    "sources": {
-      "youtube": "H_CajBEoDLs",
-      "swarm": "3045590e68dd1f2a172fdec806fe602ddbf55bb79479663c052f98811f89816c"
-    }
-  }
+  "resources_slides": "/resources/6/ethereum-foundations-bug-bounty-program.pdf",
+  "slot_start": 1665681600000,
+  "slot_end": 1665682200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "H_CajBEoDLs",
+  "sources_swarmHash": "3045590e68dd1f2a172fdec806fe602ddbf55bb79479663c052f98811f89816c",
+  "duration": 464,
+  "language": "en"
 }

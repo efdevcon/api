@@ -13,13 +13,9 @@
   "speakers": [
     "ryan-cordell"
   ],
-  "media": {
-    "duration": 2937,
-    "language": "en",
-    "sources": {
-      "youtube": "dXrPDSoQ8TQ",
-      "ipfs": "QmbXZrWG1nqVyfT2XCJ9sJMwiV2GskhFsfUgr2WJRFou1M",
-      "swarm": "6071f32b22c662f2ed36bfa1230955afb57231d79bbd5e1f015a212bba189d7a"
-    }
-  }
+  "sources_youtubeId": "dXrPDSoQ8TQ",
+  "sources_ipfsHash": "QmbXZrWG1nqVyfT2XCJ9sJMwiV2GskhFsfUgr2WJRFou1M",
+  "sources_swarmHash": "6071f32b22c662f2ed36bfa1230955afb57231d79bbd5e1f015a212bba189d7a",
+  "duration": 2937,
+  "language": "en"
 }

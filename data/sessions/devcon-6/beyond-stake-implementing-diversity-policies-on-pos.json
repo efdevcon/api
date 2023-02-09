@@ -15,27 +15,12 @@
   "speakers": [
     "klaus-kursawe"
   ],
-  "resources": {
-    "slides": "/resources/6/beyond-stake-implementing-diversity-policies-on-pos.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665496800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1512,
-    "language": "en",
-    "sources": {
-      "youtube": "LA3rY_IR7kk",
-      "swarm": "fa619bbf86605d3fa91ff3d40d84e3c168a4ee7a3b584f6991decb6a4d9bb869"
-    }
-  }
+  "resources_slides": "/resources/6/beyond-stake-implementing-diversity-policies-on-pos.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665496800000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "LA3rY_IR7kk",
+  "sources_swarmHash": "fa619bbf86605d3fa91ff3d40d84e3c168a4ee7a3b584f6991decb6a4d9bb869",
+  "duration": 1512,
+  "language": "en"
 }

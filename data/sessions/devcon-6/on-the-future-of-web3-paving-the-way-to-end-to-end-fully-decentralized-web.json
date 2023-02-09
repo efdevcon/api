@@ -15,27 +15,12 @@
   "speakers": [
     "qi-zhou"
   ],
-  "resources": {
-    "slides": "/resources/6/on-the-future-of-web3-paving-the-way-to-end-to-end-fully-decentralized-web.pdf"
-  },
-  "slot": {
-    "start": 1665747000000,
-    "end": 1665747600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 446,
-    "language": "en",
-    "sources": {
-      "youtube": "rRI-3RV_JHw",
-      "swarm": "260f134a26db1f1c6e100c31438c404b5b734b62bbc952fa60f7fde6b9402077"
-    }
-  }
+  "resources_slides": "/resources/6/on-the-future-of-web3-paving-the-way-to-end-to-end-fully-decentralized-web.pdf",
+  "slot_start": 1665747000000,
+  "slot_end": 1665747600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "rRI-3RV_JHw",
+  "sources_swarmHash": "260f134a26db1f1c6e100c31438c404b5b734b62bbc952fa60f7fde6b9402077",
+  "duration": 446,
+  "language": "en"
 }

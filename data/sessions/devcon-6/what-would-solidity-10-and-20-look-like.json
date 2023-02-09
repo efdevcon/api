@@ -14,27 +14,12 @@
   "speakers": [
     "alex-beregszaszi"
   ],
-  "resources": {
-    "slides": "/resources/6/what-would-solidity-10-and-20-look-like.pdf"
-  },
-  "slot": {
-    "start": 1665673200000,
-    "end": 1665675000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1499,
-    "language": "en",
-    "sources": {
-      "youtube": "qsN3-FF6K6k",
-      "swarm": "6d576d20f5b26ba2f5ef5ea73a75b205f70486b2c01bc7b54fc175033241ed11"
-    }
-  }
+  "resources_slides": "/resources/6/what-would-solidity-10-and-20-look-like.pdf",
+  "slot_start": 1665673200000,
+  "slot_end": 1665675000000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "qsN3-FF6K6k",
+  "sources_swarmHash": "6d576d20f5b26ba2f5ef5ea73a75b205f70486b2c01bc7b54fc175033241ed11",
+  "duration": 1499,
+  "language": "en"
 }

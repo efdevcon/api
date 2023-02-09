@@ -16,13 +16,9 @@
   "speakers": [
     "philipp-langhans"
   ],
-  "media": {
-    "duration": 1442,
-    "language": "en",
-    "sources": {
-      "youtube": "2o00m4HEapQ",
-      "ipfs": "QmfTqgkuXUAE33eLRGwsQqMDAbArT3rNdC5bZgeRgJQyZW",
-      "swarm": "bd18c8e6667802bc1167d2ccd4e8de82f6ea3a2badbdc050268a9367527a7f1f"
-    }
-  }
+  "sources_youtubeId": "2o00m4HEapQ",
+  "sources_ipfsHash": "QmfTqgkuXUAE33eLRGwsQqMDAbArT3rNdC5bZgeRgJQyZW",
+  "sources_swarmHash": "bd18c8e6667802bc1167d2ccd4e8de82f6ea3a2badbdc050268a9367527a7f1f",
+  "duration": 1442,
+  "language": "en"
 }

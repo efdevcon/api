@@ -13,13 +13,9 @@
   "speakers": [
     "matt-spoke"
   ],
-  "media": {
-    "duration": 1245,
-    "language": "en",
-    "sources": {
-      "youtube": "RELXo6tm2h0",
-      "ipfs": "Qma9Ryqq7ypkqmbSzGxvAmxKKHKAtHJH7FHnmLNJZajuAy",
-      "swarm": "983844650d45251a4c4517109ac58af334f8806099f3357aa6698d3d1ce3aa25"
-    }
-  }
+  "sources_youtubeId": "RELXo6tm2h0",
+  "sources_ipfsHash": "Qma9Ryqq7ypkqmbSzGxvAmxKKHKAtHJH7FHnmLNJZajuAy",
+  "sources_swarmHash": "983844650d45251a4c4517109ac58af334f8806099f3357aa6698d3d1ce3aa25",
+  "duration": 1245,
+  "language": "en"
 }

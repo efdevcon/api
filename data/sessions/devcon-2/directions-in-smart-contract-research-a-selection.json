@@ -27,13 +27,9 @@
   "speakers": [
     "philip-daian"
   ],
-  "media": {
-    "duration": 972,
-    "language": "en",
-    "sources": {
-      "youtube": "voyespPGQZI",
-      "ipfs": "QmZDT8JEdMnDk5qnC6PVs7HtSrZRjkVFe26pmbWxNVKtQX",
-      "swarm": "b4db8f59d363039773111d3df1900ccb44fca03a6b407334221f54e583607456"
-    }
-  }
+  "sources_youtubeId": "voyespPGQZI",
+  "sources_ipfsHash": "QmZDT8JEdMnDk5qnC6PVs7HtSrZRjkVFe26pmbWxNVKtQX",
+  "sources_swarmHash": "b4db8f59d363039773111d3df1900ccb44fca03a6b407334221f54e583607456",
+  "duration": 972,
+  "language": "en"
 }

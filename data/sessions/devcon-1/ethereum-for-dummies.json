@@ -13,13 +13,9 @@
   "speakers": [
     "gavin-wood"
   ],
-  "media": {
-    "duration": 1432,
-    "language": "en",
-    "sources": {
-      "youtube": "U_LK0t_qaPo",
-      "ipfs": "QmbohvDpm4QwzTf44Uy9EJa2aEVRxZGjjDL1gX6nocZfLJ",
-      "swarm": "5a4f1cde25c724775046055f3bc8184bbd7fc4bed2702a80e70046cf5000b707"
-    }
-  }
+  "sources_youtubeId": "U_LK0t_qaPo",
+  "sources_ipfsHash": "QmbohvDpm4QwzTf44Uy9EJa2aEVRxZGjjDL1gX6nocZfLJ",
+  "sources_swarmHash": "5a4f1cde25c724775046055f3bc8184bbd7fc4bed2702a80e70046cf5000b707",
+  "duration": 1432,
+  "language": "en"
 }

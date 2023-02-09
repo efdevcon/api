@@ -16,27 +16,12 @@
   "speakers": [
     "pablo-voorvaart"
   ],
-  "resources": {
-    "slides": "/resources/6/streameth-decentralized-video-cms.pdf"
-  },
-  "slot": {
-    "start": 1665590400000,
-    "end": 1665591900000,
-    "length": 1500,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1374,
-    "language": "en",
-    "sources": {
-      "youtube": "Up3pKJKvsAE",
-      "swarm": "8996a055d8bcd75e9dabf1c065eda4da548b9befe4425c94f12f246ab3e21813"
-    }
-  }
+  "resources_slides": "/resources/6/streameth-decentralized-video-cms.pdf",
+  "slot_start": 1665590400000,
+  "slot_end": 1665591900000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Up3pKJKvsAE",
+  "sources_swarmHash": "8996a055d8bcd75e9dabf1c065eda4da548b9befe4425c94f12f246ab3e21813",
+  "duration": 1374,
+  "language": "en"
 }

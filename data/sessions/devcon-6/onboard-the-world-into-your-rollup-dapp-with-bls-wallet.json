@@ -16,27 +16,12 @@
   "speakers": [
     "jacob-caban-tomski"
   ],
-  "resources": {
-    "slides": "/resources/6/onboard-the-world-into-your-rollup-dapp-with-bls-wallet.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665493200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1729,
-    "language": "en",
-    "sources": {
-      "youtube": "1pHDHhQ6Ip4",
-      "swarm": "9b7869b17b9224268018c11c5380d00649e6304e8c8a5731c33d4c08c60c868d"
-    }
-  }
+  "resources_slides": "/resources/6/onboard-the-world-into-your-rollup-dapp-with-bls-wallet.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665493200000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "1pHDHhQ6Ip4",
+  "sources_swarmHash": "9b7869b17b9224268018c11c5380d00649e6304e8c8a5731c33d4c08c60c868d",
+  "duration": 1729,
+  "language": "en"
 }

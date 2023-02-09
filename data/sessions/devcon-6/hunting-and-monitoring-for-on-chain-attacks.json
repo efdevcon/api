@@ -17,27 +17,12 @@
     "christian-seifert",
     "dmitry-gusakov"
   ],
-  "resources": {
-    "slides": "/resources/6/hunting-and-monitoring-for-on-chain-attacks.pdf"
-  },
-  "slot": {
-    "start": 1665673200000,
-    "end": 1665680400000,
-    "length": 7200,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 6075,
-    "language": "en",
-    "sources": {
-      "youtube": "G4esm_AQOOc",
-      "swarm": "507d0d917932d9e85dab0926dfa600df14a4afb1fa82c7f12ee9c6369cf9bd9d"
-    }
-  }
+  "resources_slides": "/resources/6/hunting-and-monitoring-for-on-chain-attacks.pdf",
+  "slot_start": 1665673200000,
+  "slot_end": 1665680400000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "G4esm_AQOOc",
+  "sources_swarmHash": "507d0d917932d9e85dab0926dfa600df14a4afb1fa82c7f12ee9c6369cf9bd9d",
+  "duration": 6075,
+  "language": "en"
 }

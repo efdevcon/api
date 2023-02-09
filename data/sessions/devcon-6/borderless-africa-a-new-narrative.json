@@ -16,27 +16,12 @@
   "speakers": [
     "yoseph-ayele"
   ],
-  "resources": {
-    "slides": "/resources/6/borderless-africa-a-new-narrative.pdf"
-  },
-  "slot": {
-    "start": 1665657000000,
-    "end": 1665658800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1477,
-    "language": "en",
-    "sources": {
-      "youtube": "9X6HqcuL2Zk",
-      "swarm": "2537e8e784f362907ef9c702a6de79105251f76742a51aab5dbf857169b8e923"
-    }
-  }
+  "resources_slides": "/resources/6/borderless-africa-a-new-narrative.pdf",
+  "slot_start": 1665657000000,
+  "slot_end": 1665658800000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "9X6HqcuL2Zk",
+  "sources_swarmHash": "2537e8e784f362907ef9c702a6de79105251f76742a51aab5dbf857169b8e923",
+  "duration": 1477,
+  "language": "en"
 }

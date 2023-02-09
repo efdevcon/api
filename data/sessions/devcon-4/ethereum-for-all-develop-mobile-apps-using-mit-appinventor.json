@@ -20,13 +20,9 @@
   "speakers": [
     "jose-luu"
   ],
-  "media": {
-    "duration": 866,
-    "language": "en",
-    "sources": {
-      "youtube": "BTjVgR0Hhs4",
-      "ipfs": "QmbrkdDQMq3Nq8GhqxwziRwLvw2wWj34dssc4nZGU63MCa",
-      "swarm": "caa89b4db6aef97f2c741a36dc1fbcc04b738b9266b64b898ddbff270ca89d2e"
-    }
-  }
+  "sources_youtubeId": "BTjVgR0Hhs4",
+  "sources_ipfsHash": "QmbrkdDQMq3Nq8GhqxwziRwLvw2wWj34dssc4nZGU63MCa",
+  "sources_swarmHash": "caa89b4db6aef97f2c741a36dc1fbcc04b738b9266b64b898ddbff270ca89d2e",
+  "duration": 866,
+  "language": "en"
 }

@@ -15,26 +15,10 @@
   "speakers": [
     "marius-van-der-wijden"
   ],
-  "resources": {
-    "slides": "/resources/6/killing-eth-finding-consensus-issues-on-layer-1.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665496800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 0,
-    "language": "en",
-    "sources": {
-      "youtube": "FS9PPDSK6wc"
-    }
-  }
+  "resources_slides": "/resources/6/killing-eth-finding-consensus-issues-on-layer-1.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665496800000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "FS9PPDSK6wc",
+  "language": "en"
 }

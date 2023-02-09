@@ -23,13 +23,9 @@
   "speakers": [
     "yoichi-hirai"
   ],
-  "media": {
-    "duration": 934,
-    "language": "en",
-    "sources": {
-      "youtube": "cCUGMAnCh7o",
-      "ipfs": "QmXLUr3QpXC8c7oE3jVgzha59MmkvDh7mouWQ9ucN4Fj34",
-      "swarm": "2a5a89e88f5fea41b00f32f12af2bef802545f4554ca27de89e24daf8ac4ff79"
-    }
-  }
+  "sources_youtubeId": "cCUGMAnCh7o",
+  "sources_ipfsHash": "QmXLUr3QpXC8c7oE3jVgzha59MmkvDh7mouWQ9ucN4Fj34",
+  "sources_swarmHash": "2a5a89e88f5fea41b00f32f12af2bef802545f4554ca27de89e24daf8ac4ff79",
+  "duration": 934,
+  "language": "en"
 }

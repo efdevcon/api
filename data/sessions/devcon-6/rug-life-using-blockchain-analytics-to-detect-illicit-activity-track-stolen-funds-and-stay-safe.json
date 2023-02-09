@@ -16,27 +16,12 @@
   "speakers": [
     "heidi-wilder"
   ],
-  "resources": {
-    "slides": "/resources/6/rug-life-using-blockchain-analytics-to-detect-illicit-activity-track-stolen-funds-and-stay-safe.pdf"
-  },
-  "slot": {
-    "start": 1665594000000,
-    "end": 1665595800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1661,
-    "language": "en",
-    "sources": {
-      "youtube": "zXlvqJQjE7I",
-      "swarm": "ee96a2515be2aaa94f81c1d5564d27b6443eaadbd0c14392145615cf7f6bdc96"
-    }
-  }
+  "resources_slides": "/resources/6/rug-life-using-blockchain-analytics-to-detect-illicit-activity-track-stolen-funds-and-stay-safe.pdf",
+  "slot_start": 1665594000000,
+  "slot_end": 1665595800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "zXlvqJQjE7I",
+  "sources_swarmHash": "ee96a2515be2aaa94f81c1d5564d27b6443eaadbd0c14392145615cf7f6bdc96",
+  "duration": 1661,
+  "language": "en"
 }

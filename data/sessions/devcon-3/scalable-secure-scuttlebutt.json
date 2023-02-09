@@ -13,13 +13,9 @@
   "speakers": [
     "dominic-tarr"
   ],
-  "media": {
-    "duration": 1322,
-    "language": "en",
-    "sources": {
-      "youtube": "GN57bs1eAck",
-      "ipfs": "QmRsb8L1UpujjUADB3oQZPWiMcbSFupMVMGg4wExVF1M7r",
-      "swarm": "82abb92bfac911c93d9c188be7fc35ac7dd0595f72a3d6743cb2e285c2e2e196"
-    }
-  }
+  "sources_youtubeId": "GN57bs1eAck",
+  "sources_ipfsHash": "QmRsb8L1UpujjUADB3oQZPWiMcbSFupMVMGg4wExVF1M7r",
+  "sources_swarmHash": "82abb92bfac911c93d9c188be7fc35ac7dd0595f72a3d6743cb2e285c2e2e196",
+  "duration": 1322,
+  "language": "en"
 }

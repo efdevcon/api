@@ -17,27 +17,12 @@
   "speakers": [
     "ivo-georgiev"
   ],
-  "resources": {
-    "slides": "/resources/6/the-future-of-wallets-mpc-vs-smart-wallets.pdf"
-  },
-  "slot": {
-    "start": 1665750000000,
-    "end": 1665750600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 575,
-    "language": "en",
-    "sources": {
-      "youtube": "85w0TvZMivA",
-      "swarm": "3674e34029bef2f1d9e391d88bc49b1ecc67b66625704f452ab11509fe3b1877"
-    }
-  }
+  "resources_slides": "/resources/6/the-future-of-wallets-mpc-vs-smart-wallets.pdf",
+  "slot_start": 1665750000000,
+  "slot_end": 1665750600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "85w0TvZMivA",
+  "sources_swarmHash": "3674e34029bef2f1d9e391d88bc49b1ecc67b66625704f452ab11509fe3b1877",
+  "duration": 575,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "sergio-lerner"
   ],
-  "media": {
-    "duration": 1380,
-    "language": "en",
-    "sources": {
-      "youtube": "pioxtzPxQMg",
-      "ipfs": "QmTwvMEiXUXURd1V5U7wYgfjKoLFW6RaXUQNX8VCbPn9yZ",
-      "swarm": "11f9c5d993cf4acdc5d969451dedb2590bd94f9bb1fce927cdf6c71bd110f7d8"
-    }
-  }
+  "sources_youtubeId": "pioxtzPxQMg",
+  "sources_ipfsHash": "QmTwvMEiXUXURd1V5U7wYgfjKoLFW6RaXUQNX8VCbPn9yZ",
+  "sources_swarmHash": "11f9c5d993cf4acdc5d969451dedb2590bd94f9bb1fce927cdf6c71bd110f7d8",
+  "duration": 1380,
+  "language": "en"
 }

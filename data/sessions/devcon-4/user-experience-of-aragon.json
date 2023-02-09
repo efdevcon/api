@@ -16,13 +16,9 @@
   "speakers": [
     "jouni-helminen"
   ],
-  "media": {
-    "duration": 1358,
-    "language": "en",
-    "sources": {
-      "youtube": "WQ_wUfRIP3A",
-      "ipfs": "QmZMApnXN7W9y3ZCucSSmf9nJZtH1dVfRADiHK9bjv7Sgk",
-      "swarm": "46cfbfe9c549c3359049e5c6b5c158a4b59bd6f0bc29200ac897a17b00dd3e93"
-    }
-  }
+  "sources_youtubeId": "WQ_wUfRIP3A",
+  "sources_ipfsHash": "QmZMApnXN7W9y3ZCucSSmf9nJZtH1dVfRADiHK9bjv7Sgk",
+  "sources_swarmHash": "46cfbfe9c549c3359049e5c6b5c158a4b59bd6f0bc29200ac897a17b00dd3e93",
+  "duration": 1358,
+  "language": "en"
 }

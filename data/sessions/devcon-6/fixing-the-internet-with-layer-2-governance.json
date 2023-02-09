@@ -16,27 +16,12 @@
   "speakers": [
     "ben-jones"
   ],
-  "resources": {
-    "slides": "/resources/6/fixing-the-internet-with-layer-2-governance.pdf"
-  },
-  "slot": {
-    "start": 1665756000000,
-    "end": 1665757500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1653,
-    "language": "en",
-    "sources": {
-      "youtube": "KLk900l9P1E",
-      "swarm": "da23d942019a5485a34c7e9846180040478f476034ed6d07492654c710578718"
-    }
-  }
+  "resources_slides": "/resources/6/fixing-the-internet-with-layer-2-governance.pdf",
+  "slot_start": 1665756000000,
+  "slot_end": 1665757500000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "KLk900l9P1E",
+  "sources_swarmHash": "da23d942019a5485a34c7e9846180040478f476034ed6d07492654c710578718",
+  "duration": 1653,
+  "language": "en"
 }

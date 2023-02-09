@@ -14,27 +14,12 @@
   "speakers": [
     "steven-valeri"
   ],
-  "resources": {
-    "slides": "/resources/6/gho.pdf"
-  },
-  "slot": {
-    "start": 1665658800000,
-    "end": 1665660300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1525,
-    "language": "en",
-    "sources": {
-      "youtube": "GfB77zT3b1A",
-      "swarm": "1ac79cd0767d45110e016a09e601dc6ddf04f451ab51a44cb062c51c6e751363"
-    }
-  }
+  "resources_slides": "/resources/6/gho.pdf",
+  "slot_start": 1665658800000,
+  "slot_end": 1665660300000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "GfB77zT3b1A",
+  "sources_swarmHash": "1ac79cd0767d45110e016a09e601dc6ddf04f451ab51a44cb062c51c6e751363",
+  "duration": 1525,
+  "language": "en"
 }

@@ -17,26 +17,11 @@
   "speakers": [
     "federico-giacon"
   ],
-  "resources": {
-    "slides": "/resources/6/mev-capturing-ammsmcamms.pdf"
-  },
-  "slot": {
-    "start": 1665663000000,
-    "end": 1665663600000,
-    "length": 600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 499,
-    "language": "en",
-    "sources": {
-      "youtube": "kK8gt318WeI"
-    }
-  }
+  "resources_slides": "/resources/6/mev-capturing-ammsmcamms.pdf",
+  "slot_start": 1665663000000,
+  "slot_end": 1665663600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "kK8gt318WeI",
+  "duration": 499,
+  "language": "en"
 }

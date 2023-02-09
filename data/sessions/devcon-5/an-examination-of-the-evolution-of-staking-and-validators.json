@@ -16,13 +16,9 @@
   "speakers": [
     "jun-soo-jk-kim"
   ],
-  "media": {
-    "duration": 1046,
-    "language": "en",
-    "sources": {
-      "youtube": "9qVpFMWWkHc",
-      "ipfs": "QmTGaZrv8NSaVLCB8UCXK8AXkDuzCYcBhWmGnfmqCvyVck",
-      "swarm": "389a3121054ffdb93e267545f90d05f52ae6673d03e50748780c5eda014741f3"
-    }
-  }
+  "sources_youtubeId": "9qVpFMWWkHc",
+  "sources_ipfsHash": "QmTGaZrv8NSaVLCB8UCXK8AXkDuzCYcBhWmGnfmqCvyVck",
+  "sources_swarmHash": "389a3121054ffdb93e267545f90d05f52ae6673d03e50748780c5eda014741f3",
+  "duration": 1046,
+  "language": "en"
 }

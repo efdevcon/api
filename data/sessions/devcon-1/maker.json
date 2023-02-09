@@ -13,13 +13,9 @@
   "speakers": [
     "nikolai-mushegian"
   ],
-  "media": {
-    "duration": 652,
-    "language": "en",
-    "sources": {
-      "youtube": "tu0Q9ZDrJT4",
-      "ipfs": "QmNTBeqWj91LfPV8xacEKuk6tbokgjU8GrcXzEcFvV3HAz",
-      "swarm": "d32c2c198b6865cac7585989051a08b602d67c5540f06b35ccd327cb2629f275"
-    }
-  }
+  "sources_youtubeId": "tu0Q9ZDrJT4",
+  "sources_ipfsHash": "QmNTBeqWj91LfPV8xacEKuk6tbokgjU8GrcXzEcFvV3HAz",
+  "sources_swarmHash": "d32c2c198b6865cac7585989051a08b602d67c5540f06b35ccd327cb2629f275",
+  "duration": 652,
+  "language": "en"
 }

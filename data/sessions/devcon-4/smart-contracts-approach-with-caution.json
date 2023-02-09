@@ -16,13 +16,9 @@
   "speakers": [
     "jake-craige"
   ],
-  "media": {
-    "duration": 841,
-    "language": "en",
-    "sources": {
-      "youtube": "p-_0bPEiHo8",
-      "ipfs": "QmYk2EHeh8GsDKwsVv5WUKehBwJ8REnpuafNkFzsXDKMRj",
-      "swarm": "30e9535288ba20b94aa163dd6908227263a6f2d0b073aa5039954cd17f03b6be"
-    }
-  }
+  "sources_youtubeId": "p-_0bPEiHo8",
+  "sources_ipfsHash": "QmYk2EHeh8GsDKwsVv5WUKehBwJ8REnpuafNkFzsXDKMRj",
+  "sources_swarmHash": "30e9535288ba20b94aa163dd6908227263a6f2d0b073aa5039954cd17f03b6be",
+  "duration": 841,
+  "language": "en"
 }

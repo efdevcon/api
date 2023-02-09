@@ -15,26 +15,11 @@
   "speakers": [
     "alejandro-santander"
   ],
-  "resources": {
-    "slides": "/resources/6/alice-in-proxyland.pdf"
-  },
-  "slot": {
-    "start": 1665500400000,
-    "end": 1665502200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1881,
-    "language": "en",
-    "sources": {
-      "youtube": "URxPvAaT7vE"
-    }
-  }
+  "resources_slides": "/resources/6/alice-in-proxyland.pdf",
+  "slot_start": 1665500400000,
+  "slot_end": 1665502200000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "URxPvAaT7vE",
+  "duration": 1881,
+  "language": "en"
 }

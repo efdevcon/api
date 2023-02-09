@@ -13,13 +13,9 @@
   "speakers": [
     "juan-batiz-benet"
   ],
-  "media": {
-    "duration": 1943,
-    "language": "en",
-    "sources": {
-      "youtube": "ewpIi1y_KDc",
-      "ipfs": "QmXYsXfyTqTyJnpGJYhBeqrbBUiia7pvZe51UEdDZCuHgc",
-      "swarm": "ecf832563fe601b1e38eb85da33876bb8aeca1cb6a15759da13121d5bcf6a25a"
-    }
-  }
+  "sources_youtubeId": "ewpIi1y_KDc",
+  "sources_ipfsHash": "QmXYsXfyTqTyJnpGJYhBeqrbBUiia7pvZe51UEdDZCuHgc",
+  "sources_swarmHash": "ecf832563fe601b1e38eb85da33876bb8aeca1cb6a15759da13121d5bcf6a25a",
+  "duration": 1943,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "afri-schoedon"
   ],
-  "resources": {
-    "slides": "/resources/6/post-merge-testnets.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665496800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1420,
-    "language": "en",
-    "sources": {
-      "youtube": "1UtcvVve32A",
-      "swarm": "51b64e0eb39d1fda00df3c9cba0303863fbbebec5b8d954a9a823a8f1b2284e2"
-    }
-  }
+  "resources_slides": "/resources/6/post-merge-testnets.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665496800000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "1UtcvVve32A",
+  "sources_swarmHash": "51b64e0eb39d1fda00df3c9cba0303863fbbebec5b8d954a9a823a8f1b2284e2",
+  "duration": 1420,
+  "language": "en"
 }

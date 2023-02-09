@@ -16,13 +16,9 @@
     "hart-lambur",
     "allison-lu"
   ],
-  "media": {
-    "duration": 5725,
-    "language": "en",
-    "sources": {
-      "youtube": "TjeB27zIn4g",
-      "ipfs": "Qme9M8ZmXm8Z12meC8fLK8vHre7nzJxyV4TQJrtS3P9KLm",
-      "swarm": "13c83525eaf2f66ced9f092d65b353fda56eecbae702a6fddbd591c3d63b5910"
-    }
-  }
+  "sources_youtubeId": "TjeB27zIn4g",
+  "sources_ipfsHash": "Qme9M8ZmXm8Z12meC8fLK8vHre7nzJxyV4TQJrtS3P9KLm",
+  "sources_swarmHash": "13c83525eaf2f66ced9f092d65b353fda56eecbae702a6fddbd591c3d63b5910",
+  "duration": 5725,
+  "language": "en"
 }

@@ -21,13 +21,9 @@
   "speakers": [
     "david-lee-kuo-chuen"
   ],
-  "media": {
-    "duration": 1552,
-    "language": "en",
-    "sources": {
-      "youtube": "8BlKVXBQMno",
-      "ipfs": "QmXJbwsPMDyo3u3EVtdom7ik9ms2bsRZMdyDKj5xoWoURN",
-      "swarm": "5cc676db7235a06f0c6853eb86c84391bd8995acb5eb527414e9fcaa2f00e4d9"
-    }
-  }
+  "sources_youtubeId": "8BlKVXBQMno",
+  "sources_ipfsHash": "QmXJbwsPMDyo3u3EVtdom7ik9ms2bsRZMdyDKj5xoWoURN",
+  "sources_swarmHash": "5cc676db7235a06f0c6853eb86c84391bd8995acb5eb527414e9fcaa2f00e4d9",
+  "duration": 1552,
+  "language": "en"
 }

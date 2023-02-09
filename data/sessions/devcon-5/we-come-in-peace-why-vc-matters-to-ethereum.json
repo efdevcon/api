@@ -19,13 +19,9 @@
   "speakers": [
     "jehan-chu"
   ],
-  "media": {
-    "duration": 1319,
-    "language": "en",
-    "sources": {
-      "youtube": "Ex78bKxHYbM",
-      "ipfs": "QmUAuZs7e9MNjwQSk6RNtpris9giuDpWTxAp6AhsrXJWGZ",
-      "swarm": "781f96183c7b2f7e945d49625a10a1aa16d227b91feb9fe3af36fab3125d6d35"
-    }
-  }
+  "sources_youtubeId": "Ex78bKxHYbM",
+  "sources_ipfsHash": "QmUAuZs7e9MNjwQSk6RNtpris9giuDpWTxAp6AhsrXJWGZ",
+  "sources_swarmHash": "781f96183c7b2f7e945d49625a10a1aa16d227b91feb9fe3af36fab3125d6d35",
+  "duration": 1319,
+  "language": "en"
 }

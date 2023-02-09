@@ -17,13 +17,9 @@
   "speakers": [
     "benedikt-bunz"
   ],
-  "media": {
-    "duration": 1389,
-    "language": "en",
-    "sources": {
-      "youtube": "N90SWM-lrhQ",
-      "ipfs": "QmXtPiiSrPoGFzUt4NvwXnAmcD5dKHEHZnzXPXmQyiYXJF",
-      "swarm": "1985f6af0b941d34e314e1dca9572ed4cc379b892678a0782e5e9db6acce6286"
-    }
-  }
+  "sources_youtubeId": "N90SWM-lrhQ",
+  "sources_ipfsHash": "QmXtPiiSrPoGFzUt4NvwXnAmcD5dKHEHZnzXPXmQyiYXJF",
+  "sources_swarmHash": "1985f6af0b941d34e314e1dca9572ed4cc379b892678a0782e5e9db6acce6286",
+  "duration": 1389,
+  "language": "en"
 }

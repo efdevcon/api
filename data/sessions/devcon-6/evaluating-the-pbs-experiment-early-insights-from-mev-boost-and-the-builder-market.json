@@ -16,27 +16,12 @@
   "speakers": [
     "jolene-dunne"
   ],
-  "resources": {
-    "slides": "/resources/6/evaluating-the-pbs-experiment-early-insights-from-mev-boost-and-the-builder-market.pdf"
-  },
-  "slot": {
-    "start": 1665671400000,
-    "end": 1665673200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1507,
-    "language": "en",
-    "sources": {
-      "youtube": "BFVSRSN5E_A",
-      "swarm": "ac18ac5d2543831c070d9c1baf5e61525689eb9396969471660809aec93b296a"
-    }
-  }
+  "resources_slides": "/resources/6/evaluating-the-pbs-experiment-early-insights-from-mev-boost-and-the-builder-market.pdf",
+  "slot_start": 1665671400000,
+  "slot_end": 1665673200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "BFVSRSN5E_A",
+  "sources_swarmHash": "ac18ac5d2543831c070d9c1baf5e61525689eb9396969471660809aec93b296a",
+  "duration": 1507,
+  "language": "en"
 }

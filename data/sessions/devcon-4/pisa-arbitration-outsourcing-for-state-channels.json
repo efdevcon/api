@@ -14,13 +14,9 @@
   "speakers": [
     "patrick-mccorry"
   ],
-  "media": {
-    "duration": 1432,
-    "language": "en",
-    "sources": {
-      "youtube": "Om_zLYC8BvM",
-      "ipfs": "QmXi8pScLckmsRhDYbu3hfQDSbjanNxpKKEL3QHQ43GVUR",
-      "swarm": "e85e04c04a099886e96c740f7abba6b103245455b24d438f08d5924fedba9f91"
-    }
-  }
+  "sources_youtubeId": "Om_zLYC8BvM",
+  "sources_ipfsHash": "QmXi8pScLckmsRhDYbu3hfQDSbjanNxpKKEL3QHQ43GVUR",
+  "sources_swarmHash": "e85e04c04a099886e96c740f7abba6b103245455b24d438f08d5924fedba9f91",
+  "duration": 1432,
+  "language": "en"
 }

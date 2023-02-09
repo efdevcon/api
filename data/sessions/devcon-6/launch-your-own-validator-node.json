@@ -16,26 +16,10 @@
   "speakers": [
     "maggie-love"
   ],
-  "resources": {
-    "slides": "/resources/6/launch-your-own-validator-node.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665745200000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 0,
-    "language": "en",
-    "sources": {
-      "youtube": "okaoDabqt_E"
-    }
-  }
+  "resources_slides": "/resources/6/launch-your-own-validator-node.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665745200000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "okaoDabqt_E",
+  "language": "en"
 }

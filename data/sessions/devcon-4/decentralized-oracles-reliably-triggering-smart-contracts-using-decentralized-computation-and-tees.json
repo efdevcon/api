@@ -16,13 +16,9 @@
   "speakers": [
     "sergey-nazarov"
   ],
-  "media": {
-    "duration": 1539,
-    "language": "en",
-    "sources": {
-      "youtube": "yHh-j_NdRZw",
-      "ipfs": "QmVvi8hCX3TyhXNBTQFVBw53zebvkE6H3ZoxnTvhmMxKM1",
-      "swarm": "02c7d9bd0176bf8dfc08821cd57e031ac214ee7b1928aa214b7bfcce10a01f16"
-    }
-  }
+  "sources_youtubeId": "yHh-j_NdRZw",
+  "sources_ipfsHash": "QmVvi8hCX3TyhXNBTQFVBw53zebvkE6H3ZoxnTvhmMxKM1",
+  "sources_swarmHash": "02c7d9bd0176bf8dfc08821cd57e031ac214ee7b1928aa214b7bfcce10a01f16",
+  "duration": 1539,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "jordi-baylina"
   ],
-  "media": {
-    "duration": 1045,
-    "language": "en",
-    "sources": {
-      "youtube": "1MjcsFRvXVM",
-      "ipfs": "QmdEA8dHMkE7MiRGhcPM4xcf4sxq3CQA1P1sBLv9imkbFE",
-      "swarm": "40b2296b87117568c935a06a0c8ac3b3ea761269f0333764d9029f5624a703ab"
-    }
-  }
+  "sources_youtubeId": "1MjcsFRvXVM",
+  "sources_ipfsHash": "QmdEA8dHMkE7MiRGhcPM4xcf4sxq3CQA1P1sBLv9imkbFE",
+  "sources_swarmHash": "40b2296b87117568c935a06a0c8ac3b3ea761269f0333764d9029f5624a703ab",
+  "duration": 1045,
+  "language": "en"
 }

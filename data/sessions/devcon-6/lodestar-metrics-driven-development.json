@@ -16,27 +16,12 @@
   "speakers": [
     "cayman-nava"
   ],
-  "resources": {
-    "slides": "/resources/6/lodestar-metrics-driven-development.pdf"
-  },
-  "slot": {
-    "start": 1665666000000,
-    "end": 1665667800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1215,
-    "language": "en",
-    "sources": {
-      "youtube": "49_qQDbLjGU",
-      "swarm": "b7567b95f750ebb8e298b79f327792bc0c5073309881a8fcfe373a9439de8601"
-    }
-  }
+  "resources_slides": "/resources/6/lodestar-metrics-driven-development.pdf",
+  "slot_start": 1665666000000,
+  "slot_end": 1665667800000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "49_qQDbLjGU",
+  "sources_swarmHash": "b7567b95f750ebb8e298b79f327792bc0c5073309881a8fcfe373a9439de8601",
+  "duration": 1215,
+  "language": "en"
 }

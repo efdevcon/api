@@ -24,13 +24,9 @@
     "lane-rettig",
     "ryan-selkis"
   ],
-  "media": {
-    "duration": 10188,
-    "language": "en",
-    "sources": {
-      "youtube": "e8uSxLloH2s",
-      "ipfs": "QmfQRqETLNNCntakXt493Xb6kQF3pUbriUAmwrCGViKYK9",
-      "swarm": "db29ca1babea4e01796f2c0ebd8d1ef89e9e9539c680f07574554de96cf8ea04"
-    }
-  }
+  "sources_youtubeId": "e8uSxLloH2s",
+  "sources_ipfsHash": "QmfQRqETLNNCntakXt493Xb6kQF3pUbriUAmwrCGViKYK9",
+  "sources_swarmHash": "db29ca1babea4e01796f2c0ebd8d1ef89e9e9539c680f07574554de96cf8ea04",
+  "duration": 10188,
+  "language": "en"
 }

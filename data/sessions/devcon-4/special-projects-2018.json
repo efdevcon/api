@@ -16,13 +16,9 @@
   "speakers": [
     "virgil-griffith"
   ],
-  "media": {
-    "duration": 783,
-    "language": "en",
-    "sources": {
-      "youtube": "LvrT7QqctmQ",
-      "ipfs": "QmfJZJpQSh2iepUCnUkoLoJxkxsR9GWCKgsGYSejLatCJe",
-      "swarm": "bff6813d72df87ae266baf6fdcfd8db9bc67b5c1c4b6942951554f3ea3526336"
-    }
-  }
+  "sources_youtubeId": "LvrT7QqctmQ",
+  "sources_ipfsHash": "QmfJZJpQSh2iepUCnUkoLoJxkxsR9GWCKgsGYSejLatCJe",
+  "sources_swarmHash": "bff6813d72df87ae266baf6fdcfd8db9bc67b5c1c4b6942951554f3ea3526336",
+  "duration": 783,
+  "language": "en"
 }

@@ -17,13 +17,9 @@
   "speakers": [
     "ethereum-magicians"
   ],
-  "media": {
-    "duration": 2268,
-    "language": "en",
-    "sources": {
-      "youtube": "wfB5R0gu9HA",
-      "ipfs": "QmQ5CZj8FDoqU97Q5N8wj6cHCHG5WHUW2TzcREK58QJaiA",
-      "swarm": "d3bf700e7ccd9c46baf464d7ecad855891a2caaa5813bf1e7dde1ab30c36d7ce"
-    }
-  }
+  "sources_youtubeId": "wfB5R0gu9HA",
+  "sources_ipfsHash": "QmQ5CZj8FDoqU97Q5N8wj6cHCHG5WHUW2TzcREK58QJaiA",
+  "sources_swarmHash": "d3bf700e7ccd9c46baf464d7ecad855891a2caaa5813bf1e7dde1ab30c36d7ce",
+  "duration": 2268,
+  "language": "en"
 }

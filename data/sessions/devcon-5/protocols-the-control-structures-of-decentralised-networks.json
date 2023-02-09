@@ -13,13 +13,9 @@
   "speakers": [
     "sascha-hanse"
   ],
-  "media": {
-    "duration": 1271,
-    "language": "en",
-    "sources": {
-      "youtube": "ffegRMUOI0Q",
-      "ipfs": "QmTvnttGahCyiJLJ8gJiSh5ikGSRL97mo8ccmL6M9GuU8J",
-      "swarm": "6e9b4da0bceb40bb6e13317eceab0406c1085d0fb5ce5208ee13474f3ff2ba8a"
-    }
-  }
+  "sources_youtubeId": "ffegRMUOI0Q",
+  "sources_ipfsHash": "QmTvnttGahCyiJLJ8gJiSh5ikGSRL97mo8ccmL6M9GuU8J",
+  "sources_swarmHash": "6e9b4da0bceb40bb6e13317eceab0406c1085d0fb5ce5208ee13474f3ff2ba8a",
+  "duration": 1271,
+  "language": "en"
 }

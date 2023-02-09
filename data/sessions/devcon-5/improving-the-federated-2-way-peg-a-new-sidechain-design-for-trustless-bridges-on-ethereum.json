@@ -14,13 +14,9 @@
   "speakers": [
     "matt-luongo"
   ],
-  "media": {
-    "duration": 729,
-    "language": "en",
-    "sources": {
-      "youtube": "NHTuLnrDaUA",
-      "ipfs": "QmTtKoFX9WcQJC41qdjptSCxN2DuZP6RbKqSu5rT82Rkof",
-      "swarm": "53e82db33c73c222aa891363d19996ef8b8a1979e887126db6efc4fcba25c5bb"
-    }
-  }
+  "sources_youtubeId": "NHTuLnrDaUA",
+  "sources_ipfsHash": "QmTtKoFX9WcQJC41qdjptSCxN2DuZP6RbKqSu5rT82Rkof",
+  "sources_swarmHash": "53e82db33c73c222aa891363d19996ef8b8a1979e887126db6efc4fcba25c5bb",
+  "duration": 729,
+  "language": "en"
 }

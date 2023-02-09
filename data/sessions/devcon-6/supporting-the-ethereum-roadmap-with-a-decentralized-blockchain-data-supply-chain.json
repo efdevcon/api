@@ -16,26 +16,11 @@
   "speakers": [
     "brandon-ramirez"
   ],
-  "resources": {
-    "slides": "/resources/6/supporting-the-ethereum-roadmap-with-a-decentralized-blockchain-data-supply-chain.pdf"
-  },
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665570300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1653,
-    "language": "en",
-    "sources": {
-      "youtube": "0TotLbUqpos"
-    }
-  }
+  "resources_slides": "/resources/6/supporting-the-ethereum-roadmap-with-a-decentralized-blockchain-data-supply-chain.pdf",
+  "slot_start": 1665568800000,
+  "slot_end": 1665570300000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "0TotLbUqpos",
+  "duration": 1653,
+  "language": "en"
 }

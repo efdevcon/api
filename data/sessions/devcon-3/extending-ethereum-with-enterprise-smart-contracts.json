@@ -13,13 +13,9 @@
   "speakers": [
     "marley-gray"
   ],
-  "media": {
-    "duration": 990,
-    "language": "en",
-    "sources": {
-      "youtube": "aE-tYqBPBDE",
-      "ipfs": "QmNPn7SXeEVNZ54WdTFVQ979UqqCXAtfLTTTWBYxQckuQe",
-      "swarm": "7aa1fa2c36a6b356907a12e9135a06db8f2c9104abb27c94077d49297e5bc269"
-    }
-  }
+  "sources_youtubeId": "aE-tYqBPBDE",
+  "sources_ipfsHash": "QmNPn7SXeEVNZ54WdTFVQ979UqqCXAtfLTTTWBYxQckuQe",
+  "sources_swarmHash": "7aa1fa2c36a6b356907a12e9135a06db8f2c9104abb27c94077d49297e5bc269",
+  "duration": 990,
+  "language": "en"
 }

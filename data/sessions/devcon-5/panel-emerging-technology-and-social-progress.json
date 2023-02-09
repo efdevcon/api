@@ -21,13 +21,9 @@
     "adam-bornstein",
     "lucas-geiger"
   ],
-  "media": {
-    "duration": 2359,
-    "language": "en",
-    "sources": {
-      "youtube": "nnXfEr6KJEI",
-      "ipfs": "QmdRNW52Mk8BeftLCPv2oL9aaCW4qLnqCAyXUHaXZo3YnQ",
-      "swarm": "1d408aed5c3c965e671968b01024b1cadd3d1f6567e5f4c05e6528e8669a30e0"
-    }
-  }
+  "sources_youtubeId": "nnXfEr6KJEI",
+  "sources_ipfsHash": "QmdRNW52Mk8BeftLCPv2oL9aaCW4qLnqCAyXUHaXZo3YnQ",
+  "sources_swarmHash": "1d408aed5c3c965e671968b01024b1cadd3d1f6567e5f4c05e6528e8669a30e0",
+  "duration": 2359,
+  "language": "en"
 }

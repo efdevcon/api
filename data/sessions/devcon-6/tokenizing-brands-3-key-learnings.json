@@ -16,26 +16,11 @@
   "speakers": [
     "weiwu-zhang"
   ],
-  "resources": {
-    "slides": "/resources/6/tokenizing-brands-3-key-learnings.pdf"
-  },
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665657000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1272,
-    "language": "en",
-    "sources": {
-      "youtube": "2UxapGkdlc8"
-    }
-  }
+  "resources_slides": "/resources/6/tokenizing-brands-3-key-learnings.pdf",
+  "slot_start": 1665655200000,
+  "slot_end": 1665657000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "2UxapGkdlc8",
+  "duration": 1272,
+  "language": "en"
 }

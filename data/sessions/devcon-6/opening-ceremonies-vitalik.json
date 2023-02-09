@@ -15,27 +15,12 @@
   "speakers": [
     "vitalik-buterin"
   ],
-  "resources": {
-    "slides": "https://hackmd.io/@vbuterin/ethereum_in_30_minutes"
-  },
-  "slot": {
-    "start": 1665481500000,
-    "end": 1665490500000,
-    "length": 9000,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 1836,
-    "language": "en",
-    "sources": {
-      "youtube": "UihMqcj-cqc",
-      "swarm": "a7c0593b870769aca8a0eb074261bcde8a473993f143dad3d1f31f6f10c8333e"
-    }
-  }
+  "resources_slides": "https://hackmd.io/@vbuterin/ethereum_in_30_minutes",
+  "slot_start": 1665481500000,
+  "slot_end": 1665490500000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "UihMqcj-cqc",
+  "sources_swarmHash": "a7c0593b870769aca8a0eb074261bcde8a473993f143dad3d1f31f6f10c8333e",
+  "duration": 1836,
+  "language": "en"
 }

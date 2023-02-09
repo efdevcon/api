@@ -11,14 +11,8 @@
     "Devcon",
     "Ethereum Foundation"
   ],
-  "speakers": [
-    ""
-  ],
-  "media": {
-    "duration": 122,
-    "language": "en",
-    "sources": {
-      "youtube": "lgTMm7J0t7c"
-    }
-  }
+  "speakers": [],
+  "sources_youtubeId": "lgTMm7J0t7c",
+  "duration": 122,
+  "language": "en"
 }

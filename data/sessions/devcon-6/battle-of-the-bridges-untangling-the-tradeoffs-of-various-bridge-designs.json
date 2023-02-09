@@ -18,27 +18,12 @@
     "chris-whinfrey",
     "uma-roy"
   ],
-  "resources": {
-    "slides": "/resources/6/battle-of-the-bridges-untangling-the-tradeoffs-of-various-bridge-designs.pdf"
-  },
-  "slot": {
-    "start": 1665676800000,
-    "end": 1665680400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 3669,
-    "language": "en",
-    "sources": {
-      "youtube": "1xL4c9zxoS0",
-      "swarm": "af0f0f28998649cefcee9518ab6510a34b27fc73ff630f795878b9388982f657"
-    }
-  }
+  "resources_slides": "/resources/6/battle-of-the-bridges-untangling-the-tradeoffs-of-various-bridge-designs.pdf",
+  "slot_start": 1665676800000,
+  "slot_end": 1665680400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "1xL4c9zxoS0",
+  "sources_swarmHash": "af0f0f28998649cefcee9518ab6510a34b27fc73ff630f795878b9388982f657",
+  "duration": 3669,
+  "language": "en"
 }

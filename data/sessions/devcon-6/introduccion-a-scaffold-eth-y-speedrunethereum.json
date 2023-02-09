@@ -15,27 +15,12 @@
   "speakers": [
     "carlos"
   ],
-  "resources": {
-    "slides": "/resources/6/introduccion-a-scaffold-eth-y-speedrunethereum.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665495000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2735,
-    "language": "en",
-    "sources": {
-      "youtube": "WNk0uTqP3yg",
-      "swarm": "b30b10868eb11e4a362a30ba836aebff179d8f62b388feb0e5856e9933b02cff"
-    }
-  }
+  "resources_slides": "/resources/6/introduccion-a-scaffold-eth-y-speedrunethereum.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665495000000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "WNk0uTqP3yg",
+  "sources_swarmHash": "b30b10868eb11e4a362a30ba836aebff179d8f62b388feb0e5856e9933b02cff",
+  "duration": 2735,
+  "language": "en"
 }

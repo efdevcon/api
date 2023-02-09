@@ -24,13 +24,9 @@
   "speakers": [
     "julian-zawistowski"
   ],
-  "media": {
-    "duration": 649,
-    "language": "en",
-    "sources": {
-      "youtube": "DGinj5K3tcI",
-      "ipfs": "QmNWDSjk6Ueo1RcMKDNVmocNANWhW2HjpZVayndThRzczV",
-      "swarm": "115c960d14f8a99519c63af574986fdc120032a76a34de97ef123698e4be763d"
-    }
-  }
+  "sources_youtubeId": "DGinj5K3tcI",
+  "sources_ipfsHash": "QmNWDSjk6Ueo1RcMKDNVmocNANWhW2HjpZVayndThRzczV",
+  "sources_swarmHash": "115c960d14f8a99519c63af574986fdc120032a76a34de97ef123698e4be763d",
+  "duration": 649,
+  "language": "en"
 }

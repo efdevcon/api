@@ -17,24 +17,11 @@
     "tony-olendo",
     "yoseph-ayele"
   ],
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665744600000,
-    "length": 3000,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 3313,
-    "language": "en",
-    "sources": {
-      "youtube": "7Ozu2WQlf6E",
-      "swarm": "13c7f4aff482ea150e84ae50ff1a728fe59b4c14812c45c46dbdb00c90e15d0e"
-    }
-  }
+  "slot_start": 1665741600000,
+  "slot_end": 1665744600000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "7Ozu2WQlf6E",
+  "sources_swarmHash": "13c7f4aff482ea150e84ae50ff1a728fe59b4c14812c45c46dbdb00c90e15d0e",
+  "duration": 3313,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "richard-moore"
   ],
-  "resources": {
-    "slides": "/resources/6/ethers-whats-new-in-v6.pdf"
-  },
-  "slot": {
-    "start": 1665504000000,
-    "end": 1665505800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1497,
-    "language": "en",
-    "sources": {
-      "youtube": "qli5SoAKC1s",
-      "swarm": "7a31dcda77ee05e917b7c9b23c59cad5ddd67539a49fbfc0c79b0e5027d08d57"
-    }
-  }
+  "resources_slides": "/resources/6/ethers-whats-new-in-v6.pdf",
+  "slot_start": 1665504000000,
+  "slot_end": 1665505800000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "qli5SoAKC1s",
+  "sources_swarmHash": "7a31dcda77ee05e917b7c9b23c59cad5ddd67539a49fbfc0c79b0e5027d08d57",
+  "duration": 1497,
+  "language": "en"
 }

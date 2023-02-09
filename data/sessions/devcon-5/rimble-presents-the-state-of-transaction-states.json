@@ -18,13 +18,9 @@
     "mike-lockwitz",
     "alex-singh"
   ],
-  "media": {
-    "duration": 1290,
-    "language": "en",
-    "sources": {
-      "youtube": "ZDaTl8PI7CQ",
-      "ipfs": "QmU6cMxLmKMHeUBRD1WsCJCpF57yaTGSQwnNkBmfPbTqA6",
-      "swarm": "e8e79389ed90cbffe4d743ca764b039bed4272335f35dc41daf7f61d6d69817a"
-    }
-  }
+  "sources_youtubeId": "ZDaTl8PI7CQ",
+  "sources_ipfsHash": "QmU6cMxLmKMHeUBRD1WsCJCpF57yaTGSQwnNkBmfPbTqA6",
+  "sources_swarmHash": "e8e79389ed90cbffe4d743ca764b039bed4272335f35dc41daf7f61d6d69817a",
+  "duration": 1290,
+  "language": "en"
 }

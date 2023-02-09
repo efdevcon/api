@@ -15,13 +15,9 @@
   "speakers": [
     "martin-holst-swende"
   ],
-  "media": {
-    "duration": 1282,
-    "language": "en",
-    "sources": {
-      "youtube": "wLcyIgblIxE",
-      "ipfs": "QmXwZLXAw1SughQibTF9oud3pij6paFNahSuMUS3nukHAx",
-      "swarm": "d27c6c1166c3c51d9cf17dc6b59e1f1ad66877d3cb2f7bbd1cd2d21a2ab4e6bf"
-    }
-  }
+  "sources_youtubeId": "wLcyIgblIxE",
+  "sources_ipfsHash": "QmXwZLXAw1SughQibTF9oud3pij6paFNahSuMUS3nukHAx",
+  "sources_swarmHash": "d27c6c1166c3c51d9cf17dc6b59e1f1ad66877d3cb2f7bbd1cd2d21a2ab4e6bf",
+  "duration": 1282,
+  "language": "en"
 }

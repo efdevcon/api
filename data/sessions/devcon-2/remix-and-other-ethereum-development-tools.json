@@ -26,13 +26,9 @@
   "speakers": [
     "yann-levreau"
   ],
-  "media": {
-    "duration": 1022,
-    "language": "en",
-    "sources": {
-      "youtube": "YI0Y-jwmso0",
-      "ipfs": "QmRjrMSVYrGq4SHk4FXUpPWifWSzbiEsL2wc2GPr9JcMGG",
-      "swarm": "c23feabd1bbb2953d55a3cad8c3fa7f552b814a01168e22742155f046bf7e091"
-    }
-  }
+  "sources_youtubeId": "YI0Y-jwmso0",
+  "sources_ipfsHash": "QmRjrMSVYrGq4SHk4FXUpPWifWSzbiEsL2wc2GPr9JcMGG",
+  "sources_swarmHash": "c23feabd1bbb2953d55a3cad8c3fa7f552b814a01168e22742155f046bf7e091",
+  "duration": 1022,
+  "language": "en"
 }

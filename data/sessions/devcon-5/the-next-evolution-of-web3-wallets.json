@@ -16,13 +16,9 @@
     "erik-marks",
     "omna-toshniwal"
   ],
-  "media": {
-    "duration": 3824,
-    "language": "en",
-    "sources": {
-      "youtube": "8c2q9pBkqFU",
-      "ipfs": "Qmbh2shRMwyaM7inLR5ysXxVJJX9T4rPf83NPjAAE3nGfd",
-      "swarm": "07096d8e41fe5524de65b874deb50b454c09903d05999390a7a8868ab0861879"
-    }
-  }
+  "sources_youtubeId": "8c2q9pBkqFU",
+  "sources_ipfsHash": "Qmbh2shRMwyaM7inLR5ysXxVJJX9T4rPf83NPjAAE3nGfd",
+  "sources_swarmHash": "07096d8e41fe5524de65b874deb50b454c09903d05999390a7a8868ab0861879",
+  "duration": 3824,
+  "language": "en"
 }

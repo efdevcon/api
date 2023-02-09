@@ -15,13 +15,9 @@
   "speakers": [
     "joseph-lubin"
   ],
-  "media": {
-    "duration": 1810,
-    "language": "en",
-    "sources": {
-      "youtube": "5YTUfHZ2gW8",
-      "ipfs": "QmTDXrnHHhRZJLeyzgZmk5HUtahmMsmYFKpUu1hoVFgwfQ",
-      "swarm": "dc5f4be9c533c01ba705a16a65189b286ea1a5ed62faa7316dcafa95700144e4"
-    }
-  }
+  "sources_youtubeId": "5YTUfHZ2gW8",
+  "sources_ipfsHash": "QmTDXrnHHhRZJLeyzgZmk5HUtahmMsmYFKpUu1hoVFgwfQ",
+  "sources_swarmHash": "dc5f4be9c533c01ba705a16a65189b286ea1a5ed62faa7316dcafa95700144e4",
+  "duration": 1810,
+  "language": "en"
 }

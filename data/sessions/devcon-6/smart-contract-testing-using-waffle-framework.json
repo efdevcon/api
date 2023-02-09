@@ -16,26 +16,11 @@
   "speakers": [
     "bartek-rutkowski"
   ],
-  "resources": {
-    "slides": "/resources/6/smart-contract-testing-using-waffle-framework.pdf"
-  },
-  "slot": {
-    "start": 1665583200000,
-    "end": 1665586800000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2968,
-    "language": "en",
-    "sources": {
-      "youtube": "EjI_pdC-9Z0"
-    }
-  }
+  "resources_slides": "/resources/6/smart-contract-testing-using-waffle-framework.pdf",
+  "slot_start": 1665583200000,
+  "slot_end": 1665586800000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "EjI_pdC-9Z0",
+  "duration": 2968,
+  "language": "en"
 }

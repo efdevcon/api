@@ -29,13 +29,9 @@
   "speakers": [
     "victor-lysenko"
   ],
-  "media": {
-    "duration": 891,
-    "language": "en",
-    "sources": {
-      "youtube": "CdK4rayVOvw",
-      "ipfs": "QmPvCct3bBBr9Xqqg4BWvDbCTPxYPsMks3JTGk6g9sF6NN",
-      "swarm": "11a3fc01974ebc7e0ad298596f13851dc9619939547f904dacc54213005fc1cd"
-    }
-  }
+  "sources_youtubeId": "CdK4rayVOvw",
+  "sources_ipfsHash": "QmPvCct3bBBr9Xqqg4BWvDbCTPxYPsMks3JTGk6g9sF6NN",
+  "sources_swarmHash": "11a3fc01974ebc7e0ad298596f13851dc9619939547f904dacc54213005fc1cd",
+  "duration": 891,
+  "language": "en"
 }

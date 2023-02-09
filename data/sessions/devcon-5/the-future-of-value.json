@@ -23,13 +23,9 @@
   "speakers": [
     "sep-kamvar"
   ],
-  "media": {
-    "duration": 1088,
-    "language": "en",
-    "sources": {
-      "youtube": "tX5ep1JzY6k",
-      "ipfs": "QmWCYAFbykCcDtUgZnTVd2GUQtpnCzU3EzSJDid531eXuN",
-      "swarm": "d7870fb06449f80a2c0c276ccb98ed90fc8232673e1a0935e541456f13149ecd"
-    }
-  }
+  "sources_youtubeId": "tX5ep1JzY6k",
+  "sources_ipfsHash": "QmWCYAFbykCcDtUgZnTVd2GUQtpnCzU3EzSJDid531eXuN",
+  "sources_swarmHash": "d7870fb06449f80a2c0c276ccb98ed90fc8232673e1a0935e541456f13149ecd",
+  "duration": 1088,
+  "language": "en"
 }

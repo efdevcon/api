@@ -26,13 +26,9 @@
   "speakers": [
     "alex-leverington"
   ],
-  "media": {
-    "duration": 3088,
-    "language": "en",
-    "sources": {
-      "youtube": "FqWOeJJmNQc",
-      "ipfs": "QmPe4H56mgiRfVKRE7KMBrjthDcQq2RxQkisTDamAdPk1s",
-      "swarm": "3a158b8e53d171619f6b6d7e7060dfd830a9153b20e509bf7936dbb9bdc8f56f"
-    }
-  }
+  "sources_youtubeId": "FqWOeJJmNQc",
+  "sources_ipfsHash": "QmPe4H56mgiRfVKRE7KMBrjthDcQq2RxQkisTDamAdPk1s",
+  "sources_swarmHash": "3a158b8e53d171619f6b6d7e7060dfd830a9153b20e509bf7936dbb9bdc8f56f",
+  "duration": 3088,
+  "language": "en"
 }

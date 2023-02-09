@@ -14,13 +14,9 @@
   "speakers": [
     "osuke-sudo"
   ],
-  "media": {
-    "duration": 1372,
-    "language": "en",
-    "sources": {
-      "youtube": "G92_kfZHWq0",
-      "ipfs": "QmXcWUMDhtseNCk1uj3PrnEpiQ5kM6WwEiqENhpr2DvLZR",
-      "swarm": "b6ea272cb5e6427bedcf99b4da54a55fe51ac3911e4298dcbf555cf80b98fc3e"
-    }
-  }
+  "sources_youtubeId": "G92_kfZHWq0",
+  "sources_ipfsHash": "QmXcWUMDhtseNCk1uj3PrnEpiQ5kM6WwEiqENhpr2DvLZR",
+  "sources_swarmHash": "b6ea272cb5e6427bedcf99b4da54a55fe51ac3911e4298dcbf555cf80b98fc3e",
+  "duration": 1372,
+  "language": "en"
 }

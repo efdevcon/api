@@ -13,13 +13,9 @@
   "speakers": [
     "phil-daian"
   ],
-  "media": {
-    "duration": 1264,
-    "language": "en",
-    "sources": {
-      "youtube": "4GDTFugtW6k",
-      "ipfs": "QmYWGsuTZmekuHHERMBiSyVytLyT4QzhiAzW1yVz8D6pZW",
-      "swarm": "7e10061eaa5bed2c2f036288754ebe8de357ba574b827058e1a5fc2acbdab70a"
-    }
-  }
+  "sources_youtubeId": "4GDTFugtW6k",
+  "sources_ipfsHash": "QmYWGsuTZmekuHHERMBiSyVytLyT4QzhiAzW1yVz8D6pZW",
+  "sources_swarmHash": "7e10061eaa5bed2c2f036288754ebe8de357ba574b827058e1a5fc2acbdab70a",
+  "duration": 1264,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "facundo-spagnuolo"
   ],
-  "media": {
-    "duration": 1092,
-    "language": "en",
-    "sources": {
-      "youtube": "J0DndcxqboA",
-      "ipfs": "QmSKrma4tC8z5D2o3uuP89FTvJoiieHpjyzLqUrqSCwNSR",
-      "swarm": "50d2774b8d1ec21240a5ffe06ae65aad1b118bfa35c86f8b9dd1e96c4d529923"
-    }
-  }
+  "sources_youtubeId": "J0DndcxqboA",
+  "sources_ipfsHash": "QmSKrma4tC8z5D2o3uuP89FTvJoiieHpjyzLqUrqSCwNSR",
+  "sources_swarmHash": "50d2774b8d1ec21240a5ffe06ae65aad1b118bfa35c86f8b9dd1e96c4d529923",
+  "duration": 1092,
+  "language": "en"
 }

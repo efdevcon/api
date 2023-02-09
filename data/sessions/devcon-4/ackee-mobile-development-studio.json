@@ -17,13 +17,9 @@
   "speakers": [
     "josef-gattermayer"
   ],
-  "media": {
-    "duration": 309,
-    "language": "en",
-    "sources": {
-      "youtube": "t3apYrmxaD8",
-      "ipfs": "QmdYLFS3GtZX6n4oNsfcpTAXrStkbRJ3N2tuGv2TPrjcwE",
-      "swarm": "ac2c56ca125b3dbd815e034aef61e85f5b471416bec91bf6a42df20d6f262397"
-    }
-  }
+  "sources_youtubeId": "t3apYrmxaD8",
+  "sources_ipfsHash": "QmdYLFS3GtZX6n4oNsfcpTAXrStkbRJ3N2tuGv2TPrjcwE",
+  "sources_swarmHash": "ac2c56ca125b3dbd815e034aef61e85f5b471416bec91bf6a42df20d6f262397",
+  "duration": 309,
+  "language": "en"
 }

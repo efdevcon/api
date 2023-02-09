@@ -16,11 +16,7 @@
   "speakers": [
     "zero-age"
   ],
-  "media": {
-    "duration": 3174,
-    "language": "en",
-    "sources": {
-      "youtube": "YLWnaSymFHA"
-    }
-  }
+  "sources_youtubeId": "YLWnaSymFHA",
+  "duration": 3174,
+  "language": "en"
 }

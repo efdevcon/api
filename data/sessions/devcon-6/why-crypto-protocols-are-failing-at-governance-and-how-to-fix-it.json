@@ -16,27 +16,12 @@
   "speakers": [
     "charles-st-louis"
   ],
-  "resources": {
-    "slides": "/resources/6/why-crypto-protocols-are-failing-at-governance-and-how-to-fix-it.pdf"
-  },
-  "slot": {
-    "start": 1665675000000,
-    "end": 1665676800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1700,
-    "language": "en",
-    "sources": {
-      "youtube": "UyckKXkk35k",
-      "swarm": "cd932cfe45608e690967cccc6f5752f1c32b85872da337d2d4328138c08c2825"
-    }
-  }
+  "resources_slides": "/resources/6/why-crypto-protocols-are-failing-at-governance-and-how-to-fix-it.pdf",
+  "slot_start": 1665675000000,
+  "slot_end": 1665676800000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "UyckKXkk35k",
+  "sources_swarmHash": "cd932cfe45608e690967cccc6f5752f1c32b85872da337d2d4328138c08c2825",
+  "duration": 1700,
+  "language": "en"
 }

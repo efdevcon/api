@@ -16,27 +16,12 @@
   "speakers": [
     "sina-mahmoodi"
   ],
-  "resources": {
-    "slides": "/resources/6/evm-tracing-in-geth.pdf"
-  },
-  "slot": {
-    "start": 1665676800000,
-    "end": 1665680400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 2306,
-    "language": "en",
-    "sources": {
-      "youtube": "b8RdmGsilfU",
-      "swarm": "fcd21b2fdd2a81fa82c8b1636e04d27762e2a1da1dc4ae05281e9fc9d6da8f89"
-    }
-  }
+  "resources_slides": "/resources/6/evm-tracing-in-geth.pdf",
+  "slot_start": 1665676800000,
+  "slot_end": 1665680400000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "b8RdmGsilfU",
+  "sources_swarmHash": "fcd21b2fdd2a81fa82c8b1636e04d27762e2a1da1dc4ae05281e9fc9d6da8f89",
+  "duration": 2306,
+  "language": "en"
 }

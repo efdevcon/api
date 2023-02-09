@@ -21,13 +21,9 @@
   "speakers": [
     "luis-cuende"
   ],
-  "media": {
-    "duration": 1196,
-    "language": "en",
-    "sources": {
-      "youtube": "arbJXW1NeTM",
-      "ipfs": "QmVtnzqCaGmfkMxSzKWtyqDPJvMk7L5dH78ywuTs6PD3dq",
-      "swarm": "af0e92a31cc8ed680e41193177c8576c8b589afab55344e20c714d2044a4e993"
-    }
-  }
+  "sources_youtubeId": "arbJXW1NeTM",
+  "sources_ipfsHash": "QmVtnzqCaGmfkMxSzKWtyqDPJvMk7L5dH78ywuTs6PD3dq",
+  "sources_swarmHash": "af0e92a31cc8ed680e41193177c8576c8b589afab55344e20c714d2044a4e993",
+  "duration": 1196,
+  "language": "en"
 }

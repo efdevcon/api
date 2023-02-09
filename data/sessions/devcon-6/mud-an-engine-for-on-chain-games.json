@@ -18,26 +18,11 @@
     "alvarius",
     "kelvin-fichter"
   ],
-  "resources": {
-    "slides": "/resources/6/mud-an-engine-for-on-chain-games.pdf"
-  },
-  "slot": {
-    "start": 1665570600000,
-    "end": 1665574200000,
-    "length": 3600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 2895,
-    "language": "en",
-    "sources": {
-      "youtube": "tLGdup5wmck"
-    }
-  }
+  "resources_slides": "/resources/6/mud-an-engine-for-on-chain-games.pdf",
+  "slot_start": 1665570600000,
+  "slot_end": 1665574200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "tLGdup5wmck",
+  "duration": 2895,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "heiko-burkhardt"
   ],
-  "media": {
-    "duration": 226,
-    "language": "en",
-    "sources": {
-      "youtube": "2-_gWm1Nvx4",
-      "ipfs": "Qma5bYybDPxNjs9VEF1bKFk9zW9qxQFHLnd811fLZr5rf4",
-      "swarm": "8b768e2e0e1dc486e20cd8b11350d60b8bfc63b422f391cb5cc97b1330e25114"
-    }
-  }
+  "sources_youtubeId": "2-_gWm1Nvx4",
+  "sources_ipfsHash": "Qma5bYybDPxNjs9VEF1bKFk9zW9qxQFHLnd811fLZr5rf4",
+  "sources_swarmHash": "8b768e2e0e1dc486e20cd8b11350d60b8bfc63b422f391cb5cc97b1330e25114",
+  "duration": 226,
+  "language": "en"
 }

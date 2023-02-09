@@ -16,26 +16,11 @@
   "speakers": [
     "heiko-burkhardt"
   ],
-  "resources": {
-    "slides": "/resources/6/dm3-decentralized-secure-and-open-messaging-protocol.pdf"
-  },
-  "slot": {
-    "start": 1665576000000,
-    "end": 1665576600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 358,
-    "language": "en",
-    "sources": {
-      "youtube": "U8pEuOpY97o"
-    }
-  }
+  "resources_slides": "/resources/6/dm3-decentralized-secure-and-open-messaging-protocol.pdf",
+  "slot_start": 1665576000000,
+  "slot_end": 1665576600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "U8pEuOpY97o",
+  "duration": 358,
+  "language": "en"
 }

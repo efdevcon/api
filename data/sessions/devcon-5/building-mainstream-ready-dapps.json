@@ -17,13 +17,9 @@
   "speakers": [
     "matt-slipper"
   ],
-  "media": {
-    "duration": 1128,
-    "language": "en",
-    "sources": {
-      "youtube": "06_dtE1dcbI",
-      "ipfs": "QmejPvwNw8RwybJ44fo2JKJtPXjBDm3WCNpX6B6DuPaHhA",
-      "swarm": "9f1aad0e2cac24daf9fdbd60e48ec98a08c07c4d71efe7f67d75a7ab983bfec6"
-    }
-  }
+  "sources_youtubeId": "06_dtE1dcbI",
+  "sources_ipfsHash": "QmejPvwNw8RwybJ44fo2JKJtPXjBDm3WCNpX6B6DuPaHhA",
+  "sources_swarmHash": "9f1aad0e2cac24daf9fdbd60e48ec98a08c07c4d71efe7f67d75a7ab983bfec6",
+  "duration": 1128,
+  "language": "en"
 }

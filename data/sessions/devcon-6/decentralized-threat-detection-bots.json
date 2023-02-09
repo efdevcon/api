@@ -16,27 +16,12 @@
   "speakers": [
     "jonathan-alexander"
   ],
-  "resources": {
-    "slides": "/resources/6/decentralized-threat-detection-bots.pdf"
-  },
-  "slot": {
-    "start": 1665592200000,
-    "end": 1665594000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1827,
-    "language": "en",
-    "sources": {
-      "youtube": "5EV3VlKeBI4",
-      "swarm": "6bc51976f2d92728b7d56cb894c61540013b25024fc392341a82fd10ce8aba26"
-    }
-  }
+  "resources_slides": "/resources/6/decentralized-threat-detection-bots.pdf",
+  "slot_start": 1665592200000,
+  "slot_end": 1665594000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "5EV3VlKeBI4",
+  "sources_swarmHash": "6bc51976f2d92728b7d56cb894c61540013b25024fc392341a82fd10ce8aba26",
+  "duration": 1827,
+  "language": "en"
 }

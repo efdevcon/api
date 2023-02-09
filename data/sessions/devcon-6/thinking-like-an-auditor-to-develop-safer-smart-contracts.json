@@ -16,26 +16,11 @@
   "speakers": [
     "dominic-bruetsch"
   ],
-  "resources": {
-    "slides": "/resources/6/thinking-like-an-auditor-to-develop-safer-smart-contracts.pdf"
-  },
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665572400000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2842,
-    "language": "en",
-    "sources": {
-      "youtube": "zzpMvNvhAaw"
-    }
-  }
+  "resources_slides": "/resources/6/thinking-like-an-auditor-to-develop-safer-smart-contracts.pdf",
+  "slot_start": 1665568800000,
+  "slot_end": 1665572400000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "zzpMvNvhAaw",
+  "duration": 2842,
+  "language": "en"
 }

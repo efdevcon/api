@@ -16,27 +16,12 @@
   "speakers": [
     "ryan-lackey"
   ],
-  "resources": {
-    "slides": "/resources/6/how-to-not-be-worth-kidnapping.pdf"
-  },
-  "slot": {
-    "start": 1665681000000,
-    "end": 1665681600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 514,
-    "language": "en",
-    "sources": {
-      "youtube": "DYLzqorm6Z4",
-      "swarm": "06813dd661ecba8a3c45bb446bf04711dc7ec5dfdd7ae2061846a5a325cd7fe7"
-    }
-  }
+  "resources_slides": "/resources/6/how-to-not-be-worth-kidnapping.pdf",
+  "slot_start": 1665681000000,
+  "slot_end": 1665681600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "DYLzqorm6Z4",
+  "sources_swarmHash": "06813dd661ecba8a3c45bb446bf04711dc7ec5dfdd7ae2061846a5a325cd7fe7",
+  "duration": 514,
+  "language": "en"
 }

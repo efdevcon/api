@@ -14,23 +14,10 @@
   "speakers": [
     "janmajaya-mall"
   ],
-  "slot": {
-    "start": 1665657300000,
-    "end": 1665657900000,
-    "length": 600,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 423,
-    "language": "en",
-    "sources": {
-      "youtube": "dFp0ckj7K_4"
-    }
-  }
+  "slot_start": 1665657300000,
+  "slot_end": 1665657900000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "dFp0ckj7K_4",
+  "duration": 423,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "jason-teutsch"
   ],
-  "media": {
-    "duration": 1170,
-    "language": "en",
-    "sources": {
-      "youtube": "kwe_C_ei0hQ",
-      "ipfs": "QmcvUypmnMxxDCNdPGpfzXsrBK9KhVcD6Vnh1YiWeYgPBK",
-      "swarm": "07325f9917ff3abe84d86a681ef5ed1885f2849fa658bd521a79ec093fb32a97"
-    }
-  }
+  "sources_youtubeId": "kwe_C_ei0hQ",
+  "sources_ipfsHash": "QmcvUypmnMxxDCNdPGpfzXsrBK9KhVcD6Vnh1YiWeYgPBK",
+  "sources_swarmHash": "07325f9917ff3abe84d86a681ef5ed1885f2849fa658bd521a79ec093fb32a97",
+  "duration": 1170,
+  "language": "en"
 }

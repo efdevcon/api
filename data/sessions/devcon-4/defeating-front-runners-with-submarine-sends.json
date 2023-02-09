@@ -18,13 +18,9 @@
     "lorenz-breidenbach",
     "tyler-kell"
   ],
-  "media": {
-    "duration": 369,
-    "language": "en",
-    "sources": {
-      "youtube": "JxAgNeFg6QM",
-      "ipfs": "QmUH7SF5dpgdF3mpuaxoJY6QN8GpLYisG87vke49sjAYMe",
-      "swarm": "2cd6764c96ad47021ff5d3780662ccc4bfa50606402d7fa134946dc40d39601b"
-    }
-  }
+  "sources_youtubeId": "JxAgNeFg6QM",
+  "sources_ipfsHash": "QmUH7SF5dpgdF3mpuaxoJY6QN8GpLYisG87vke49sjAYMe",
+  "sources_swarmHash": "2cd6764c96ad47021ff5d3780662ccc4bfa50606402d7fa134946dc40d39601b",
+  "duration": 369,
+  "language": "en"
 }

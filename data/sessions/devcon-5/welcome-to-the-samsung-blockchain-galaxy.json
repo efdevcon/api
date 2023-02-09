@@ -16,13 +16,9 @@
     "wook-lim",
     "minji-chae"
   ],
-  "media": {
-    "duration": 773,
-    "language": "en",
-    "sources": {
-      "youtube": "q212wYPTnAM",
-      "ipfs": "QmQApenbE6ZfZXPVf7c2LGU3BE3wr3hPYqJR9qAaf8dzjo",
-      "swarm": "0e66aa9ddc377d5f31b758c6f5a52aeb64afeb22f8c22496f11823bd4b2a8401"
-    }
-  }
+  "sources_youtubeId": "q212wYPTnAM",
+  "sources_ipfsHash": "QmQApenbE6ZfZXPVf7c2LGU3BE3wr3hPYqJR9qAaf8dzjo",
+  "sources_swarmHash": "0e66aa9ddc377d5f31b758c6f5a52aeb64afeb22f8c22496f11823bd4b2a8401",
+  "duration": 773,
+  "language": "en"
 }

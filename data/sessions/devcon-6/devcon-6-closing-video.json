@@ -14,12 +14,8 @@
   "speakers": [
     "ethereum-foundation"
   ],
-  "media": {
-    "duration": 144,
-    "language": "en",
-    "sources": {
-      "youtube": "7b7a1gaWv2k",
-      "swarm": "951406394b6fc5ed26ee7015d5d1042f2abee6e11ae277e51ac4d268afa53b3a"
-    }
-  }
+  "sources_youtubeId": "7b7a1gaWv2k",
+  "sources_swarmHash": "951406394b6fc5ed26ee7015d5d1042f2abee6e11ae277e51ac4d268afa53b3a",
+  "duration": 144,
+  "language": "en"
 }

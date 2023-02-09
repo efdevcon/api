@@ -14,13 +14,9 @@
     "harry-altman",
     "g-nicholas-dandrea"
   ],
-  "media": {
-    "duration": 1621,
-    "language": "en",
-    "sources": {
-      "youtube": "oz5_SyouLt4",
-      "ipfs": "QmcVtCvoD6BXztggLeAmyire8gg6GGGZydhRBgxMaRsfeB",
-      "swarm": "448a5f9fda9f37c4fae455efea24d09c2cfa0bf057709be1e70521468396361b"
-    }
-  }
+  "sources_youtubeId": "oz5_SyouLt4",
+  "sources_ipfsHash": "QmcVtCvoD6BXztggLeAmyire8gg6GGGZydhRBgxMaRsfeB",
+  "sources_swarmHash": "448a5f9fda9f37c4fae455efea24d09c2cfa0bf057709be1e70521468396361b",
+  "duration": 1621,
+  "language": "en"
 }

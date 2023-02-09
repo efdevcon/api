@@ -26,13 +26,9 @@
   "speakers": [
     "lefteris-karapetsas"
   ],
-  "media": {
-    "duration": 712,
-    "language": "en",
-    "sources": {
-      "youtube": "90ZMaX7PT3U",
-      "ipfs": "QmTeTjQxqYzgy8mo4UzeGEzoHupivrpL3SgDTMm4N4gv3s",
-      "swarm": "9f3eee1c2ead577c44a6977b1dc8a9dbb8745ffc1b67743a61f3dd036f3ccf30"
-    }
-  }
+  "sources_youtubeId": "90ZMaX7PT3U",
+  "sources_ipfsHash": "QmTeTjQxqYzgy8mo4UzeGEzoHupivrpL3SgDTMm4N4gv3s",
+  "sources_swarmHash": "9f3eee1c2ead577c44a6977b1dc8a9dbb8745ffc1b67743a61f3dd036f3ccf30",
+  "duration": 712,
+  "language": "en"
 }

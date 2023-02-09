@@ -14,13 +14,9 @@
   "speakers": [
     "shawn-wilkinson"
   ],
-  "media": {
-    "duration": 332,
-    "language": "en",
-    "sources": {
-      "youtube": "Id0bEdsPkEA",
-      "ipfs": "QmTWSC1bkjqZx7Dhs3fhiyfuRZQ6uRGzjHyritWKHH4tLe",
-      "swarm": "d2bac8e5aac0cd00d3af1c1ae8281b90de899875934e2631febf506576a879d2"
-    }
-  }
+  "sources_youtubeId": "Id0bEdsPkEA",
+  "sources_ipfsHash": "QmTWSC1bkjqZx7Dhs3fhiyfuRZQ6uRGzjHyritWKHH4tLe",
+  "sources_swarmHash": "d2bac8e5aac0cd00d3af1c1ae8281b90de899875934e2631febf506576a879d2",
+  "duration": 332,
+  "language": "en"
 }

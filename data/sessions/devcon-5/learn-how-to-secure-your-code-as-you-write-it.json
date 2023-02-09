@@ -14,13 +14,9 @@
   "speakers": [
     "manuel-garcia"
   ],
-  "media": {
-    "duration": 1180,
-    "language": "en",
-    "sources": {
-      "youtube": "JDyewm3skew",
-      "ipfs": "QmdM7buoXAnWdc2QwDcHzYADHuofHctEcD6GW4CpJfpibW",
-      "swarm": "9d3c89ec16503733827ee9273588c9e6dd2f860493d3c87e050256a7cbdaca9f"
-    }
-  }
+  "sources_youtubeId": "JDyewm3skew",
+  "sources_ipfsHash": "QmdM7buoXAnWdc2QwDcHzYADHuofHctEcD6GW4CpJfpibW",
+  "sources_swarmHash": "9d3c89ec16503733827ee9273588c9e6dd2f860493d3c87e050256a7cbdaca9f",
+  "duration": 1180,
+  "language": "en"
 }

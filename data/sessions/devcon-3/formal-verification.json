@@ -17,13 +17,9 @@
     "loi-luu",
     "reto-trinkler"
   ],
-  "media": {
-    "duration": 1550,
-    "language": "en",
-    "sources": {
-      "youtube": "DrDIcirrhWM",
-      "ipfs": "QmbredHumjDLKuBnk9CheUyr2d2q8eVqFd2PeNSDEzv7ot",
-      "swarm": "98624bf72b2f435edc4126fff0f70f22d2566c54d0fe7030023a16bfbca5166d"
-    }
-  }
+  "sources_youtubeId": "DrDIcirrhWM",
+  "sources_ipfsHash": "QmbredHumjDLKuBnk9CheUyr2d2q8eVqFd2PeNSDEzv7ot",
+  "sources_swarmHash": "98624bf72b2f435edc4126fff0f70f22d2566c54d0fe7030023a16bfbca5166d",
+  "duration": 1550,
+  "language": "en"
 }

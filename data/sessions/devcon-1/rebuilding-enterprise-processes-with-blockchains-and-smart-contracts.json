@@ -13,13 +13,9 @@
   "speakers": [
     "mathew-spoke"
   ],
-  "media": {
-    "duration": 1093,
-    "language": "en",
-    "sources": {
-      "youtube": "abyyK2-gtWQ",
-      "ipfs": "QmeY2rWuzKvQvVU1pXN39FyNuPUWjQTa3oNehUoZx3YKTn",
-      "swarm": "5859c474af1d98666101586c549ea8db5c3092489c181b32e877d733d73f5dc8"
-    }
-  }
+  "sources_youtubeId": "abyyK2-gtWQ",
+  "sources_ipfsHash": "QmeY2rWuzKvQvVU1pXN39FyNuPUWjQTa3oNehUoZx3YKTn",
+  "sources_swarmHash": "5859c474af1d98666101586c549ea8db5c3092489c181b32e877d733d73f5dc8",
+  "duration": 1093,
+  "language": "en"
 }

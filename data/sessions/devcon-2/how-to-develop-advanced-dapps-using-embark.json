@@ -28,13 +28,9 @@
   "speakers": [
     "iuri-matias"
   ],
-  "media": {
-    "duration": 905,
-    "language": "en",
-    "sources": {
-      "youtube": "GyCvKywv2z0",
-      "ipfs": "QmRssXiT9QB8V1TJK1HMKYtB3ajqwUwfXecgNjpZoNr4CJ",
-      "swarm": "be52d44f5494c35fc6e74d10c5a625b895bc183426708f5790e32e5a432f5c93"
-    }
-  }
+  "sources_youtubeId": "GyCvKywv2z0",
+  "sources_ipfsHash": "QmRssXiT9QB8V1TJK1HMKYtB3ajqwUwfXecgNjpZoNr4CJ",
+  "sources_swarmHash": "be52d44f5494c35fc6e74d10c5a625b895bc183426708f5790e32e5a432f5c93",
+  "duration": 905,
+  "language": "en"
 }

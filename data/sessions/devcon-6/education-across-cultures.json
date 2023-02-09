@@ -20,23 +20,10 @@
     "ulas-erdogan",
     "luka"
   ],
-  "slot": {
-    "start": 1665592500000,
-    "end": 1665594600000,
-    "length": 2100,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2202,
-    "language": "en",
-    "sources": {
-      "youtube": "RWTgDMud_EQ"
-    }
-  }
+  "slot_start": 1665592500000,
+  "slot_end": 1665594600000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "RWTgDMud_EQ",
+  "duration": 2202,
+  "language": "en"
 }

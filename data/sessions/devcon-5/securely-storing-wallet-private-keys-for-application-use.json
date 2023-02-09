@@ -14,13 +14,9 @@
   "speakers": [
     "adam-link"
   ],
-  "media": {
-    "duration": 317,
-    "language": "en",
-    "sources": {
-      "youtube": "suGACevZVAs",
-      "ipfs": "QmYSGVxHnPPtZBAD2DoUmTTjtQmNZdzmbRHWpEfsWiittx",
-      "swarm": "cf888fad636dfb01c48a460768826ae560bf5667825105201b02fee80f984d1c"
-    }
-  }
+  "sources_youtubeId": "suGACevZVAs",
+  "sources_ipfsHash": "QmYSGVxHnPPtZBAD2DoUmTTjtQmNZdzmbRHWpEfsWiittx",
+  "sources_swarmHash": "cf888fad636dfb01c48a460768826ae560bf5667825105201b02fee80f984d1c",
+  "duration": 317,
+  "language": "en"
 }

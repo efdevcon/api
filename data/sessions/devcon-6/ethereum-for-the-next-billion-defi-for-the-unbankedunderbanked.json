@@ -20,23 +20,9 @@
     "marcus-am",
     "gabriela-guerra"
   ],
-  "slot": {
-    "start": 1665658800000,
-    "end": 1665662400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 0,
-    "language": "en",
-    "sources": {
-      "youtube": "rhYcHHwBuiI"
-    }
-  }
+  "slot_start": 1665658800000,
+  "slot_end": 1665662400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "rhYcHHwBuiI",
+  "language": "en"
 }

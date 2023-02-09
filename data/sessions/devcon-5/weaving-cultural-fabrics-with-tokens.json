@@ -16,13 +16,9 @@
   "speakers": [
     "mark-beylin"
   ],
-  "media": {
-    "duration": 1086,
-    "language": "en",
-    "sources": {
-      "youtube": "DeV8oKleAag",
-      "ipfs": "QmSjymhRB7GpoJVaMfJSu5JxgAnk3rc5QGSdGf3BKrPCAJ",
-      "swarm": "a0a48378a3744a6b36b0bc2a3538d26c1a7004851f2eba0b3d9939be826938b5"
-    }
-  }
+  "sources_youtubeId": "DeV8oKleAag",
+  "sources_ipfsHash": "QmSjymhRB7GpoJVaMfJSu5JxgAnk3rc5QGSdGf3BKrPCAJ",
+  "sources_swarmHash": "a0a48378a3744a6b36b0bc2a3538d26c1a7004851f2eba0b3d9939be826938b5",
+  "duration": 1086,
+  "language": "en"
 }

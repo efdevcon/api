@@ -17,13 +17,9 @@
     "alex-stokes",
     "chihcheng-liang"
   ],
-  "media": {
-    "duration": 6679,
-    "language": "en",
-    "sources": {
-      "youtube": "N5DdClfLQfw",
-      "ipfs": "Qmb8k7EEVUnJfa5gPzPb5XeCo4tbwjLfpWMEnw6vpDDWbr",
-      "swarm": "4fcde053328607c01f8d4aeac740cb146b5e96fcd5820df232a2eb448c3a63ff"
-    }
-  }
+  "sources_youtubeId": "N5DdClfLQfw",
+  "sources_ipfsHash": "Qmb8k7EEVUnJfa5gPzPb5XeCo4tbwjLfpWMEnw6vpDDWbr",
+  "sources_swarmHash": "4fcde053328607c01f8d4aeac740cb146b5e96fcd5820df232a2eb448c3a63ff",
+  "duration": 6679,
+  "language": "en"
 }

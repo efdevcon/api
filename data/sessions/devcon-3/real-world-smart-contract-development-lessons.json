@@ -13,13 +13,9 @@
   "speakers": [
     "raine-revere"
   ],
-  "media": {
-    "duration": 1245,
-    "language": "en",
-    "sources": {
-      "youtube": "pGh7UAiKTGo",
-      "ipfs": "Qmf8bGC1aF2ScQjAx1mK1vCFT8jEhu9PmyDXc9skGKnbNj",
-      "swarm": "8692073b55ccc83a8bcf607a0b6e67ffafbbe816fe8aa1c057c183711a30124c"
-    }
-  }
+  "sources_youtubeId": "pGh7UAiKTGo",
+  "sources_ipfsHash": "Qmf8bGC1aF2ScQjAx1mK1vCFT8jEhu9PmyDXc9skGKnbNj",
+  "sources_swarmHash": "8692073b55ccc83a8bcf607a0b6e67ffafbbe816fe8aa1c057c183711a30124c",
+  "duration": 1245,
+  "language": "en"
 }

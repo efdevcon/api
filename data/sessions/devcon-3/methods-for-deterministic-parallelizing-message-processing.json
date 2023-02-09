@@ -13,13 +13,9 @@
   "speakers": [
     "martin-becze"
   ],
-  "media": {
-    "duration": 1522,
-    "language": "en",
-    "sources": {
-      "youtube": "xS5sW6gJIEM",
-      "ipfs": "QmQgRgJEVq73HKZEGjjAb4bnZFx75JHZHj6djm2pnncLL5",
-      "swarm": "cbbfb5f9bc636b022519f8500bd449f92c831d92142fc93f53275283effef7e4"
-    }
-  }
+  "sources_youtubeId": "xS5sW6gJIEM",
+  "sources_ipfsHash": "QmQgRgJEVq73HKZEGjjAb4bnZFx75JHZHj6djm2pnncLL5",
+  "sources_swarmHash": "cbbfb5f9bc636b022519f8500bd449f92c831d92142fc93f53275283effef7e4",
+  "duration": 1522,
+  "language": "en"
 }

@@ -17,27 +17,12 @@
     "kevin-owocki",
     "justin-holmes"
   ],
-  "resources": {
-    "slides": "/resources/6/the-coordination-song.pdf"
-  },
-  "slot": {
-    "start": 1665597000000,
-    "end": 1665597600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 320,
-    "language": "en",
-    "sources": {
-      "youtube": "Xx5TuhyFvSE",
-      "swarm": "580db0d13034970e8da1b5ece0cf32b157582daf3f9e6cfb24acd27a7b3d708b"
-    }
-  }
+  "resources_slides": "/resources/6/the-coordination-song.pdf",
+  "slot_start": 1665597000000,
+  "slot_end": 1665597600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Xx5TuhyFvSE",
+  "sources_swarmHash": "580db0d13034970e8da1b5ece0cf32b157582daf3f9e6cfb24acd27a7b3d708b",
+  "duration": 320,
+  "language": "en"
 }

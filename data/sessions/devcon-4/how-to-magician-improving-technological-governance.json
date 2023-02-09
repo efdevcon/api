@@ -16,13 +16,9 @@
     "greg-colvin",
     "jamie-pitts"
   ],
-  "media": {
-    "duration": 1056,
-    "language": "en",
-    "sources": {
-      "youtube": "_NBNZowjAJo",
-      "ipfs": "QmYHhptBRv2sRTLzMqKAFZdmvXWE8SJBZCW5sQJx2c5unv",
-      "swarm": "2650563c59c20cbde3e09c3acdc6af8abc46a8becc5933903c0a347e8b5f052b"
-    }
-  }
+  "sources_youtubeId": "_NBNZowjAJo",
+  "sources_ipfsHash": "QmYHhptBRv2sRTLzMqKAFZdmvXWE8SJBZCW5sQJx2c5unv",
+  "sources_swarmHash": "2650563c59c20cbde3e09c3acdc6af8abc46a8becc5933903c0a347e8b5f052b",
+  "duration": 1056,
+  "language": "en"
 }

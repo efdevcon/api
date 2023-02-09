@@ -18,27 +18,12 @@
   "speakers": [
     "alexandre-bourget"
   ],
-  "resources": {
-    "slides": "/resources/6/introducing-the-graph-substreams-for-high-performance-indexing.pdf"
-  },
-  "slot": {
-    "start": 1665682200000,
-    "end": 1665684000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1919,
-    "language": "en",
-    "sources": {
-      "youtube": "K-nhC2FCB5k",
-      "swarm": "b2534f8dedc997ff404dc89fe510b130dcd4c9b3e3a75267e9072b0c7fa599f0"
-    }
-  }
+  "resources_slides": "/resources/6/introducing-the-graph-substreams-for-high-performance-indexing.pdf",
+  "slot_start": 1665682200000,
+  "slot_end": 1665684000000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "K-nhC2FCB5k",
+  "sources_swarmHash": "b2534f8dedc997ff404dc89fe510b130dcd4c9b3e3a75267e9072b0c7fa599f0",
+  "duration": 1919,
+  "language": "en"
 }

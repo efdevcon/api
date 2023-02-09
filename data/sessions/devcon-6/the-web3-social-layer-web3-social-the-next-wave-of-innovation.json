@@ -16,27 +16,12 @@
   "speakers": [
     "stani-kulechov"
   ],
-  "resources": {
-    "slides": "/resources/6/the-web3-social-layer-web3-social-the-next-wave-of-innovation.pdf"
-  },
-  "slot": {
-    "start": 1665752400000,
-    "end": 1665753900000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1345,
-    "language": "en",
-    "sources": {
-      "youtube": "Fzi41Ff_eh4",
-      "swarm": "29238c3e61872105174b59d1a256c7f518c45de919d4b831d9460395b7ca35ad"
-    }
-  }
+  "resources_slides": "/resources/6/the-web3-social-layer-web3-social-the-next-wave-of-innovation.pdf",
+  "slot_start": 1665752400000,
+  "slot_end": 1665753900000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "Fzi41Ff_eh4",
+  "sources_swarmHash": "29238c3e61872105174b59d1a256c7f518c45de919d4b831d9460395b7ca35ad",
+  "duration": 1345,
+  "language": "en"
 }

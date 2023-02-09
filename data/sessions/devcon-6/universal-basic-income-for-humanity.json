@@ -16,27 +16,12 @@
   "speakers": [
     "santiago-siri"
   ],
-  "resources": {
-    "slides": "/resources/6/universal-basic-income-for-humanity.pdf"
-  },
-  "slot": {
-    "start": 1665657000000,
-    "end": 1665658800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1899,
-    "language": "en",
-    "sources": {
-      "youtube": "zZJz1gBNxLI",
-      "swarm": "e8ab707f8f4834fcf48820816d0fb0eb484d97f456adf382d5d2a5783450ed0f"
-    }
-  }
+  "resources_slides": "/resources/6/universal-basic-income-for-humanity.pdf",
+  "slot_start": 1665657000000,
+  "slot_end": 1665658800000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "zZJz1gBNxLI",
+  "sources_swarmHash": "e8ab707f8f4834fcf48820816d0fb0eb484d97f456adf382d5d2a5783450ed0f",
+  "duration": 1899,
+  "language": "en"
 }

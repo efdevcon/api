@@ -18,23 +18,10 @@
     "brandon-kase",
     "kev"
   ],
-  "slot": {
-    "start": 1665660000000,
-    "end": 1665662700000,
-    "length": 2700,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3676,
-    "language": "en",
-    "sources": {
-      "youtube": "gS1gWD1oEBs"
-    }
-  }
+  "slot_start": 1665660000000,
+  "slot_end": 1665662700000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "gS1gWD1oEBs",
+  "duration": 3676,
+  "language": "en"
 }

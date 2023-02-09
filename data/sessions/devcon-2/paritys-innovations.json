@@ -28,13 +28,9 @@
   "speakers": [
     "arkadiy-paronyan"
   ],
-  "media": {
-    "duration": 758,
-    "language": "en",
-    "sources": {
-      "youtube": "xcajGEmC20A",
-      "ipfs": "QmYTQKFnqHhs8fKqguoAWkEzq9P51yr9ihbjMeQ2qEC9mu",
-      "swarm": "969f3191cb298c224f79c1b1fa76ec2afabb10ea655e9d18d22c02ba9fc851e8"
-    }
-  }
+  "sources_youtubeId": "xcajGEmC20A",
+  "sources_ipfsHash": "QmYTQKFnqHhs8fKqguoAWkEzq9P51yr9ihbjMeQ2qEC9mu",
+  "sources_swarmHash": "969f3191cb298c224f79c1b1fa76ec2afabb10ea655e9d18d22c02ba9fc851e8",
+  "duration": 758,
+  "language": "en"
 }

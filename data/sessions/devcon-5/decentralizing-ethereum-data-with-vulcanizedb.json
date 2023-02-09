@@ -14,13 +14,9 @@
   "speakers": [
     "rob-mulholand"
   ],
-  "media": {
-    "duration": 1912,
-    "language": "en",
-    "sources": {
-      "youtube": "VZX0nN7VFfI",
-      "ipfs": "QmQANU3xaMm91tfxN1oAGG19tte879M14HnSUp1J13uPZk",
-      "swarm": "9e08b282ab03b327dac7ab2a0ecf0b940c015bcb2c0f534ad642b65a5dddb10b"
-    }
-  }
+  "sources_youtubeId": "VZX0nN7VFfI",
+  "sources_ipfsHash": "QmQANU3xaMm91tfxN1oAGG19tte879M14HnSUp1J13uPZk",
+  "sources_swarmHash": "9e08b282ab03b327dac7ab2a0ecf0b940c015bcb2c0f534ad642b65a5dddb10b",
+  "duration": 1912,
+  "language": "en"
 }

@@ -18,13 +18,9 @@
   "speakers": [
     "paul-gardnerstephen"
   ],
-  "media": {
-    "duration": 1250,
-    "language": "en",
-    "sources": {
-      "youtube": "jKzSSdqNy04",
-      "ipfs": "QmRNCsF3FnjucsVsCoKqrFAkaS1vW5cqegWY2FQSdysLzG",
-      "swarm": "094a1faddb904dc09c1cfa48f98b0f0c24181833428234f82d2583cecdb82575"
-    }
-  }
+  "sources_youtubeId": "jKzSSdqNy04",
+  "sources_ipfsHash": "QmRNCsF3FnjucsVsCoKqrFAkaS1vW5cqegWY2FQSdysLzG",
+  "sources_swarmHash": "094a1faddb904dc09c1cfa48f98b0f0c24181833428234f82d2583cecdb82575",
+  "duration": 1250,
+  "language": "en"
 }

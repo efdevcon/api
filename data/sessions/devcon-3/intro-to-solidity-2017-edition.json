@@ -13,13 +13,9 @@
   "speakers": [
     "hudson-jameson"
   ],
-  "media": {
-    "duration": 972,
-    "language": "en",
-    "sources": {
-      "youtube": "KkN1O8TChbM",
-      "ipfs": "Qmb6TLteq6sGxr3BWRDFZz8zyyUsqwQJFPJ268J7VKdzaH",
-      "swarm": "62885cda5bcfd44a0bacca4b1f1c7e8eff5e7e33ed5cc90ace84f077eef7b088"
-    }
-  }
+  "sources_youtubeId": "KkN1O8TChbM",
+  "sources_ipfsHash": "Qmb6TLteq6sGxr3BWRDFZz8zyyUsqwQJFPJ268J7VKdzaH",
+  "sources_swarmHash": "62885cda5bcfd44a0bacca4b1f1c7e8eff5e7e33ed5cc90ace84f077eef7b088",
+  "duration": 972,
+  "language": "en"
 }

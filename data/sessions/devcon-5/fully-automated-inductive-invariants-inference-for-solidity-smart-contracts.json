@@ -15,13 +15,9 @@
     "leo-alt",
     "matteo-marescotti"
   ],
-  "media": {
-    "duration": 1481,
-    "language": "en",
-    "sources": {
-      "youtube": "q40OrUZoG40",
-      "ipfs": "QmeeyHQ33Z6kBdnNtuECfxE196szFZPtAEKaDpP8y2sEQH",
-      "swarm": "3d8187ba9c5ecc5116c3d4ae0f556a444bd31544cd2b6e89728ea77419f2325f"
-    }
-  }
+  "sources_youtubeId": "q40OrUZoG40",
+  "sources_ipfsHash": "QmeeyHQ33Z6kBdnNtuECfxE196szFZPtAEKaDpP8y2sEQH",
+  "sources_swarmHash": "3d8187ba9c5ecc5116c3d4ae0f556a444bd31544cd2b6e89728ea77419f2325f",
+  "duration": 1481,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "shrey-jain"
   ],
-  "resources": {
-    "slides": "/resources/6/working-towards-a-plural-public-via-common-knowledge-and-designated-verifier-proofs.pdf"
-  },
-  "slot": {
-    "start": 1665572400000,
-    "end": 1665574200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1573,
-    "language": "en",
-    "sources": {
-      "youtube": "363W8KpCcBg",
-      "swarm": "b5498c38a76320eea615a9ea65aeaccb2221f385881fdb2d9f6a6eb5fd3191b8"
-    }
-  }
+  "resources_slides": "/resources/6/working-towards-a-plural-public-via-common-knowledge-and-designated-verifier-proofs.pdf",
+  "slot_start": 1665572400000,
+  "slot_end": 1665574200000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "363W8KpCcBg",
+  "sources_swarmHash": "b5498c38a76320eea615a9ea65aeaccb2221f385881fdb2d9f6a6eb5fd3191b8",
+  "duration": 1573,
+  "language": "en"
 }

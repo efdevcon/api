@@ -28,13 +28,9 @@
   "speakers": [
     "daniel-nagy"
   ],
-  "media": {
-    "duration": 2842,
-    "language": "en",
-    "sources": {
-      "youtube": "QzYZQ03ON2o",
-      "ipfs": "QmdTRF9p7dAbTdvh1KLfgbiKdgZ61DJbo9HTVWY2rQKBGR",
-      "swarm": "aa565b0d44d5624559756127e6c2fda248a5cffdbc47fda30239a1aad5c8a482"
-    }
-  }
+  "sources_youtubeId": "QzYZQ03ON2o",
+  "sources_ipfsHash": "QmdTRF9p7dAbTdvh1KLfgbiKdgZ61DJbo9HTVWY2rQKBGR",
+  "sources_swarmHash": "aa565b0d44d5624559756127e6c2fda248a5cffdbc47fda30239a1aad5c8a482",
+  "duration": 2842,
+  "language": "en"
 }

@@ -15,27 +15,12 @@
   "speakers": [
     "wei-dai"
   ],
-  "resources": {
-    "slides": "/resources/6/why-we-need-threshold-fhe-for-blockchains.pdf"
-  },
-  "slot": {
-    "start": 1665681000000,
-    "end": 1665681600000,
-    "length": 600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 550,
-    "language": "en",
-    "sources": {
-      "youtube": "tXK2-tn6cNc",
-      "swarm": "7fa57f5b2bf766f685c863bddf1054cfe9a4c687b7d747f8b8b20283da58569c"
-    }
-  }
+  "resources_slides": "/resources/6/why-we-need-threshold-fhe-for-blockchains.pdf",
+  "slot_start": 1665681000000,
+  "slot_end": 1665681600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "tXK2-tn6cNc",
+  "sources_swarmHash": "7fa57f5b2bf766f685c863bddf1054cfe9a4c687b7d747f8b8b20283da58569c",
+  "duration": 550,
+  "language": "en"
 }

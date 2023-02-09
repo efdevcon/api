@@ -16,27 +16,12 @@
   "speakers": [
     "maxim-vezenov"
   ],
-  "resources": {
-    "slides": "/resources/6/private-value-transfer-in-10-lines.pdf"
-  },
-  "slot": {
-    "start": 1665667800000,
-    "end": 1665669600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1274,
-    "language": "en",
-    "sources": {
-      "youtube": "wYqqXas8_O4",
-      "swarm": "5838208451b858c5136c476dc926d06cdcf5bca8865957754d9eb4fa9989fe8a"
-    }
-  }
+  "resources_slides": "/resources/6/private-value-transfer-in-10-lines.pdf",
+  "slot_start": 1665667800000,
+  "slot_end": 1665669600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "wYqqXas8_O4",
+  "sources_swarmHash": "5838208451b858c5136c476dc926d06cdcf5bca8865957754d9eb4fa9989fe8a",
+  "duration": 1274,
+  "language": "en"
 }

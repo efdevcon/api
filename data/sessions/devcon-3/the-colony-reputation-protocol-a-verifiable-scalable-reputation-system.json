@@ -13,13 +13,9 @@
   "speakers": [
     "aron-fischer"
   ],
-  "media": {
-    "duration": 1163,
-    "language": "en",
-    "sources": {
-      "youtube": "pdK5fTo0N90",
-      "ipfs": "QmQitgHjhPqMqVBpmPHtLdKjAi5kK6JaHDpmtRPcsvfw8e",
-      "swarm": "1c14ea476f619073f249691f9126cfe79f542f62a84e1a63f098e849759fc3dc"
-    }
-  }
+  "sources_youtubeId": "pdK5fTo0N90",
+  "sources_ipfsHash": "QmQitgHjhPqMqVBpmPHtLdKjAi5kK6JaHDpmtRPcsvfw8e",
+  "sources_swarmHash": "1c14ea476f619073f249691f9126cfe79f542f62a84e1a63f098e849759fc3dc",
+  "duration": 1163,
+  "language": "en"
 }

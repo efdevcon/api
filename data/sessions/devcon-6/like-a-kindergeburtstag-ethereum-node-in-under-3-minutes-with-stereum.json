@@ -16,27 +16,12 @@
   "speakers": [
     "stefan-kobrc"
   ],
-  "resources": {
-    "slides": "/resources/6/like-a-kindergeburtstag-ethereum-node-in-under-3-minutes-with-stereum.pdf"
-  },
-  "slot": {
-    "start": 1665662400000,
-    "end": 1665662820000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 414,
-    "language": "en",
-    "sources": {
-      "youtube": "hIArOBKtV3U",
-      "swarm": "35c7c60ebcabb02fdec39f553047b1d92900360af496764dcdb51fb511aaa865"
-    }
-  }
+  "resources_slides": "/resources/6/like-a-kindergeburtstag-ethereum-node-in-under-3-minutes-with-stereum.pdf",
+  "slot_start": 1665662400000,
+  "slot_end": 1665662820000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "hIArOBKtV3U",
+  "sources_swarmHash": "35c7c60ebcabb02fdec39f553047b1d92900360af496764dcdb51fb511aaa865",
+  "duration": 414,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
     "yondon-fu",
     "doug-petkanics"
   ],
-  "media": {
-    "duration": 1325,
-    "language": "en",
-    "sources": {
-      "youtube": "Uo7cf3JH24Q",
-      "ipfs": "QmUVvbfZkcRjtoLtYgk2VL7rShvXGwpaxvPMn29r4NWHtU",
-      "swarm": "4afd0a782b0979de44cc8cb1bd2af7b641d5dda2f5497efc0cdbdd0bcc525c1a"
-    }
-  }
+  "sources_youtubeId": "Uo7cf3JH24Q",
+  "sources_ipfsHash": "QmUVvbfZkcRjtoLtYgk2VL7rShvXGwpaxvPMn29r4NWHtU",
+  "sources_swarmHash": "4afd0a782b0979de44cc8cb1bd2af7b641d5dda2f5497efc0cdbdd0bcc525c1a",
+  "duration": 1325,
+  "language": "en"
 }

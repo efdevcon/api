@@ -16,13 +16,9 @@
     "oren-katz",
     "daniel-yanev"
   ],
-  "media": {
-    "duration": 1815,
-    "language": "en",
-    "sources": {
-      "youtube": "-dWafWqYvAA",
-      "ipfs": "QmXfouuXFdrtKN1XDVbSVyP9YvQyWgLNyXKihKHKk7sMjH",
-      "swarm": "cc6c81ee2a756f2e9d683bf4fd8098c1f9d68e037097e95a6c5678bf9a6f653d"
-    }
-  }
+  "sources_youtubeId": "-dWafWqYvAA",
+  "sources_ipfsHash": "QmXfouuXFdrtKN1XDVbSVyP9YvQyWgLNyXKihKHKk7sMjH",
+  "sources_swarmHash": "cc6c81ee2a756f2e9d683bf4fd8098c1f9d68e037097e95a6c5678bf9a6f653d",
+  "duration": 1815,
+  "language": "en"
 }

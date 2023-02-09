@@ -17,13 +17,9 @@
     "beltran-berrocal",
     "makato-inoue"
   ],
-  "media": {
-    "duration": 2546,
-    "language": "en",
-    "sources": {
-      "youtube": "e1L6uF1HPR0",
-      "ipfs": "QmQ7dCD4k8vivTBWriG9SDw6XhqR3yF7mGZLm1hBKAK9ZR",
-      "swarm": "da6578530f7271426872d07056a07c1a468df7d88b70eec7f89bc6fd5f53271d"
-    }
-  }
+  "sources_youtubeId": "e1L6uF1HPR0",
+  "sources_ipfsHash": "QmQ7dCD4k8vivTBWriG9SDw6XhqR3yF7mGZLm1hBKAK9ZR",
+  "sources_swarmHash": "da6578530f7271426872d07056a07c1a468df7d88b70eec7f89bc6fd5f53271d",
+  "duration": 2546,
+  "language": "en"
 }

@@ -17,27 +17,12 @@
     "herman-obst",
     "federica-sofia-moletta"
   ],
-  "resources": {
-    "slides": "/resources/6/improving-performance-of-provable-computations-using-rust.pdf"
-  },
-  "slot": {
-    "start": 1665673200000,
-    "end": 1665675000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1151,
-    "language": "en",
-    "sources": {
-      "youtube": "bvcfxlxrEj0",
-      "swarm": "2995669e87ab925bb4605cc2925d5671a0fab972d695533b9a35ca73a9b7833e"
-    }
-  }
+  "resources_slides": "/resources/6/improving-performance-of-provable-computations-using-rust.pdf",
+  "slot_start": 1665673200000,
+  "slot_end": 1665675000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "bvcfxlxrEj0",
+  "sources_swarmHash": "2995669e87ab925bb4605cc2925d5671a0fab972d695533b9a35ca73a9b7833e",
+  "duration": 1151,
+  "language": "en"
 }

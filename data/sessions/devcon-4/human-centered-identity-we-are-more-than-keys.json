@@ -18,13 +18,9 @@
   "speakers": [
     "jonny-howle"
   ],
-  "media": {
-    "duration": 1863,
-    "language": "en",
-    "sources": {
-      "youtube": "x-6o8PzXYU4",
-      "ipfs": "QmaK5MAe31V899XUJohCYChh4noksxCGuwAZcQVr2NrSFR",
-      "swarm": "c558082be98b6dc9b57e1f4b673c50577485e374bf0bf540befec3612df214cf"
-    }
-  }
+  "sources_youtubeId": "x-6o8PzXYU4",
+  "sources_ipfsHash": "QmaK5MAe31V899XUJohCYChh4noksxCGuwAZcQVr2NrSFR",
+  "sources_swarmHash": "c558082be98b6dc9b57e1f4b673c50577485e374bf0bf540befec3612df214cf",
+  "duration": 1863,
+  "language": "en"
 }

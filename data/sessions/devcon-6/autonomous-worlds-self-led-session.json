@@ -23,24 +23,11 @@
     "fraser",
     "omar-mezenner"
   ],
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665761400000,
-    "length": 19800,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 9629,
-    "language": "en",
-    "sources": {
-      "youtube": "cWrSpTMpx4E",
-      "swarm": "b9f7a1bd7f8f26b989a1e3940ac2b1989f8a21384baabb12918066329efc5035"
-    }
-  }
+  "slot_start": 1665741600000,
+  "slot_end": 1665761400000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "cWrSpTMpx4E",
+  "sources_swarmHash": "b9f7a1bd7f8f26b989a1e3940ac2b1989f8a21384baabb12918066329efc5035",
+  "duration": 9629,
+  "language": "en"
 }

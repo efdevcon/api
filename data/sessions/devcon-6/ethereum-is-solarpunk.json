@@ -15,27 +15,12 @@
   "speakers": [
     "kevin-owocki"
   ],
-  "resources": {
-    "slides": "/resources/6/ethereum-is-solarpunk.pdf"
-  },
-  "slot": {
-    "start": 1665596400000,
-    "end": 1665597000000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 480,
-    "language": "en",
-    "sources": {
-      "youtube": "AF2B6SsjoDQ",
-      "swarm": "14f9075042af4839918b1f2cae6ada39a343c4832e23e978304ceebec5fa2199"
-    }
-  }
+  "resources_slides": "/resources/6/ethereum-is-solarpunk.pdf",
+  "slot_start": 1665596400000,
+  "slot_end": 1665597000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "AF2B6SsjoDQ",
+  "sources_swarmHash": "14f9075042af4839918b1f2cae6ada39a343c4832e23e978304ceebec5fa2199",
+  "duration": 480,
+  "language": "en"
 }

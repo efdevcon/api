@@ -16,13 +16,9 @@
   "speakers": [
     "jesse-leimgruber"
   ],
-  "media": {
-    "duration": 395,
-    "language": "en",
-    "sources": {
-      "youtube": "_bRSOC8K1kc",
-      "ipfs": "QmNsdPLVwp9Wa6MaNA3TjJCZ2MWc2sLpLHfTdf3g3oTtjt",
-      "swarm": "10d29bfd9d818bf9ec6b95785ad648d2b54fb4c6b69956cfab696f4b69181757"
-    }
-  }
+  "sources_youtubeId": "_bRSOC8K1kc",
+  "sources_ipfsHash": "QmNsdPLVwp9Wa6MaNA3TjJCZ2MWc2sLpLHfTdf3g3oTtjt",
+  "sources_swarmHash": "10d29bfd9d818bf9ec6b95785ad648d2b54fb4c6b69956cfab696f4b69181757",
+  "duration": 395,
+  "language": "en"
 }

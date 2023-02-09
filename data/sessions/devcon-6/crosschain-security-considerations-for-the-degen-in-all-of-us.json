@@ -16,27 +16,12 @@
   "speakers": [
     "layne-haber"
   ],
-  "resources": {
-    "slides": "/resources/6/crosschain-security-considerations-for-the-degen-in-all-of-us.pdf"
-  },
-  "slot": {
-    "start": 1665504000000,
-    "end": 1665505800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1427,
-    "language": "en",
-    "sources": {
-      "youtube": "prvu2FuBUJ0",
-      "swarm": "40d6462d003e4b7de9523f797f0d30193023d3935a2fcc6dc1b20cf0f43c4abe"
-    }
-  }
+  "resources_slides": "/resources/6/crosschain-security-considerations-for-the-degen-in-all-of-us.pdf",
+  "slot_start": 1665504000000,
+  "slot_end": 1665505800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "prvu2FuBUJ0",
+  "sources_swarmHash": "40d6462d003e4b7de9523f797f0d30193023d3935a2fcc6dc1b20cf0f43c4abe",
+  "duration": 1427,
+  "language": "en"
 }

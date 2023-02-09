@@ -17,27 +17,12 @@
   "speakers": [
     "franz"
   ],
-  "resources": {
-    "slides": "/resources/6/mev-nft-erc-721-fork-for-blocking-atomic-arbitrage.pdf"
-  },
-  "slot": {
-    "start": 1665663000000,
-    "end": 1665663420000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 439,
-    "language": "en",
-    "sources": {
-      "youtube": "eAeCGoI_z54",
-      "swarm": "6861fbff44ed16c8ecc6303e456d7e7b995b6d3213a0d9b2f4f9b0a701e206bd"
-    }
-  }
+  "resources_slides": "/resources/6/mev-nft-erc-721-fork-for-blocking-atomic-arbitrage.pdf",
+  "slot_start": 1665663000000,
+  "slot_end": 1665663420000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "eAeCGoI_z54",
+  "sources_swarmHash": "6861fbff44ed16c8ecc6303e456d7e7b995b6d3213a0d9b2f4f9b0a701e206bd",
+  "duration": 439,
+  "language": "en"
 }

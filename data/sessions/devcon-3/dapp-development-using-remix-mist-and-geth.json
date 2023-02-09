@@ -14,13 +14,9 @@
     "yann-levreau",
     "rob-stupay"
   ],
-  "media": {
-    "duration": 1167,
-    "language": "en",
-    "sources": {
-      "youtube": "HE4oREd1y20",
-      "ipfs": "QmXKAkSBFCzFdoahpSvCRGZyY7pu624Qs67NdhVRDEwkyP",
-      "swarm": "be45ca17c57adc1b71676056ce7d7761982c264f563bb542ff5c176fa77eda48"
-    }
-  }
+  "sources_youtubeId": "HE4oREd1y20",
+  "sources_ipfsHash": "QmXKAkSBFCzFdoahpSvCRGZyY7pu624Qs67NdhVRDEwkyP",
+  "sources_swarmHash": "be45ca17c57adc1b71676056ce7d7761982c264f563bb542ff5c176fa77eda48",
+  "duration": 1167,
+  "language": "en"
 }

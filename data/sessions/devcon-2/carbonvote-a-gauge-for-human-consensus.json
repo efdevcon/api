@@ -24,13 +24,9 @@
   "speakers": [
     "bin-lu"
   ],
-  "media": {
-    "duration": 528,
-    "language": "en",
-    "sources": {
-      "youtube": "dr7pgE2L3kw",
-      "ipfs": "QmQX5L75gyX1yyVKatCCDE5EYtQ6PmPdfAZ3uVwCxAdkHL",
-      "swarm": "bd968eaa04ab4abd7783341bb748741729a88a078b61ec3ce4bf6e712c80c021"
-    }
-  }
+  "sources_youtubeId": "dr7pgE2L3kw",
+  "sources_ipfsHash": "QmQX5L75gyX1yyVKatCCDE5EYtQ6PmPdfAZ3uVwCxAdkHL",
+  "sources_swarmHash": "bd968eaa04ab4abd7783341bb748741729a88a078b61ec3ce4bf6e712c80c021",
+  "duration": 528,
+  "language": "en"
 }

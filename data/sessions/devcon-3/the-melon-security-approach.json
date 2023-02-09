@@ -13,13 +13,9 @@
   "speakers": [
     "reto-trinkler"
   ],
-  "media": {
-    "duration": 1260,
-    "language": "en",
-    "sources": {
-      "youtube": "-WVv47HSQBU",
-      "ipfs": "QmfB8CXHfXUAUoF8MHHBJqYeGeBeGJ35brwhudEH6UaQGn",
-      "swarm": "ffb8a68a9c02ce54b6e9550a1297bd13df8429131313fbfc03ded17b82e3d330"
-    }
-  }
+  "sources_youtubeId": "-WVv47HSQBU",
+  "sources_ipfsHash": "QmfB8CXHfXUAUoF8MHHBJqYeGeBeGJ35brwhudEH6UaQGn",
+  "sources_swarmHash": "ffb8a68a9c02ce54b6e9550a1297bd13df8429131313fbfc03ded17b82e3d330",
+  "duration": 1260,
+  "language": "en"
 }

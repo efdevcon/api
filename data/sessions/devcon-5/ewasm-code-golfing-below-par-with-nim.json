@@ -14,13 +14,9 @@
   "speakers": [
     "jacek-sieka"
   ],
-  "media": {
-    "duration": 1300,
-    "language": "en",
-    "sources": {
-      "youtube": "QtsCwRjtbrQ",
-      "ipfs": "QmQzXaUPLXeV3YyUioRgivqtiCK9HbsxNbvMZLJKzJgZUW",
-      "swarm": "9ebbe703593e69234fddd6227ae99fde060e175a7281e03a02fd2fab2399e0d6"
-    }
-  }
+  "sources_youtubeId": "QtsCwRjtbrQ",
+  "sources_ipfsHash": "QmQzXaUPLXeV3YyUioRgivqtiCK9HbsxNbvMZLJKzJgZUW",
+  "sources_swarmHash": "9ebbe703593e69234fddd6227ae99fde060e175a7281e03a02fd2fab2399e0d6",
+  "duration": 1300,
+  "language": "en"
 }

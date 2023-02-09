@@ -16,13 +16,9 @@
   "speakers": [
     "jay-little"
   ],
-  "media": {
-    "duration": 381,
-    "language": "en",
-    "sources": {
-      "youtube": "LA9nVXtF2ME",
-      "ipfs": "QmespFz5EJLPu4QrAiu6yekHJm5jSpKDNya2gqzFy5j74P",
-      "swarm": "34aa0e1fc34d076b982ffa03bdb7c6a10987032b80db827af17fcd31b55d2d41"
-    }
-  }
+  "sources_youtubeId": "LA9nVXtF2ME",
+  "sources_ipfsHash": "QmespFz5EJLPu4QrAiu6yekHJm5jSpKDNya2gqzFy5j74P",
+  "sources_swarmHash": "34aa0e1fc34d076b982ffa03bdb7c6a10987032b80db827af17fcd31b55d2d41",
+  "duration": 381,
+  "language": "en"
 }

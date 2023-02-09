@@ -13,13 +13,9 @@
   "speakers": [
     "paul-kohlhaas"
   ],
-  "media": {
-    "duration": 7140,
-    "language": "en",
-    "sources": {
-      "youtube": "CJvNlf5blm4",
-      "ipfs": "QmYK3vGSXD1TyvpvMfXvF28ngRsARrkpYbqRrTx856Mync",
-      "swarm": "656b521e8e88c45ae11b07872a8ac42d9ed2e9431bd1430cf3be7fea16713ad9"
-    }
-  }
+  "sources_youtubeId": "CJvNlf5blm4",
+  "sources_ipfsHash": "QmYK3vGSXD1TyvpvMfXvF28ngRsARrkpYbqRrTx856Mync",
+  "sources_swarmHash": "656b521e8e88c45ae11b07872a8ac42d9ed2e9431bd1430cf3be7fea16713ad9",
+  "duration": 7140,
+  "language": "en"
 }

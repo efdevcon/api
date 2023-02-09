@@ -19,27 +19,12 @@
     "melanie-davis",
     "safder-raza"
   ],
-  "resources": {
-    "slides": "/resources/6/buidl-the-buidlers-how-you-can-create-the-next-generation-of-web3-contributors-through-education-peer-review-and-professional-development.pdf"
-  },
-  "slot": {
-    "start": 1665666000000,
-    "end": 1665673200000,
-    "length": 7200,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3367,
-    "language": "en",
-    "sources": {
-      "youtube": "SNwFb-WZOrE",
-      "swarm": "a1a9bfc97e16b7cf9553b417fa7fe411dcc6b1284c503ba05eeaff7531464b19"
-    }
-  }
+  "resources_slides": "/resources/6/buidl-the-buidlers-how-you-can-create-the-next-generation-of-web3-contributors-through-education-peer-review-and-professional-development.pdf",
+  "slot_start": 1665666000000,
+  "slot_end": 1665673200000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "SNwFb-WZOrE",
+  "sources_swarmHash": "a1a9bfc97e16b7cf9553b417fa7fe411dcc6b1284c503ba05eeaff7531464b19",
+  "duration": 3367,
+  "language": "en"
 }

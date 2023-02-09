@@ -16,13 +16,9 @@
     "aron-fischer",
     "louis-holbrook"
   ],
-  "media": {
-    "duration": 2076,
-    "language": "en",
-    "sources": {
-      "youtube": "kT7BgOH49Sk",
-      "ipfs": "QmdXu1Vs2Gan9uLAFBgMnwqBGtRB1gMX4TPH1gss5A9GRD",
-      "swarm": "80ff2e9f01a127c0259b2bed425dbaeee64ef372e7ba76a8bf6d96a48f0733d0"
-    }
-  }
+  "sources_youtubeId": "kT7BgOH49Sk",
+  "sources_ipfsHash": "QmdXu1Vs2Gan9uLAFBgMnwqBGtRB1gMX4TPH1gss5A9GRD",
+  "sources_swarmHash": "80ff2e9f01a127c0259b2bed425dbaeee64ef372e7ba76a8bf6d96a48f0733d0",
+  "duration": 2076,
+  "language": "en"
 }

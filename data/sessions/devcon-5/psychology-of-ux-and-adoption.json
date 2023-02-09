@@ -13,13 +13,9 @@
   "speakers": [
     "hester-bruikman"
   ],
-  "media": {
-    "duration": 2787,
-    "language": "en",
-    "sources": {
-      "youtube": "n99vAFZMgTQ",
-      "ipfs": "QmaPR68pWuvf7s1C3J5M2A4jeWUfRbPPcm13z2iHnysum7",
-      "swarm": "4de1635a82749626469ea30b7d8f9c4474ca4a185da14937e4554508a4b69fd6"
-    }
-  }
+  "sources_youtubeId": "n99vAFZMgTQ",
+  "sources_ipfsHash": "QmaPR68pWuvf7s1C3J5M2A4jeWUfRbPPcm13z2iHnysum7",
+  "sources_swarmHash": "4de1635a82749626469ea30b7d8f9c4474ca4a185da14937e4554508a4b69fd6",
+  "duration": 2787,
+  "language": "en"
 }

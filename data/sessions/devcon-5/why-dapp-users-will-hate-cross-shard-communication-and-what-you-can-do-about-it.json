@@ -14,13 +14,9 @@
   "speakers": [
     "james-prestwich"
   ],
-  "media": {
-    "duration": 563,
-    "language": "en",
-    "sources": {
-      "youtube": "1dmPPRkow_c",
-      "ipfs": "QmPm8xWLE4ih2Va8cBgXmZm2CESB3cR8LUQgyJBnhtc3Wv",
-      "swarm": "bb338e3ca86f43f0098ab749f217af1476f93558a3da64f922a096b238086e9a"
-    }
-  }
+  "sources_youtubeId": "1dmPPRkow_c",
+  "sources_ipfsHash": "QmPm8xWLE4ih2Va8cBgXmZm2CESB3cR8LUQgyJBnhtc3Wv",
+  "sources_swarmHash": "bb338e3ca86f43f0098ab749f217af1476f93558a3da64f922a096b238086e9a",
+  "duration": 563,
+  "language": "en"
 }

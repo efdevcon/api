@@ -17,13 +17,9 @@
     "sota-ishii",
     "masahiro-yasu"
   ],
-  "media": {
-    "duration": 841,
-    "language": "en",
-    "sources": {
-      "youtube": "S-gP9FVNnVc",
-      "ipfs": "QmfJEFZFpyaRb6JxuUaApNKxpWmtYfd8GCRfwj9oWjP6Ys",
-      "swarm": "981bfac7f56841b52626f6588e4bd43b49d72491b3feea7dc4258c58e0cc4a0d"
-    }
-  }
+  "sources_youtubeId": "S-gP9FVNnVc",
+  "sources_ipfsHash": "QmfJEFZFpyaRb6JxuUaApNKxpWmtYfd8GCRfwj9oWjP6Ys",
+  "sources_swarmHash": "981bfac7f56841b52626f6588e4bd43b49d72491b3feea7dc4258c58e0cc4a0d",
+  "duration": 841,
+  "language": "en"
 }

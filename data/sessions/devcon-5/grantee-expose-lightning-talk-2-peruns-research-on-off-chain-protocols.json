@@ -20,13 +20,9 @@
   "speakers": [
     "lisa-eckey"
   ],
-  "media": {
-    "duration": 696,
-    "language": "en",
-    "sources": {
-      "youtube": "k5Y_9qWgfm4",
-      "ipfs": "QmTWMGHFE9FYF1pY8PAfPqPr6c9TxCjYoyLAAx3HBp8wWq",
-      "swarm": "36e901bc67eb5655a95177c13c21fe64f97f0edf498cf80989c0610eb9761923"
-    }
-  }
+  "sources_youtubeId": "k5Y_9qWgfm4",
+  "sources_ipfsHash": "QmTWMGHFE9FYF1pY8PAfPqPr6c9TxCjYoyLAAx3HBp8wWq",
+  "sources_swarmHash": "36e901bc67eb5655a95177c13c21fe64f97f0edf498cf80989c0610eb9761923",
+  "duration": 696,
+  "language": "en"
 }

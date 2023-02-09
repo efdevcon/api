@@ -15,27 +15,12 @@
   "speakers": [
     "connor-spelliscy"
   ],
-  "resources": {
-    "slides": "/resources/6/fighting-for-cryptos-future-the-state-of-regulation-and-advocacy.pdf"
-  },
-  "slot": {
-    "start": 1665671400000,
-    "end": 1665672900000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1693,
-    "language": "en",
-    "sources": {
-      "youtube": "BgUVC4zqsHI",
-      "swarm": "0db9363addc4334a9a80a45c0db9ad93ceba6c5695161b95f8fd39a2c8715205"
-    }
-  }
+  "resources_slides": "/resources/6/fighting-for-cryptos-future-the-state-of-regulation-and-advocacy.pdf",
+  "slot_start": 1665671400000,
+  "slot_end": 1665672900000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "BgUVC4zqsHI",
+  "sources_swarmHash": "0db9363addc4334a9a80a45c0db9ad93ceba6c5695161b95f8fd39a2c8715205",
+  "duration": 1693,
+  "language": "en"
 }

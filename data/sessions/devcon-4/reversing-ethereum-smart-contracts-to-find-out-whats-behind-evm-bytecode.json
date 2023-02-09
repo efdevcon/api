@@ -15,13 +15,9 @@
   "speakers": [
     "patrick-ventuzelo"
   ],
-  "media": {
-    "duration": 1139,
-    "language": "en",
-    "sources": {
-      "youtube": "IEvRRszoTeE",
-      "ipfs": "QmTWsWHGVvGwwVQ3iFQhsQnG1vBTw2RRDY7EnjesS6joa4",
-      "swarm": "3faf6b4ce8d43c1e4a677d1f4a0fbc28b854c473760a541e61eed06aad1515c8"
-    }
-  }
+  "sources_youtubeId": "IEvRRszoTeE",
+  "sources_ipfsHash": "QmTWsWHGVvGwwVQ3iFQhsQnG1vBTw2RRDY7EnjesS6joa4",
+  "sources_swarmHash": "3faf6b4ce8d43c1e4a677d1f4a0fbc28b854c473760a541e61eed06aad1515c8",
+  "duration": 1139,
+  "language": "en"
 }

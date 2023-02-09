@@ -16,27 +16,12 @@
   "speakers": [
     "johns-gresham"
   ],
-  "resources": {
-    "slides": "/resources/6/why-and-how-to-run-a-node-no-eth-required.pdf"
-  },
-  "slot": {
-    "start": 1665583200000,
-    "end": 1665586200000,
-    "length": 3000,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2476,
-    "language": "en",
-    "sources": {
-      "youtube": "6yWmF4hiAsA",
-      "swarm": "f9f7ff56009f91fd36a88f0d0366af05c34fe9b606cdb8f56c318ab44cb7c8bc"
-    }
-  }
+  "resources_slides": "/resources/6/why-and-how-to-run-a-node-no-eth-required.pdf",
+  "slot_start": 1665583200000,
+  "slot_end": 1665586200000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "6yWmF4hiAsA",
+  "sources_swarmHash": "f9f7ff56009f91fd36a88f0d0366af05c34fe9b606cdb8f56c318ab44cb7c8bc",
+  "duration": 2476,
+  "language": "en"
 }

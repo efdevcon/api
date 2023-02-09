@@ -22,13 +22,9 @@
     "ron-resnick",
     "conor-svensson"
   ],
-  "media": {
-    "duration": 1485,
-    "language": "en",
-    "sources": {
-      "youtube": "KhkaVqg4HGU",
-      "ipfs": "QmSRnHdq9ShdywuqMN5R1i4hjKw7ytGdiV52jsU5MUWpn7",
-      "swarm": "2b94c0a8b1e311bdb430fa421a2bf265dc6103cb91559a936c2b60260287ffc8"
-    }
-  }
+  "sources_youtubeId": "KhkaVqg4HGU",
+  "sources_ipfsHash": "QmSRnHdq9ShdywuqMN5R1i4hjKw7ytGdiV52jsU5MUWpn7",
+  "sources_swarmHash": "2b94c0a8b1e311bdb430fa421a2bf265dc6103cb91559a936c2b60260287ffc8",
+  "duration": 1485,
+  "language": "en"
 }

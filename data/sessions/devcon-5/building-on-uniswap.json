@@ -15,13 +15,9 @@
     "hayden-adams",
     "daniel-robinson"
   ],
-  "media": {
-    "duration": 1368,
-    "language": "en",
-    "sources": {
-      "youtube": "sc1FKlhX1FM",
-      "ipfs": "QmfZmYAmDFB9taPz5Cpgbv4631KkWusGGMDZPxaNhyf8Ft",
-      "swarm": "0fc982779b59b9b3c371b7f3dab69910c547cab2fa3ee915858c6dfd9ac6fda3"
-    }
-  }
+  "sources_youtubeId": "sc1FKlhX1FM",
+  "sources_ipfsHash": "QmfZmYAmDFB9taPz5Cpgbv4631KkWusGGMDZPxaNhyf8Ft",
+  "sources_swarmHash": "0fc982779b59b9b3c371b7f3dab69910c547cab2fa3ee915858c6dfd9ac6fda3",
+  "duration": 1368,
+  "language": "en"
 }

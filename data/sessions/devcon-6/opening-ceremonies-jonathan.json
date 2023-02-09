@@ -15,24 +15,11 @@
   "speakers": [
     "jonathan-mann"
   ],
-  "slot": {
-    "start": 1665481500000,
-    "end": 1665490500000,
-    "length": 9000,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 514,
-    "language": "en",
-    "sources": {
-      "youtube": "xUAbw3QhP5c",
-      "swarm": "cca76f11866325e31a1a71586952d279d481fc013180d42a777d08c7d6ada805"
-    }
-  }
+  "slot_start": 1665481500000,
+  "slot_end": 1665490500000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "xUAbw3QhP5c",
+  "sources_swarmHash": "cca76f11866325e31a1a71586952d279d481fc013180d42a777d08c7d6ada805",
+  "duration": 514,
+  "language": "en"
 }

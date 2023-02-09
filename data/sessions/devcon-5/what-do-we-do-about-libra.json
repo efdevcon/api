@@ -18,13 +18,9 @@
   "speakers": [
     "lucas-geiger"
   ],
-  "media": {
-    "duration": 1128,
-    "language": "en",
-    "sources": {
-      "youtube": "3dpBy3CCK4Q",
-      "ipfs": "QmdeefZBoGcgkYsfiqscHfD5YdgB17uQCzJsCko7pkheM1",
-      "swarm": "899ec1d48dce3bee847e6d57d86bdb2b3282e9e593dc6a34b9dfe519abc439a4"
-    }
-  }
+  "sources_youtubeId": "3dpBy3CCK4Q",
+  "sources_ipfsHash": "QmdeefZBoGcgkYsfiqscHfD5YdgB17uQCzJsCko7pkheM1",
+  "sources_swarmHash": "899ec1d48dce3bee847e6d57d86bdb2b3282e9e593dc6a34b9dfe519abc439a4",
+  "duration": 1128,
+  "language": "en"
 }

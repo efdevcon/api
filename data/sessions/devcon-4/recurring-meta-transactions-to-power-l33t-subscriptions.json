@@ -16,13 +16,9 @@
   "speakers": [
     "austin-griffith"
   ],
-  "media": {
-    "duration": 307,
-    "language": "en",
-    "sources": {
-      "youtube": "FI-p5Ru-K3E",
-      "ipfs": "QmW4RJ3cbyVQxWdNGebnSDqegTcVR8acPebtgjgtNNNJJa",
-      "swarm": "e01260cd4d588de673c4fad6147c27e1d17047453f64dfcedbf7ae0d19b3d8e1"
-    }
-  }
+  "sources_youtubeId": "FI-p5Ru-K3E",
+  "sources_ipfsHash": "QmW4RJ3cbyVQxWdNGebnSDqegTcVR8acPebtgjgtNNNJJa",
+  "sources_swarmHash": "e01260cd4d588de673c4fad6147c27e1d17047453f64dfcedbf7ae0d19b3d8e1",
+  "duration": 307,
+  "language": "en"
 }

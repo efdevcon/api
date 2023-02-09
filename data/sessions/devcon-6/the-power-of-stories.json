@@ -16,27 +16,12 @@
   "speakers": [
     "piper-merriam"
   ],
-  "resources": {
-    "slides": "/resources/6/the-power-of-stories.pdf"
-  },
-  "slot": {
-    "start": 1665594000000,
-    "end": 1665594600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 616,
-    "language": "en",
-    "sources": {
-      "youtube": "OcsMRwiZrtk",
-      "swarm": "e9776de346471fb7ab58e6743fcb72e0ad132ffe2cc1fafd6ae86defdb241185"
-    }
-  }
+  "resources_slides": "/resources/6/the-power-of-stories.pdf",
+  "slot_start": 1665594000000,
+  "slot_end": 1665594600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "OcsMRwiZrtk",
+  "sources_swarmHash": "e9776de346471fb7ab58e6743fcb72e0ad132ffe2cc1fafd6ae86defdb241185",
+  "duration": 616,
+  "language": "en"
 }

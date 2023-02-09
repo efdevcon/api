@@ -18,13 +18,9 @@
     "fabian-vogelsteller",
     "viktor-tron"
   ],
-  "media": {
-    "duration": 1679,
-    "language": "en",
-    "sources": {
-      "youtube": "Ckv9XMi_EWs",
-      "ipfs": "QmaWA2tE3J5DtzvfCTxtw84SEpXoiEhARYxppjHHMWUgJZ",
-      "swarm": "c68e67a6b6050f093f269043b0cd97e689c5e30e10928281058c5d4fc3b00b27"
-    }
-  }
+  "sources_youtubeId": "Ckv9XMi_EWs",
+  "sources_ipfsHash": "QmaWA2tE3J5DtzvfCTxtw84SEpXoiEhARYxppjHHMWUgJZ",
+  "sources_swarmHash": "c68e67a6b6050f093f269043b0cd97e689c5e30e10928281058c5d4fc3b00b27",
+  "duration": 1679,
+  "language": "en"
 }

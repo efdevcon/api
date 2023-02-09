@@ -20,26 +20,11 @@
     "chandrakana-nandi",
     "maurelian"
   ],
-  "resources": {
-    "slides": "/resources/6/future-of-smart-contract-security-audits-rekt-or-wagmi.pdf"
-  },
-  "slot": {
-    "start": 1665669600000,
-    "end": 1665673200000,
-    "length": 3600,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 3425,
-    "language": "en",
-    "sources": {
-      "youtube": "MhSRFtCMQVo"
-    }
-  }
+  "resources_slides": "/resources/6/future-of-smart-contract-security-audits-rekt-or-wagmi.pdf",
+  "slot_start": 1665669600000,
+  "slot_end": 1665673200000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "MhSRFtCMQVo",
+  "duration": 3425,
+  "language": "en"
 }

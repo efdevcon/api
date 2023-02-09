@@ -15,27 +15,12 @@
   "speakers": [
     "michal-zajac"
   ],
-  "resources": {
-    "slides": "/resources/6/vampire-a-novel-cheap-to-verify-zksnark.pdf"
-  },
-  "slot": {
-    "start": 1665681600000,
-    "end": 1665682200000,
-    "length": 600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 504,
-    "language": "en",
-    "sources": {
-      "youtube": "Cho7Wbq1YsE",
-      "swarm": "077ef9b71f51bde128e36dd40ea5852f94c62b728c51fcfbb41603efbb352055"
-    }
-  }
+  "resources_slides": "/resources/6/vampire-a-novel-cheap-to-verify-zksnark.pdf",
+  "slot_start": 1665681600000,
+  "slot_end": 1665682200000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "Cho7Wbq1YsE",
+  "sources_swarmHash": "077ef9b71f51bde128e36dd40ea5852f94c62b728c51fcfbb41603efbb352055",
+  "duration": 504,
+  "language": "en"
 }

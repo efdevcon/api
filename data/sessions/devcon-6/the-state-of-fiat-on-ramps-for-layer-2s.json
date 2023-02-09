@@ -16,27 +16,12 @@
   "speakers": [
     "thijs-maas"
   ],
-  "resources": {
-    "slides": "/resources/6/the-state-of-fiat-on-ramps-for-layer-2s.pdf"
-  },
-  "slot": {
-    "start": 1665509400000,
-    "end": 1665510000000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 460,
-    "language": "en",
-    "sources": {
-      "youtube": "sf7vsB8Q-wg",
-      "swarm": "7f18fdda8c611908cb35724530a15235dd96a4cffb0bbd390be72dd4d9fb8636"
-    }
-  }
+  "resources_slides": "/resources/6/the-state-of-fiat-on-ramps-for-layer-2s.pdf",
+  "slot_start": 1665509400000,
+  "slot_end": 1665510000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "sf7vsB8Q-wg",
+  "sources_swarmHash": "7f18fdda8c611908cb35724530a15235dd96a4cffb0bbd390be72dd4d9fb8636",
+  "duration": 460,
+  "language": "en"
 }

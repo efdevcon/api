@@ -14,13 +14,9 @@
     "eduardo-antuna-diez",
     "pol-bordas"
   ],
-  "media": {
-    "duration": 1296,
-    "language": "en",
-    "sources": {
-      "youtube": "CGAGZhRr7is",
-      "ipfs": "QmTEbBPshpA5i67nyBG8jWkxGnrPuacGnXAPjSUCGJtVJw",
-      "swarm": "99d40d18daae8ff2f8b9ce767e2d41c18a65fe8f5f1c9c15e9072e65e3de40ae"
-    }
-  }
+  "sources_youtubeId": "CGAGZhRr7is",
+  "sources_ipfsHash": "QmTEbBPshpA5i67nyBG8jWkxGnrPuacGnXAPjSUCGJtVJw",
+  "sources_swarmHash": "99d40d18daae8ff2f8b9ce767e2d41c18a65fe8f5f1c9c15e9072e65e3de40ae",
+  "duration": 1296,
+  "language": "en"
 }

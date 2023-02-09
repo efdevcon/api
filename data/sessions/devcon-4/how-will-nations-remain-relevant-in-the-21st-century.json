@@ -15,13 +15,9 @@
   "speakers": [
     "kaspar-korjus"
   ],
-  "media": {
-    "duration": 1417,
-    "language": "en",
-    "sources": {
-      "youtube": "61YRbA9gWe8",
-      "ipfs": "QmW8YYTyKqpARTQUcKHj9KiMvirvj5CNjrGsFPdnDfayYg",
-      "swarm": "dc8314cee5712127f2cca3fbc5896899bdf7715b0009498691dfc3a93d09e4f0"
-    }
-  }
+  "sources_youtubeId": "61YRbA9gWe8",
+  "sources_ipfsHash": "QmW8YYTyKqpARTQUcKHj9KiMvirvj5CNjrGsFPdnDfayYg",
+  "sources_swarmHash": "dc8314cee5712127f2cca3fbc5896899bdf7715b0009498691dfc3a93d09e4f0",
+  "duration": 1417,
+  "language": "en"
 }

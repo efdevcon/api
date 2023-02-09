@@ -17,13 +17,9 @@
   "speakers": [
     "seven-waterhouse"
   ],
-  "media": {
-    "duration": 700,
-    "language": "en",
-    "sources": {
-      "youtube": "tgIEALVJQxc",
-      "ipfs": "QmUGgv5Z5WQE54To57TA58vVB15phwbmYWs7TXsBUArDEp",
-      "swarm": "b23e2c8330c2a109966fe8a02067490554fae09503520b08efaa6ec75f2e33db"
-    }
-  }
+  "sources_youtubeId": "tgIEALVJQxc",
+  "sources_ipfsHash": "QmUGgv5Z5WQE54To57TA58vVB15phwbmYWs7TXsBUArDEp",
+  "sources_swarmHash": "b23e2c8330c2a109966fe8a02067490554fae09503520b08efaa6ec75f2e33db",
+  "duration": 700,
+  "language": "en"
 }

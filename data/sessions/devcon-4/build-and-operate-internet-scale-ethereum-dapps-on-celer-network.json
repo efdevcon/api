@@ -18,13 +18,9 @@
     "xiaozhou-li",
     "qingkai-liang"
   ],
-  "media": {
-    "duration": 1469,
-    "language": "en",
-    "sources": {
-      "youtube": "jhjGj-i3tOU",
-      "ipfs": "QmdGyJnCmH6KEzqtBC5Mzab9Kr5RkRN7ABWjB6pVrjiwkt",
-      "swarm": "db45684fec38b447c8e4ff60949e937ae3f695d38fd85c20d0a87c05a83f2072"
-    }
-  }
+  "sources_youtubeId": "jhjGj-i3tOU",
+  "sources_ipfsHash": "QmdGyJnCmH6KEzqtBC5Mzab9Kr5RkRN7ABWjB6pVrjiwkt",
+  "sources_swarmHash": "db45684fec38b447c8e4ff60949e937ae3f695d38fd85c20d0a87c05a83f2072",
+  "duration": 1469,
+  "language": "en"
 }

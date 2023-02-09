@@ -13,13 +13,9 @@
   "speakers": [
     "lucius-meredith"
   ],
-  "media": {
-    "duration": 1892,
-    "language": "en",
-    "sources": {
-      "youtube": "7tW1fAWg6s8",
-      "ipfs": "QmVE96KqSzP5Bd8cFWTvVK6mFJMtK3qUwrcqXPj6uYR8vL",
-      "swarm": "adb4b97c3ce827fc18d266474a60cd8df160f47bf65fa3572c9cd5487fed847d"
-    }
-  }
+  "sources_youtubeId": "7tW1fAWg6s8",
+  "sources_ipfsHash": "QmVE96KqSzP5Bd8cFWTvVK6mFJMtK3qUwrcqXPj6uYR8vL",
+  "sources_swarmHash": "adb4b97c3ce827fc18d266474a60cd8df160f47bf65fa3572c9cd5487fed847d",
+  "duration": 1892,
+  "language": "en"
 }

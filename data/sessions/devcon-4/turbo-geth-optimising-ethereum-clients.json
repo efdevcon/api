@@ -15,13 +15,9 @@
   "speakers": [
     "alexey-akhunov"
   ],
-  "media": {
-    "duration": 1603,
-    "language": "en",
-    "sources": {
-      "youtube": "CSpc1vZQW2Q",
-      "ipfs": "QmcdFbNsLi4zuNc2sYp8BDe9z48ZeVh56NgbQdJuhXq4Rf",
-      "swarm": "a012bfb05b2f231206f3c828cd40bc9c0b7bd7c3914c38b3ba2d85920e6a5893"
-    }
-  }
+  "sources_youtubeId": "CSpc1vZQW2Q",
+  "sources_ipfsHash": "QmcdFbNsLi4zuNc2sYp8BDe9z48ZeVh56NgbQdJuhXq4Rf",
+  "sources_swarmHash": "a012bfb05b2f231206f3c828cd40bc9c0b7bd7c3914c38b3ba2d85920e6a5893",
+  "duration": 1603,
+  "language": "en"
 }

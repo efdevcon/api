@@ -22,13 +22,9 @@
     "christian-reitwiessner",
     "yoichi-hirai"
   ],
-  "media": {
-    "duration": 1169,
-    "language": "en",
-    "sources": {
-      "youtube": "YXAP4XpCYe8",
-      "ipfs": "Qma9SgXdX3rrt95sK2yu1E3H9iQXukm96aXb8QionRp1gv",
-      "swarm": "c901a8b7cb0deaf523f48df7a6d8b8a218da6d024b07691d4e63ea731e90e2e4"
-    }
-  }
+  "sources_youtubeId": "YXAP4XpCYe8",
+  "sources_ipfsHash": "Qma9SgXdX3rrt95sK2yu1E3H9iQXukm96aXb8QionRp1gv",
+  "sources_swarmHash": "c901a8b7cb0deaf523f48df7a6d8b8a218da6d024b07691d4e63ea731e90e2e4",
+  "duration": 1169,
+  "language": "en"
 }

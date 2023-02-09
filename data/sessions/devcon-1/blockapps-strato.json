@@ -15,13 +15,9 @@
     "kieren-james-lubin",
     "jim-hormuzdiar"
   ],
-  "media": {
-    "duration": 2141,
-    "language": "en",
-    "sources": {
-      "youtube": "x8jIUg5jXjg",
-      "ipfs": "QmRMfaFmfycTxfRTq3HQ1mWr8duzS2v1CEQa8ndmHvYv2K",
-      "swarm": "971de10d46d7847269db0b0aeb935ade4c60a3041bb073127340921845633b6a"
-    }
-  }
+  "sources_youtubeId": "x8jIUg5jXjg",
+  "sources_ipfsHash": "QmRMfaFmfycTxfRTq3HQ1mWr8duzS2v1CEQa8ndmHvYv2K",
+  "sources_swarmHash": "971de10d46d7847269db0b0aeb935ade4c60a3041bb073127340921845633b6a",
+  "duration": 2141,
+  "language": "en"
 }

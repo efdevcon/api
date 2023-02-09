@@ -16,13 +16,9 @@
     "carl-beekhuizen",
     "dankrad-feist"
   ],
-  "media": {
-    "duration": 1246,
-    "language": "en",
-    "sources": {
-      "youtube": "Jtz9b7yWbLo",
-      "ipfs": "QmNnzMS8YciybE92BE45X7kSdj6VDUSXtZ9PPkyRQTXUrb",
-      "swarm": "d9670c63daacee1507b918ebace16483fc0fb0377e3b051e13fb4b2196878989"
-    }
-  }
+  "sources_youtubeId": "Jtz9b7yWbLo",
+  "sources_ipfsHash": "QmNnzMS8YciybE92BE45X7kSdj6VDUSXtZ9PPkyRQTXUrb",
+  "sources_swarmHash": "d9670c63daacee1507b918ebace16483fc0fb0377e3b051e13fb4b2196878989",
+  "duration": 1246,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "christoph-mussenbrock"
   ],
-  "media": {
-    "duration": 1254,
-    "language": "en",
-    "sources": {
-      "youtube": "86V_3sRnpWY",
-      "ipfs": "QmXmfHDUTEUWWyVeqwmV1JvKmK8qkfcdEeyMmNc1rVfTUu",
-      "swarm": "a075244be044a4fd4ead16d209b7a7d2ce7f42c0df8c13fd31e58a632e6eff58"
-    }
-  }
+  "sources_youtubeId": "86V_3sRnpWY",
+  "sources_ipfsHash": "QmXmfHDUTEUWWyVeqwmV1JvKmK8qkfcdEeyMmNc1rVfTUu",
+  "sources_swarmHash": "a075244be044a4fd4ead16d209b7a7d2ce7f42c0df8c13fd31e58a632e6eff58",
+  "duration": 1254,
+  "language": "en"
 }

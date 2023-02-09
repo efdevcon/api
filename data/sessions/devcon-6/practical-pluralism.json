@@ -20,27 +20,12 @@
     "trent-van-epps",
     "abbey"
   ],
-  "resources": {
-    "slides": "/resources/6/practical-pluralism.pdf"
-  },
-  "slot": {
-    "start": 1665575400000,
-    "end": 1665576000000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 618,
-    "language": "en",
-    "sources": {
-      "youtube": "l9XzruetYZk",
-      "swarm": "594b320b25b512d82388b5df0ed6d90bceaea2bc2109d0024d4a885dd099b8a7"
-    }
-  }
+  "resources_slides": "/resources/6/practical-pluralism.pdf",
+  "slot_start": 1665575400000,
+  "slot_end": 1665576000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "l9XzruetYZk",
+  "sources_swarmHash": "594b320b25b512d82388b5df0ed6d90bceaea2bc2109d0024d4a885dd099b8a7",
+  "duration": 618,
+  "language": "en"
 }

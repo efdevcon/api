@@ -16,27 +16,12 @@
   "speakers": [
     "kaan"
   ],
-  "resources": {
-    "slides": "/resources/6/human-friendly-contract-interactions.pdf"
-  },
-  "slot": {
-    "start": 1665496800000,
-    "end": 1665498600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1538,
-    "language": "en",
-    "sources": {
-      "youtube": "Ggm82pnalCI",
-      "swarm": "44dc8c325a1c6d9950cb634a984477a6132663f91670fb016848a73b2b3a16c7"
-    }
-  }
+  "resources_slides": "/resources/6/human-friendly-contract-interactions.pdf",
+  "slot_start": 1665496800000,
+  "slot_end": 1665498600000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "Ggm82pnalCI",
+  "sources_swarmHash": "44dc8c325a1c6d9950cb634a984477a6132663f91670fb016848a73b2b3a16c7",
+  "duration": 1538,
+  "language": "en"
 }

@@ -17,13 +17,9 @@
   "speakers": [
     "amy-jung"
   ],
-  "media": {
-    "duration": 1326,
-    "language": "en",
-    "sources": {
-      "youtube": "gv5EF8_u4Ks",
-      "ipfs": "QmbrGM3bQCoLbTjxAbkBS4UsNd97wtYpE5Napkd6GGz6HM",
-      "swarm": "eea109ed7a368a605cdf07ca99fd193c0d60c8d7103d3ad8894da741e23260ee"
-    }
-  }
+  "sources_youtubeId": "gv5EF8_u4Ks",
+  "sources_ipfsHash": "QmbrGM3bQCoLbTjxAbkBS4UsNd97wtYpE5Napkd6GGz6HM",
+  "sources_swarmHash": "eea109ed7a368a605cdf07ca99fd193c0d60c8d7103d3ad8894da741e23260ee",
+  "duration": 1326,
+  "language": "en"
 }

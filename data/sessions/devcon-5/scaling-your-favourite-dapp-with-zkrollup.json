@@ -15,13 +15,9 @@
     "vaibhav-chellani",
     "barry-whitehat"
   ],
-  "media": {
-    "duration": 3794,
-    "language": "en",
-    "sources": {
-      "youtube": "PB6dtY_cbRI",
-      "ipfs": "QmSMbfexLgWXvKVuDQvLnc5U5H1UJNScBBRbxU7rSZ5SDZ",
-      "swarm": "2e8b977ee136ecf05c9daaabf77c4862596864262b811d6a8236d518c4839fc5"
-    }
-  }
+  "sources_youtubeId": "PB6dtY_cbRI",
+  "sources_ipfsHash": "QmSMbfexLgWXvKVuDQvLnc5U5H1UJNScBBRbxU7rSZ5SDZ",
+  "sources_swarmHash": "2e8b977ee136ecf05c9daaabf77c4862596864262b811d6a8236d518c4839fc5",
+  "duration": 3794,
+  "language": "en"
 }

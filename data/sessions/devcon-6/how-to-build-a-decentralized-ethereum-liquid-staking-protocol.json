@@ -15,27 +15,12 @@
   "speakers": [
     "darren-langley"
   ],
-  "resources": {
-    "slides": "/resources/6/how-to-build-a-decentralized-ethereum-liquid-staking-protocol.pdf"
-  },
-  "slot": {
-    "start": 1665570600000,
-    "end": 1665572400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1402,
-    "language": "en",
-    "sources": {
-      "youtube": "CY_KnhS5Fhc",
-      "swarm": "a5ef31ce72f776662fecdfd438f6d1f9e100c1f1484e279b0999a133c87529e5"
-    }
-  }
+  "resources_slides": "/resources/6/how-to-build-a-decentralized-ethereum-liquid-staking-protocol.pdf",
+  "slot_start": 1665570600000,
+  "slot_end": 1665572400000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "CY_KnhS5Fhc",
+  "sources_swarmHash": "a5ef31ce72f776662fecdfd438f6d1f9e100c1f1484e279b0999a133c87529e5",
+  "duration": 1402,
+  "language": "en"
 }

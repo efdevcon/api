@@ -15,27 +15,12 @@
   "speakers": [
     "rob-stupay"
   ],
-  "resources": {
-    "slides": "/resources/6/whats-new-in-remix.pdf"
-  },
-  "slot": {
-    "start": 1665585000000,
-    "end": 1665586800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1389,
-    "language": "en",
-    "sources": {
-      "youtube": "wjokE5EhuCs",
-      "swarm": "99eaf415340e5010006e8709d3758fa7a207a27ba6c799962e5728fcec358b76"
-    }
-  }
+  "resources_slides": "/resources/6/whats-new-in-remix.pdf",
+  "slot_start": 1665585000000,
+  "slot_end": 1665586800000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "wjokE5EhuCs",
+  "sources_swarmHash": "99eaf415340e5010006e8709d3758fa7a207a27ba6c799962e5728fcec358b76",
+  "duration": 1389,
+  "language": "en"
 }

@@ -33,13 +33,9 @@
     "viktor-tron",
     "vitalik-buterin"
   ],
-  "media": {
-    "duration": 1093,
-    "language": "en",
-    "sources": {
-      "youtube": "1wayaZ1-iBE",
-      "ipfs": "QmaRzG7ymEKXLPPHHmoQVhkrEcmEjvjkWHqFYUi7s2zkeB",
-      "swarm": "418f59abbaa77df64faae78cbbeeb674d5482c23cab1a7612e594c91bee40f63"
-    }
-  }
+  "sources_youtubeId": "1wayaZ1-iBE",
+  "sources_ipfsHash": "QmaRzG7ymEKXLPPHHmoQVhkrEcmEjvjkWHqFYUi7s2zkeB",
+  "sources_swarmHash": "418f59abbaa77df64faae78cbbeeb674d5482c23cab1a7612e594c91bee40f63",
+  "duration": 1093,
+  "language": "en"
 }

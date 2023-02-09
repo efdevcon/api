@@ -14,13 +14,9 @@
   "speakers": [
     "max-blaushild"
   ],
-  "media": {
-    "duration": 317,
-    "language": "en",
-    "sources": {
-      "youtube": "HTxnuTcHj68",
-      "ipfs": "QmeQK78N3AAsjGC5m7neGMNbdFErDsgUmhAKBtTCDqCorR",
-      "swarm": "237ba6e0e55ca0296706e21efbcd8c5e6d39db8149c58ec93f40cc25e60eb0d3"
-    }
-  }
+  "sources_youtubeId": "HTxnuTcHj68",
+  "sources_ipfsHash": "QmeQK78N3AAsjGC5m7neGMNbdFErDsgUmhAKBtTCDqCorR",
+  "sources_swarmHash": "237ba6e0e55ca0296706e21efbcd8c5e6d39db8149c58ec93f40cc25e60eb0d3",
+  "duration": 317,
+  "language": "en"
 }

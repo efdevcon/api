@@ -14,13 +14,9 @@
   "speakers": [
     "sebastian-buergel"
   ],
-  "media": {
-    "duration": 1342,
-    "language": "en",
-    "sources": {
-      "youtube": "wH48dy6PjVg",
-      "ipfs": "QmVTsNVwJ7CtrQZvMcDEn8cxA92x4oFsYSszcxWg1vvaYi",
-      "swarm": "1170f180f65d2d9ef52dfcaa5701a5b59c4d3cf8569427639997b2b9aa4b8ff8"
-    }
-  }
+  "sources_youtubeId": "wH48dy6PjVg",
+  "sources_ipfsHash": "QmVTsNVwJ7CtrQZvMcDEn8cxA92x4oFsYSszcxWg1vvaYi",
+  "sources_swarmHash": "1170f180f65d2d9ef52dfcaa5701a5b59c4d3cf8569427639997b2b9aa4b8ff8",
+  "duration": 1342,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "e-glen-weyl"
   ],
-  "media": {
-    "duration": 1872,
-    "language": "en",
-    "sources": {
-      "youtube": "TMSAA_nMv_E",
-      "ipfs": "QmSdm6C8WtzH4yv8keqqRPTzsDsgFWY5aaiUq5Zvb7b4ea",
-      "swarm": "6cde57558ce20567c8ac742c6688050dc38c2cdaf85e0bf13144d861fbed8e06"
-    }
-  }
+  "sources_youtubeId": "TMSAA_nMv_E",
+  "sources_ipfsHash": "QmSdm6C8WtzH4yv8keqqRPTzsDsgFWY5aaiUq5Zvb7b4ea",
+  "sources_swarmHash": "6cde57558ce20567c8ac742c6688050dc38c2cdaf85e0bf13144d861fbed8e06",
+  "duration": 1872,
+  "language": "en"
 }

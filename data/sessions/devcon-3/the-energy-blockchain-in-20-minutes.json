@@ -13,13 +13,9 @@
   "speakers": [
     "garrett-macdonald"
   ],
-  "media": {
-    "duration": 1332,
-    "language": "en",
-    "sources": {
-      "youtube": "vEq_9eoDT9o",
-      "ipfs": "QmeXdMLsPhNTT7aybdrKDuriynu8U6tWCaPuxbfRHVFyMf",
-      "swarm": "11dd32021cc60244660e6efadc30bc28e0566afee8ac4f232507e14b4ed60953"
-    }
-  }
+  "sources_youtubeId": "vEq_9eoDT9o",
+  "sources_ipfsHash": "QmeXdMLsPhNTT7aybdrKDuriynu8U6tWCaPuxbfRHVFyMf",
+  "sources_swarmHash": "11dd32021cc60244660e6efadc30bc28e0566afee8ac4f232507e14b4ed60953",
+  "duration": 1332,
+  "language": "en"
 }

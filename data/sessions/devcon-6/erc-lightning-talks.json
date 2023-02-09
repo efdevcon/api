@@ -20,24 +20,11 @@
     "timdaub",
     "anett-rolikova"
   ],
-  "slot": {
-    "start": 1665752400000,
-    "end": 1665761400000,
-    "length": 9000,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 6800,
-    "language": "en",
-    "sources": {
-      "youtube": "LhUgGSzZL4Y",
-      "swarm": "ae58e40362bc42f033bf1f00fb1939254e3687d38161f5cf8841ae353aecff79"
-    }
-  }
+  "slot_start": 1665752400000,
+  "slot_end": 1665761400000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "LhUgGSzZL4Y",
+  "sources_swarmHash": "ae58e40362bc42f033bf1f00fb1939254e3687d38161f5cf8841ae353aecff79",
+  "duration": 6800,
+  "language": "en"
 }

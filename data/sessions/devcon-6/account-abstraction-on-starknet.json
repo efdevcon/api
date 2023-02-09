@@ -16,27 +16,12 @@
   "speakers": [
     "martin-triay"
   ],
-  "resources": {
-    "slides": "/resources/6/account-abstraction-on-starknet.pdf"
-  },
-  "slot": {
-    "start": 1665510600000,
-    "end": 1665511200000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 448,
-    "language": "en",
-    "sources": {
-      "youtube": "Osc_gwNW3Fw",
-      "swarm": "5ec99ff92e5df3bf122859798f6b734e6041fb5e84937f36b8d69e5bc0c92901"
-    }
-  }
+  "resources_slides": "/resources/6/account-abstraction-on-starknet.pdf",
+  "slot_start": 1665510600000,
+  "slot_end": 1665511200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Osc_gwNW3Fw",
+  "sources_swarmHash": "5ec99ff92e5df3bf122859798f6b734e6041fb5e84937f36b8d69e5bc0c92901",
+  "duration": 448,
+  "language": "en"
 }

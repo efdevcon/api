@@ -16,27 +16,12 @@
   "speakers": [
     "luka-kropec"
   ],
-  "resources": {
-    "slides": "/resources/6/growing-the-global-ethereum-community-through-localization.pdf"
-  },
-  "slot": {
-    "start": 1665747000000,
-    "end": 1665748500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1567,
-    "language": "en",
-    "sources": {
-      "youtube": "5USKDtMYqsc",
-      "swarm": "731b65ff87a7c331f258c9b30a9eb00df5ca40cb2846d702043b85cf00c9907f"
-    }
-  }
+  "resources_slides": "/resources/6/growing-the-global-ethereum-community-through-localization.pdf",
+  "slot_start": 1665747000000,
+  "slot_end": 1665748500000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "5USKDtMYqsc",
+  "sources_swarmHash": "731b65ff87a7c331f258c9b30a9eb00df5ca40cb2846d702043b85cf00c9907f",
+  "duration": 1567,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
     "tyrone-lobban",
     "yu-te-lin"
   ],
-  "media": {
-    "duration": 997,
-    "language": "en",
-    "sources": {
-      "youtube": "7PpQS4hQP9A",
-      "ipfs": "QmS7TwoeeNMNRPnXmRJdcz3Su4wGUAU3PQVr8Qi2YJ4afe",
-      "swarm": "cefd9ab4d363b9abbf6c109cf059c778c608adaac78ad1f515daa58832b5fe6b"
-    }
-  }
+  "sources_youtubeId": "7PpQS4hQP9A",
+  "sources_ipfsHash": "QmS7TwoeeNMNRPnXmRJdcz3Su4wGUAU3PQVr8Qi2YJ4afe",
+  "sources_swarmHash": "cefd9ab4d363b9abbf6c109cf059c778c608adaac78ad1f515daa58832b5fe6b",
+  "duration": 997,
+  "language": "en"
 }

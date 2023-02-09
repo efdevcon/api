@@ -13,13 +13,9 @@
   "speakers": [
     "manuel-araoz"
   ],
-  "media": {
-    "duration": 1181,
-    "language": "en",
-    "sources": {
-      "youtube": "1EWvebDU66U",
-      "ipfs": "QmXw6ayhntahvs4zwKu1b9uXh8ELjY1oHjCkK3b8BUpyKg",
-      "swarm": "ca771e0a2227a81db784d88c487da4702f843b5bba8414b66705ff62b3e42648"
-    }
-  }
+  "sources_youtubeId": "1EWvebDU66U",
+  "sources_ipfsHash": "QmXw6ayhntahvs4zwKu1b9uXh8ELjY1oHjCkK3b8BUpyKg",
+  "sources_swarmHash": "ca771e0a2227a81db784d88c487da4702f843b5bba8414b66705ff62b3e42648",
+  "duration": 1181,
+  "language": "en"
 }

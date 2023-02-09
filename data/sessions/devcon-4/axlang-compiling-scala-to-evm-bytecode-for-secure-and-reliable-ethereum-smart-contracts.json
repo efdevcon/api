@@ -15,13 +15,9 @@
   "speakers": [
     "athanasios-thanasis-konstantinidis"
   ],
-  "media": {
-    "duration": 357,
-    "language": "en",
-    "sources": {
-      "youtube": "0LaGkVX0p4M",
-      "ipfs": "QmU1yjTKfRotn5uFULghTQoVw7gbmU1H5JceedUrmkoHRU",
-      "swarm": "5ba906534b6d37aebfb11c299dfe3d6c0c98a92e169cb1e2a33853936eaa496f"
-    }
-  }
+  "sources_youtubeId": "0LaGkVX0p4M",
+  "sources_ipfsHash": "QmU1yjTKfRotn5uFULghTQoVw7gbmU1H5JceedUrmkoHRU",
+  "sources_swarmHash": "5ba906534b6d37aebfb11c299dfe3d6c0c98a92e169cb1e2a33853936eaa496f",
+  "duration": 357,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "etan-kissling"
   ],
-  "resources": {
-    "slides": "/resources/6/light-clients-after-the-merge.pdf"
-  },
-  "slot": {
-    "start": 1665754200000,
-    "end": 1665755700000,
-    "length": 1500,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1428,
-    "language": "en",
-    "sources": {
-      "youtube": "ZHNrAXf3RDE",
-      "swarm": "89d0a73745e03f4f695de0bd87091d4012d3bb84097d3ccae4a9abe89d16b013"
-    }
-  }
+  "resources_slides": "/resources/6/light-clients-after-the-merge.pdf",
+  "slot_start": 1665754200000,
+  "slot_end": 1665755700000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "ZHNrAXf3RDE",
+  "sources_swarmHash": "89d0a73745e03f4f695de0bd87091d4012d3bb84097d3ccae4a9abe89d16b013",
+  "duration": 1428,
+  "language": "en"
 }

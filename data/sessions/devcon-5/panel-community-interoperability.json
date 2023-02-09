@@ -24,13 +24,9 @@
     "josh-swihart",
     "jae-kwon"
   ],
-  "media": {
-    "duration": 2552,
-    "language": "en",
-    "sources": {
-      "youtube": "11VO61097A4",
-      "ipfs": "QmQdwDvAmxbajsKN2rgUV5icNUA2PCGL3XW1hJ92wYAGm1",
-      "swarm": "1a8b816067a9556e2c8d9866a6327da8bde73cab8b28988d215ad03e88ad4e31"
-    }
-  }
+  "sources_youtubeId": "11VO61097A4",
+  "sources_ipfsHash": "QmQdwDvAmxbajsKN2rgUV5icNUA2PCGL3XW1hJ92wYAGm1",
+  "sources_swarmHash": "1a8b816067a9556e2c8d9866a6327da8bde73cab8b28988d215ad03e88ad4e31",
+  "duration": 2552,
+  "language": "en"
 }

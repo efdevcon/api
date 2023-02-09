@@ -13,13 +13,9 @@
   "speakers": [
     "nick-szabo"
   ],
-  "media": {
-    "duration": 1105,
-    "language": "en",
-    "sources": {
-      "youtube": "7Y3fWXA6d5k",
-      "ipfs": "QmZVfB16PgRAZ81qYTWtQQZw56Bu53dAYYGhvGDu5CXJ88",
-      "swarm": "049fef30ac453a235f19ef882a6c0d714db893116754ea4a83dac700de0419e4"
-    }
-  }
+  "sources_youtubeId": "7Y3fWXA6d5k",
+  "sources_ipfsHash": "QmZVfB16PgRAZ81qYTWtQQZw56Bu53dAYYGhvGDu5CXJ88",
+  "sources_swarmHash": "049fef30ac453a235f19ef882a6c0d714db893116754ea4a83dac700de0419e4",
+  "duration": 1105,
+  "language": "en"
 }

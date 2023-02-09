@@ -13,13 +13,9 @@
   "speakers": [
     "santiago-siri"
   ],
-  "media": {
-    "duration": 1945,
-    "language": "en",
-    "sources": {
-      "youtube": "tZ_76AZtOf8",
-      "ipfs": "QmY4XoSutfP8C54GWBA1cYfChmsBNQa4ck3n3rWkpgz6mH",
-      "swarm": "1a983fdd9ad524f79e0752d5cadd7e4d14ff05aaed3eb598a224f0a92fbec38b"
-    }
-  }
+  "sources_youtubeId": "tZ_76AZtOf8",
+  "sources_ipfsHash": "QmY4XoSutfP8C54GWBA1cYfChmsBNQa4ck3n3rWkpgz6mH",
+  "sources_swarmHash": "1a983fdd9ad524f79e0752d5cadd7e4d14ff05aaed3eb598a224f0a92fbec38b",
+  "duration": 1945,
+  "language": "en"
 }

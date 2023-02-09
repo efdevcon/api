@@ -18,13 +18,9 @@
   "speakers": [
     "sid-coelho-prabhu"
   ],
-  "media": {
-    "duration": 1519,
-    "language": "en",
-    "sources": {
-      "youtube": "qpKv7LPixjA",
-      "ipfs": "QmPdvzBuPQYCBqKK3u3k2tZYvB9a2ozRpMhriK3WJWvhTM",
-      "swarm": "e832bcacdab8c90ab7b6bd94b89afa1cc62b49c2fe61b90b34bfcadee57fc1aa"
-    }
-  }
+  "sources_youtubeId": "qpKv7LPixjA",
+  "sources_ipfsHash": "QmPdvzBuPQYCBqKK3u3k2tZYvB9a2ozRpMhriK3WJWvhTM",
+  "sources_swarmHash": "e832bcacdab8c90ab7b6bd94b89afa1cc62b49c2fe61b90b34bfcadee57fc1aa",
+  "duration": 1519,
+  "language": "en"
 }

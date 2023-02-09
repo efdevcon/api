@@ -33,13 +33,9 @@
     "rouven-heck",
     "christian-lundkvist"
   ],
-  "media": {
-    "duration": 670,
-    "language": "en",
-    "sources": {
-      "youtube": "qRevDM9D8WE",
-      "ipfs": "QmXfssw26Xe6K9MZF4sgQfazycwtrzQhVZje1JKsgKSb6k",
-      "swarm": "c6094130386d573e12c6acbfa90817bc88064e23b31a107f57bc98232803fa34"
-    }
-  }
+  "sources_youtubeId": "qRevDM9D8WE",
+  "sources_ipfsHash": "QmXfssw26Xe6K9MZF4sgQfazycwtrzQhVZje1JKsgKSb6k",
+  "sources_swarmHash": "c6094130386d573e12c6acbfa90817bc88064e23b31a107f57bc98232803fa34",
+  "duration": 670,
+  "language": "en"
 }

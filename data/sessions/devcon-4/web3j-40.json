@@ -18,13 +18,9 @@
     "conor-svensson",
     "ivaylo-kirilov"
   ],
-  "media": {
-    "duration": 271,
-    "language": "en",
-    "sources": {
-      "youtube": "Hw_AkLVGLoQ",
-      "ipfs": "Qmf6YCT1rCrQkVridaaypMWNF2cSAtFuLBAbMqXwYntPYd",
-      "swarm": "6320db97840c1643bfc3e3d9018da6141a7809adeb4ddc0e691e27b7f861f13c"
-    }
-  }
+  "sources_youtubeId": "Hw_AkLVGLoQ",
+  "sources_ipfsHash": "Qmf6YCT1rCrQkVridaaypMWNF2cSAtFuLBAbMqXwYntPYd",
+  "sources_swarmHash": "6320db97840c1643bfc3e3d9018da6141a7809adeb4ddc0e691e27b7f861f13c",
+  "duration": 271,
+  "language": "en"
 }

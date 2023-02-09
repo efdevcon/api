@@ -14,13 +14,9 @@
     "alex-beregszaszi",
     "casey-detrio"
   ],
-  "media": {
-    "duration": 3977,
-    "language": "en",
-    "sources": {
-      "youtube": "GewMfM6cqzI",
-      "ipfs": "QmNui91GKMaZKEoETAaNAZwaWzjyH4HgXXeKtbJUQHJnGj",
-      "swarm": "28511916950d58e5afb1def7fef7a005dcbe0edb811cc2fee03cf07281ef3d9b"
-    }
-  }
+  "sources_youtubeId": "GewMfM6cqzI",
+  "sources_ipfsHash": "QmNui91GKMaZKEoETAaNAZwaWzjyH4HgXXeKtbJUQHJnGj",
+  "sources_swarmHash": "28511916950d58e5afb1def7fef7a005dcbe0edb811cc2fee03cf07281ef3d9b",
+  "duration": 3977,
+  "language": "en"
 }

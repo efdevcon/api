@@ -19,13 +19,9 @@
     "philipp-langhans",
     "ryan-ghods"
   ],
-  "media": {
-    "duration": 1057,
-    "language": "en",
-    "sources": {
-      "youtube": "rKoaiYYoNs4",
-      "ipfs": "QmZDSbdtVCPGNoLCmqnhJXJ8zPKn2X5DrsKSviop51kPTW",
-      "swarm": "9ffb9be208972d0d925041e29a98f352f8099a3a3c4d21890c6d314e84d2329b"
-    }
-  }
+  "sources_youtubeId": "rKoaiYYoNs4",
+  "sources_ipfsHash": "QmZDSbdtVCPGNoLCmqnhJXJ8zPKn2X5DrsKSviop51kPTW",
+  "sources_swarmHash": "9ffb9be208972d0d925041e29a98f352f8099a3a3c4d21890c6d314e84d2329b",
+  "duration": 1057,
+  "language": "en"
 }

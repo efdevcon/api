@@ -15,13 +15,9 @@
   "speakers": [
     "emin-gun-sirer"
   ],
-  "media": {
-    "duration": 1810,
-    "language": "en",
-    "sources": {
-      "youtube": "M7w4B7Cg_kU",
-      "ipfs": "QmfXYa7UZk152Q5GFd7KPKmXzunDFZUpXcxzWZSwaUq8pd",
-      "swarm": "5ec6d82d0f6971677e25796f2ca96eb5d602d81e4cd8b1a54a4fe7c697543b26"
-    }
-  }
+  "sources_youtubeId": "M7w4B7Cg_kU",
+  "sources_ipfsHash": "QmfXYa7UZk152Q5GFd7KPKmXzunDFZUpXcxzWZSwaUq8pd",
+  "sources_swarmHash": "5ec6d82d0f6971677e25796f2ca96eb5d602d81e4cd8b1a54a4fe7c697543b26",
+  "duration": 1810,
+  "language": "en"
 }

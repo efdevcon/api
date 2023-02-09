@@ -16,13 +16,9 @@
     "rich-burdon",
     "chris-waclawek"
   ],
-  "media": {
-    "duration": 1259,
-    "language": "en",
-    "sources": {
-      "youtube": "itLM2l-h6JU",
-      "ipfs": "QmYeMnnC7qNpKAmBYwrhGCTWTw2euYmWzUTaSdJe4Wn6fq",
-      "swarm": "58e56b2471833fd9213c1ad5c59eefcfb6810555673d0676247d989b029a6c81"
-    }
-  }
+  "sources_youtubeId": "itLM2l-h6JU",
+  "sources_ipfsHash": "QmYeMnnC7qNpKAmBYwrhGCTWTw2euYmWzUTaSdJe4Wn6fq",
+  "sources_swarmHash": "58e56b2471833fd9213c1ad5c59eefcfb6810555673d0676247d989b029a6c81",
+  "duration": 1259,
+  "language": "en"
 }

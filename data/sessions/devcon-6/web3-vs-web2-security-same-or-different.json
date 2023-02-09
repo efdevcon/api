@@ -20,27 +20,12 @@
     "nassim-eddequiouaq",
     "taylor-monahan"
   ],
-  "resources": {
-    "slides": "/resources/6/web3-vs-web2-security-same-or-different.pdf"
-  },
-  "slot": {
-    "start": 1665496800000,
-    "end": 1665500400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 3184,
-    "language": "en",
-    "sources": {
-      "youtube": "j0U2E5Z7XCQ",
-      "swarm": "12e357ba79df295ae5424266c33f48c3a36fef1cb8aaaa014ee376551d7e2a97"
-    }
-  }
+  "resources_slides": "/resources/6/web3-vs-web2-security-same-or-different.pdf",
+  "slot_start": 1665496800000,
+  "slot_end": 1665500400000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "j0U2E5Z7XCQ",
+  "sources_swarmHash": "12e357ba79df295ae5424266c33f48c3a36fef1cb8aaaa014ee376551d7e2a97",
+  "duration": 3184,
+  "language": "en"
 }

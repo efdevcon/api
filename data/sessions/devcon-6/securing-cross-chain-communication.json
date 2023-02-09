@@ -16,27 +16,12 @@
   "speakers": [
     "nithin-eappen"
   ],
-  "resources": {
-    "slides": "/resources/6/securing-cross-chain-communication.pdf"
-  },
-  "slot": {
-    "start": 1665505800000,
-    "end": 1665507300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1447,
-    "language": "en",
-    "sources": {
-      "youtube": "sAVhW_xqrvY",
-      "swarm": "bf9e2cbd90d548f7218a44f155560b0397c2a16140237795f5a52a6b33787f55"
-    }
-  }
+  "resources_slides": "/resources/6/securing-cross-chain-communication.pdf",
+  "slot_start": 1665505800000,
+  "slot_end": 1665507300000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "sAVhW_xqrvY",
+  "sources_swarmHash": "bf9e2cbd90d548f7218a44f155560b0397c2a16140237795f5a52a6b33787f55",
+  "duration": 1447,
+  "language": "en"
 }

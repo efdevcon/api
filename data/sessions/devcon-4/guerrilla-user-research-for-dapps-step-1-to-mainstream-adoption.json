@@ -18,13 +18,9 @@
   "speakers": [
     "kevin-kim"
   ],
-  "media": {
-    "duration": 1544,
-    "language": "en",
-    "sources": {
-      "youtube": "FoytgcqoFdU",
-      "ipfs": "QmUmu1ecakBiSUHmwexMFY3JpU59FQ6sdx4g2zGa9aBMj1",
-      "swarm": "316138ceada31fa498e5d55b0a396f26177edfadece61a6d4b15e44d881cb7ca"
-    }
-  }
+  "sources_youtubeId": "FoytgcqoFdU",
+  "sources_ipfsHash": "QmUmu1ecakBiSUHmwexMFY3JpU59FQ6sdx4g2zGa9aBMj1",
+  "sources_swarmHash": "316138ceada31fa498e5d55b0a396f26177edfadece61a6d4b15e44d881cb7ca",
+  "duration": 1544,
+  "language": "en"
 }

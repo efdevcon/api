@@ -15,13 +15,9 @@
   "speakers": [
     "michael-sproul"
   ],
-  "media": {
-    "duration": 715,
-    "language": "en",
-    "sources": {
-      "youtube": "68s_hdM4fHY",
-      "ipfs": "QmbP4UY2ivenb1rtuQFkBXCE3NfYtmgfGEhB2zZTWss7n2",
-      "swarm": "b04f2a82a48d93845ac59f44061e801531e2bf59712a1355f74eb9b361a671c6"
-    }
-  }
+  "sources_youtubeId": "68s_hdM4fHY",
+  "sources_ipfsHash": "QmbP4UY2ivenb1rtuQFkBXCE3NfYtmgfGEhB2zZTWss7n2",
+  "sources_swarmHash": "b04f2a82a48d93845ac59f44061e801531e2bf59712a1355f74eb9b361a671c6",
+  "duration": 715,
+  "language": "en"
 }

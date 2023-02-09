@@ -26,13 +26,9 @@
     "john-whelan",
     "joanna-rutkowska"
   ],
-  "media": {
-    "duration": 7285,
-    "language": "en",
-    "sources": {
-      "youtube": "91GNXD5yN74",
-      "ipfs": "QmXofvUhy2XV7wBXkKcM8cwZZz4DSfkdQfvj2THxQbaG3i",
-      "swarm": "b8b6127a704028eb93f51eb920c33307ac3844bbeb8fb9f61ecb8fb69e69354a"
-    }
-  }
+  "sources_youtubeId": "91GNXD5yN74",
+  "sources_ipfsHash": "QmXofvUhy2XV7wBXkKcM8cwZZz4DSfkdQfvj2THxQbaG3i",
+  "sources_swarmHash": "b8b6127a704028eb93f51eb920c33307ac3844bbeb8fb9f61ecb8fb69e69354a",
+  "duration": 7285,
+  "language": "en"
 }

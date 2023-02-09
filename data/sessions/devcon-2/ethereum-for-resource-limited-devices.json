@@ -29,13 +29,9 @@
   "speakers": [
     "bob-summerwill"
   ],
-  "media": {
-    "duration": 1129,
-    "language": "en",
-    "sources": {
-      "youtube": "S7jT7IWRVlw",
-      "ipfs": "Qmbwk7H2fGw4bTgREN75XueyHS5DkTZKtHgvARtDCU1U1x",
-      "swarm": "9568d7b8164e85d1fe077627bcc231be4288e5b4b6067364be84fef43caa649b"
-    }
-  }
+  "sources_youtubeId": "S7jT7IWRVlw",
+  "sources_ipfsHash": "Qmbwk7H2fGw4bTgREN75XueyHS5DkTZKtHgvARtDCU1U1x",
+  "sources_swarmHash": "9568d7b8164e85d1fe077627bcc231be4288e5b4b6067364be84fef43caa649b",
+  "duration": 1129,
+  "language": "en"
 }

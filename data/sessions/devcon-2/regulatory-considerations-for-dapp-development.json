@@ -22,13 +22,9 @@
     "ming-chan",
     "peter-van-valkenburgh"
   ],
-  "media": {
-    "duration": 1399,
-    "language": "en",
-    "sources": {
-      "youtube": "5J8BL60_zj8",
-      "ipfs": "QmaRmUHTtDcjuYF2rUenMMvNenntVbiUKGqarZsceCeqNA",
-      "swarm": "41ddfcf4bd9bd34a8e304766146eb080ece93623c7a2b08a25e02d39a2c1fa84"
-    }
-  }
+  "sources_youtubeId": "5J8BL60_zj8",
+  "sources_ipfsHash": "QmaRmUHTtDcjuYF2rUenMMvNenntVbiUKGqarZsceCeqNA",
+  "sources_swarmHash": "41ddfcf4bd9bd34a8e304766146eb080ece93623c7a2b08a25e02d39a2c1fa84",
+  "duration": 1399,
+  "language": "en"
 }

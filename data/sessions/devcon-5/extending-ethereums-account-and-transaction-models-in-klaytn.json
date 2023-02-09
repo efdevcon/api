@@ -16,13 +16,9 @@
     "donghwan-kwon",
     "sangmin-seo"
   ],
-  "media": {
-    "duration": 1107,
-    "language": "en",
-    "sources": {
-      "youtube": "vTosteA2J9c",
-      "ipfs": "QmTynYbuPLGgcBGwi2Y7KUZTSgefgF58FPe1xkdzXSWdrT",
-      "swarm": "449c5d183a11f9bbd6bc7178bb5140eb3fe26a803347173a5cd5df2b39e4106a"
-    }
-  }
+  "sources_youtubeId": "vTosteA2J9c",
+  "sources_ipfsHash": "QmTynYbuPLGgcBGwi2Y7KUZTSgefgF58FPe1xkdzXSWdrT",
+  "sources_swarmHash": "449c5d183a11f9bbd6bc7178bb5140eb3fe26a803347173a5cd5df2b39e4106a",
+  "duration": 1107,
+  "language": "en"
 }

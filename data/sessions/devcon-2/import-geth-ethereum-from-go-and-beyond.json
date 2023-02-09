@@ -27,13 +27,9 @@
   "speakers": [
     "peter-szilagyi"
   ],
-  "media": {
-    "duration": 1259,
-    "language": "en",
-    "sources": {
-      "youtube": "R0Ia1U9Gxjg",
-      "ipfs": "QmQRuKPKWWJAamrMqAp9rytX6Q4NvcXUKkhvu3kuREKqXR",
-      "swarm": "3138faff40293938dd5be09b1c183b5183bec614137357dc4bf1d48aff747b08"
-    }
-  }
+  "sources_youtubeId": "R0Ia1U9Gxjg",
+  "sources_ipfsHash": "QmQRuKPKWWJAamrMqAp9rytX6Q4NvcXUKkhvu3kuREKqXR",
+  "sources_swarmHash": "3138faff40293938dd5be09b1c183b5183bec614137357dc4bf1d48aff747b08",
+  "duration": 1259,
+  "language": "en"
 }

@@ -17,27 +17,12 @@
     "natalia-madrid-malo-latorre",
     "skylar-weaver"
   ],
-  "resources": {
-    "slides": "/resources/6/closing-ceremonies.pdf"
-  },
-  "slot": {
-    "start": 1665762000000,
-    "end": 1665765000000,
-    "length": 3000,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1524,
-    "language": "en",
-    "sources": {
-      "youtube": "R1mezQU6GL0",
-      "swarm": "5652134931dbd8e37077d2ebc9d30615c6872ef45ce37c9aa02f456dcdeecc03"
-    }
-  }
+  "resources_slides": "/resources/6/closing-ceremonies.pdf",
+  "slot_start": 1665762000000,
+  "slot_end": 1665765000000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "R1mezQU6GL0",
+  "sources_swarmHash": "5652134931dbd8e37077d2ebc9d30615c6872ef45ce37c9aa02f456dcdeecc03",
+  "duration": 1524,
+  "language": "en"
 }

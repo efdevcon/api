@@ -17,26 +17,11 @@
     "kumavis",
     "naugtur"
   ],
-  "resources": {
-    "slides": "/resources/6/the-attacker-is-inside-javascript-supplychain-security-and-lavamoat.pdf"
-  },
-  "slot": {
-    "start": 1665667800000,
-    "end": 1665669600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1350,
-    "language": "en",
-    "sources": {
-      "youtube": "Z5Bz0DYga1k"
-    }
-  }
+  "resources_slides": "/resources/6/the-attacker-is-inside-javascript-supplychain-security-and-lavamoat.pdf",
+  "slot_start": 1665667800000,
+  "slot_end": 1665669600000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "Z5Bz0DYga1k",
+  "duration": 1350,
+  "language": "en"
 }

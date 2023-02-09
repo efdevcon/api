@@ -16,27 +16,12 @@
     "yi-sun",
     "lakshman-sankar"
   ],
-  "resources": {
-    "slides": "/resources/6/zk-application-design-patterns.pdf"
-  },
-  "slot": {
-    "start": 1665676800000,
-    "end": 1665678600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1437,
-    "language": "en",
-    "sources": {
-      "youtube": "-PUKinjbLR8",
-      "swarm": "6ff2b7ef6f0b7498f83ee13acbc1ce41553eb2539515bc6d21b474c31130c6d8"
-    }
-  }
+  "resources_slides": "/resources/6/zk-application-design-patterns.pdf",
+  "slot_start": 1665676800000,
+  "slot_end": 1665678600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "-PUKinjbLR8",
+  "sources_swarmHash": "6ff2b7ef6f0b7498f83ee13acbc1ce41553eb2539515bc6d21b474c31130c6d8",
+  "duration": 1437,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
   "speakers": [
     "ann-kilzer"
   ],
-  "media": {
-    "duration": 3458,
-    "language": "en",
-    "sources": {
-      "youtube": "Biv2166qBjg",
-      "ipfs": "QmWrRywfZjE9TzcyyaFz2gvFmSNT8JorJGiFXYk2nc2LVm",
-      "swarm": "b7370f556e16b364caa18e144bfd658320f5c74095f436bd58d45a92248309ed"
-    }
-  }
+  "sources_youtubeId": "Biv2166qBjg",
+  "sources_ipfsHash": "QmWrRywfZjE9TzcyyaFz2gvFmSNT8JorJGiFXYk2nc2LVm",
+  "sources_swarmHash": "b7370f556e16b364caa18e144bfd658320f5c74095f436bd58d45a92248309ed",
+  "duration": 3458,
+  "language": "en"
 }

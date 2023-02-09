@@ -16,13 +16,9 @@
   "speakers": [
     "griff-green"
   ],
-  "media": {
-    "duration": 1570,
-    "language": "en",
-    "sources": {
-      "youtube": "UzzE87bESFY",
-      "ipfs": "QmR9XD62xHs7viixfagXmmKjeQqWKCCbZFaVtNcFnJksnM",
-      "swarm": "07fe7f407b9dbab972e3f3d1710d2d43dfe6f26c93a2ecbcc06fd5e208e48c0f"
-    }
-  }
+  "sources_youtubeId": "UzzE87bESFY",
+  "sources_ipfsHash": "QmR9XD62xHs7viixfagXmmKjeQqWKCCbZFaVtNcFnJksnM",
+  "sources_swarmHash": "07fe7f407b9dbab972e3f3d1710d2d43dfe6f26c93a2ecbcc06fd5e208e48c0f",
+  "duration": 1570,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
   "speakers": [
     "mary-maller"
   ],
-  "media": {
-    "duration": 1166,
-    "language": "en",
-    "sources": {
-      "youtube": "ukD-OODkC0o",
-      "ipfs": "QmZfKA6HoziSMThJ1ezyHUFhuMSP2VKCNA3Y9puA9rdxP4",
-      "swarm": "ee2f6136b228f498a69b1b64f716ec27ed7b609552b1679d3514cd9ec6d61602"
-    }
-  }
+  "sources_youtubeId": "ukD-OODkC0o",
+  "sources_ipfsHash": "QmZfKA6HoziSMThJ1ezyHUFhuMSP2VKCNA3Y9puA9rdxP4",
+  "sources_swarmHash": "ee2f6136b228f498a69b1b64f716ec27ed7b609552b1679d3514cd9ec6d61602",
+  "duration": 1166,
+  "language": "en"
 }

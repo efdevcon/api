@@ -14,13 +14,9 @@
     "stephan-karpischek",
     "ian-cusden"
   ],
-  "media": {
-    "duration": 821,
-    "language": "en",
-    "sources": {
-      "youtube": "5kKsouPSr1k",
-      "ipfs": "Qmc1qwDX9jiExRu74yEU9R1mRdsx6V6kfRpMg9kPtCyS6d",
-      "swarm": "a7bae69b3ee6b72924f0a5f9522d1631f7d52800fb0bdb7e6bcbe06aa38ab9f0"
-    }
-  }
+  "sources_youtubeId": "5kKsouPSr1k",
+  "sources_ipfsHash": "Qmc1qwDX9jiExRu74yEU9R1mRdsx6V6kfRpMg9kPtCyS6d",
+  "sources_swarmHash": "a7bae69b3ee6b72924f0a5f9522d1631f7d52800fb0bdb7e6bcbe06aa38ab9f0",
+  "duration": 821,
+  "language": "en"
 }

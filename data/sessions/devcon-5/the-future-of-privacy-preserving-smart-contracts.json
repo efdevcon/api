@@ -15,13 +15,9 @@
     "john-pacific",
     "ravital-solomon"
   ],
-  "media": {
-    "duration": 1363,
-    "language": "en",
-    "sources": {
-      "youtube": "djrYx8w0zbg",
-      "ipfs": "QmT48zpVJpovSwFoaorXhazxhbStMRWZsxP1LgHn8aukdz",
-      "swarm": "c1bc74e96144de5d15ec7709424565552f960767b74825a008aebca0de1d4ca8"
-    }
-  }
+  "sources_youtubeId": "djrYx8w0zbg",
+  "sources_ipfsHash": "QmT48zpVJpovSwFoaorXhazxhbStMRWZsxP1LgHn8aukdz",
+  "sources_swarmHash": "c1bc74e96144de5d15ec7709424565552f960767b74825a008aebca0de1d4ca8",
+  "duration": 1363,
+  "language": "en"
 }

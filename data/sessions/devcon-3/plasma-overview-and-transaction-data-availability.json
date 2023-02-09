@@ -13,13 +13,9 @@
   "speakers": [
     "joseph-poon"
   ],
-  "media": {
-    "duration": 1098,
-    "language": "en",
-    "sources": {
-      "youtube": "yjySP0t6lYo",
-      "ipfs": "QmQkuGKiuVuyqY35AXqa5KvJSca4btmt2DzLBTCAY7Y3C1",
-      "swarm": "a51e7641d89591cc5dcb070180e6e4dc3c03b0a364d6ded9477c8be08c009f0b"
-    }
-  }
+  "sources_youtubeId": "yjySP0t6lYo",
+  "sources_ipfsHash": "QmQkuGKiuVuyqY35AXqa5KvJSca4btmt2DzLBTCAY7Y3C1",
+  "sources_swarmHash": "a51e7641d89591cc5dcb070180e6e4dc3c03b0a364d6ded9477c8be08c009f0b",
+  "duration": 1098,
+  "language": "en"
 }

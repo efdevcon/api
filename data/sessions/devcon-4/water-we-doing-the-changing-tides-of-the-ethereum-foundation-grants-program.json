@@ -16,13 +16,9 @@
   "speakers": [
     "kenneth-ng"
   ],
-  "media": {
-    "duration": 550,
-    "language": "en",
-    "sources": {
-      "youtube": "O9iQEPqxLGc",
-      "ipfs": "QmZ2A542LUTj2ecyN9QDfSiyRogmwXnHh5BkPUjuxfoL7S",
-      "swarm": "0c82fbd036b053408fd44a386332cab3bffc5b8820ef05c8baf40f43e4246b6d"
-    }
-  }
+  "sources_youtubeId": "O9iQEPqxLGc",
+  "sources_ipfsHash": "QmZ2A542LUTj2ecyN9QDfSiyRogmwXnHh5BkPUjuxfoL7S",
+  "sources_swarmHash": "0c82fbd036b053408fd44a386332cab3bffc5b8820ef05c8baf40f43e4246b6d",
+  "duration": 550,
+  "language": "en"
 }

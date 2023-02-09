@@ -14,13 +14,9 @@
   "speakers": [
     "sergei-lonshakov"
   ],
-  "media": {
-    "duration": 336,
-    "language": "en",
-    "sources": {
-      "youtube": "bDO4MSnltDY",
-      "ipfs": "QmPdFpVMuEkbhqqGycZGXgXEnET1PkgKvW189nwPVTk4Km",
-      "swarm": "3a5fe173ecb3095efdf01c09dd63d4fceb1f657d87869fb164abc70a36a762f4"
-    }
-  }
+  "sources_youtubeId": "bDO4MSnltDY",
+  "sources_ipfsHash": "QmPdFpVMuEkbhqqGycZGXgXEnET1PkgKvW189nwPVTk4Km",
+  "sources_swarmHash": "3a5fe173ecb3095efdf01c09dd63d4fceb1f657d87869fb164abc70a36a762f4",
+  "duration": 336,
+  "language": "en"
 }

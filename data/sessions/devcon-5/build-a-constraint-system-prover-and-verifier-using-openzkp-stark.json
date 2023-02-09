@@ -14,13 +14,9 @@
   "speakers": [
     "remco-bloemen"
   ],
-  "media": {
-    "duration": 1818,
-    "language": "en",
-    "sources": {
-      "youtube": "WxW1IEUWFHY",
-      "ipfs": "QmZtqKYiRGvkXz82ejuKbooDCf9HaiXxSBT7bQtT5JVJKG",
-      "swarm": "d9e389519b0b36d2a79879c65e063fe507867a402767e2c7933fc25e8ed8e058"
-    }
-  }
+  "sources_youtubeId": "WxW1IEUWFHY",
+  "sources_ipfsHash": "QmZtqKYiRGvkXz82ejuKbooDCf9HaiXxSBT7bQtT5JVJKG",
+  "sources_swarmHash": "d9e389519b0b36d2a79879c65e063fe507867a402767e2c7933fc25e8ed8e058",
+  "duration": 1818,
+  "language": "en"
 }

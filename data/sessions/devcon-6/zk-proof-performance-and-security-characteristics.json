@@ -16,27 +16,12 @@
   "speakers": [
     "brian-wilkes-cfa"
   ],
-  "resources": {
-    "slides": "/resources/6/zk-proof-performance-and-security-characteristics.pdf"
-  },
-  "slot": {
-    "start": 1665583200000,
-    "end": 1665585000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1719,
-    "language": "en",
-    "sources": {
-      "youtube": "b1jZZmfcyiY",
-      "swarm": "9a8191a5c63d2d73ee59c7561f11274cedaa0c54a24dba0abbc00a4903c42616"
-    }
-  }
+  "resources_slides": "/resources/6/zk-proof-performance-and-security-characteristics.pdf",
+  "slot_start": 1665583200000,
+  "slot_end": 1665585000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "b1jZZmfcyiY",
+  "sources_swarmHash": "9a8191a5c63d2d73ee59c7561f11274cedaa0c54a24dba0abbc00a4903c42616",
+  "duration": 1719,
+  "language": "en"
 }

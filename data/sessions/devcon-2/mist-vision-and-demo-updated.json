@@ -28,13 +28,9 @@
   "speakers": [
     "alex-van-de-sande"
   ],
-  "media": {
-    "duration": 1237,
-    "language": "en",
-    "sources": {
-      "youtube": "Lg8_mQgpcVc",
-      "ipfs": "QmR6r7aBwQEw26a7pgQeh6dk2GebVi9jZ3w15Greeeg2Kr",
-      "swarm": "89a079577c8ad76e9f71efeb6d46f247a235dcfcfe9511945ae27a425e3b4caa"
-    }
-  }
+  "sources_youtubeId": "Lg8_mQgpcVc",
+  "sources_ipfsHash": "QmR6r7aBwQEw26a7pgQeh6dk2GebVi9jZ3w15Greeeg2Kr",
+  "sources_swarmHash": "89a079577c8ad76e9f71efeb6d46f247a235dcfcfe9511945ae27a425e3b4caa",
+  "duration": 1237,
+  "language": "en"
 }

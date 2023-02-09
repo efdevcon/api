@@ -14,13 +14,9 @@
   "speakers": [
     "karl-floersch"
   ],
-  "media": {
-    "duration": 5476,
-    "language": "en",
-    "sources": {
-      "youtube": "EWgsv1cvNz0",
-      "ipfs": "QmSJMCFR5QXP2ddKaz3kvtRjHgJRAh24RZjPoGBeCPWjvL",
-      "swarm": "8779d1479f7941a746e8c869243788014b300e85ec3dd438e99c0ce6ecc47a95"
-    }
-  }
+  "sources_youtubeId": "EWgsv1cvNz0",
+  "sources_ipfsHash": "QmSJMCFR5QXP2ddKaz3kvtRjHgJRAh24RZjPoGBeCPWjvL",
+  "sources_swarmHash": "8779d1479f7941a746e8c869243788014b300e85ec3dd438e99c0ce6ecc47a95",
+  "duration": 5476,
+  "language": "en"
 }

@@ -17,27 +17,12 @@
     "julien-niset",
     "itamar-lesuisse"
   ],
-  "resources": {
-    "slides": "/resources/6/why-account-abstraction-is-a-game-changer-for-dapps.pdf"
-  },
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665657000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1479,
-    "language": "en",
-    "sources": {
-      "youtube": "OwppworJGzs",
-      "swarm": "29c15e3fd310ebe610d75be7cec7a2e7324ef90dd58a407e4d731268111a2b3b"
-    }
-  }
+  "resources_slides": "/resources/6/why-account-abstraction-is-a-game-changer-for-dapps.pdf",
+  "slot_start": 1665655200000,
+  "slot_end": 1665657000000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "OwppworJGzs",
+  "sources_swarmHash": "29c15e3fd310ebe610d75be7cec7a2e7324ef90dd58a407e4d731268111a2b3b",
+  "duration": 1479,
+  "language": "en"
 }

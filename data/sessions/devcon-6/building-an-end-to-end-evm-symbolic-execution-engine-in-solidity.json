@@ -16,27 +16,12 @@
   "speakers": [
     "leo-alt"
   ],
-  "resources": {
-    "slides": "/resources/6/building-an-end-to-end-evm-symbolic-execution-engine-in-solidity.pdf"
-  },
-  "slot": {
-    "start": 1665745200000,
-    "end": 1665747000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1395,
-    "language": "en",
-    "sources": {
-      "youtube": "AToud3VlvEM",
-      "swarm": "e1395a57b3e7bfa2e17edd5ea524326d60355e4e0867de5f4a25d3d17a075bff"
-    }
-  }
+  "resources_slides": "/resources/6/building-an-end-to-end-evm-symbolic-execution-engine-in-solidity.pdf",
+  "slot_start": 1665745200000,
+  "slot_end": 1665747000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "AToud3VlvEM",
+  "sources_swarmHash": "e1395a57b3e7bfa2e17edd5ea524326d60355e4e0867de5f4a25d3d17a075bff",
+  "duration": 1395,
+  "language": "en"
 }

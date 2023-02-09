@@ -14,13 +14,9 @@
   "speakers": [
     "pawel-bylica"
   ],
-  "media": {
-    "duration": 1378,
-    "language": "en",
-    "sources": {
-      "youtube": "2ZAh7NmjOXM",
-      "ipfs": "QmQMrqVA5F7k7xnXYChMkcyqULr42rMG35b8vCHz3hzhmb",
-      "swarm": "104204fd86bff9543d8ae156ced59a9191fdcecf9dad94542bc322eb4f63bb15"
-    }
-  }
+  "sources_youtubeId": "2ZAh7NmjOXM",
+  "sources_ipfsHash": "QmQMrqVA5F7k7xnXYChMkcyqULr42rMG35b8vCHz3hzhmb",
+  "sources_swarmHash": "104204fd86bff9543d8ae156ced59a9191fdcecf9dad94542bc322eb4f63bb15",
+  "duration": 1378,
+  "language": "en"
 }

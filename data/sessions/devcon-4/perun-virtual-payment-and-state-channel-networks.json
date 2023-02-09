@@ -21,13 +21,9 @@
     "lisa-eckey",
     "kristina-hostakova"
   ],
-  "media": {
-    "duration": 1489,
-    "language": "en",
-    "sources": {
-      "youtube": "cgeELCtqE2s",
-      "ipfs": "Qmamk2oJo4UebEZcTzdDYwxRJFanzg87rhbW7bmbpQYAsU",
-      "swarm": "fdf28e7af451ba6dea8745f4c0d04a5442daaae83cdf3eae7cd75aeaf516a4c3"
-    }
-  }
+  "sources_youtubeId": "cgeELCtqE2s",
+  "sources_ipfsHash": "Qmamk2oJo4UebEZcTzdDYwxRJFanzg87rhbW7bmbpQYAsU",
+  "sources_swarmHash": "fdf28e7af451ba6dea8745f4c0d04a5442daaae83cdf3eae7cd75aeaf516a4c3",
+  "duration": 1489,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
     "jacob-eberhardt",
     "thibaut-schaeffer"
   ],
-  "media": {
-    "duration": 1374,
-    "language": "en",
-    "sources": {
-      "youtube": "pB3Hh1pwMaI",
-      "ipfs": "QmPijdc5ABT4CERC4r6bW7bRhE1TZMV4A6tDT3fbEHMxWb",
-      "swarm": "04aace7de6f07ba16515079db35bdc8fc0952670749e6ecd880780af1ac51837"
-    }
-  }
+  "sources_youtubeId": "pB3Hh1pwMaI",
+  "sources_ipfsHash": "QmPijdc5ABT4CERC4r6bW7bRhE1TZMV4A6tDT3fbEHMxWb",
+  "sources_swarmHash": "04aace7de6f07ba16515079db35bdc8fc0952670749e6ecd880780af1ac51837",
+  "duration": 1374,
+  "language": "en"
 }

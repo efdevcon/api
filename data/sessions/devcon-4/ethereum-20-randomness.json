@@ -16,13 +16,9 @@
   "speakers": [
     "justin-drake"
   ],
-  "media": {
-    "duration": 2034,
-    "language": "en",
-    "sources": {
-      "youtube": "rUOBPu4W28c",
-      "ipfs": "QmbmrGzw2TXJdtVMUCJhh7vqaz3sTK1WovUvUgsG993JcF",
-      "swarm": "062608fd6697ff6601b67ffe274d06157a16674072cec551efeb2dfb24281e84"
-    }
-  }
+  "sources_youtubeId": "rUOBPu4W28c",
+  "sources_ipfsHash": "QmbmrGzw2TXJdtVMUCJhh7vqaz3sTK1WovUvUgsG993JcF",
+  "sources_swarmHash": "062608fd6697ff6601b67ffe274d06157a16674072cec551efeb2dfb24281e84",
+  "duration": 2034,
+  "language": "en"
 }

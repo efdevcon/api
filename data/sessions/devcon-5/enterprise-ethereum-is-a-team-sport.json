@@ -21,13 +21,9 @@
   "speakers": [
     "nadia-hewett"
   ],
-  "media": {
-    "duration": 1275,
-    "language": "en",
-    "sources": {
-      "youtube": "e-CNFgwq24k",
-      "ipfs": "QmYSCNg7RPW7S26GXu3xcb82wDQjS66J1o6kqyta95Vkgb",
-      "swarm": "c84d9a9f0bfb768ff6943def948303d784d10a3d0f0af147bd561691d5982639"
-    }
-  }
+  "sources_youtubeId": "e-CNFgwq24k",
+  "sources_ipfsHash": "QmYSCNg7RPW7S26GXu3xcb82wDQjS66J1o6kqyta95Vkgb",
+  "sources_swarmHash": "c84d9a9f0bfb768ff6943def948303d784d10a3d0f0af147bd561691d5982639",
+  "duration": 1275,
+  "language": "en"
 }

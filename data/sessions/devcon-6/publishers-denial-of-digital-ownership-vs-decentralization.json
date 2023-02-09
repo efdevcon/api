@@ -15,27 +15,12 @@
   "speakers": [
     "brewster-kahle"
   ],
-  "resources": {
-    "slides": "/resources/6/publishers-denial-of-digital-ownership-vs-decentralization.pdf"
-  },
-  "slot": {
-    "start": 1665577800000,
-    "end": 1665579600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1592,
-    "language": "en",
-    "sources": {
-      "youtube": "-AEnRzzFpBE",
-      "swarm": "48e7b33fedd575509d91a27ac5d697e5eec690a83611602eba11cf8c739c43bb"
-    }
-  }
+  "resources_slides": "/resources/6/publishers-denial-of-digital-ownership-vs-decentralization.pdf",
+  "slot_start": 1665577800000,
+  "slot_end": 1665579600000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "-AEnRzzFpBE",
+  "sources_swarmHash": "48e7b33fedd575509d91a27ac5d697e5eec690a83611602eba11cf8c739c43bb",
+  "duration": 1592,
+  "language": "en"
 }

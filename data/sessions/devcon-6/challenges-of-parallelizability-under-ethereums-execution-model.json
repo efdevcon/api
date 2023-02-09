@@ -16,27 +16,12 @@
   "speakers": [
     "peter-garamvolgyi"
   ],
-  "resources": {
-    "slides": "/resources/6/challenges-of-parallelizability-under-ethereums-execution-model.pdf"
-  },
-  "slot": {
-    "start": 1665655800000,
-    "end": 1665656400000,
-    "length": 600,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 474,
-    "language": "en",
-    "sources": {
-      "youtube": "QaLUNUJLhNg",
-      "swarm": "057b01a2e2e3d1031a7367a3706b63dd5ae82b59cf79204cf96dfcf8970da2e7"
-    }
-  }
+  "resources_slides": "/resources/6/challenges-of-parallelizability-under-ethereums-execution-model.pdf",
+  "slot_start": 1665655800000,
+  "slot_end": 1665656400000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "QaLUNUJLhNg",
+  "sources_swarmHash": "057b01a2e2e3d1031a7367a3706b63dd5ae82b59cf79204cf96dfcf8970da2e7",
+  "duration": 474,
+  "language": "en"
 }

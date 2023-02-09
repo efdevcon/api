@@ -15,27 +15,12 @@
   "speakers": [
     "danny-ryan"
   ],
-  "resources": {
-    "slides": "/resources/6/opening-ceremonies-danny.pdf"
-  },
-  "slot": {
-    "start": 1665481500000,
-    "end": 1665490500000,
-    "length": 9000,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 1487,
-    "language": "en",
-    "sources": {
-      "youtube": "GGXveC7dn7o",
-      "swarm": "7d0d3f564df1617ada4fbf54803673bc6be05401547d12364bf1785e8f122e69"
-    }
-  }
+  "resources_slides": "/resources/6/opening-ceremonies-danny.pdf",
+  "slot_start": 1665481500000,
+  "slot_end": 1665490500000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "GGXveC7dn7o",
+  "sources_swarmHash": "7d0d3f564df1617ada4fbf54803673bc6be05401547d12364bf1785e8f122e69",
+  "duration": 1487,
+  "language": "en"
 }

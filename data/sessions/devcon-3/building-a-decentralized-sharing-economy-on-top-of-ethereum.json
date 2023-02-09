@@ -13,13 +13,9 @@
   "speakers": [
     "christoph-jentzsch"
   ],
-  "media": {
-    "duration": 1198,
-    "language": "en",
-    "sources": {
-      "youtube": "7BKegezSXIU",
-      "ipfs": "QmTr9Dbge83gYSMxTQCXG3eBRGNpoGq1DRdLVU3B31ZvMo",
-      "swarm": "71938ee6a1b372bfd2386cd7d904ce15495de1fad29b324d7370def998dc396e"
-    }
-  }
+  "sources_youtubeId": "7BKegezSXIU",
+  "sources_ipfsHash": "QmTr9Dbge83gYSMxTQCXG3eBRGNpoGq1DRdLVU3B31ZvMo",
+  "sources_swarmHash": "71938ee6a1b372bfd2386cd7d904ce15495de1fad29b324d7370def998dc396e",
+  "duration": 1198,
+  "language": "en"
 }

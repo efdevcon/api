@@ -13,13 +13,9 @@
   "speakers": [
     "jacek-varky"
   ],
-  "media": {
-    "duration": 228,
-    "language": "en",
-    "sources": {
-      "youtube": "Dmt6wnbeV2M",
-      "ipfs": "QmadRTYHc6e1b1qpTy1nPTihniKCpan79FBYQrFEnMvJeE",
-      "swarm": "4f24bc702479fd480347949331568a0c633cf2b19994fb457dc878836107f954"
-    }
-  }
+  "sources_youtubeId": "Dmt6wnbeV2M",
+  "sources_ipfsHash": "QmadRTYHc6e1b1qpTy1nPTihniKCpan79FBYQrFEnMvJeE",
+  "sources_swarmHash": "4f24bc702479fd480347949331568a0c633cf2b19994fb457dc878836107f954",
+  "duration": 228,
+  "language": "en"
 }

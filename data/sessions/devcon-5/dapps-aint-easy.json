@@ -14,13 +14,9 @@
   "speakers": [
     "santiago-palladino"
   ],
-  "media": {
-    "duration": 432,
-    "language": "en",
-    "sources": {
-      "youtube": "WYXIBUSU4UU",
-      "ipfs": "QmP5PtpCr9TsdHEA9m6nvY99ZhJFGbWezJZfN48iYDvfPx",
-      "swarm": "e9863c17ce8d02b199c06375e806c5e94713fec9aae7fbbfdc1b072088874ca0"
-    }
-  }
+  "sources_youtubeId": "WYXIBUSU4UU",
+  "sources_ipfsHash": "QmP5PtpCr9TsdHEA9m6nvY99ZhJFGbWezJZfN48iYDvfPx",
+  "sources_swarmHash": "e9863c17ce8d02b199c06375e806c5e94713fec9aae7fbbfdc1b072088874ca0",
+  "duration": 432,
+  "language": "en"
 }

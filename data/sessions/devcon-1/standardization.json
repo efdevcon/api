@@ -17,13 +17,9 @@
     "nikolai-mushegian",
     "christian-lundkvist"
   ],
-  "media": {
-    "duration": 2230,
-    "language": "en",
-    "sources": {
-      "youtube": "wbbbZv1VaVM",
-      "ipfs": "QmcL7KaEKspwKPy2ZM5TReifs9QWBhUG8S3eSsqSTYkK3r",
-      "swarm": "f4b0d4253ae5806901fcc91bdfb065f0b04ffa70df8382c4990cd0e7faf56f88"
-    }
-  }
+  "sources_youtubeId": "wbbbZv1VaVM",
+  "sources_ipfsHash": "QmcL7KaEKspwKPy2ZM5TReifs9QWBhUG8S3eSsqSTYkK3r",
+  "sources_swarmHash": "f4b0d4253ae5806901fcc91bdfb065f0b04ffa70df8382c4990cd0e7faf56f88",
+  "duration": 2230,
+  "language": "en"
 }

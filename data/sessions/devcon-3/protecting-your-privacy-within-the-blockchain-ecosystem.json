@@ -13,13 +13,9 @@
   "speakers": [
     "robertas-visinskis"
   ],
-  "media": {
-    "duration": 665,
-    "language": "en",
-    "sources": {
-      "youtube": "1WrdRbsCEAA",
-      "ipfs": "QmdqzuCjggy495sWrj8dWWXugmEQqC8PCwFuZsEVCEephU",
-      "swarm": "ad5bdddd69b46cd62f09847ea783612764b412b91cdab5eef7acc638ac24e289"
-    }
-  }
+  "sources_youtubeId": "1WrdRbsCEAA",
+  "sources_ipfsHash": "QmdqzuCjggy495sWrj8dWWXugmEQqC8PCwFuZsEVCEephU",
+  "sources_swarmHash": "ad5bdddd69b46cd62f09847ea783612764b412b91cdab5eef7acc638ac24e289",
+  "duration": 665,
+  "language": "en"
 }

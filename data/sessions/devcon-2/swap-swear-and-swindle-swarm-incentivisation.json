@@ -27,13 +27,9 @@
     "viktor-tron",
     "aron-fischer"
   ],
-  "media": {
-    "duration": 1205,
-    "language": "en",
-    "sources": {
-      "youtube": "DZbhjnhP5g4",
-      "ipfs": "QmSt3Gd6vrYpSqFddjbTJDVtkaBx764qq2GvWhWgAGC9r3",
-      "swarm": "9e42a156426310cf87400dd5e6352baf154fc6c1b4004e0a197c0dee14c4cc16"
-    }
-  }
+  "sources_youtubeId": "DZbhjnhP5g4",
+  "sources_ipfsHash": "QmSt3Gd6vrYpSqFddjbTJDVtkaBx764qq2GvWhWgAGC9r3",
+  "sources_swarmHash": "9e42a156426310cf87400dd5e6352baf154fc6c1b4004e0a197c0dee14c4cc16",
+  "duration": 1205,
+  "language": "en"
 }

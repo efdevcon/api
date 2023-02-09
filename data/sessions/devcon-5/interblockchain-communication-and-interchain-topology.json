@@ -16,13 +16,9 @@
   "speakers": [
     "christopher-goes"
   ],
-  "media": {
-    "duration": 860,
-    "language": "en",
-    "sources": {
-      "youtube": "pCg1NxCh6cM",
-      "ipfs": "QmUnnCNF9FUYQ1ATkRejEDtmasy4TzDA2RXECkwMUaEfj4",
-      "swarm": "13534ede311b4ddcc151356f612d04617a79359969236f443b966c9a774e37ad"
-    }
-  }
+  "sources_youtubeId": "pCg1NxCh6cM",
+  "sources_ipfsHash": "QmUnnCNF9FUYQ1ATkRejEDtmasy4TzDA2RXECkwMUaEfj4",
+  "sources_swarmHash": "13534ede311b4ddcc151356f612d04617a79359969236f443b966c9a774e37ad",
+  "duration": 860,
+  "language": "en"
 }

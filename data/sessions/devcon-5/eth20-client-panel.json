@@ -15,13 +15,9 @@
   "speakers": [
     "various"
   ],
-  "media": {
-    "duration": 2160,
-    "language": "en",
-    "sources": {
-      "youtube": "XJRmdiK-eto",
-      "ipfs": "QmPhjPYXsHHvqSUtcxQXpLvGZyJMQ1v7exb6YTA235NUHH",
-      "swarm": "0789e3c2d09dc449dc210e77847feffb01701584ed87ed34dedb797d0f69b40a"
-    }
-  }
+  "sources_youtubeId": "XJRmdiK-eto",
+  "sources_ipfsHash": "QmPhjPYXsHHvqSUtcxQXpLvGZyJMQ1v7exb6YTA235NUHH",
+  "sources_swarmHash": "0789e3c2d09dc449dc210e77847feffb01701584ed87ed34dedb797d0f69b40a",
+  "duration": 2160,
+  "language": "en"
 }

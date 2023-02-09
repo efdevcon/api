@@ -13,13 +13,9 @@
   "speakers": [
     "don-tapscott"
   ],
-  "media": {
-    "duration": 1790,
-    "language": "en",
-    "sources": {
-      "youtube": "bLzwYthfcVc",
-      "ipfs": "QmbdyrP7Rx21mKgBVNK8b6eARJiu4N3GDxNWDjCiMH8xnE",
-      "swarm": "8e68c47537edf420bef08f2e44bd7f8759a9d17b5f9fb5d373563a3e47ee0bd7"
-    }
-  }
+  "sources_youtubeId": "bLzwYthfcVc",
+  "sources_ipfsHash": "QmbdyrP7Rx21mKgBVNK8b6eARJiu4N3GDxNWDjCiMH8xnE",
+  "sources_swarmHash": "8e68c47537edf420bef08f2e44bd7f8759a9d17b5f9fb5d373563a3e47ee0bd7",
+  "duration": 1790,
+  "language": "en"
 }

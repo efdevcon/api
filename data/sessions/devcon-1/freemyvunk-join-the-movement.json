@@ -13,13 +13,9 @@
   "speakers": [
     "r-tyler-smith"
   ],
-  "media": {
-    "duration": 845,
-    "language": "en",
-    "sources": {
-      "youtube": "AzGHtX0yaiw",
-      "ipfs": "QmbLGBjwF9QvxafQgRgnvsBb9C2RQoHfnT4e9cUroe8wCZ",
-      "swarm": "58b7b1cbc5048ca451cb91c1f1f1fc65e3831339a40f3f4f5356e8f3d6d36ab1"
-    }
-  }
+  "sources_youtubeId": "AzGHtX0yaiw",
+  "sources_ipfsHash": "QmbLGBjwF9QvxafQgRgnvsBb9C2RQoHfnT4e9cUroe8wCZ",
+  "sources_swarmHash": "58b7b1cbc5048ca451cb91c1f1f1fc65e3831339a40f3f4f5356e8f3d6d36ab1",
+  "duration": 845,
+  "language": "en"
 }

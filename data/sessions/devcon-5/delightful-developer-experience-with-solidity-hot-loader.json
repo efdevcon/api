@@ -13,13 +13,9 @@
   "speakers": [
     "igor-yalovoy"
   ],
-  "media": {
-    "duration": 1146,
-    "language": "en",
-    "sources": {
-      "youtube": "gybPevFAZyo",
-      "ipfs": "QmceZxzngs7VVZGWpgLuMXuRZuNAaFLvSg7mGn8VyULbho",
-      "swarm": "0a7d241f54bb4b70d12888edcc15a056436abe3ed3504324145916b4ec5cc314"
-    }
-  }
+  "sources_youtubeId": "gybPevFAZyo",
+  "sources_ipfsHash": "QmceZxzngs7VVZGWpgLuMXuRZuNAaFLvSg7mGn8VyULbho",
+  "sources_swarmHash": "0a7d241f54bb4b70d12888edcc15a056436abe3ed3504324145916b4ec5cc314",
+  "duration": 1146,
+  "language": "en"
 }

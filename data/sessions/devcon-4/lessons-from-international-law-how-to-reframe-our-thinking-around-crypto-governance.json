@@ -16,13 +16,9 @@
   "speakers": [
     "katherine-wu"
   ],
-  "media": {
-    "duration": 956,
-    "language": "en",
-    "sources": {
-      "youtube": "_0RSB8lrGYY",
-      "ipfs": "QmTKLLrwm7VrjtLW89Zc3uBywGLTp3JWrRCFaVgJUToPi8",
-      "swarm": "62a65369e009e2516a9aba63f3f0583c77876f04620a450eb597c8ac789c3b59"
-    }
-  }
+  "sources_youtubeId": "_0RSB8lrGYY",
+  "sources_ipfsHash": "QmTKLLrwm7VrjtLW89Zc3uBywGLTp3JWrRCFaVgJUToPi8",
+  "sources_swarmHash": "62a65369e009e2516a9aba63f3f0583c77876f04620a450eb597c8ac789c3b59",
+  "duration": 956,
+  "language": "en"
 }

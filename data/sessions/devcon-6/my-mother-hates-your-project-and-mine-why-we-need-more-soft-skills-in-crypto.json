@@ -16,27 +16,12 @@
   "speakers": [
     "vince-major"
   ],
-  "resources": {
-    "slides": "/resources/6/my-mother-hates-your-project-and-mine-why-we-need-more-soft-skills-in-crypto.pdf"
-  },
-  "slot": {
-    "start": 1665678600000,
-    "end": 1665680400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1366,
-    "language": "en",
-    "sources": {
-      "youtube": "9aja5ghqdF4",
-      "swarm": "48e1db16381c2f706075c40c17454d7a7d164e4ceff4ba2282d847a3474f1a36"
-    }
-  }
+  "resources_slides": "/resources/6/my-mother-hates-your-project-and-mine-why-we-need-more-soft-skills-in-crypto.pdf",
+  "slot_start": 1665678600000,
+  "slot_end": 1665680400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "9aja5ghqdF4",
+  "sources_swarmHash": "48e1db16381c2f706075c40c17454d7a7d164e4ceff4ba2282d847a3474f1a36",
+  "duration": 1366,
+  "language": "en"
 }

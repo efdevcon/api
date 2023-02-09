@@ -17,24 +17,11 @@
     "jennifer-parak",
     "gabriella-sofia"
   ],
-  "slot": {
-    "start": 1665752400000,
-    "end": 1665759000000,
-    "length": 6600,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 4937,
-    "language": "en",
-    "sources": {
-      "youtube": "dWCck2IniNc",
-      "swarm": "3873c1371e7a78f8f16343192b45c6da533aedcf840096ad79e082ab1b3b3317"
-    }
-  }
+  "slot_start": 1665752400000,
+  "slot_end": 1665759000000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "dWCck2IniNc",
+  "sources_swarmHash": "3873c1371e7a78f8f16343192b45c6da533aedcf840096ad79e082ab1b3b3317",
+  "duration": 4937,
+  "language": "en"
 }

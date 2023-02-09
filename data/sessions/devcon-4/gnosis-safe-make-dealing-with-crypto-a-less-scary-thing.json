@@ -16,13 +16,9 @@
   "speakers": [
     "stefan-george"
   ],
-  "media": {
-    "duration": 1577,
-    "language": "en",
-    "sources": {
-      "youtube": "9gyZRq162A8",
-      "ipfs": "QmPGVnqUHuUgnmfCYxMgX6Cn8iSEkxqZGs29398fYnvW8Q",
-      "swarm": "6a9c9564ee05e1443deff3f4609d28a90b1447282af84ac3225c809b49363f9f"
-    }
-  }
+  "sources_youtubeId": "9gyZRq162A8",
+  "sources_ipfsHash": "QmPGVnqUHuUgnmfCYxMgX6Cn8iSEkxqZGs29398fYnvW8Q",
+  "sources_swarmHash": "6a9c9564ee05e1443deff3f4609d28a90b1447282af84ac3225c809b49363f9f",
+  "duration": 1577,
+  "language": "en"
 }

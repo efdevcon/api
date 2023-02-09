@@ -14,23 +14,10 @@
   "speakers": [
     "luis-carlos"
   ],
-  "slot": {
-    "start": 1665759600000,
-    "end": 1665761100000,
-    "length": 1500,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1526,
-    "language": "en",
-    "sources": {
-      "youtube": "NDiGNkf3Hy0"
-    }
-  }
+  "slot_start": 1665759600000,
+  "slot_end": 1665761100000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "NDiGNkf3Hy0",
+  "duration": 1526,
+  "language": "en"
 }

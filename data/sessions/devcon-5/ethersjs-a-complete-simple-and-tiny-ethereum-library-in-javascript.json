@@ -14,13 +14,9 @@
   "speakers": [
     "richard-moore"
   ],
-  "media": {
-    "duration": 1492,
-    "language": "en",
-    "sources": {
-      "youtube": "r1ldSzcqaHo",
-      "ipfs": "QmeMs8QSRoAj9AMcvHGWL99tc7nmyVPWM8wxoFLtgqnxrb",
-      "swarm": "1254cc064585a56539fed6e29fb086a56c3013ddf353ef2124a3fd04ce51991a"
-    }
-  }
+  "sources_youtubeId": "r1ldSzcqaHo",
+  "sources_ipfsHash": "QmeMs8QSRoAj9AMcvHGWL99tc7nmyVPWM8wxoFLtgqnxrb",
+  "sources_swarmHash": "1254cc064585a56539fed6e29fb086a56c3013ddf353ef2124a3fd04ce51991a",
+  "duration": 1492,
+  "language": "en"
 }

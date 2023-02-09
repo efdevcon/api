@@ -17,27 +17,12 @@
   "speakers": [
     "matt-shams"
   ],
-  "resources": {
-    "slides": "/resources/6/under-2-min-become-an-ethereum-staker-and-set-up-node.pdf"
-  },
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665655800000,
-    "length": 600,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 404,
-    "language": "en",
-    "sources": {
-      "youtube": "GBKWihasGOY",
-      "swarm": "c947e2421c3d67f99e227436e3ee2c3b1fc88047547ee7723c99399fec4f2f02"
-    }
-  }
+  "resources_slides": "/resources/6/under-2-min-become-an-ethereum-staker-and-set-up-node.pdf",
+  "slot_start": 1665655200000,
+  "slot_end": 1665655800000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "GBKWihasGOY",
+  "sources_swarmHash": "c947e2421c3d67f99e227436e3ee2c3b1fc88047547ee7723c99399fec4f2f02",
+  "duration": 404,
+  "language": "en"
 }

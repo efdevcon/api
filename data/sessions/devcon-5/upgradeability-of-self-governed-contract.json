@@ -14,13 +14,9 @@
   "speakers": [
     "hadrien-croubois"
   ],
-  "media": {
-    "duration": 336,
-    "language": "en",
-    "sources": {
-      "youtube": "Cfjyu8oAzh4",
-      "ipfs": "QmS8Zk5AnKg5JqJDqxe8723Bsb5LJwrjj8ed4UX8tCfy6P",
-      "swarm": "544b4c94089c82f199d182872a1c19e39504d6d0509d2a7893068f40e9ffc44b"
-    }
-  }
+  "sources_youtubeId": "Cfjyu8oAzh4",
+  "sources_ipfsHash": "QmS8Zk5AnKg5JqJDqxe8723Bsb5LJwrjj8ed4UX8tCfy6P",
+  "sources_swarmHash": "544b4c94089c82f199d182872a1c19e39504d6d0509d2a7893068f40e9ffc44b",
+  "duration": 336,
+  "language": "en"
 }

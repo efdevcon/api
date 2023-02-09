@@ -15,27 +15,12 @@
   "speakers": [
     "gubsheep"
   ],
-  "resources": {
-    "slides": "/resources/6/dark-forest-lessons-from-3-years-of-on-chain-gaming.pdf"
-  },
-  "slot": {
-    "start": 1665504000000,
-    "end": 1665505800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 1551,
-    "language": "en",
-    "sources": {
-      "youtube": "z7V830zndoA",
-      "swarm": "4756dcd2744899de28d5b9b995fc5f628f52357ebf6379adc98c4817cc7d8d9f"
-    }
-  }
+  "resources_slides": "/resources/6/dark-forest-lessons-from-3-years-of-on-chain-gaming.pdf",
+  "slot_start": 1665504000000,
+  "slot_end": 1665505800000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "z7V830zndoA",
+  "sources_swarmHash": "4756dcd2744899de28d5b9b995fc5f628f52357ebf6379adc98c4817cc7d8d9f",
+  "duration": 1551,
+  "language": "en"
 }

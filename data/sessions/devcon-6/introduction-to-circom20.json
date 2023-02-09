@@ -16,26 +16,11 @@
     "jesus-ligero",
     "carlos-matallana"
   ],
-  "resources": {
-    "slides": "/resources/6/introduction-to-circom20.pdf"
-  },
-  "slot": {
-    "start": 1665502200000,
-    "end": 1665505800000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2045,
-    "language": "en",
-    "sources": {
-      "youtube": "fDWZFeurhiU"
-    }
-  }
+  "resources_slides": "/resources/6/introduction-to-circom20.pdf",
+  "slot_start": 1665502200000,
+  "slot_end": 1665505800000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "fDWZFeurhiU",
+  "duration": 2045,
+  "language": "en"
 }

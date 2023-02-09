@@ -14,13 +14,9 @@
   "speakers": [
     "marc-garreau"
   ],
-  "media": {
-    "duration": 270,
-    "language": "en",
-    "sources": {
-      "youtube": "orzj6gkqCqw",
-      "ipfs": "QmVjPCvGhkkTcdCZ4dpkfG5RXXLgUfqEsBYSUExhvLz9e5",
-      "swarm": "1088600e473c25582a9106fde1c5ca365cb110e21d14f5163c12844ac04485bc"
-    }
-  }
+  "sources_youtubeId": "orzj6gkqCqw",
+  "sources_ipfsHash": "QmVjPCvGhkkTcdCZ4dpkfG5RXXLgUfqEsBYSUExhvLz9e5",
+  "sources_swarmHash": "1088600e473c25582a9106fde1c5ca365cb110e21d14f5163c12844ac04485bc",
+  "duration": 270,
+  "language": "en"
 }

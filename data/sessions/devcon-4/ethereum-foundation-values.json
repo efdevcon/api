@@ -15,13 +15,9 @@
   "speakers": [
     "aya-miyaguchi"
   ],
-  "media": {
-    "duration": 1097,
-    "language": "en",
-    "sources": {
-      "youtube": "R7FjX0GEiAM",
-      "ipfs": "QmRVkynx93Hxyyp8FxzN5gzp3RoL7AmVkfEkzE1PF7nky1",
-      "swarm": "17c25d7b678a53b3613f2312376b4bed0626fa54646c9124d36391db3b040b66"
-    }
-  }
+  "sources_youtubeId": "R7FjX0GEiAM",
+  "sources_ipfsHash": "QmRVkynx93Hxyyp8FxzN5gzp3RoL7AmVkfEkzE1PF7nky1",
+  "sources_swarmHash": "17c25d7b678a53b3613f2312376b4bed0626fa54646c9124d36391db3b040b66",
+  "duration": 1097,
+  "language": "en"
 }

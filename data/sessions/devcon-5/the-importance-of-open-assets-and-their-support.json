@@ -14,13 +14,9 @@
   "speakers": [
     "hiroyuki-hara"
   ],
-  "media": {
-    "duration": 331,
-    "language": "en",
-    "sources": {
-      "youtube": "qLt3N30kouI",
-      "ipfs": "QmaswQpvpxxCdJGpcCMALzoevE3w71W4VPbJsppHow8V3o",
-      "swarm": "f357f056f49e784915f96b0dbdf813d1b46c95179ba70aeb13dd69978912c65a"
-    }
-  }
+  "sources_youtubeId": "qLt3N30kouI",
+  "sources_ipfsHash": "QmaswQpvpxxCdJGpcCMALzoevE3w71W4VPbJsppHow8V3o",
+  "sources_swarmHash": "f357f056f49e784915f96b0dbdf813d1b46c95179ba70aeb13dd69978912c65a",
+  "duration": 331,
+  "language": "en"
 }

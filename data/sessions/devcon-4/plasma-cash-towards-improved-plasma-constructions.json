@@ -21,13 +21,9 @@
   "speakers": [
     "georgios-konstantopoulos"
   ],
-  "media": {
-    "duration": 1935,
-    "language": "en",
-    "sources": {
-      "youtube": "UKigyHGQQmQ",
-      "ipfs": "QmayNG1zpma6QssScMzjW1Lx6vmhrQsuhWcQC1MJk1JfaH",
-      "swarm": "d2ee0ee3127a03b2662a2daa8379b755b326bdb5185004ddf62b0be9446a51e7"
-    }
-  }
+  "sources_youtubeId": "UKigyHGQQmQ",
+  "sources_ipfsHash": "QmayNG1zpma6QssScMzjW1Lx6vmhrQsuhWcQC1MJk1JfaH",
+  "sources_swarmHash": "d2ee0ee3127a03b2662a2daa8379b755b326bdb5185004ddf62b0be9446a51e7",
+  "duration": 1935,
+  "language": "en"
 }

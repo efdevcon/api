@@ -16,26 +16,11 @@
     "tim-beiko",
     "anett-rolikova"
   ],
-  "resources": {
-    "slides": "/resources/6/ethereum-magicians-protocol-roadmap-session.pdf"
-  },
-  "slot": {
-    "start": 1665500400000,
-    "end": 1665511200000,
-    "length": 10800,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 6250,
-    "language": "en",
-    "sources": {
-      "youtube": "PZnKWC57HOE"
-    }
-  }
+  "resources_slides": "/resources/6/ethereum-magicians-protocol-roadmap-session.pdf",
+  "slot_start": 1665500400000,
+  "slot_end": 1665511200000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "PZnKWC57HOE",
+  "duration": 6250,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "jonathan-mann"
   ],
-  "media": {
-    "duration": 443,
-    "language": "en",
-    "sources": {
-      "youtube": "PluyYPXA4Zc",
-      "ipfs": "QmYoj9NncuqeC5hoRBeXi5g3aBTNUpNZAf4RzCMMpY23hE",
-      "swarm": "78a4c94d40ca20978f3083f9d315e9aca23cf83cf4e30b870541ae3362c66a5c"
-    }
-  }
+  "sources_youtubeId": "PluyYPXA4Zc",
+  "sources_ipfsHash": "QmYoj9NncuqeC5hoRBeXi5g3aBTNUpNZAf4RzCMMpY23hE",
+  "sources_swarmHash": "78a4c94d40ca20978f3083f9d315e9aca23cf83cf4e30b870541ae3362c66a5c",
+  "duration": 443,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
   "speakers": [
     "jenna-zenk"
   ],
-  "media": {
-    "duration": 1605,
-    "language": "en",
-    "sources": {
-      "youtube": "YTLSnS4DTak",
-      "ipfs": "QmVykQ6hxgSgPcByTJDVEUTnVgYx9BYDVswEc35mgEGZWM",
-      "swarm": "9c72aa80d2d9f56f42f0da1dfcecd7de52e1a23ee3e3baeaa3a524154f8acb50"
-    }
-  }
+  "sources_youtubeId": "YTLSnS4DTak",
+  "sources_ipfsHash": "QmVykQ6hxgSgPcByTJDVEUTnVgYx9BYDVswEc35mgEGZWM",
+  "sources_swarmHash": "9c72aa80d2d9f56f42f0da1dfcecd7de52e1a23ee3e3baeaa3a524154f8acb50",
+  "duration": 1605,
+  "language": "en"
 }

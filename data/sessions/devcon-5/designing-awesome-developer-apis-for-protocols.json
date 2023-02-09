@@ -16,13 +16,9 @@
   "speakers": [
     "nikil-viswanathan"
   ],
-  "media": {
-    "duration": 1237,
-    "language": "en",
-    "sources": {
-      "youtube": "AUFGcgJbAuI",
-      "ipfs": "QmWYLkKoorVyNjpuaY89fpRZEwYKAqnq2WoomAgDWRo7p9",
-      "swarm": "d2e6d7f3cdc7a0bc60cd10f683269ccbb2105e90257954b78522f7af9bb09b24"
-    }
-  }
+  "sources_youtubeId": "AUFGcgJbAuI",
+  "sources_ipfsHash": "QmWYLkKoorVyNjpuaY89fpRZEwYKAqnq2WoomAgDWRo7p9",
+  "sources_swarmHash": "d2e6d7f3cdc7a0bc60cd10f683269ccbb2105e90257954b78522f7af9bb09b24",
+  "duration": 1237,
+  "language": "en"
 }

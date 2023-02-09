@@ -33,13 +33,9 @@
     "vlad-zamfir",
     "vitalik-buterin"
   ],
-  "media": {
-    "duration": 3055,
-    "language": "en",
-    "sources": {
-      "youtube": "fwEsXBDFk6c",
-      "ipfs": "Qmbk2FbGG4icDWQLvt1wQfdAToimVAubncMn7uxwX8PRdp",
-      "swarm": "80f97e739a92b6d9ca43fa6d9b048d6793702ab4f8e78d31e62ce87a55f11dd5"
-    }
-  }
+  "sources_youtubeId": "fwEsXBDFk6c",
+  "sources_ipfsHash": "Qmbk2FbGG4icDWQLvt1wQfdAToimVAubncMn7uxwX8PRdp",
+  "sources_swarmHash": "80f97e739a92b6d9ca43fa6d9b048d6793702ab4f8e78d31e62ce87a55f11dd5",
+  "duration": 3055,
+  "language": "en"
 }

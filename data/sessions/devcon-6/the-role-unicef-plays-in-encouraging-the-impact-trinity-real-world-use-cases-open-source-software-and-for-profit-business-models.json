@@ -17,27 +17,12 @@
     "evelyn-casanova",
     "shane-oconnor"
   ],
-  "resources": {
-    "slides": "/resources/6/the-role-unicef-plays-in-encouraging-the-impact-trinity-real-world-use-cases-open-source-software-and-for-profit-business-models.pdf"
-  },
-  "slot": {
-    "start": 1665583200000,
-    "end": 1665586200000,
-    "length": 3000,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1792,
-    "language": "en",
-    "sources": {
-      "youtube": "mgo5O5UYt9E",
-      "swarm": "485c0fb293f04462d032904e02e8438c503ea2df5e190eac7e0026b873272255"
-    }
-  }
+  "resources_slides": "/resources/6/the-role-unicef-plays-in-encouraging-the-impact-trinity-real-world-use-cases-open-source-software-and-for-profit-business-models.pdf",
+  "slot_start": 1665583200000,
+  "slot_end": 1665586200000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "mgo5O5UYt9E",
+  "sources_swarmHash": "485c0fb293f04462d032904e02e8438c503ea2df5e190eac7e0026b873272255",
+  "duration": 1792,
+  "language": "en"
 }

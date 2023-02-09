@@ -27,13 +27,9 @@
   "speakers": [
     "andy-milenius"
   ],
-  "media": {
-    "duration": 599,
-    "language": "en",
-    "sources": {
-      "youtube": "vuMFSQ7t7Ak",
-      "ipfs": "QmUk65a4yvp1x4XfddvJTfZftN5vBnjJ7q4fkuNXT42JVc",
-      "swarm": "2677048155386fe02bcc2ef7a0784973370046d81dc3fcd0e584b2614443d2d8"
-    }
-  }
+  "sources_youtubeId": "vuMFSQ7t7Ak",
+  "sources_ipfsHash": "QmUk65a4yvp1x4XfddvJTfZftN5vBnjJ7q4fkuNXT42JVc",
+  "sources_swarmHash": "2677048155386fe02bcc2ef7a0784973370046d81dc3fcd0e584b2614443d2d8",
+  "duration": 599,
+  "language": "en"
 }

@@ -16,26 +16,11 @@
   "speakers": [
     "pablo-larguia"
   ],
-  "resources": {
-    "slides": "/resources/6/client-diversity-matters-thinking-independently-together.pdf"
-  },
-  "slot": {
-    "start": 1665683400000,
-    "end": 1665683820000,
-    "length": 420,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 578,
-    "language": "en",
-    "sources": {
-      "youtube": "OTqzkQVKuA0"
-    }
-  }
+  "resources_slides": "/resources/6/client-diversity-matters-thinking-independently-together.pdf",
+  "slot_start": 1665683400000,
+  "slot_end": 1665683820000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "OTqzkQVKuA0",
+  "duration": 578,
+  "language": "en"
 }

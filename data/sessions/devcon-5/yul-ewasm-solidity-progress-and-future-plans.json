@@ -14,13 +14,9 @@
   "speakers": [
     "christian-reitwiessner"
   ],
-  "media": {
-    "duration": 1171,
-    "language": "en",
-    "sources": {
-      "youtube": "xThLb7I-bhg",
-      "ipfs": "QmS7Jmcp5bibia7UC31TPdEtbVGxjgTaWQBcbxbk6RCmir",
-      "swarm": "4530eb8d274086fc51466308720c7b9d6e42bbb8ae727c55ebc64185997faa1e"
-    }
-  }
+  "sources_youtubeId": "xThLb7I-bhg",
+  "sources_ipfsHash": "QmS7Jmcp5bibia7UC31TPdEtbVGxjgTaWQBcbxbk6RCmir",
+  "sources_swarmHash": "4530eb8d274086fc51466308720c7b9d6e42bbb8ae727c55ebc64185997faa1e",
+  "duration": 1171,
+  "language": "en"
 }

@@ -14,13 +14,9 @@
   "speakers": [
     "yutaro-mori"
   ],
-  "media": {
-    "duration": 797,
-    "language": "en",
-    "sources": {
-      "youtube": "W8KaCUnQsko",
-      "ipfs": "QmQhiKVi8YzQXesxT2seCz9AyjvPBuK5QwMfhVHY682of7",
-      "swarm": "017103f562c0caa7976016213558b3e175e85fea39b9e3d95232a87c43cbe2f6"
-    }
-  }
+  "sources_youtubeId": "W8KaCUnQsko",
+  "sources_ipfsHash": "QmQhiKVi8YzQXesxT2seCz9AyjvPBuK5QwMfhVHY682of7",
+  "sources_swarmHash": "017103f562c0caa7976016213558b3e175e85fea39b9e3d95232a87c43cbe2f6",
+  "duration": 797,
+  "language": "en"
 }

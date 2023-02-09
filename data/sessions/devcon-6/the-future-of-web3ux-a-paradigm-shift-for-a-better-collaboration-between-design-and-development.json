@@ -16,27 +16,12 @@
   "speakers": [
     "sasha-tanase"
   ],
-  "resources": {
-    "slides": "/resources/6/the-future-of-web3ux-a-paradigm-shift-for-a-better-collaboration-between-design-and-development.pdf"
-  },
-  "slot": {
-    "start": 1665502200000,
-    "end": 1665504000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1138,
-    "language": "en",
-    "sources": {
-      "youtube": "gOiHwmL0VUg",
-      "swarm": "07d83f52dc965b3c16b1f958d7cb5363a55b622a79ee5feb410c5212914c6b97"
-    }
-  }
+  "resources_slides": "/resources/6/the-future-of-web3ux-a-paradigm-shift-for-a-better-collaboration-between-design-and-development.pdf",
+  "slot_start": 1665502200000,
+  "slot_end": 1665504000000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "gOiHwmL0VUg",
+  "sources_swarmHash": "07d83f52dc965b3c16b1f958d7cb5363a55b622a79ee5feb410c5212914c6b97",
+  "duration": 1138,
+  "language": "en"
 }

@@ -15,27 +15,12 @@
   "speakers": [
     "alim-khamisa"
   ],
-  "resources": {
-    "slides": "/resources/6/a-playbook-for-product-development-in-defi.pdf"
-  },
-  "slot": {
-    "start": 1665683400000,
-    "end": 1665683820000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 740,
-    "language": "en",
-    "sources": {
-      "youtube": "fBg8S2x0YmM",
-      "swarm": "2d79dfac731e481375617abd689eeb11f7806af8484879d4d9b64cab35294826"
-    }
-  }
+  "resources_slides": "/resources/6/a-playbook-for-product-development-in-defi.pdf",
+  "slot_start": 1665683400000,
+  "slot_end": 1665683820000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "fBg8S2x0YmM",
+  "sources_swarmHash": "2d79dfac731e481375617abd689eeb11f7806af8484879d4d9b64cab35294826",
+  "duration": 740,
+  "language": "en"
 }

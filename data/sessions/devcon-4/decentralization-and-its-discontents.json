@@ -18,13 +18,9 @@
   "speakers": [
     "sarah-friend"
   ],
-  "media": {
-    "duration": 582,
-    "language": "en",
-    "sources": {
-      "youtube": "9mRhvltGs8A",
-      "ipfs": "QmbLu9B7MuCzUQyYSoMuVgC11BvwFAqP5BPLLxgLh6a9jh",
-      "swarm": "efd262a4fcd344ea84a537187ec5171829a04ee777e3df16d28a95b344a850af"
-    }
-  }
+  "sources_youtubeId": "9mRhvltGs8A",
+  "sources_ipfsHash": "QmbLu9B7MuCzUQyYSoMuVgC11BvwFAqP5BPLLxgLh6a9jh",
+  "sources_swarmHash": "efd262a4fcd344ea84a537187ec5171829a04ee777e3df16d28a95b344a850af",
+  "duration": 582,
+  "language": "en"
 }

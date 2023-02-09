@@ -15,23 +15,10 @@
     "aayush-gupta",
     "sampriti-panda"
   ],
-  "slot": {
-    "start": 1665675900000,
-    "end": 1665677700000,
-    "length": 1800,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1030,
-    "language": "en",
-    "sources": {
-      "youtube": "sPCHiUT3TmA"
-    }
-  }
+  "slot_start": 1665675900000,
+  "slot_end": 1665677700000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "sPCHiUT3TmA",
+  "duration": 1030,
+  "language": "en"
 }

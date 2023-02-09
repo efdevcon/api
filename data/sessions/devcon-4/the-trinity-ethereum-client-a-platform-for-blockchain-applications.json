@@ -15,13 +15,9 @@
   "speakers": [
     "piper-merriam"
   ],
-  "media": {
-    "duration": 596,
-    "language": "en",
-    "sources": {
-      "youtube": "NCrAonXrg-w",
-      "ipfs": "QmUjUBgyMPVtrpLDkUkUwdKV3sDspEi12hTWdKRYDEJs3Z",
-      "swarm": "5a9e363e42daa63cc47b324b5b5c237a5f7980601394b5aa084d13b924b94b70"
-    }
-  }
+  "sources_youtubeId": "NCrAonXrg-w",
+  "sources_ipfsHash": "QmUjUBgyMPVtrpLDkUkUwdKV3sDspEi12hTWdKRYDEJs3Z",
+  "sources_swarmHash": "5a9e363e42daa63cc47b324b5b5c237a5f7980601394b5aa084d13b924b94b70",
+  "duration": 596,
+  "language": "en"
 }

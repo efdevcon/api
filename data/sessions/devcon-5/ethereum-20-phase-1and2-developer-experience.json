@@ -14,13 +14,9 @@
     "jacek-sieka",
     "hsiao-wei-wang"
   ],
-  "media": {
-    "duration": 6906,
-    "language": "en",
-    "sources": {
-      "youtube": "0phnWn5ecyw",
-      "ipfs": "QmVYWcqQeWbBteVxQkYSBpcQGGmKGJgQ4pyrd162NXEYpz",
-      "swarm": "75f3e2c1ec35e578a78c374ffac9456760d8c22d9c7ee5100512b7e2104ca9ac"
-    }
-  }
+  "sources_youtubeId": "0phnWn5ecyw",
+  "sources_ipfsHash": "QmVYWcqQeWbBteVxQkYSBpcQGGmKGJgQ4pyrd162NXEYpz",
+  "sources_swarmHash": "75f3e2c1ec35e578a78c374ffac9456760d8c22d9c7ee5100512b7e2104ca9ac",
+  "duration": 6906,
+  "language": "en"
 }

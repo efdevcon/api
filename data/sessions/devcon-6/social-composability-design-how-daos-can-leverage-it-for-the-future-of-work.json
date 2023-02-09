@@ -16,27 +16,12 @@
   "speakers": [
     "dominic-emanuel-horn"
   ],
-  "resources": {
-    "slides": "/resources/6/social-composability-design-how-daos-can-leverage-it-for-the-future-of-work.pdf"
-  },
-  "slot": {
-    "start": 1665595800000,
-    "end": 1665597600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1778,
-    "language": "en",
-    "sources": {
-      "youtube": "nN5IR01AQbQ",
-      "swarm": "6cd1be137a418530eb162390d31f4621676cc173d3c2a039fe03a5f5c7f1cdaa"
-    }
-  }
+  "resources_slides": "/resources/6/social-composability-design-how-daos-can-leverage-it-for-the-future-of-work.pdf",
+  "slot_start": 1665595800000,
+  "slot_end": 1665597600000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "nN5IR01AQbQ",
+  "sources_swarmHash": "6cd1be137a418530eb162390d31f4621676cc173d3c2a039fe03a5f5c7f1cdaa",
+  "duration": 1778,
+  "language": "en"
 }

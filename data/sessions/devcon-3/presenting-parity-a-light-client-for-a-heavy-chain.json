@@ -13,13 +13,9 @@
   "speakers": [
     "robert-habermeier"
   ],
-  "media": {
-    "duration": 1375,
-    "language": "en",
-    "sources": {
-      "youtube": "lQAoA_BJaSM",
-      "ipfs": "QmPt8ySr6icczCa9QfQSRdqHLfg3GWG3nb9oX1btJyKgmT",
-      "swarm": "70ef00fdca2996f462221da07f56eb1f52837cbd47663be7a51a0c32439ad7b9"
-    }
-  }
+  "sources_youtubeId": "lQAoA_BJaSM",
+  "sources_ipfsHash": "QmPt8ySr6icczCa9QfQSRdqHLfg3GWG3nb9oX1btJyKgmT",
+  "sources_swarmHash": "70ef00fdca2996f462221da07f56eb1f52837cbd47663be7a51a0c32439ad7b9",
+  "duration": 1375,
+  "language": "en"
 }

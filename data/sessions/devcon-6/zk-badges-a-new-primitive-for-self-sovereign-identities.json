@@ -16,27 +16,12 @@
   "speakers": [
     "dhadrien"
   ],
-  "resources": {
-    "slides": "/resources/6/zk-badges-a-new-primitive-for-self-sovereign-identities.pdf"
-  },
-  "slot": {
-    "start": 1665743400000,
-    "end": 1665744900000,
-    "length": 1500,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1761,
-    "language": "en",
-    "sources": {
-      "youtube": "6vCb6XwGSOk",
-      "swarm": "d864ee4bd05a569263de65b0267060010b71fe106bdc0a62a583babe7ce586b4"
-    }
-  }
+  "resources_slides": "/resources/6/zk-badges-a-new-primitive-for-self-sovereign-identities.pdf",
+  "slot_start": 1665743400000,
+  "slot_end": 1665744900000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "6vCb6XwGSOk",
+  "sources_swarmHash": "d864ee4bd05a569263de65b0267060010b71fe106bdc0a62a583babe7ce586b4",
+  "duration": 1761,
+  "language": "en"
 }

@@ -15,27 +15,12 @@
   "speakers": [
     "tim-beiko"
   ],
-  "resources": {
-    "slides": "/resources/6/opening-ceremonies-tim.pdf"
-  },
-  "slot": {
-    "start": 1665481500000,
-    "end": 1665490500000,
-    "length": 9000,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 344,
-    "language": "en",
-    "sources": {
-      "youtube": "ql082HLTndA",
-      "swarm": "a51100fd6275adc6677774825ecc9269b74a9c70d2b378a00d74d39b022d7882"
-    }
-  }
+  "resources_slides": "/resources/6/opening-ceremonies-tim.pdf",
+  "slot_start": 1665481500000,
+  "slot_end": 1665490500000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "ql082HLTndA",
+  "sources_swarmHash": "a51100fd6275adc6677774825ecc9269b74a9c70d2b378a00d74d39b022d7882",
+  "duration": 344,
+  "language": "en"
 }

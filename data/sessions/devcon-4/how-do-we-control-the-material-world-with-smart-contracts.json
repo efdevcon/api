@@ -17,13 +17,9 @@
   "speakers": [
     "vinay-gupta"
   ],
-  "media": {
-    "duration": 1560,
-    "language": "en",
-    "sources": {
-      "youtube": "uoFRfA0TKSg",
-      "ipfs": "Qmd5S8CRJHjCKL2gURzQzNm3jFDvEJkrVtG9mxDM6jgBJo",
-      "swarm": "e26f4801f7a9faab4d055dbcbdf126134b6cdc1400ec093889f7f3691193c389"
-    }
-  }
+  "sources_youtubeId": "uoFRfA0TKSg",
+  "sources_ipfsHash": "Qmd5S8CRJHjCKL2gURzQzNm3jFDvEJkrVtG9mxDM6jgBJo",
+  "sources_swarmHash": "e26f4801f7a9faab4d055dbcbdf126134b6cdc1400ec093889f7f3691193c389",
+  "duration": 1560,
+  "language": "en"
 }

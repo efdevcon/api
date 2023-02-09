@@ -13,13 +13,9 @@
   "speakers": [
     "zack-coburn"
   ],
-  "media": {
-    "duration": 1045,
-    "language": "en",
-    "sources": {
-      "youtube": "2i7rR_2io1A",
-      "ipfs": "QmTBazib84YVtYq8j6hpTbhisKSsNMSNLPQRS686CkJJmc",
-      "swarm": "e7ffcd261fa8c0174c570feb0cdad6fcc0cd116bd82687f9affbe90599a8dd11"
-    }
-  }
+  "sources_youtubeId": "2i7rR_2io1A",
+  "sources_ipfsHash": "QmTBazib84YVtYq8j6hpTbhisKSsNMSNLPQRS686CkJJmc",
+  "sources_swarmHash": "e7ffcd261fa8c0174c570feb0cdad6fcc0cd116bd82687f9affbe90599a8dd11",
+  "duration": 1045,
+  "language": "en"
 }

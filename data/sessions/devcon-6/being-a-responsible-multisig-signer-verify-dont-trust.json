@@ -15,27 +15,12 @@
   "speakers": [
     "santiago-palladino"
   ],
-  "resources": {
-    "slides": "/resources/6/being-a-responsible-multisig-signer-verify-dont-trust.pdf"
-  },
-  "slot": {
-    "start": 1665680400000,
-    "end": 1665681000000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 483,
-    "language": "en",
-    "sources": {
-      "youtube": "YKGNcQXtMhg",
-      "swarm": "ad62630a1f4e041b78f77e55decd341b3dbd5f892362423c056076a53d059e15"
-    }
-  }
+  "resources_slides": "/resources/6/being-a-responsible-multisig-signer-verify-dont-trust.pdf",
+  "slot_start": 1665680400000,
+  "slot_end": 1665681000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "YKGNcQXtMhg",
+  "sources_swarmHash": "ad62630a1f4e041b78f77e55decd341b3dbd5f892362423c056076a53d059e15",
+  "duration": 483,
+  "language": "en"
 }

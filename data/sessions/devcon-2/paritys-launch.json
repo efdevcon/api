@@ -28,13 +28,9 @@
   "speakers": [
     "tj-saw"
   ],
-  "media": {
-    "duration": 848,
-    "language": "en",
-    "sources": {
-      "youtube": "m0NxbVKgggs",
-      "ipfs": "QmZ34gEQB4XTCAyLvKGTNfrE2PzvDH8fk9BxkEjWFxEvCb",
-      "swarm": "64c4118d3f79156b8667042726be38467b4f8f14f768f9bd53e9fddff69a8659"
-    }
-  }
+  "sources_youtubeId": "m0NxbVKgggs",
+  "sources_ipfsHash": "QmZ34gEQB4XTCAyLvKGTNfrE2PzvDH8fk9BxkEjWFxEvCb",
+  "sources_swarmHash": "64c4118d3f79156b8667042726be38467b4f8f14f768f9bd53e9fddff69a8659",
+  "duration": 848,
+  "language": "en"
 }

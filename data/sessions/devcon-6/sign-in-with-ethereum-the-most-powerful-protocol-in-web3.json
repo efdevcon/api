@@ -19,27 +19,12 @@
     "justina-petraityte",
     "lang-cui"
   ],
-  "resources": {
-    "slides": "/resources/6/sign-in-with-ethereum-the-most-powerful-protocol-in-web3.pdf"
-  },
-  "slot": {
-    "start": 1665658800000,
-    "end": 1665662400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 3076,
-    "language": "en",
-    "sources": {
-      "youtube": "y4Q7Y_8wjAs",
-      "swarm": "07f9a70f0db38d8d719cbffe7c617169e5b025424fa7afae82dc7657fb3fb952"
-    }
-  }
+  "resources_slides": "/resources/6/sign-in-with-ethereum-the-most-powerful-protocol-in-web3.pdf",
+  "slot_start": 1665658800000,
+  "slot_end": 1665662400000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "y4Q7Y_8wjAs",
+  "sources_swarmHash": "07f9a70f0db38d8d719cbffe7c617169e5b025424fa7afae82dc7657fb3fb952",
+  "duration": 3076,
+  "language": "en"
 }

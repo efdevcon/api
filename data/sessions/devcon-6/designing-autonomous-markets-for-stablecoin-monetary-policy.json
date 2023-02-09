@@ -17,27 +17,12 @@
     "ariah-klages-mundt",
     "steffen-schuldenzucker"
   ],
-  "resources": {
-    "slides": "/resources/6/designing-autonomous-markets-for-stablecoin-monetary-policy.pdf"
-  },
-  "slot": {
-    "start": 1665673200000,
-    "end": 1665675000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1603,
-    "language": "en",
-    "sources": {
-      "youtube": "3Yw2ASIBRgw",
-      "swarm": "3d004e8186ae4bc5ef3eb2657593026ca19634bc5e42f7468b1cd77ceac13896"
-    }
-  }
+  "resources_slides": "/resources/6/designing-autonomous-markets-for-stablecoin-monetary-policy.pdf",
+  "slot_start": 1665673200000,
+  "slot_end": 1665675000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "3Yw2ASIBRgw",
+  "sources_swarmHash": "3d004e8186ae4bc5ef3eb2657593026ca19634bc5e42f7468b1cd77ceac13896",
+  "duration": 1603,
+  "language": "en"
 }

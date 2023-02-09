@@ -16,27 +16,12 @@
   "speakers": [
     "lefteris-karapetsas"
   ],
-  "resources": {
-    "slides": "/resources/6/understanding-transactions-in-evm-compatible-blockchains-powered-by-opensource.pdf"
-  },
-  "slot": {
-    "start": 1665502200000,
-    "end": 1665504000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1711,
-    "language": "en",
-    "sources": {
-      "youtube": "rD3Vr8pThcc",
-      "swarm": "bbc7e4731eacacf49281d0b0a3bf21980375bc31f69509ff7f4c84a1717fc07a"
-    }
-  }
+  "resources_slides": "/resources/6/understanding-transactions-in-evm-compatible-blockchains-powered-by-opensource.pdf",
+  "slot_start": 1665502200000,
+  "slot_end": 1665504000000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "rD3Vr8pThcc",
+  "sources_swarmHash": "bbc7e4731eacacf49281d0b0a3bf21980375bc31f69509ff7f4c84a1717fc07a",
+  "duration": 1711,
+  "language": "en"
 }

@@ -15,24 +15,11 @@
     "alex-beregszaszi",
     "pawel-bylica"
   ],
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665743400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 2373,
-    "language": "en",
-    "sources": {
-      "youtube": "6ZMd4xmX8D4",
-      "swarm": "142ab54ab4c431ba231e407750ee7ebc14ac1e9a2f4c1ddb459983fd9e65a40e"
-    }
-  }
+  "slot_start": 1665741600000,
+  "slot_end": 1665743400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "6ZMd4xmX8D4",
+  "sources_swarmHash": "142ab54ab4c431ba231e407750ee7ebc14ac1e9a2f4c1ddb459983fd9e65a40e",
+  "duration": 2373,
+  "language": "en"
 }

@@ -15,13 +15,9 @@
     "ariah-klages-mundt",
     "andreea-minca"
   ],
-  "media": {
-    "duration": 1232,
-    "language": "en",
-    "sources": {
-      "youtube": "qOi50UtxL7A",
-      "ipfs": "QmbyXixmb8FxruUg8pkn3t2hAaoKPGiiCu6p8cC1ppemMg",
-      "swarm": "362b9f864b342ea1dd9d06904da7ce29639c2a9d559ffca097c5c7585b6ad048"
-    }
-  }
+  "sources_youtubeId": "qOi50UtxL7A",
+  "sources_ipfsHash": "QmbyXixmb8FxruUg8pkn3t2hAaoKPGiiCu6p8cC1ppemMg",
+  "sources_swarmHash": "362b9f864b342ea1dd9d06904da7ce29639c2a9d559ffca097c5c7585b6ad048",
+  "duration": 1232,
+  "language": "en"
 }

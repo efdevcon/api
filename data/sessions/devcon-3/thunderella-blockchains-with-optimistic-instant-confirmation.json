@@ -13,13 +13,9 @@
   "speakers": [
     "elaine-shi"
   ],
-  "media": {
-    "duration": 2602,
-    "language": "en",
-    "sources": {
-      "youtube": "eWhaJxQpaBw",
-      "ipfs": "QmT4uxt25xtGVsPZpXJTX1yHRTZ1CPHcnafsnAtjrkqzwJ",
-      "swarm": "58738b65619f8b4e494f2cdd3b7f65401b7791f5cd8fb24eb8cd57ce0330ef8f"
-    }
-  }
+  "sources_youtubeId": "eWhaJxQpaBw",
+  "sources_ipfsHash": "QmT4uxt25xtGVsPZpXJTX1yHRTZ1CPHcnafsnAtjrkqzwJ",
+  "sources_swarmHash": "58738b65619f8b4e494f2cdd3b7f65401b7791f5cd8fb24eb8cd57ce0330ef8f",
+  "duration": 2602,
+  "language": "en"
 }

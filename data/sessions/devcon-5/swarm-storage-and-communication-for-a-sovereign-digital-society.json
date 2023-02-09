@@ -13,13 +13,9 @@
   "speakers": [
     "swarm-team"
   ],
-  "media": {
-    "duration": 16651,
-    "language": "en",
-    "sources": {
-      "youtube": "NoCyZI2F1d0",
-      "ipfs": "Qmbahw7npjzcHk4mMEUgdzVC5gCMb4MsTt67632d2f8aZ4",
-      "swarm": "edc77de16a4e7575016f6fb0bf03d0e0dfdf1955e3490ac79335c3301fb659a1"
-    }
-  }
+  "sources_youtubeId": "NoCyZI2F1d0",
+  "sources_ipfsHash": "Qmbahw7npjzcHk4mMEUgdzVC5gCMb4MsTt67632d2f8aZ4",
+  "sources_swarmHash": "edc77de16a4e7575016f6fb0bf03d0e0dfdf1955e3490ac79335c3301fb659a1",
+  "duration": 16651,
+  "language": "en"
 }

@@ -17,13 +17,9 @@
     "sharon-kaziunas",
     "mike-lockwitz"
   ],
-  "media": {
-    "duration": 3090,
-    "language": "en",
-    "sources": {
-      "youtube": "msKKgHlIPfU",
-      "ipfs": "QmZw9RmicNQGm4tSMui1Ye6ZvHpA7iCJNXzz5NTFh9GyfQ",
-      "swarm": "de3be3cd005ecdbdbaeb122d35e7d8b37f84d2b6897f7954fbf5ccd8dad5e6f1"
-    }
-  }
+  "sources_youtubeId": "msKKgHlIPfU",
+  "sources_ipfsHash": "QmZw9RmicNQGm4tSMui1Ye6ZvHpA7iCJNXzz5NTFh9GyfQ",
+  "sources_swarmHash": "de3be3cd005ecdbdbaeb122d35e7d8b37f84d2b6897f7954fbf5ccd8dad5e6f1",
+  "duration": 3090,
+  "language": "en"
 }

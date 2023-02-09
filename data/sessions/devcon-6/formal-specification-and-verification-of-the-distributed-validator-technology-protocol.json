@@ -16,27 +16,12 @@
   "speakers": [
     "roberto-saltini"
   ],
-  "resources": {
-    "slides": "/resources/6/formal-specification-and-verification-of-the-distributed-validator-technology-protocol.pdf"
-  },
-  "slot": {
-    "start": 1665667800000,
-    "end": 1665669600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1454,
-    "language": "en",
-    "sources": {
-      "youtube": "xdEo5Tc6TiY",
-      "swarm": "dae9d84c07c2cfce8836984f484d73468df0ebcd361b9d60ef251530697c8f8f"
-    }
-  }
+  "resources_slides": "/resources/6/formal-specification-and-verification-of-the-distributed-validator-technology-protocol.pdf",
+  "slot_start": 1665667800000,
+  "slot_end": 1665669600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "xdEo5Tc6TiY",
+  "sources_swarmHash": "dae9d84c07c2cfce8836984f484d73468df0ebcd361b9d60ef251530697c8f8f",
+  "duration": 1454,
+  "language": "en"
 }

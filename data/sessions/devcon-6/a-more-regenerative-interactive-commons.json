@@ -18,27 +18,12 @@
     "sachin",
     "paul-gadi"
   ],
-  "resources": {
-    "slides": "/resources/6/a-more-regenerative-interactive-commons.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665495000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1031,
-    "language": "en",
-    "sources": {
-      "youtube": "u2c_W6FvG1Y",
-      "swarm": "03e04f5584a9caea089902113705f931ace40d6bc28b00a87c11076f907bc0f0"
-    }
-  }
+  "resources_slides": "/resources/6/a-more-regenerative-interactive-commons.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665495000000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "u2c_W6FvG1Y",
+  "sources_swarmHash": "03e04f5584a9caea089902113705f931ace40d6bc28b00a87c11076f907bc0f0",
+  "duration": 1031,
+  "language": "en"
 }

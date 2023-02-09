@@ -16,26 +16,11 @@
   "speakers": [
     "felix-leupold"
   ],
-  "resources": {
-    "slides": "/resources/6/towards-fairer-dexs-on-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665757800000,
-    "end": 1665759300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1567,
-    "language": "en",
-    "sources": {
-      "youtube": "msUvYJSCRjk"
-    }
-  }
+  "resources_slides": "/resources/6/towards-fairer-dexs-on-ethereum.pdf",
+  "slot_start": 1665757800000,
+  "slot_end": 1665759300000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "msUvYJSCRjk",
+  "duration": 1567,
+  "language": "en"
 }

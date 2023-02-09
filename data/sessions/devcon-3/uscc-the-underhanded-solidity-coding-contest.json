@@ -16,13 +16,9 @@
     "martin-swende",
     "nick-johnson"
   ],
-  "media": {
-    "duration": 1549,
-    "language": "en",
-    "sources": {
-      "youtube": "gAVKO6iTbOQ",
-      "ipfs": "QmYAqsivev1cbJhvxRiGK7KhKZ3T8UoRaLdMhx5XgUVzxq",
-      "swarm": "154e8ff9fbbb78ab198171fb1f4b22285406d55c7414cd24822fd897e60c1185"
-    }
-  }
+  "sources_youtubeId": "gAVKO6iTbOQ",
+  "sources_ipfsHash": "QmYAqsivev1cbJhvxRiGK7KhKZ3T8UoRaLdMhx5XgUVzxq",
+  "sources_swarmHash": "154e8ff9fbbb78ab198171fb1f4b22285406d55c7414cd24822fd897e60c1185",
+  "duration": 1549,
+  "language": "en"
 }

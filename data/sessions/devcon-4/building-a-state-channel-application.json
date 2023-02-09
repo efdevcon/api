@@ -15,13 +15,9 @@
   "speakers": [
     "tom-close"
   ],
-  "media": {
-    "duration": 640,
-    "language": "en",
-    "sources": {
-      "youtube": "_P0MTLssmA8",
-      "ipfs": "QmbRy11PNFcvtycG7dStfSBRAdm1n7MsT1J9enDfT3u3Ev",
-      "swarm": "1307dd5ac2956f876e86f08e692a1f0b0741042de9eb8767c05524e0891002c8"
-    }
-  }
+  "sources_youtubeId": "_P0MTLssmA8",
+  "sources_ipfsHash": "QmbRy11PNFcvtycG7dStfSBRAdm1n7MsT1J9enDfT3u3Ev",
+  "sources_swarmHash": "1307dd5ac2956f876e86f08e692a1f0b0741042de9eb8767c05524e0891002c8",
+  "duration": 640,
+  "language": "en"
 }

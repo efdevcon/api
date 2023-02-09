@@ -15,13 +15,9 @@
   "speakers": [
     "barry-whitehat"
   ],
-  "media": {
-    "duration": 3688,
-    "language": "en",
-    "sources": {
-      "youtube": "lv6iK9qezBY",
-      "ipfs": "QmWs8HBXAtzt45mrfdrnzkF8CCrQMZXQxeWfpjcr9Rfvci",
-      "swarm": "ed215b07fc50b745e38fd6e1355c4151e03b701724be3149976b140be5b8d6f2"
-    }
-  }
+  "sources_youtubeId": "lv6iK9qezBY",
+  "sources_ipfsHash": "QmWs8HBXAtzt45mrfdrnzkF8CCrQMZXQxeWfpjcr9Rfvci",
+  "sources_swarmHash": "ed215b07fc50b745e38fd6e1355c4151e03b701724be3149976b140be5b8d6f2",
+  "duration": 3688,
+  "language": "en"
 }

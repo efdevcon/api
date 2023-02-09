@@ -15,13 +15,9 @@
   "speakers": [
     "aron-fischer-and-swarm-team"
   ],
-  "media": {
-    "duration": 2465,
-    "language": "en",
-    "sources": {
-      "youtube": "VDIW81BrgBA",
-      "ipfs": "QmShZtz3hPYyTfe9uZgxJvq4iRUfRJ2sgcE6b944ggrS5x",
-      "swarm": "ea1b284713b86ba3d6b8ae56aff02f66cabd38305e4d26dc03d5f7f87a537d8c"
-    }
-  }
+  "sources_youtubeId": "VDIW81BrgBA",
+  "sources_ipfsHash": "QmShZtz3hPYyTfe9uZgxJvq4iRUfRJ2sgcE6b944ggrS5x",
+  "sources_swarmHash": "ea1b284713b86ba3d6b8ae56aff02f66cabd38305e4d26dc03d5f7f87a537d8c",
+  "duration": 2465,
+  "language": "en"
 }

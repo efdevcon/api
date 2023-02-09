@@ -17,13 +17,9 @@
   "speakers": [
     "thomas-bertani"
   ],
-  "media": {
-    "duration": 1569,
-    "language": "en",
-    "sources": {
-      "youtube": "V2Z5UJRUHAo",
-      "ipfs": "QmWgPckwfzR1TVgGtW5E8jdJaGJFTsbKVwiPGTyA8JsM68",
-      "swarm": "e0702ecf527a6d4c6a92d3db80374e3bed45a0094e4a69fc97b1c4cae8f47e9c"
-    }
-  }
+  "sources_youtubeId": "V2Z5UJRUHAo",
+  "sources_ipfsHash": "QmWgPckwfzR1TVgGtW5E8jdJaGJFTsbKVwiPGTyA8JsM68",
+  "sources_swarmHash": "e0702ecf527a6d4c6a92d3db80374e3bed45a0094e4a69fc97b1c4cae8f47e9c",
+  "duration": 1569,
+  "language": "en"
 }

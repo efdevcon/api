@@ -17,24 +17,11 @@
     "luis-bezzenberger",
     "jannik-luhn"
   ],
-  "slot": {
-    "start": 1665682200000,
-    "end": 1665682620000,
-    "length": 420,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 482,
-    "language": "en",
-    "sources": {
-      "youtube": "WCPdR8txQYI",
-      "swarm": "e956a6f4b738e3ee7a5945f8f3f35f3691df4852af43f6a55796aee35e337c9d"
-    }
-  }
+  "slot_start": 1665682200000,
+  "slot_end": 1665682620000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "WCPdR8txQYI",
+  "sources_swarmHash": "e956a6f4b738e3ee7a5945f8f3f35f3691df4852af43f6a55796aee35e337c9d",
+  "duration": 482,
+  "language": "en"
 }

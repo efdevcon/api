@@ -17,13 +17,9 @@
   "speakers": [
     "zahary-karadjov"
   ],
-  "media": {
-    "duration": 853,
-    "language": "en",
-    "sources": {
-      "youtube": "srAUIsEmqMA",
-      "ipfs": "QmT4UcQoeiNCtK3wKS317foECzxNgaEUsqKLVAaidHgKg2",
-      "swarm": "9c59144c04cd47518d2ee0f17e980943507c0829745dcf7687e2543618a0bbdb"
-    }
-  }
+  "sources_youtubeId": "srAUIsEmqMA",
+  "sources_ipfsHash": "QmT4UcQoeiNCtK3wKS317foECzxNgaEUsqKLVAaidHgKg2",
+  "sources_swarmHash": "9c59144c04cd47518d2ee0f17e980943507c0829745dcf7687e2543618a0bbdb",
+  "duration": 853,
+  "language": "en"
 }

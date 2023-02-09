@@ -16,13 +16,9 @@
     "liam-horne",
     "tom-close"
   ],
-  "media": {
-    "duration": 1318,
-    "language": "en",
-    "sources": {
-      "youtube": "sn5r6ixXbyA",
-      "ipfs": "Qmc5h9Bw8wuL5p38KcCacUpmY7YX6krCED8gGdKmTpnUdk",
-      "swarm": "c7aff8dce7f6f633b9202c038ca4547457d39a24c98938411183a245a5ccae46"
-    }
-  }
+  "sources_youtubeId": "sn5r6ixXbyA",
+  "sources_ipfsHash": "Qmc5h9Bw8wuL5p38KcCacUpmY7YX6krCED8gGdKmTpnUdk",
+  "sources_swarmHash": "c7aff8dce7f6f633b9202c038ca4547457d39a24c98938411183a245a5ccae46",
+  "duration": 1318,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "sunny-aggarwal"
   ],
-  "media": {
-    "duration": 1341,
-    "language": "en",
-    "sources": {
-      "youtube": "pSCeTOgkzE0",
-      "ipfs": "QmdUXfzHVB7VsNBLP9CHjz1MT7TCaXT97E87RjAEXBXXBx",
-      "swarm": "715096da08eccd005edaf2ca0772259195fcea2800d4d22edd988573df831da7"
-    }
-  }
+  "sources_youtubeId": "pSCeTOgkzE0",
+  "sources_ipfsHash": "QmdUXfzHVB7VsNBLP9CHjz1MT7TCaXT97E87RjAEXBXXBx",
+  "sources_swarmHash": "715096da08eccd005edaf2ca0772259195fcea2800d4d22edd988573df831da7",
+  "duration": 1341,
+  "language": "en"
 }

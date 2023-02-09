@@ -20,13 +20,9 @@
     "richard-moore",
     "matthew-di-ferrante"
   ],
-  "media": {
-    "duration": 3344,
-    "language": "en",
-    "sources": {
-      "youtube": "33psvNEthgE",
-      "ipfs": "QmYC7QakVR9BRyiaqnpfQTjA8wEWnSiT2D4ALC3DQfFaiq",
-      "swarm": "da163cb5a601bf947e573b99f68a09eb7d9def9e83fa47454df8e98f9a1033fb"
-    }
-  }
+  "sources_youtubeId": "33psvNEthgE",
+  "sources_ipfsHash": "QmYC7QakVR9BRyiaqnpfQTjA8wEWnSiT2D4ALC3DQfFaiq",
+  "sources_swarmHash": "da163cb5a601bf947e573b99f68a09eb7d9def9e83fa47454df8e98f9a1033fb",
+  "duration": 3344,
+  "language": "en"
 }

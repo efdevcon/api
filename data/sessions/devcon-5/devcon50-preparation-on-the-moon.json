@@ -15,13 +15,9 @@
     "aleksandr-krupenkin",
     "sergei-lonshakov"
   ],
-  "media": {
-    "duration": 2305,
-    "language": "en",
-    "sources": {
-      "youtube": "aSlzRinETUw",
-      "ipfs": "QmaBWyv1YkVSswx8VfiweNFvgroRgoy8Hn2MDCG8RFHW42",
-      "swarm": "40b7b8fec999f52c488d49191f5d8fadd8b97c17aae30c986a045f1eb6087ffc"
-    }
-  }
+  "sources_youtubeId": "aSlzRinETUw",
+  "sources_ipfsHash": "QmaBWyv1YkVSswx8VfiweNFvgroRgoy8Hn2MDCG8RFHW42",
+  "sources_swarmHash": "40b7b8fec999f52c488d49191f5d8fadd8b97c17aae30c986a045f1eb6087ffc",
+  "duration": 2305,
+  "language": "en"
 }

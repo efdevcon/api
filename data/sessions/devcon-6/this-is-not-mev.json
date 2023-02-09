@@ -16,27 +16,12 @@
   "speakers": [
     "alejo-salles"
   ],
-  "resources": {
-    "slides": "/resources/6/this-is-not-mev.pdf"
-  },
-  "slot": {
-    "start": 1665500400000,
-    "end": 1665502200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1079,
-    "language": "en",
-    "sources": {
-      "youtube": "Lc5zxOonT0A",
-      "swarm": "f9c94601c8d4abd6a5751b9322ca0fd2cf6f10753a80cd91c98e9b07ccc85523"
-    }
-  }
+  "resources_slides": "/resources/6/this-is-not-mev.pdf",
+  "slot_start": 1665500400000,
+  "slot_end": 1665502200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Lc5zxOonT0A",
+  "sources_swarmHash": "f9c94601c8d4abd6a5751b9322ca0fd2cf6f10753a80cd91c98e9b07ccc85523",
+  "duration": 1079,
+  "language": "en"
 }

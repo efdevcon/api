@@ -17,13 +17,9 @@
     "wan-hafizi-wan-halim",
     "mohd-daud-bakar"
   ],
-  "media": {
-    "duration": 1320,
-    "language": "en",
-    "sources": {
-      "youtube": "RElU07fmecI",
-      "ipfs": "QmSzPJpNhYPhFCcPTe5F9mYaDsA1dXyCzeTHoTfjTCYBGS",
-      "swarm": "4062d7ed27727391910caa0945ba7ee6b0870bd4c9181435e3f4896ecb02e6bb"
-    }
-  }
+  "sources_youtubeId": "RElU07fmecI",
+  "sources_ipfsHash": "QmSzPJpNhYPhFCcPTe5F9mYaDsA1dXyCzeTHoTfjTCYBGS",
+  "sources_swarmHash": "4062d7ed27727391910caa0945ba7ee6b0870bd4c9181435e3f4896ecb02e6bb",
+  "duration": 1320,
+  "language": "en"
 }

@@ -18,13 +18,9 @@
   "speakers": [
     "matthew-campbell"
   ],
-  "media": {
-    "duration": 1772,
-    "language": "en",
-    "sources": {
-      "youtube": "Epd3aMQtfZQ",
-      "ipfs": "QmXTVE4Eauru47oKPt1eHB7c8NQwJV1TqZkoibohno3DZ4",
-      "swarm": "bb1c6311d22bf2abb2b7db4cd069a993dff4888fe129ed0f2430fd3bb48f046e"
-    }
-  }
+  "sources_youtubeId": "Epd3aMQtfZQ",
+  "sources_ipfsHash": "QmXTVE4Eauru47oKPt1eHB7c8NQwJV1TqZkoibohno3DZ4",
+  "sources_swarmHash": "bb1c6311d22bf2abb2b7db4cd069a993dff4888fe129ed0f2430fd3bb48f046e",
+  "duration": 1772,
+  "language": "en"
 }

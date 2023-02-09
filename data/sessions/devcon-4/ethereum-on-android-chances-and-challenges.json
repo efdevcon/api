@@ -18,13 +18,9 @@
   "speakers": [
     "marcus-ligi"
   ],
-  "media": {
-    "duration": 646,
-    "language": "en",
-    "sources": {
-      "youtube": "QKVxl5sWXqo",
-      "ipfs": "Qmafcbd34fpr2SxZKZqP5WjRgKGWdZemZfFj8VyMPRDoJt",
-      "swarm": "027e4096335aa1b29c14e478ea3d55609091fd13afe76f6d2c2b623ae13577d8"
-    }
-  }
+  "sources_youtubeId": "QKVxl5sWXqo",
+  "sources_ipfsHash": "Qmafcbd34fpr2SxZKZqP5WjRgKGWdZemZfFj8VyMPRDoJt",
+  "sources_swarmHash": "027e4096335aa1b29c14e478ea3d55609091fd13afe76f6d2c2b623ae13577d8",
+  "duration": 646,
+  "language": "en"
 }

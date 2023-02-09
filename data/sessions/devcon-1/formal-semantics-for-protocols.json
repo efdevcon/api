@@ -13,13 +13,9 @@
   "speakers": [
     "peter-mcburney"
   ],
-  "media": {
-    "duration": 979,
-    "language": "en",
-    "sources": {
-      "youtube": "IF-pc0izLmA",
-      "ipfs": "QmfRUDidSRQTVa8zLkWPZ2J29QuX645NJSvemzeKBQknQ9",
-      "swarm": "6a97d81310fb4b5d64323448f350652bedbc674bcaa5434337110df0968b37df"
-    }
-  }
+  "sources_youtubeId": "IF-pc0izLmA",
+  "sources_ipfsHash": "QmfRUDidSRQTVa8zLkWPZ2J29QuX645NJSvemzeKBQknQ9",
+  "sources_swarmHash": "6a97d81310fb4b5d64323448f350652bedbc674bcaa5434337110df0968b37df",
+  "duration": 979,
+  "language": "en"
 }

@@ -23,12 +23,8 @@
     "charles-nevile",
     "alessandro-voto"
   ],
-  "media": {
-    "duration": 6925,
-    "language": "en",
-    "sources": {
-      "youtube": "uzvLXsvM-p8",
-      "ipfs": "Qmeyx9wzQfuUrVtsSbpT62TWPNfoUofJDyqd2ibAGkWRL5"
-    }
-  }
+  "sources_youtubeId": "uzvLXsvM-p8",
+  "sources_ipfsHash": "Qmeyx9wzQfuUrVtsSbpT62TWPNfoUofJDyqd2ibAGkWRL5",
+  "duration": 6925,
+  "language": "en"
 }

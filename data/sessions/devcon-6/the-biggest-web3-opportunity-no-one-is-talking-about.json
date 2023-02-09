@@ -16,27 +16,12 @@
   "speakers": [
     "griff-green"
   ],
-  "resources": {
-    "slides": "/resources/6/the-biggest-web3-opportunity-no-one-is-talking-about.pdf"
-  },
-  "slot": {
-    "start": 1665676800000,
-    "end": 1665678600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1589,
-    "language": "en",
-    "sources": {
-      "youtube": "DBGoX7DON54",
-      "swarm": "a63aeb38f2ef6ec898affd06b0c1ecb6a7b4e1386b31cf0bf71e31833b665a59"
-    }
-  }
+  "resources_slides": "/resources/6/the-biggest-web3-opportunity-no-one-is-talking-about.pdf",
+  "slot_start": 1665676800000,
+  "slot_end": 1665678600000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "DBGoX7DON54",
+  "sources_swarmHash": "a63aeb38f2ef6ec898affd06b0c1ecb6a7b4e1386b31cf0bf71e31833b665a59",
+  "duration": 1589,
+  "language": "en"
 }

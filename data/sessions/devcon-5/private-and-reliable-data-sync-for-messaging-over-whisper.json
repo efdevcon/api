@@ -17,13 +17,9 @@
     "dean-eigenmann",
     "oskar-thoren"
   ],
-  "media": {
-    "duration": 1141,
-    "language": "en",
-    "sources": {
-      "youtube": "zxN-PqYkZ1M",
-      "ipfs": "QmZ8wUWGcrdYazwD4QU83WWGoRbPwZGuorY1N9wSLhsMFp",
-      "swarm": "d4446b2756e0944a1f80c351803839dd2caba05c348c18098ed47223b5df09a9"
-    }
-  }
+  "sources_youtubeId": "zxN-PqYkZ1M",
+  "sources_ipfsHash": "QmZ8wUWGcrdYazwD4QU83WWGoRbPwZGuorY1N9wSLhsMFp",
+  "sources_swarmHash": "d4446b2756e0944a1f80c351803839dd2caba05c348c18098ed47223b5df09a9",
+  "duration": 1141,
+  "language": "en"
 }

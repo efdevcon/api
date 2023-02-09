@@ -19,13 +19,9 @@
     "danny-ryan",
     "pawel-bylica"
   ],
-  "media": {
-    "duration": 3136,
-    "language": "en",
-    "sources": {
-      "youtube": "ALK3h73WYu0",
-      "ipfs": "Qme5zogJdrNReP4q62tcdo752zTFRJ3pKtUi1AxTJztafJ",
-      "swarm": "343bc7218a4e010729eefc0e3b64b733801c3368fb5705dcd60e9f268b415b35"
-    }
-  }
+  "sources_youtubeId": "ALK3h73WYu0",
+  "sources_ipfsHash": "Qme5zogJdrNReP4q62tcdo752zTFRJ3pKtUi1AxTJztafJ",
+  "sources_swarmHash": "343bc7218a4e010729eefc0e3b64b733801c3368fb5705dcd60e9f268b415b35",
+  "duration": 3136,
+  "language": "en"
 }

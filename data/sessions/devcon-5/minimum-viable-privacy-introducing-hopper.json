@@ -14,13 +14,9 @@
   "speakers": [
     "julien-niset"
   ],
-  "media": {
-    "duration": 1107,
-    "language": "en",
-    "sources": {
-      "youtube": "CHnC8Y-UsQE",
-      "ipfs": "Qmf85LQpg5dTAd5S8aC1ZkJmcyQSL4qRRHtaQwwbpqTByT",
-      "swarm": "93e9bc45508814c1a8ca7c4494f55e5880e2b9b552e59c4d58a0df891fff5956"
-    }
-  }
+  "sources_youtubeId": "CHnC8Y-UsQE",
+  "sources_ipfsHash": "Qmf85LQpg5dTAd5S8aC1ZkJmcyQSL4qRRHtaQwwbpqTByT",
+  "sources_swarmHash": "93e9bc45508814c1a8ca7c4494f55e5880e2b9b552e59c4d58a0df891fff5956",
+  "duration": 1107,
+  "language": "en"
 }

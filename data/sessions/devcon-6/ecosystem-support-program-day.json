@@ -16,14 +16,8 @@
     "monet-du-plessis",
     "madison-adams"
   ],
-  "resources": {
-    "slides": "/resources/6/ecosystem-support-program-day.pdf"
-  },
-  "media": {
-    "duration": 2135,
-    "language": "en",
-    "sources": {
-      "youtube": "EVrQy03WekI"
-    }
-  }
+  "resources_slides": "/resources/6/ecosystem-support-program-day.pdf",
+  "sources_youtubeId": "EVrQy03WekI",
+  "duration": 2135,
+  "language": "en"
 }

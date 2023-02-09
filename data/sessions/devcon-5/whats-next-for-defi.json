@@ -15,13 +15,9 @@
   "speakers": [
     "rune-christensen"
   ],
-  "media": {
-    "duration": 1240,
-    "language": "en",
-    "sources": {
-      "youtube": "NR5LhdIjxzg",
-      "ipfs": "QmSA6g4yyeUK1regygtH3xbfawC4KNiE5dykoKD7QcvQdp",
-      "swarm": "f5016c387986d885ff1c6f9db07dda5badadb7263d8ea27d0601ecf689caa8ac"
-    }
-  }
+  "sources_youtubeId": "NR5LhdIjxzg",
+  "sources_ipfsHash": "QmSA6g4yyeUK1regygtH3xbfawC4KNiE5dykoKD7QcvQdp",
+  "sources_swarmHash": "f5016c387986d885ff1c6f9db07dda5badadb7263d8ea27d0601ecf689caa8ac",
+  "duration": 1240,
+  "language": "en"
 }

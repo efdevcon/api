@@ -13,13 +13,9 @@
   "speakers": [
     "andres-junge"
   ],
-  "media": {
-    "duration": 769,
-    "language": "en",
-    "sources": {
-      "youtube": "W63oB4fbnEg",
-      "ipfs": "QmRMKFyYKrNsjHvamuopHGutMnVhTgH44JP1t3pp6rTc19",
-      "swarm": "94fa7148181c231a72debbbfe5944da76c33095a7eb41d80e776792e0a4d5412"
-    }
-  }
+  "sources_youtubeId": "W63oB4fbnEg",
+  "sources_ipfsHash": "QmRMKFyYKrNsjHvamuopHGutMnVhTgH44JP1t3pp6rTc19",
+  "sources_swarmHash": "94fa7148181c231a72debbbfe5944da76c33095a7eb41d80e776792e0a4d5412",
+  "duration": 769,
+  "language": "en"
 }

@@ -17,27 +17,12 @@
   "speakers": [
     "bartek-kiepuszewski"
   ],
-  "resources": {
-    "slides": "/resources/6/rollups-are-the-most-secure-bridges.pdf"
-  },
-  "slot": {
-    "start": 1665576000000,
-    "end": 1665577500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1713,
-    "language": "en",
-    "sources": {
-      "youtube": "10welw1d_Bc",
-      "swarm": "9a6a8851aef1f746cf1ea8a7f098031609611449fabdfc7ab86dd6db0e4a05ed"
-    }
-  }
+  "resources_slides": "/resources/6/rollups-are-the-most-secure-bridges.pdf",
+  "slot_start": 1665576000000,
+  "slot_end": 1665577500000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "10welw1d_Bc",
+  "sources_swarmHash": "9a6a8851aef1f746cf1ea8a7f098031609611449fabdfc7ab86dd6db0e4a05ed",
+  "duration": 1713,
+  "language": "en"
 }

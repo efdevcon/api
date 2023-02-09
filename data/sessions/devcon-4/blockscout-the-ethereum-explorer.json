@@ -15,13 +15,9 @@
   "speakers": [
     "andrew-cravenho"
   ],
-  "media": {
-    "duration": 386,
-    "language": "en",
-    "sources": {
-      "youtube": "jxJopRj5LzQ",
-      "ipfs": "QmR6o8oe1SCfF4YikDcrn6X6ikTKLwtEjm9D4ZwLh45UeE",
-      "swarm": "bb3afcaf822a08ed332f5d139d71e07aa73dc16539b37107be0c0045b2436f0d"
-    }
-  }
+  "sources_youtubeId": "jxJopRj5LzQ",
+  "sources_ipfsHash": "QmR6o8oe1SCfF4YikDcrn6X6ikTKLwtEjm9D4ZwLh45UeE",
+  "sources_swarmHash": "bb3afcaf822a08ed332f5d139d71e07aa73dc16539b37107be0c0045b2436f0d",
+  "duration": 386,
+  "language": "en"
 }

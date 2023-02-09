@@ -16,26 +16,10 @@
   "speakers": [
     "jan-gorzny"
   ],
-  "resources": {
-    "slides": "/resources/6/an-overview-and-wishlist-for-rollup-escape-hatches.pdf"
-  },
-  "slot": {
-    "start": 1665663600000,
-    "end": 1665664200000,
-    "length": 600,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 0,
-    "language": "en",
-    "sources": {
-      "youtube": "xjEK8PrH9kQ"
-    }
-  }
+  "resources_slides": "/resources/6/an-overview-and-wishlist-for-rollup-escape-hatches.pdf",
+  "slot_start": 1665663600000,
+  "slot_end": 1665664200000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "xjEK8PrH9kQ",
+  "language": "en"
 }

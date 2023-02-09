@@ -16,24 +16,11 @@
   "speakers": [
     "karl-floersch"
   ],
-  "slot": {
-    "start": 1665579600000,
-    "end": 1665581100000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1571,
-    "language": "en",
-    "sources": {
-      "youtube": "HiU-g8XHi5s",
-      "swarm": "d7f45a2871f9c9ace24bcd864d6a6fa377e80926b696e2ad6be349920c4a356b"
-    }
-  }
+  "slot_start": 1665579600000,
+  "slot_end": 1665581100000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "HiU-g8XHi5s",
+  "sources_swarmHash": "d7f45a2871f9c9ace24bcd864d6a6fa377e80926b696e2ad6be349920c4a356b",
+  "duration": 1571,
+  "language": "en"
 }

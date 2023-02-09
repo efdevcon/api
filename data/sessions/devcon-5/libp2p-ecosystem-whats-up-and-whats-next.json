@@ -14,13 +14,9 @@
   "speakers": [
     "raul-kripalani"
   ],
-  "media": {
-    "duration": 1395,
-    "language": "en",
-    "sources": {
-      "youtube": "NZL7XBxTI_s",
-      "ipfs": "QmQqmKPxNF81bwxeARQguty3bLF7UzXYrKz9ckdkBGWxCF",
-      "swarm": "b94578021352889ddab3a3d4a17654ecdecc3d76647046317b9bc32100ac275e"
-    }
-  }
+  "sources_youtubeId": "NZL7XBxTI_s",
+  "sources_ipfsHash": "QmQqmKPxNF81bwxeARQguty3bLF7UzXYrKz9ckdkBGWxCF",
+  "sources_swarmHash": "b94578021352889ddab3a3d4a17654ecdecc3d76647046317b9bc32100ac275e",
+  "duration": 1395,
+  "language": "en"
 }

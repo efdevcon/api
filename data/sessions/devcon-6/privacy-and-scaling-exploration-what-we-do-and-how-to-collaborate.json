@@ -15,23 +15,10 @@
   "speakers": [
     "thore-hildebrandt"
   ],
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665570300000,
-    "length": 1500,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1225,
-    "language": "en",
-    "sources": {
-      "youtube": "kn2Rc-bT6X4"
-    }
-  }
+  "slot_start": 1665568800000,
+  "slot_end": 1665570300000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "kn2Rc-bT6X4",
+  "duration": 1225,
+  "language": "en"
 }

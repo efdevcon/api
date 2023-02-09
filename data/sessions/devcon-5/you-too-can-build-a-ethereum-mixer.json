@@ -14,13 +14,9 @@
   "speakers": [
     "kendrick-tan"
   ],
-  "media": {
-    "duration": 280,
-    "language": "en",
-    "sources": {
-      "youtube": "lBt-AzotFzU",
-      "ipfs": "QmfNG4FCuREvxqkyLwy8b6k3rExxXwfQ2SybTnNBwv1FSg",
-      "swarm": "e3947c111cd304385667b0bb85fb117f16138757791c6c03773277cd2afa8118"
-    }
-  }
+  "sources_youtubeId": "lBt-AzotFzU",
+  "sources_ipfsHash": "QmfNG4FCuREvxqkyLwy8b6k3rExxXwfQ2SybTnNBwv1FSg",
+  "sources_swarmHash": "e3947c111cd304385667b0bb85fb117f16138757791c6c03773277cd2afa8118",
+  "duration": 280,
+  "language": "en"
 }

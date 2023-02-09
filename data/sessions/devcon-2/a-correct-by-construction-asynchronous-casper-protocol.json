@@ -31,13 +31,9 @@
   "speakers": [
     "vlad-zamfir"
   ],
-  "media": {
-    "duration": 1280,
-    "language": "en",
-    "sources": {
-      "youtube": "4LhC-jDaI00",
-      "ipfs": "QmYSXtbUFug3yEh1YfM6ZdQ8uUdx1xMyDMgK2S9qqJCQH9",
-      "swarm": "71737ad1408dfd27166a4344d8f55d591ba09d958ac52079ebcfb3ac7c209a4a"
-    }
-  }
+  "sources_youtubeId": "4LhC-jDaI00",
+  "sources_ipfsHash": "QmYSXtbUFug3yEh1YfM6ZdQ8uUdx1xMyDMgK2S9qqJCQH9",
+  "sources_swarmHash": "71737ad1408dfd27166a4344d8f55d591ba09d958ac52079ebcfb3ac7c209a4a",
+  "duration": 1280,
+  "language": "en"
 }

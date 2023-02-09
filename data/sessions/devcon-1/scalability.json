@@ -30,13 +30,9 @@
     "dominic-williams",
     "vlad-zamfir"
   ],
-  "media": {
-    "duration": 3449,
-    "language": "en",
-    "sources": {
-      "youtube": "1KaQsrqC94s",
-      "ipfs": "QmNRfmKMbm2nc8vgmk5bRqCrWvCuvhWz3qXHs4SpX4PCbJ",
-      "swarm": "7643be70bc60ad6ce221cd4ac02169eb1f75ce8545c3f3209ecc2f9229e99ae6"
-    }
-  }
+  "sources_youtubeId": "1KaQsrqC94s",
+  "sources_ipfsHash": "QmNRfmKMbm2nc8vgmk5bRqCrWvCuvhWz3qXHs4SpX4PCbJ",
+  "sources_swarmHash": "7643be70bc60ad6ce221cd4ac02169eb1f75ce8545c3f3209ecc2f9229e99ae6",
+  "duration": 3449,
+  "language": "en"
 }

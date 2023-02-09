@@ -25,13 +25,9 @@
   "speakers": [
     "samuli-poyhtari"
   ],
-  "media": {
-    "duration": 711,
-    "language": "en",
-    "sources": {
-      "youtube": "vQrbxyDPSXg",
-      "ipfs": "QmXguBXN3ZBy1zsqJxZZREhDF8zRkerL2cW6RtRv8JcdvQ",
-      "swarm": "b671cd61dd782b9f6c800beddedb88e6eea42c2e826f8b522b379399baf5f17d"
-    }
-  }
+  "sources_youtubeId": "vQrbxyDPSXg",
+  "sources_ipfsHash": "QmXguBXN3ZBy1zsqJxZZREhDF8zRkerL2cW6RtRv8JcdvQ",
+  "sources_swarmHash": "b671cd61dd782b9f6c800beddedb88e6eea42c2e826f8b522b379399baf5f17d",
+  "duration": 711,
+  "language": "en"
 }

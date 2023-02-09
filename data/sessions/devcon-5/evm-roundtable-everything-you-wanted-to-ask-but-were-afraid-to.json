@@ -17,13 +17,9 @@
     "nick-johnson",
     "jacques-wagener"
   ],
-  "media": {
-    "duration": 7370,
-    "language": "en",
-    "sources": {
-      "youtube": "hhDjviZegbA",
-      "ipfs": "QmYLRh3Bv8VR5cYAt2cZLNGSnFfz3ZtX4VxzFRwGiz7Wi1",
-      "swarm": "d3caeac0ecf0b5500d301160e5a9e29dc11253e1212e75ac6f97f625633d9fd5"
-    }
-  }
+  "sources_youtubeId": "hhDjviZegbA",
+  "sources_ipfsHash": "QmYLRh3Bv8VR5cYAt2cZLNGSnFfz3ZtX4VxzFRwGiz7Wi1",
+  "sources_swarmHash": "d3caeac0ecf0b5500d301160e5a9e29dc11253e1212e75ac6f97f625633d9fd5",
+  "duration": 7370,
+  "language": "en"
 }

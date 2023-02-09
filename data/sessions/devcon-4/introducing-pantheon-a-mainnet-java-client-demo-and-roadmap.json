@@ -18,13 +18,9 @@
     "rob-dawson",
     "daniel-heyman"
   ],
-  "media": {
-    "duration": 1547,
-    "language": "en",
-    "sources": {
-      "youtube": "W0jKirZZzZU",
-      "ipfs": "QmNSx1C8N4NNE8xChbPwjB9h25e8faC1KDkkK2NqLgKhNp",
-      "swarm": "8e196872d80d910c5c1ec0cb66840653574005eee687da2f37c8e6937c7222e7"
-    }
-  }
+  "sources_youtubeId": "W0jKirZZzZU",
+  "sources_ipfsHash": "QmNSx1C8N4NNE8xChbPwjB9h25e8faC1KDkkK2NqLgKhNp",
+  "sources_swarmHash": "8e196872d80d910c5c1ec0cb66840653574005eee687da2f37c8e6937c7222e7",
+  "duration": 1547,
+  "language": "en"
 }

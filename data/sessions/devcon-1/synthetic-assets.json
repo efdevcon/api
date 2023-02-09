@@ -13,13 +13,9 @@
   "speakers": [
     "dominic-williams"
   ],
-  "media": {
-    "duration": 821,
-    "language": "en",
-    "sources": {
-      "youtube": "-nxtcHBoaZQ",
-      "ipfs": "QmNgbvjJEaYWPYHyXz8s3p5DTsLWWkgBrKaqzz4qfwHJJ5",
-      "swarm": "22f0d5812b132133ca1995a3bff6823162444211c7f0a92ad306a03b183a1ec0"
-    }
-  }
+  "sources_youtubeId": "-nxtcHBoaZQ",
+  "sources_ipfsHash": "QmNgbvjJEaYWPYHyXz8s3p5DTsLWWkgBrKaqzz4qfwHJJ5",
+  "sources_swarmHash": "22f0d5812b132133ca1995a3bff6823162444211c7f0a92ad306a03b183a1ec0",
+  "duration": 821,
+  "language": "en"
 }

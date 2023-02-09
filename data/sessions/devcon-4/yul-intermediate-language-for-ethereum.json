@@ -15,13 +15,9 @@
   "speakers": [
     "alex-beregszaszi"
   ],
-  "media": {
-    "duration": 582,
-    "language": "en",
-    "sources": {
-      "youtube": "j6N9rdJXqN8",
-      "ipfs": "QmZjtfm7XWzSqKzs1LtBCN2aPb8bEiBbYucRsmRCrQLDgQ",
-      "swarm": "b53eab8f5d13f8df65e28be74b369b350ec221215f54c20fd2ae0ee28c09ab64"
-    }
-  }
+  "sources_youtubeId": "j6N9rdJXqN8",
+  "sources_ipfsHash": "QmZjtfm7XWzSqKzs1LtBCN2aPb8bEiBbYucRsmRCrQLDgQ",
+  "sources_swarmHash": "b53eab8f5d13f8df65e28be74b369b350ec221215f54c20fd2ae0ee28c09ab64",
+  "duration": 582,
+  "language": "en"
 }

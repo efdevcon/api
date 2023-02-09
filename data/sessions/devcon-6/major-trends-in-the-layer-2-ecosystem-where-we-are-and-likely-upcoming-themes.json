@@ -16,27 +16,12 @@
   "speakers": [
     "faina-shalts"
   ],
-  "resources": {
-    "slides": "/resources/6/major-trends-in-the-layer-2-ecosystem-where-we-are-and-likely-upcoming-themes.pdf"
-  },
-  "slot": {
-    "start": 1665507600000,
-    "end": 1665508200000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 495,
-    "language": "en",
-    "sources": {
-      "youtube": "Mqdr3AvvuwM",
-      "swarm": "2c773e448a0dc9da4e25e1c21eebdcd8200a9cfeea87cef78bd27dbe477969c3"
-    }
-  }
+  "resources_slides": "/resources/6/major-trends-in-the-layer-2-ecosystem-where-we-are-and-likely-upcoming-themes.pdf",
+  "slot_start": 1665507600000,
+  "slot_end": 1665508200000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Mqdr3AvvuwM",
+  "sources_swarmHash": "2c773e448a0dc9da4e25e1c21eebdcd8200a9cfeea87cef78bd27dbe477969c3",
+  "duration": 495,
+  "language": "en"
 }

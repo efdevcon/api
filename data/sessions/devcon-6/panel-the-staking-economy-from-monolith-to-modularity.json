@@ -18,24 +18,11 @@
     "viktor-bunin-or-coinbase-cloud",
     "stephane-gosselin"
   ],
-  "slot": {
-    "start": 1665594000000,
-    "end": 1665597000000,
-    "length": 3000,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3087,
-    "language": "en",
-    "sources": {
-      "youtube": "Ee9a1VV0ygA",
-      "swarm": "7854b1db07868b07c4ce7dce8ea8f7a52344d4c391f8d284e3713f4b8f5eed08"
-    }
-  }
+  "slot_start": 1665594000000,
+  "slot_end": 1665597000000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "Ee9a1VV0ygA",
+  "sources_swarmHash": "7854b1db07868b07c4ce7dce8ea8f7a52344d4c391f8d284e3713f4b8f5eed08",
+  "duration": 3087,
+  "language": "en"
 }

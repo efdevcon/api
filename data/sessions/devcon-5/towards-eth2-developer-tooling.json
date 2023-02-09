@@ -16,13 +16,9 @@
   "speakers": [
     "gregory-markou"
   ],
-  "media": {
-    "duration": 731,
-    "language": "en",
-    "sources": {
-      "youtube": "b2RW2-QOq0U",
-      "ipfs": "QmUNmFioKVghQ2N6esNMEegPDMaUg8SGzpjp9HjqEaHBfj",
-      "swarm": "94159ff8b825676810ab882f83a9a08ac5e680d76ed2c3c3a21a2277f673eee1"
-    }
-  }
+  "sources_youtubeId": "b2RW2-QOq0U",
+  "sources_ipfsHash": "QmUNmFioKVghQ2N6esNMEegPDMaUg8SGzpjp9HjqEaHBfj",
+  "sources_swarmHash": "94159ff8b825676810ab882f83a9a08ac5e680d76ed2c3c3a21a2277f673eee1",
+  "duration": 731,
+  "language": "en"
 }

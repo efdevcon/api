@@ -16,26 +16,11 @@
   "speakers": [
     "odysseas"
   ],
-  "resources": {
-    "slides": "/resources/6/lessons-from-the-nomad-hack.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665743400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1190,
-    "language": "en",
-    "sources": {
-      "youtube": "jfquE4S2clQ"
-    }
-  }
+  "resources_slides": "/resources/6/lessons-from-the-nomad-hack.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665743400000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "jfquE4S2clQ",
+  "duration": 1190,
+  "language": "en"
 }

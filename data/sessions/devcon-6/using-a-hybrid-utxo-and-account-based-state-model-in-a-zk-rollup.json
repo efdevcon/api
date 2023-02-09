@@ -16,27 +16,12 @@
   "speakers": [
     "bobbin-threadbare"
   ],
-  "resources": {
-    "slides": "/resources/6/using-a-hybrid-utxo-and-account-based-state-model-in-a-zk-rollup.pdf"
-  },
-  "slot": {
-    "start": 1665657000000,
-    "end": 1665658800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1417,
-    "language": "en",
-    "sources": {
-      "youtube": "TEPY19-hie4",
-      "swarm": "2a8561473d9b7c05f44ede560c079b7155f4263a59119539448a0699c1151326"
-    }
-  }
+  "resources_slides": "/resources/6/using-a-hybrid-utxo-and-account-based-state-model-in-a-zk-rollup.pdf",
+  "slot_start": 1665657000000,
+  "slot_end": 1665658800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "TEPY19-hie4",
+  "sources_swarmHash": "2a8561473d9b7c05f44ede560c079b7155f4263a59119539448a0699c1151326",
+  "duration": 1417,
+  "language": "en"
 }

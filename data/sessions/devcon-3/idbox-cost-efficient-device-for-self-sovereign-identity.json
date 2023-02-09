@@ -13,13 +13,9 @@
   "speakers": [
     "julien-bouteloup"
   ],
-  "media": {
-    "duration": 1079,
-    "language": "en",
-    "sources": {
-      "youtube": "h1Oz3oEtZxE",
-      "ipfs": "QmehaapQ9M6EuDmo2eke3td8aRiMMxoVgWeCzM1twG4jgp",
-      "swarm": "1b63d1d5649eb0aae46d30903feeefd948bb6787baef6971f259ddf9c9ca0b38"
-    }
-  }
+  "sources_youtubeId": "h1Oz3oEtZxE",
+  "sources_ipfsHash": "QmehaapQ9M6EuDmo2eke3td8aRiMMxoVgWeCzM1twG4jgp",
+  "sources_swarmHash": "1b63d1d5649eb0aae46d30903feeefd948bb6787baef6971f259ddf9c9ca0b38",
+  "duration": 1079,
+  "language": "en"
 }

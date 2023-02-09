@@ -16,27 +16,12 @@
   "speakers": [
     "connor-spelliscy"
   ],
-  "resources": {
-    "slides": "/resources/6/open-sourcing-and-coordinating-dao-research-for-the-public-good.pdf"
-  },
-  "slot": {
-    "start": 1665595800000,
-    "end": 1665596400000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 491,
-    "language": "en",
-    "sources": {
-      "youtube": "y9wSHLiuVyc",
-      "swarm": "176b1516d68cd26846fffcb620c0782aaeb6ad4b9cfdfc6059b74fff3291787c"
-    }
-  }
+  "resources_slides": "/resources/6/open-sourcing-and-coordinating-dao-research-for-the-public-good.pdf",
+  "slot_start": 1665595800000,
+  "slot_end": 1665596400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "y9wSHLiuVyc",
+  "sources_swarmHash": "176b1516d68cd26846fffcb620c0782aaeb6ad4b9cfdfc6059b74fff3291787c",
+  "duration": 491,
+  "language": "en"
 }

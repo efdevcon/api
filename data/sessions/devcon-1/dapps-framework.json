@@ -13,13 +13,9 @@
   "speakers": [
     "konstantin-kudryavtsev"
   ],
-  "media": {
-    "duration": 564,
-    "language": "en",
-    "sources": {
-      "youtube": "ZxFvFEGak7Y",
-      "ipfs": "QmYWDAGyERcsqDjvpUHuvYWXURuWZ6DMYsrK9YLBHosuyx",
-      "swarm": "9d4324a002dedb5bfff53b3d8b703b40833d13aefca327a118ddc357da5aeef8"
-    }
-  }
+  "sources_youtubeId": "ZxFvFEGak7Y",
+  "sources_ipfsHash": "QmYWDAGyERcsqDjvpUHuvYWXURuWZ6DMYsrK9YLBHosuyx",
+  "sources_swarmHash": "9d4324a002dedb5bfff53b3d8b703b40833d13aefca327a118ddc357da5aeef8",
+  "duration": 564,
+  "language": "en"
 }

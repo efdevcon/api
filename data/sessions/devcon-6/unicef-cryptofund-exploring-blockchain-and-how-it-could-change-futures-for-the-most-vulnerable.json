@@ -17,27 +17,12 @@
     "evelyn-casanova",
     "sanna-bedi"
   ],
-  "resources": {
-    "slides": "/resources/6/unicef-cryptofund-exploring-blockchain-and-how-it-could-change-futures-for-the-most-vulnerable.pdf"
-  },
-  "slot": {
-    "start": 1665510000000,
-    "end": 1665510600000,
-    "length": 600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 611,
-    "language": "en",
-    "sources": {
-      "youtube": "WY8vbt6baMc",
-      "swarm": "59fbf9c8aa4c7f3d2215ebf746b5658693986a4d1d4935a9816ec62e38d763ae"
-    }
-  }
+  "resources_slides": "/resources/6/unicef-cryptofund-exploring-blockchain-and-how-it-could-change-futures-for-the-most-vulnerable.pdf",
+  "slot_start": 1665510000000,
+  "slot_end": 1665510600000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "WY8vbt6baMc",
+  "sources_swarmHash": "59fbf9c8aa4c7f3d2215ebf746b5658693986a4d1d4935a9816ec62e38d763ae",
+  "duration": 611,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "alex-stokes"
   ],
-  "resources": {
-    "slides": "/resources/6/block-building-after-the-merge.pdf"
-  },
-  "slot": {
-    "start": 1665586800000,
-    "end": 1665588300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1725,
-    "language": "en",
-    "sources": {
-      "youtube": "KP5ppCRH0iM",
-      "swarm": "ab699718f7853852b8077d81fdb8eebcfa96029c65227eb98d68261449e6278e"
-    }
-  }
+  "resources_slides": "/resources/6/block-building-after-the-merge.pdf",
+  "slot_start": 1665586800000,
+  "slot_end": 1665588300000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "KP5ppCRH0iM",
+  "sources_swarmHash": "ab699718f7853852b8077d81fdb8eebcfa96029c65227eb98d68261449e6278e",
+  "duration": 1725,
+  "language": "en"
 }

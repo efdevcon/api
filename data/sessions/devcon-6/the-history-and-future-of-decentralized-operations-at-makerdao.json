@@ -16,27 +16,12 @@
   "speakers": [
     "wouter-kampmann"
   ],
-  "resources": {
-    "slides": "/resources/6/the-history-and-future-of-decentralized-operations-at-makerdao.pdf"
-  },
-  "slot": {
-    "start": 1665748800000,
-    "end": 1665750300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1393,
-    "language": "en",
-    "sources": {
-      "youtube": "6UF6ASf1_X0",
-      "swarm": "f940aa92058784d72410821c121944795062b9de2c354b43d6a7676faae4c71a"
-    }
-  }
+  "resources_slides": "/resources/6/the-history-and-future-of-decentralized-operations-at-makerdao.pdf",
+  "slot_start": 1665748800000,
+  "slot_end": 1665750300000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "6UF6ASf1_X0",
+  "sources_swarmHash": "f940aa92058784d72410821c121944795062b9de2c354b43d6a7676faae4c71a",
+  "duration": 1393,
+  "language": "en"
 }

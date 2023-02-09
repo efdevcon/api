@@ -15,26 +15,11 @@
     "joe-andrews",
     "jan-benes"
   ],
-  "resources": {
-    "slides": "/resources/6/a-new-defi-primitive-private-trading-with-aztec-connect.pdf"
-  },
-  "slot": {
-    "start": 1665675000000,
-    "end": 1665676800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1305,
-    "language": "en",
-    "sources": {
-      "youtube": "fD_M0YHBcaU"
-    }
-  }
+  "resources_slides": "/resources/6/a-new-defi-primitive-private-trading-with-aztec-connect.pdf",
+  "slot_start": 1665675000000,
+  "slot_end": 1665676800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "fD_M0YHBcaU",
+  "duration": 1305,
+  "language": "en"
 }

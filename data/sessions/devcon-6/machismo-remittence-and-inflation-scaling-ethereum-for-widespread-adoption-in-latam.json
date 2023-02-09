@@ -16,27 +16,12 @@
   "speakers": [
     "camila-garzon"
   ],
-  "resources": {
-    "slides": "/resources/6/machismo-remittence-and-inflation-scaling-ethereum-for-widespread-adoption-in-latam.pdf"
-  },
-  "slot": {
-    "start": 1665760200000,
-    "end": 1665760800000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 698,
-    "language": "en",
-    "sources": {
-      "youtube": "2HP9MEUa1GQ",
-      "swarm": "71ce943a8da9e6d6b2205185c94ae546ce63452a05ada95ec280e0c70bbaf732"
-    }
-  }
+  "resources_slides": "/resources/6/machismo-remittence-and-inflation-scaling-ethereum-for-widespread-adoption-in-latam.pdf",
+  "slot_start": 1665760200000,
+  "slot_end": 1665760800000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "2HP9MEUa1GQ",
+  "sources_swarmHash": "71ce943a8da9e6d6b2205185c94ae546ce63452a05ada95ec280e0c70bbaf732",
+  "duration": 698,
+  "language": "en"
 }

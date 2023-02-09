@@ -15,27 +15,12 @@
   "speakers": [
     "evan-miyazono"
   ],
-  "resources": {
-    "slides": "/resources/6/hypercerts-for-regenerative-cryptoeconomics.pdf"
-  },
-  "slot": {
-    "start": 1665669600000,
-    "end": 1665671400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 1882,
-    "language": "en",
-    "sources": {
-      "youtube": "YpIQoq_bfu8",
-      "swarm": "33bb7285da6b356f383103ec6db22a18d727c596d91d46db759e3ba4abb647dc"
-    }
-  }
+  "resources_slides": "/resources/6/hypercerts-for-regenerative-cryptoeconomics.pdf",
+  "slot_start": 1665669600000,
+  "slot_end": 1665671400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "YpIQoq_bfu8",
+  "sources_swarmHash": "33bb7285da6b356f383103ec6db22a18d727c596d91d46db759e3ba4abb647dc",
+  "duration": 1882,
+  "language": "en"
 }

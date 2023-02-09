@@ -14,13 +14,9 @@
   "speakers": [
     "samuel-walker"
   ],
-  "media": {
-    "duration": 2016,
-    "language": "en",
-    "sources": {
-      "youtube": "jmE9RXBquJQ",
-      "ipfs": "QmTfqvJX8YvZRcL2xyoKBdY7ai6PvUTftyhsxirfykoi3N",
-      "swarm": "a7d315cda169a8cfd672c62a07886fb800d6d5ef0bdf79c57c148fa90b6134fb"
-    }
-  }
+  "sources_youtubeId": "jmE9RXBquJQ",
+  "sources_ipfsHash": "QmTfqvJX8YvZRcL2xyoKBdY7ai6PvUTftyhsxirfykoi3N",
+  "sources_swarmHash": "a7d315cda169a8cfd672c62a07886fb800d6d5ef0bdf79c57c148fa90b6134fb",
+  "duration": 2016,
+  "language": "en"
 }

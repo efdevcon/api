@@ -17,13 +17,9 @@
     "karl-floersch",
     "ben-jones"
   ],
-  "media": {
-    "duration": 1418,
-    "language": "en",
-    "sources": {
-      "youtube": "KZmLmt9f_uk",
-      "ipfs": "QmSJMCFR5QXP2ddKaz3kvtRjHgJRAh24RZjPoGBeCPWjvL",
-      "swarm": "8b0532ef45423e7365183927bd56804108cad8c1f5d79ff5dfd7a67a8181bbf2"
-    }
-  }
+  "sources_youtubeId": "KZmLmt9f_uk",
+  "sources_ipfsHash": "QmSJMCFR5QXP2ddKaz3kvtRjHgJRAh24RZjPoGBeCPWjvL",
+  "sources_swarmHash": "8b0532ef45423e7365183927bd56804108cad8c1f5d79ff5dfd7a67a8181bbf2",
+  "duration": 1418,
+  "language": "en"
 }

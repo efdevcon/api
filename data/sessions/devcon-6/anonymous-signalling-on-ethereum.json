@@ -16,27 +16,12 @@
   "speakers": [
     "cedoor"
   ],
-  "resources": {
-    "slides": "/resources/6/anonymous-signalling-on-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665678600000,
-    "end": 1665680400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 931,
-    "language": "en",
-    "sources": {
-      "youtube": "dxAfL91Sbw4",
-      "swarm": "36e4e383a10702815a44c38a5d3a7a98892ddef76c962796fade78e4d730eb0b"
-    }
-  }
+  "resources_slides": "/resources/6/anonymous-signalling-on-ethereum.pdf",
+  "slot_start": 1665678600000,
+  "slot_end": 1665680400000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "dxAfL91Sbw4",
+  "sources_swarmHash": "36e4e383a10702815a44c38a5d3a7a98892ddef76c962796fade78e4d730eb0b",
+  "duration": 931,
+  "language": "en"
 }

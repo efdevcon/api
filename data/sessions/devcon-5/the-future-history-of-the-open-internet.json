@@ -16,13 +16,9 @@
   "speakers": [
     "kevin-owocki"
   ],
-  "media": {
-    "duration": 1213,
-    "language": "en",
-    "sources": {
-      "youtube": "RZ3PjPkKQko",
-      "ipfs": "QmYpDTx7ATaRXvzZKsaohFcEnWNw78b2v5a5rmQVzEiAw2",
-      "swarm": "90171d316cc4a2a176bbcf32757e80d4dbfbaffd93107686130f10775b278bc5"
-    }
-  }
+  "sources_youtubeId": "RZ3PjPkKQko",
+  "sources_ipfsHash": "QmYpDTx7ATaRXvzZKsaohFcEnWNw78b2v5a5rmQVzEiAw2",
+  "sources_swarmHash": "90171d316cc4a2a176bbcf32757e80d4dbfbaffd93107686130f10775b278bc5",
+  "duration": 1213,
+  "language": "en"
 }

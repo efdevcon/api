@@ -13,13 +13,9 @@
   "speakers": [
     "connor-keenan"
   ],
-  "media": {
-    "duration": 888,
-    "language": "en",
-    "sources": {
-      "youtube": "ivkBxkSTCMQ",
-      "ipfs": "QmUrsLc2ByS7ymyiX1kmR3d9nABjzKgCrYCnsJNQKv4qnw",
-      "swarm": "c1c9b93605a4e6582a97b4b17c5f509e241f9d212515ae137ad967ff8a7ef49f"
-    }
-  }
+  "sources_youtubeId": "ivkBxkSTCMQ",
+  "sources_ipfsHash": "QmUrsLc2ByS7ymyiX1kmR3d9nABjzKgCrYCnsJNQKv4qnw",
+  "sources_swarmHash": "c1c9b93605a4e6582a97b4b17c5f509e241f9d212515ae137ad967ff8a7ef49f",
+  "duration": 888,
+  "language": "en"
 }

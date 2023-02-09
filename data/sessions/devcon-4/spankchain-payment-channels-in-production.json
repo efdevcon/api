@@ -17,13 +17,9 @@
     "ameen-soleimani",
     "arjun-bhupati"
   ],
-  "media": {
-    "duration": 1456,
-    "language": "en",
-    "sources": {
-      "youtube": "Z3TCTnmd-tQ",
-      "ipfs": "QmXjzZLi4TmhqEwLzWBnykNKTunfqEYk8C6kVW6mVZqEQr",
-      "swarm": "7354ab47941618efdc38df8eeabb011f1677f6eb66c91be4aec88ca0f23247eb"
-    }
-  }
+  "sources_youtubeId": "Z3TCTnmd-tQ",
+  "sources_ipfsHash": "QmXjzZLi4TmhqEwLzWBnykNKTunfqEYk8C6kVW6mVZqEQr",
+  "sources_swarmHash": "7354ab47941618efdc38df8eeabb011f1677f6eb66c91be4aec88ca0f23247eb",
+  "duration": 1456,
+  "language": "en"
 }

@@ -17,23 +17,10 @@
     "madison-adams",
     "safder-raza"
   ],
-  "slot": {
-    "start": 1665570900000,
-    "end": 1665572400000,
-    "length": 1500,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1594,
-    "language": "en",
-    "sources": {
-      "youtube": "gg-vQsQHTTA"
-    }
-  }
+  "slot_start": 1665570900000,
+  "slot_end": 1665572400000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "gg-vQsQHTTA",
+  "duration": 1594,
+  "language": "en"
 }

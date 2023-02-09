@@ -15,13 +15,9 @@
     "olivier-begassat",
     "vanessa-bridge"
   ],
-  "media": {
-    "duration": 1070,
-    "language": "en",
-    "sources": {
-      "youtube": "usKTfMamSNk",
-      "ipfs": "QmYbHSzr2rn2c8KyNJNGNxSVW288JHPhzEG68wojHPacDo",
-      "swarm": "52a2fe58798636e30859a85540b9d1f2793b2fa409187bb4a8d546de6990c39e"
-    }
-  }
+  "sources_youtubeId": "usKTfMamSNk",
+  "sources_ipfsHash": "QmYbHSzr2rn2c8KyNJNGNxSVW288JHPhzEG68wojHPacDo",
+  "sources_swarmHash": "52a2fe58798636e30859a85540b9d1f2793b2fa409187bb4a8d546de6990c39e",
+  "duration": 1070,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "zsolt-felfoldi"
   ],
-  "media": {
-    "duration": 941,
-    "language": "en",
-    "sources": {
-      "youtube": "h-bl0slW4kU",
-      "ipfs": "QmRte4DBUxRomhWSWus3wREfDp6QU92unaV9hhDZAW9civ",
-      "swarm": "2f8778b5d6e6a3f338345458328a5fdc41509b3b798631d445d6a9fc9648da0a"
-    }
-  }
+  "sources_youtubeId": "h-bl0slW4kU",
+  "sources_ipfsHash": "QmRte4DBUxRomhWSWus3wREfDp6QU92unaV9hhDZAW9civ",
+  "sources_swarmHash": "2f8778b5d6e6a3f338345458328a5fdc41509b3b798631d445d6a9fc9648da0a",
+  "duration": 941,
+  "language": "en"
 }

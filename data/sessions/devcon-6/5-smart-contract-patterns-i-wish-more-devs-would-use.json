@@ -16,26 +16,11 @@
   "speakers": [
     "hadrien-croubois"
   ],
-  "resources": {
-    "slides": "/resources/6/5-smart-contract-patterns-i-wish-more-devs-would-use.pdf"
-  },
-  "slot": {
-    "start": 1665574800000,
-    "end": 1665575400000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 702,
-    "language": "en",
-    "sources": {
-      "youtube": "RQVDU8L_c6Q"
-    }
-  }
+  "resources_slides": "/resources/6/5-smart-contract-patterns-i-wish-more-devs-would-use.pdf",
+  "slot_start": 1665574800000,
+  "slot_end": 1665575400000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "RQVDU8L_c6Q",
+  "duration": 702,
+  "language": "en"
 }

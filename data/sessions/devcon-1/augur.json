@@ -13,13 +13,9 @@
   "speakers": [
     "jack-peterson"
   ],
-  "media": {
-    "duration": 924,
-    "language": "en",
-    "sources": {
-      "youtube": "jS07CZvPySg",
-      "ipfs": "QmUwdGFmvAzY71Twyt2UHnUghb5o86Yaf89iev6wcVV1F8",
-      "swarm": "af0c6aec234a79966a9e28df632f92da81e8f2286e791c4ddfb454fca35cca20"
-    }
-  }
+  "sources_youtubeId": "jS07CZvPySg",
+  "sources_ipfsHash": "QmUwdGFmvAzY71Twyt2UHnUghb5o86Yaf89iev6wcVV1F8",
+  "sources_swarmHash": "af0c6aec234a79966a9e28df632f92da81e8f2286e791c4ddfb454fca35cca20",
+  "duration": 924,
+  "language": "en"
 }

@@ -16,26 +16,11 @@
     "carolina-pinzon",
     "bryan-moreno"
   ],
-  "resources": {
-    "slides": "/resources/6/the-challenges-and-learnings-of-implementing-wallet-connection-on-mobile.pdf"
-  },
-  "slot": {
-    "start": 1665664200000,
-    "end": 1665664620000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 531,
-    "language": "en",
-    "sources": {
-      "youtube": "d4C-GGgSiqg"
-    }
-  }
+  "resources_slides": "/resources/6/the-challenges-and-learnings-of-implementing-wallet-connection-on-mobile.pdf",
+  "slot_start": 1665664200000,
+  "slot_end": 1665664620000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "d4C-GGgSiqg",
+  "duration": 531,
+  "language": "en"
 }

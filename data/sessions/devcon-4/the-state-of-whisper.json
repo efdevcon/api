@@ -14,13 +14,9 @@
   "speakers": [
     "guilaume-ballet"
   ],
-  "media": {
-    "duration": 623,
-    "language": "en",
-    "sources": {
-      "youtube": "NiKY41ED9-0",
-      "ipfs": "QmR4skZUMmmfBEVGkSFUN2KtFGXjuHtugueBWs7R7r9JBH",
-      "swarm": "35936c0fd95b41c81a150a2bb4827883f74c3c6139f66a277d65d0524715df2c"
-    }
-  }
+  "sources_youtubeId": "NiKY41ED9-0",
+  "sources_ipfsHash": "QmR4skZUMmmfBEVGkSFUN2KtFGXjuHtugueBWs7R7r9JBH",
+  "sources_swarmHash": "35936c0fd95b41c81a150a2bb4827883f74c3c6139f66a277d65d0524715df2c",
+  "duration": 623,
+  "language": "en"
 }

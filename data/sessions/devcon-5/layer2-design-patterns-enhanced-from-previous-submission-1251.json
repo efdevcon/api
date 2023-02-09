@@ -13,13 +13,9 @@
   "speakers": [
     "beltran-berrocal"
   ],
-  "media": {
-    "duration": 1303,
-    "language": "en",
-    "sources": {
-      "youtube": "Q8j5LdydSUs",
-      "ipfs": "QmQKYH5MfL2QBsTArwxYwGAXftMiWMmF4owJRGK17F6Vjk",
-      "swarm": "cfe170ab5b22c3cc4373aff6b9539481ad5eb0d545d26c2e43bae09ba369e31e"
-    }
-  }
+  "sources_youtubeId": "Q8j5LdydSUs",
+  "sources_ipfsHash": "QmQKYH5MfL2QBsTArwxYwGAXftMiWMmF4owJRGK17F6Vjk",
+  "sources_swarmHash": "cfe170ab5b22c3cc4373aff6b9539481ad5eb0d545d26c2e43bae09ba369e31e",
+  "duration": 1303,
+  "language": "en"
 }

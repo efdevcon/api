@@ -14,13 +14,9 @@
     "sandra-uwantege-hart",
     "nick-williams"
   ],
-  "media": {
-    "duration": 1344,
-    "language": "en",
-    "sources": {
-      "youtube": "ZpPk53h0fsE",
-      "ipfs": "QmTKyP7USfgwRjCSyk1Mw4G1RDYbwPXAC7Fo2zNx6APXnH",
-      "swarm": "2fce5d6f435548895108cfad8fdee68f5aad6c76cb606d43aa67f69e20e74b1d"
-    }
-  }
+  "sources_youtubeId": "ZpPk53h0fsE",
+  "sources_ipfsHash": "QmTKyP7USfgwRjCSyk1Mw4G1RDYbwPXAC7Fo2zNx6APXnH",
+  "sources_swarmHash": "2fce5d6f435548895108cfad8fdee68f5aad6c76cb606d43aa67f69e20e74b1d",
+  "duration": 1344,
+  "language": "en"
 }

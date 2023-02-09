@@ -17,27 +17,12 @@
     "gabriel-rocheleau",
     "scott-simpson"
   ],
-  "resources": {
-    "slides": "/resources/6/experiments-with-ethereumjs.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665748800000,
-    "length": 7200,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 6424,
-    "language": "en",
-    "sources": {
-      "youtube": "MpMa8G4RxdM",
-      "swarm": "9ee51b436370f31df5ce0f29f85436bd1f6c38770915ef5ceb934cfba3515cfb"
-    }
-  }
+  "resources_slides": "/resources/6/experiments-with-ethereumjs.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665748800000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "MpMa8G4RxdM",
+  "sources_swarmHash": "9ee51b436370f31df5ce0f29f85436bd1f6c38770915ef5ceb934cfba3515cfb",
+  "duration": 6424,
+  "language": "en"
 }

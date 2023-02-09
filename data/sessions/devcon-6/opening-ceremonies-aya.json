@@ -15,27 +15,12 @@
   "speakers": [
     "aya-miyaguchi"
   ],
-  "resources": {
-    "slides": "/resources/6/opening-ceremonies-aya.pdf"
-  },
-  "slot": {
-    "start": 1665481500000,
-    "end": 1665490500000,
-    "length": 9000,
-    "room": {
-      "id": "talk-5-opening-ceremonies",
-      "name": "Talk 5 - Opening Ceremonies",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 3060
-    }
-  },
-  "media": {
-    "duration": 1369,
-    "language": "en",
-    "sources": {
-      "youtube": "noXPewi5qOk",
-      "swarm": "e4bb9734317584fbfd4dccadeaa0b3f4e31fc349b38152a11e3bb296214ca580"
-    }
-  }
+  "resources_slides": "/resources/6/opening-ceremonies-aya.pdf",
+  "slot_start": 1665481500000,
+  "slot_end": 1665490500000,
+  "slot_roomId": "talk-5-opening-ceremonies",
+  "sources_youtubeId": "noXPewi5qOk",
+  "sources_swarmHash": "e4bb9734317584fbfd4dccadeaa0b3f4e31fc349b38152a11e3bb296214ca580",
+  "duration": 1369,
+  "language": "en"
 }

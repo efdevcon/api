@@ -16,27 +16,12 @@
   "speakers": [
     "daniel-zachary-goldman"
   ],
-  "resources": {
-    "slides": "/resources/6/understanding-l2-ordering-and-execution.pdf"
-  },
-  "slot": {
-    "start": 1665495000000,
-    "end": 1665496800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1456,
-    "language": "en",
-    "sources": {
-      "youtube": "RcOaH9GL-78",
-      "swarm": "6152618aaca340729b4e523a68c83eb20d0d20070da3336855791b5a3eb82851"
-    }
-  }
+  "resources_slides": "/resources/6/understanding-l2-ordering-and-execution.pdf",
+  "slot_start": 1665495000000,
+  "slot_end": 1665496800000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "RcOaH9GL-78",
+  "sources_swarmHash": "6152618aaca340729b4e523a68c83eb20d0d20070da3336855791b5a3eb82851",
+  "duration": 1456,
+  "language": "en"
 }

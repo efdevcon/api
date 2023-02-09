@@ -15,13 +15,9 @@
   "speakers": [
     "daejun-park"
   ],
-  "media": {
-    "duration": 715,
-    "language": "en",
-    "sources": {
-      "youtube": "nYCKOK79ogs",
-      "ipfs": "QmPwLrmbgvBCS8t5EFT12JPttTutdRcaJLhNLfgoyLv7uM",
-      "swarm": "119b0a50bbb9713dc4102bc68a8e5f79e0c964a5363e76d3a97b06d51802ffa5"
-    }
-  }
+  "sources_youtubeId": "nYCKOK79ogs",
+  "sources_ipfsHash": "QmPwLrmbgvBCS8t5EFT12JPttTutdRcaJLhNLfgoyLv7uM",
+  "sources_swarmHash": "119b0a50bbb9713dc4102bc68a8e5f79e0c964a5363e76d3a97b06d51802ffa5",
+  "duration": 715,
+  "language": "en"
 }

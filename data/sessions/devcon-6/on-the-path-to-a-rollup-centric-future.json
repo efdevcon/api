@@ -16,27 +16,12 @@
   "speakers": [
     "harry-kalodner"
   ],
-  "resources": {
-    "slides": "/resources/6/on-the-path-to-a-rollup-centric-future.pdf"
-  },
-  "slot": {
-    "start": 1665747000000,
-    "end": 1665748500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1490,
-    "language": "en",
-    "sources": {
-      "youtube": "rPjfBXhhuGo",
-      "swarm": "a4eee498c5e20cd7425be3cbba7f9af97f9504ecdcf97522619d7baafa67add2"
-    }
-  }
+  "resources_slides": "/resources/6/on-the-path-to-a-rollup-centric-future.pdf",
+  "slot_start": 1665747000000,
+  "slot_end": 1665748500000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "rPjfBXhhuGo",
+  "sources_swarmHash": "a4eee498c5e20cd7425be3cbba7f9af97f9504ecdcf97522619d7baafa67add2",
+  "duration": 1490,
+  "language": "en"
 }

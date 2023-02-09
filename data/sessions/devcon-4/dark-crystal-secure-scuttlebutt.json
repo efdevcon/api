@@ -17,13 +17,9 @@
   "speakers": [
     "peg"
   ],
-  "media": {
-    "duration": 536,
-    "language": "en",
-    "sources": {
-      "youtube": "pOloj658DtQ",
-      "ipfs": "Qmd411h4edhKhFeW8egBijVGFv3TH45fh1smvV3mgh3hNC",
-      "swarm": "0a3d7acbad6283b592ad91a65946c1bd791bdc2336b190a7e4b7e2bd490de426"
-    }
-  }
+  "sources_youtubeId": "pOloj658DtQ",
+  "sources_ipfsHash": "Qmd411h4edhKhFeW8egBijVGFv3TH45fh1smvV3mgh3hNC",
+  "sources_swarmHash": "0a3d7acbad6283b592ad91a65946c1bd791bdc2336b190a7e4b7e2bd490de426",
+  "duration": 536,
+  "language": "en"
 }

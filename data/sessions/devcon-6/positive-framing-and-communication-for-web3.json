@@ -16,27 +16,12 @@
   "speakers": [
     "oliver-jl-renwick"
   ],
-  "resources": {
-    "slides": "/resources/6/positive-framing-and-communication-for-web3.pdf"
-  },
-  "slot": {
-    "start": 1665756000000,
-    "end": 1665757800000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1626,
-    "language": "en",
-    "sources": {
-      "youtube": "PP7gMn-LA5o",
-      "swarm": "5a5a037cd44f7f3619cfe7a42f40439b4cdf7a67f2de0b1c6f40df0cd954809b"
-    }
-  }
+  "resources_slides": "/resources/6/positive-framing-and-communication-for-web3.pdf",
+  "slot_start": 1665756000000,
+  "slot_end": 1665757800000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "PP7gMn-LA5o",
+  "sources_swarmHash": "5a5a037cd44f7f3619cfe7a42f40439b4cdf7a67f2de0b1c6f40df0cd954809b",
+  "duration": 1626,
+  "language": "en"
 }

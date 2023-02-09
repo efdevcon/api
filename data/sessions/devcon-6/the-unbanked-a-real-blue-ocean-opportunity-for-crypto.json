@@ -16,27 +16,12 @@
   "speakers": [
     "gabriela-chang"
   ],
-  "resources": {
-    "slides": "/resources/6/the-unbanked-a-real-blue-ocean-opportunity-for-crypto.pdf"
-  },
-  "slot": {
-    "start": 1665682800000,
-    "end": 1665683220000,
-    "length": 420,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 440,
-    "language": "en",
-    "sources": {
-      "youtube": "fhPdvmequaY",
-      "swarm": "ac1b4724fe3129cf8ce6269bfe08ad7a8cf1b3fb721e121671676b45d1e77193"
-    }
-  }
+  "resources_slides": "/resources/6/the-unbanked-a-real-blue-ocean-opportunity-for-crypto.pdf",
+  "slot_start": 1665682800000,
+  "slot_end": 1665683220000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "fhPdvmequaY",
+  "sources_swarmHash": "ac1b4724fe3129cf8ce6269bfe08ad7a8cf1b3fb721e121671676b45d1e77193",
+  "duration": 440,
+  "language": "en"
 }

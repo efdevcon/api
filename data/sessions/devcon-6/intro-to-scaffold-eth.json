@@ -16,27 +16,12 @@
   "speakers": [
     "kevin-jones"
   ],
-  "resources": {
-    "slides": "/resources/6/intro-to-scaffold-eth.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665495000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2735,
-    "language": "en",
-    "sources": {
-      "youtube": "WNk0uTqP3yg",
-      "swarm": "0d034a4d104c930f01d36e29cae654049933e6479da1507eaf2ee65989026c66"
-    }
-  }
+  "resources_slides": "/resources/6/intro-to-scaffold-eth.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665495000000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "WNk0uTqP3yg",
+  "sources_swarmHash": "0d034a4d104c930f01d36e29cae654049933e6479da1507eaf2ee65989026c66",
+  "duration": 2735,
+  "language": "en"
 }

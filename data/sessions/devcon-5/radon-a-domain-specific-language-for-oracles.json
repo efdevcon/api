@@ -16,13 +16,9 @@
     "gorka-irazoqui",
     "adan-sanchez-de-pedro-crespo"
   ],
-  "media": {
-    "duration": 3111,
-    "language": "en",
-    "sources": {
-      "youtube": "NZxUDFwmbGA",
-      "ipfs": "QmVrQ5QqR5xLagbX132gEfWe8a3tCrYt5RuDxEYvzNmkw4",
-      "swarm": "2e5f148084ccd7bcfbe530ece9675f7411928303303179365603a2e227831104"
-    }
-  }
+  "sources_youtubeId": "NZxUDFwmbGA",
+  "sources_ipfsHash": "QmVrQ5QqR5xLagbX132gEfWe8a3tCrYt5RuDxEYvzNmkw4",
+  "sources_swarmHash": "2e5f148084ccd7bcfbe530ece9675f7411928303303179365603a2e227831104",
+  "duration": 3111,
+  "language": "en"
 }

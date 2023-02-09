@@ -13,13 +13,9 @@
   "speakers": [
     "giuseppe-bertone"
   ],
-  "media": {
-    "duration": 1267,
-    "language": "en",
-    "sources": {
-      "youtube": "87WWHgbtjBA",
-      "ipfs": "QmQgPdUp3tZ1eKS5mnv8GaaMbDEWSEENC7q1VPyV1Vs8dH",
-      "swarm": "6ff64f5d444b10b533cbf74178883abb162d36e7e70d90acee58ec9bd50096dc"
-    }
-  }
+  "sources_youtubeId": "87WWHgbtjBA",
+  "sources_ipfsHash": "QmQgPdUp3tZ1eKS5mnv8GaaMbDEWSEENC7q1VPyV1Vs8dH",
+  "sources_swarmHash": "6ff64f5d444b10b533cbf74178883abb162d36e7e70d90acee58ec9bd50096dc",
+  "duration": 1267,
+  "language": "en"
 }

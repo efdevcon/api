@@ -16,27 +16,12 @@
   "speakers": [
     "thomas-barker"
   ],
-  "resources": {
-    "slides": "/resources/6/five-devcons-in-five-minutes.pdf"
-  },
-  "slot": {
-    "start": 1665509400000,
-    "end": 1665510000000,
-    "length": 600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 412,
-    "language": "en",
-    "sources": {
-      "youtube": "B6c0UMSh9p8",
-      "swarm": "08a37eb760029cacd9ddf63970b0813a91a7e0c7065ce6c7b557a5139b3904c5"
-    }
-  }
+  "resources_slides": "/resources/6/five-devcons-in-five-minutes.pdf",
+  "slot_start": 1665509400000,
+  "slot_end": 1665510000000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "B6c0UMSh9p8",
+  "sources_swarmHash": "08a37eb760029cacd9ddf63970b0813a91a7e0c7065ce6c7b557a5139b3904c5",
+  "duration": 412,
+  "language": "en"
 }

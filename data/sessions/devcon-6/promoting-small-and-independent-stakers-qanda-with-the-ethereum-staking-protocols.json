@@ -22,24 +22,11 @@
     "jordan-sutcliffe",
     "vasiliy-shapovalov"
   ],
-  "slot": {
-    "start": 1665504000000,
-    "end": 1665507000000,
-    "length": 3000,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 694,
-    "language": "en",
-    "sources": {
-      "youtube": "Exh-hQOV8kE",
-      "swarm": "ad8496eda794da44c27917d20d1e4d02bc8cc83bb65c661fab8049af110edf77"
-    }
-  }
+  "slot_start": 1665504000000,
+  "slot_end": 1665507000000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "Exh-hQOV8kE",
+  "sources_swarmHash": "ad8496eda794da44c27917d20d1e4d02bc8cc83bb65c661fab8049af110edf77",
+  "duration": 694,
+  "language": "en"
 }

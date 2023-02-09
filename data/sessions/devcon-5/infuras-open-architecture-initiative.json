@@ -15,13 +15,9 @@
     "jee-choi",
     "eleazar-galano"
   ],
-  "media": {
-    "duration": 1094,
-    "language": "en",
-    "sources": {
-      "youtube": "6h4vR-Uw5-8",
-      "ipfs": "QmU1YsUNhfcAiK1oFPkVcxY2vKvZeqRfYuX45oovaHkjrw",
-      "swarm": "52801d76ac81baf7d316d3ce590570d1cb7dcdcff34872be64e7d90fdd597a9c"
-    }
-  }
+  "sources_youtubeId": "6h4vR-Uw5-8",
+  "sources_ipfsHash": "QmU1YsUNhfcAiK1oFPkVcxY2vKvZeqRfYuX45oovaHkjrw",
+  "sources_swarmHash": "52801d76ac81baf7d316d3ce590570d1cb7dcdcff34872be64e7d90fdd597a9c",
+  "duration": 1094,
+  "language": "en"
 }

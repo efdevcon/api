@@ -13,13 +13,9 @@
   "speakers": [
     "edmund-edgar"
   ],
-  "media": {
-    "duration": 1191,
-    "language": "en",
-    "sources": {
-      "youtube": "I_69IxjIgqU",
-      "ipfs": "QmT2yHi8EobHxhNwiUXhAd485gJ28hvKVi5GjQjArUD7Zb",
-      "swarm": "acdcaeb0d0aaa5fe1112020b85837075f6789150dcb36930842ba98d3ab76afc"
-    }
-  }
+  "sources_youtubeId": "I_69IxjIgqU",
+  "sources_ipfsHash": "QmT2yHi8EobHxhNwiUXhAd485gJ28hvKVi5GjQjArUD7Zb",
+  "sources_swarmHash": "acdcaeb0d0aaa5fe1112020b85837075f6789150dcb36930842ba98d3ab76afc",
+  "duration": 1191,
+  "language": "en"
 }

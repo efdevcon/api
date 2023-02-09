@@ -14,13 +14,9 @@
     "aaron-davis",
     "frankie-pangilinan"
   ],
-  "media": {
-    "duration": 1112,
-    "language": "en",
-    "sources": {
-      "youtube": "P6Bosg9QKnw",
-      "ipfs": "QmUT7kjQ7kEZVZALaBZTSQLgnVhbvRA8eW5cqkYBCD7men",
-      "swarm": "3a3be4302464e730f333e36b1e80fb83a6526e814b65467cdb0c0449d88e407b"
-    }
-  }
+  "sources_youtubeId": "P6Bosg9QKnw",
+  "sources_ipfsHash": "QmUT7kjQ7kEZVZALaBZTSQLgnVhbvRA8eW5cqkYBCD7men",
+  "sources_swarmHash": "3a3be4302464e730f333e36b1e80fb83a6526e814b65467cdb0c0449d88e407b",
+  "duration": 1112,
+  "language": "en"
 }

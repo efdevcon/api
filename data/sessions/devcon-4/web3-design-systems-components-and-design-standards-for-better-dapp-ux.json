@@ -19,13 +19,9 @@
     "laura-giron",
     "gustavo-esquinca"
   ],
-  "media": {
-    "duration": 1788,
-    "language": "en",
-    "sources": {
-      "youtube": "TS6krLxJWr4",
-      "ipfs": "QmT64UdRvmAR75jWjeC33rJksgwJnLfZJ6Rh315tgkEaSC",
-      "swarm": "023272f2483c57df4d04a189e86b62caff2cc4e632fe673fc5263f3e787c6416"
-    }
-  }
+  "sources_youtubeId": "TS6krLxJWr4",
+  "sources_ipfsHash": "QmT64UdRvmAR75jWjeC33rJksgwJnLfZJ6Rh315tgkEaSC",
+  "sources_swarmHash": "023272f2483c57df4d04a189e86b62caff2cc4e632fe673fc5263f3e787c6416",
+  "duration": 1788,
+  "language": "en"
 }

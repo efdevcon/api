@@ -14,13 +14,9 @@
   "speakers": [
     "raymond-yeh"
   ],
-  "media": {
-    "duration": 1082,
-    "language": "en",
-    "sources": {
-      "youtube": "_AdGdbfYOMU",
-      "ipfs": "QmQ7iPBTyQMv58sRCz1CZniZPhxeaJ8j2ApJhtrXqudmFx",
-      "swarm": "17a4288f977dbd9e8e1fd075e713497c4a3efcbbe4501152b71f62fbb107ec5c"
-    }
-  }
+  "sources_youtubeId": "_AdGdbfYOMU",
+  "sources_ipfsHash": "QmQ7iPBTyQMv58sRCz1CZniZPhxeaJ8j2ApJhtrXqudmFx",
+  "sources_swarmHash": "17a4288f977dbd9e8e1fd075e713497c4a3efcbbe4501152b71f62fbb107ec5c",
+  "duration": 1082,
+  "language": "en"
 }

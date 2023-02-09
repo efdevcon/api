@@ -21,27 +21,12 @@
     "juan-david-reyes",
     "romina-ayelen-sejas"
   ],
-  "resources": {
-    "slides": "/resources/6/how-to-build-bigger-and-stronger-eth-communities-in-latam-en-espanol.pdf"
-  },
-  "slot": {
-    "start": 1665590400000,
-    "end": 1665593400000,
-    "length": 3000,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 3252,
-    "language": "en",
-    "sources": {
-      "youtube": "EX461Vx24UQ",
-      "swarm": "7b3d59b9dbbfebbffb38155b1d4347dce72ec177a3b1be4099745c8caa6316e5"
-    }
-  }
+  "resources_slides": "/resources/6/how-to-build-bigger-and-stronger-eth-communities-in-latam-en-espanol.pdf",
+  "slot_start": 1665590400000,
+  "slot_end": 1665593400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "EX461Vx24UQ",
+  "sources_swarmHash": "7b3d59b9dbbfebbffb38155b1d4347dce72ec177a3b1be4099745c8caa6316e5",
+  "duration": 3252,
+  "language": "en"
 }

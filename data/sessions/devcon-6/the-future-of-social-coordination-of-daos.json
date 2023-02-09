@@ -16,27 +16,12 @@
   "speakers": [
     "chandler-de-kock"
   ],
-  "resources": {
-    "slides": "/resources/6/the-future-of-social-coordination-of-daos.pdf"
-  },
-  "slot": {
-    "start": 1665745200000,
-    "end": 1665747000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1564,
-    "language": "en",
-    "sources": {
-      "youtube": "HA6pwi_7Ao0",
-      "swarm": "22ab2544987139c2d891fefdb0a46de716dbbea65eb58287df2ea3a0e72d0fad"
-    }
-  }
+  "resources_slides": "/resources/6/the-future-of-social-coordination-of-daos.pdf",
+  "slot_start": 1665745200000,
+  "slot_end": 1665747000000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "HA6pwi_7Ao0",
+  "sources_swarmHash": "22ab2544987139c2d891fefdb0a46de716dbbea65eb58287df2ea3a0e72d0fad",
+  "duration": 1564,
+  "language": "en"
 }

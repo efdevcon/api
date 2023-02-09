@@ -16,26 +16,11 @@
   "speakers": [
     "hadrien-croubois"
   ],
-  "resources": {
-    "slides": "/resources/6/build-your-first-contract-with-the-wizard-of-oz.pdf"
-  },
-  "slot": {
-    "start": 1665576600000,
-    "end": 1665577020000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 471,
-    "language": "en",
-    "sources": {
-      "youtube": "b46q-O-42xE"
-    }
-  }
+  "resources_slides": "/resources/6/build-your-first-contract-with-the-wizard-of-oz.pdf",
+  "slot_start": 1665576600000,
+  "slot_end": 1665577020000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "b46q-O-42xE",
+  "duration": 471,
+  "language": "en"
 }

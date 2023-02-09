@@ -16,26 +16,11 @@
   "speakers": [
     "chris-buckland"
   ],
-  "resources": {
-    "slides": "/resources/6/demystifying-l2-transactions.pdf"
-  },
-  "slot": {
-    "start": 1665568800000,
-    "end": 1665572400000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3538,
-    "language": "en",
-    "sources": {
-      "youtube": "cN_RWbX8fgQ"
-    }
-  }
+  "resources_slides": "/resources/6/demystifying-l2-transactions.pdf",
+  "slot_start": 1665568800000,
+  "slot_end": 1665572400000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "cN_RWbX8fgQ",
+  "duration": 3538,
+  "language": "en"
 }

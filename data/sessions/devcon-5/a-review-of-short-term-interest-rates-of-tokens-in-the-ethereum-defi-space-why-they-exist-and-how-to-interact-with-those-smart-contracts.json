@@ -13,13 +13,9 @@
   "speakers": [
     "akash-patel"
   ],
-  "media": {
-    "duration": 363,
-    "language": "en",
-    "sources": {
-      "youtube": "UIqGfxZwGrQ",
-      "ipfs": "QmaZzJqfgqwgZh43aeiVrqHMxcxf1GEUx68s6jjPC81Uh4",
-      "swarm": "5cc38cc99ed1af39a8089690bc45b562f1708d393e40f15f2a8c75550f742abc"
-    }
-  }
+  "sources_youtubeId": "UIqGfxZwGrQ",
+  "sources_ipfsHash": "QmaZzJqfgqwgZh43aeiVrqHMxcxf1GEUx68s6jjPC81Uh4",
+  "sources_swarmHash": "5cc38cc99ed1af39a8089690bc45b562f1708d393e40f15f2a8c75550f742abc",
+  "duration": 363,
+  "language": "en"
 }

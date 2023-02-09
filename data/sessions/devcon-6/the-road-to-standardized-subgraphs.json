@@ -15,27 +15,12 @@
   "speakers": [
     "vincent-wen"
   ],
-  "resources": {
-    "slides": "/resources/6/the-road-to-standardized-subgraphs.pdf"
-  },
-  "slot": {
-    "start": 1665748200000,
-    "end": 1665748620000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 410,
-    "language": "en",
-    "sources": {
-      "youtube": "dh-Dj7otGy0",
-      "swarm": "55911bb369e114b0a92fbaa6c60c50027acaef67c14f2e67fc4cbb094d913ae1"
-    }
-  }
+  "resources_slides": "/resources/6/the-road-to-standardized-subgraphs.pdf",
+  "slot_start": 1665748200000,
+  "slot_end": 1665748620000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "dh-Dj7otGy0",
+  "sources_swarmHash": "55911bb369e114b0a92fbaa6c60c50027acaef67c14f2e67fc4cbb094d913ae1",
+  "duration": 410,
+  "language": "en"
 }

@@ -16,26 +16,11 @@
   "speakers": [
     "benjamin-memisevic"
   ],
-  "resources": {
-    "slides": "/resources/6/blockchain-analytics-101-building-an-indexer-from-scratch.pdf"
-  },
-  "slot": {
-    "start": 1665579600000,
-    "end": 1665583200000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3405,
-    "language": "en",
-    "sources": {
-      "youtube": "4akZVr3FuWg"
-    }
-  }
+  "resources_slides": "/resources/6/blockchain-analytics-101-building-an-indexer-from-scratch.pdf",
+  "slot_start": 1665579600000,
+  "slot_end": 1665583200000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "4akZVr3FuWg",
+  "duration": 3405,
+  "language": "en"
 }

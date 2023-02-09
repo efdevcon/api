@@ -13,13 +13,9 @@
   "speakers": [
     "nick-dodson"
   ],
-  "media": {
-    "duration": 1029,
-    "language": "en",
-    "sources": {
-      "youtube": "xUd8O-ybVdU",
-      "ipfs": "QmWFRzGA9hoVeh7uFr2VXyin9YRrN4WwkaLhN5KqJyhUnK",
-      "swarm": "0f3937c1f80afb5ac6bdd6f2740c37d4c319346a15269be57e712ac00bc542ba"
-    }
-  }
+  "sources_youtubeId": "xUd8O-ybVdU",
+  "sources_ipfsHash": "QmWFRzGA9hoVeh7uFr2VXyin9YRrN4WwkaLhN5KqJyhUnK",
+  "sources_swarmHash": "0f3937c1f80afb5ac6bdd6f2740c37d4c319346a15269be57e712ac00bc542ba",
+  "duration": 1029,
+  "language": "en"
 }

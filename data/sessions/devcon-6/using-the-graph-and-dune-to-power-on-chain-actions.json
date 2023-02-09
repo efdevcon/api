@@ -17,26 +17,11 @@
     "christian-stlouis",
     "mattias-lightstone"
   ],
-  "resources": {
-    "slides": "/resources/6/using-the-graph-and-dune-to-power-on-chain-actions.pdf"
-  },
-  "slot": {
-    "start": 1665590400000,
-    "end": 1665594000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-2",
-      "name": "Workshop 2",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 1964,
-    "language": "en",
-    "sources": {
-      "youtube": "nq5Om9pctFw"
-    }
-  }
+  "resources_slides": "/resources/6/using-the-graph-and-dune-to-power-on-chain-actions.pdf",
+  "slot_start": 1665590400000,
+  "slot_end": 1665594000000,
+  "slot_roomId": "workshop-2",
+  "sources_youtubeId": "nq5Om9pctFw",
+  "duration": 1964,
+  "language": "en"
 }

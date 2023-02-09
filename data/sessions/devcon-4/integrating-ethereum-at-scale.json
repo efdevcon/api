@@ -20,13 +20,9 @@
     "jake-craige",
     "pete-kim"
   ],
-  "media": {
-    "duration": 3602,
-    "language": "en",
-    "sources": {
-      "youtube": "cOMwnNIjtkk",
-      "ipfs": "Qmd5FJ6D48cDJ4A87EVovBoCBHByPuWfnoFwpwZQ9bqCYg",
-      "swarm": "ebe2732bbb59b506f346ee13410482008fde13f4485e78423924b078c13c72f0"
-    }
-  }
+  "sources_youtubeId": "cOMwnNIjtkk",
+  "sources_ipfsHash": "Qmd5FJ6D48cDJ4A87EVovBoCBHByPuWfnoFwpwZQ9bqCYg",
+  "sources_swarmHash": "ebe2732bbb59b506f346ee13410482008fde13f4485e78423924b078c13c72f0",
+  "duration": 3602,
+  "language": "en"
 }

@@ -16,13 +16,9 @@
   "speakers": [
     "dmitry-khovratovich"
   ],
-  "media": {
-    "duration": 1648,
-    "language": "en",
-    "sources": {
-      "youtube": "j14L5wjq9pk",
-      "ipfs": "QmSxQW5fdiErURx18t9Sy3fFBmoVKFeRZzmccU29oRPijP",
-      "swarm": "d6371bb8596b6f9c186fe540a956729e0318ca4f98b29e2ca8a9f4196c1d5950"
-    }
-  }
+  "sources_youtubeId": "j14L5wjq9pk",
+  "sources_ipfsHash": "QmSxQW5fdiErURx18t9Sy3fFBmoVKFeRZzmccU29oRPijP",
+  "sources_swarmHash": "d6371bb8596b6f9c186fe540a956729e0318ca4f98b29e2ca8a9f4196c1d5950",
+  "duration": 1648,
+  "language": "en"
 }

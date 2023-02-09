@@ -14,13 +14,9 @@
   "speakers": [
     "ian-miers"
   ],
-  "media": {
-    "duration": 1460,
-    "language": "en",
-    "sources": {
-      "youtube": "9s3EbSKDA3o",
-      "ipfs": "QmdwYkxgFNkeukg7Br15veYJeQaR7GjoGJzbs64TkfVLLz",
-      "swarm": "b76e5e30efd2237efb160a40b55c8adddfd0629bd52d4873971fd45cfe6c458d"
-    }
-  }
+  "sources_youtubeId": "9s3EbSKDA3o",
+  "sources_ipfsHash": "QmdwYkxgFNkeukg7Br15veYJeQaR7GjoGJzbs64TkfVLLz",
+  "sources_swarmHash": "b76e5e30efd2237efb160a40b55c8adddfd0629bd52d4873971fd45cfe6c458d",
+  "duration": 1460,
+  "language": "en"
 }

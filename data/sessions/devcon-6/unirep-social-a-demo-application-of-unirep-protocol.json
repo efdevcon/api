@@ -14,23 +14,10 @@
   "speakers": [
     "ya-wen-jeng"
   ],
-  "slot": {
-    "start": 1665673200000,
-    "end": 1665673800000,
-    "length": 600,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 650,
-    "language": "en",
-    "sources": {
-      "youtube": "O2p92yM0-tI"
-    }
-  }
+  "slot_start": 1665673200000,
+  "slot_end": 1665673800000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "O2p92yM0-tI",
+  "duration": 650,
+  "language": "en"
 }

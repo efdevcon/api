@@ -16,13 +16,9 @@
   "speakers": [
     "mamy-ratsimbazafy"
   ],
-  "media": {
-    "duration": 1064,
-    "language": "en",
-    "sources": {
-      "youtube": "SgVsaXhTWNc",
-      "ipfs": "QmU5CrDSsDUa1Pxs2S5xWT1ayxmeFD1KLjknNmZ9qVDLPA",
-      "swarm": "9f824de5f88e12a4ddbeeffb17d13eb61b99c8ac5dafc005dce9c7afe6c020d7"
-    }
-  }
+  "sources_youtubeId": "SgVsaXhTWNc",
+  "sources_ipfsHash": "QmU5CrDSsDUa1Pxs2S5xWT1ayxmeFD1KLjknNmZ9qVDLPA",
+  "sources_swarmHash": "9f824de5f88e12a4ddbeeffb17d13eb61b99c8ac5dafc005dce9c7afe6c020d7",
+  "duration": 1064,
+  "language": "en"
 }

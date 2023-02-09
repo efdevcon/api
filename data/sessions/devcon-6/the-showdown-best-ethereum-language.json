@@ -18,26 +18,11 @@
     "leo-alt",
     "alex-beregszaszi"
   ],
-  "resources": {
-    "slides": "/resources/6/the-showdown-best-ethereum-language.pdf"
-  },
-  "slot": {
-    "start": 1665680400000,
-    "end": 1665684000000,
-    "length": 3600,
-    "room": {
-      "id": "workshop-3",
-      "name": "Workshop 3",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 3184,
-    "language": "en",
-    "sources": {
-      "youtube": "XheexVC689E"
-    }
-  }
+  "resources_slides": "/resources/6/the-showdown-best-ethereum-language.pdf",
+  "slot_start": 1665680400000,
+  "slot_end": 1665684000000,
+  "slot_roomId": "workshop-3",
+  "sources_youtubeId": "XheexVC689E",
+  "duration": 3184,
+  "language": "en"
 }

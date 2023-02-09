@@ -19,27 +19,12 @@
     "alp-ergin",
     "abbey"
   ],
-  "resources": {
-    "slides": "/resources/6/sustainable-ecosystem-scaling-how-do-we-fund-community-and-ecosystem-growth.pdf"
-  },
-  "slot": {
-    "start": 1665757800000,
-    "end": 1665761400000,
-    "length": 3600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 3109,
-    "language": "en",
-    "sources": {
-      "youtube": "3o8eVMP-bfs",
-      "swarm": "5294eb5941560e434a3a0d57c412c57327c9faa91731151005045e664cb60b9d"
-    }
-  }
+  "resources_slides": "/resources/6/sustainable-ecosystem-scaling-how-do-we-fund-community-and-ecosystem-growth.pdf",
+  "slot_start": 1665757800000,
+  "slot_end": 1665761400000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "3o8eVMP-bfs",
+  "sources_swarmHash": "5294eb5941560e434a3a0d57c412c57327c9faa91731151005045e664cb60b9d",
+  "duration": 3109,
+  "language": "en"
 }

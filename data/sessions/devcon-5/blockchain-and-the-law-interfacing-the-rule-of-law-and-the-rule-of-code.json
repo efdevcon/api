@@ -19,13 +19,9 @@
     "carla-reyes",
     "fennie-wang"
   ],
-  "media": {
-    "duration": 5025,
-    "language": "en",
-    "sources": {
-      "youtube": "yzTsWED6_34",
-      "ipfs": "QmNpwDR1pMbbQeTUVMYBJpdDJwDNvR3ZuyKh5PxokLTF2q",
-      "swarm": "4ae5a9966649d75790ed0b4f5709bc7d42a8937d3fcf2b8857267c1f5b2c1229"
-    }
-  }
+  "sources_youtubeId": "yzTsWED6_34",
+  "sources_ipfsHash": "QmNpwDR1pMbbQeTUVMYBJpdDJwDNvR3ZuyKh5PxokLTF2q",
+  "sources_swarmHash": "4ae5a9966649d75790ed0b4f5709bc7d42a8937d3fcf2b8857267c1f5b2c1229",
+  "duration": 5025,
+  "language": "en"
 }

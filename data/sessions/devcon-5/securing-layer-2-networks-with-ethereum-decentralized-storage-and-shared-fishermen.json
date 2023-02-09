@@ -15,13 +15,9 @@
   "speakers": [
     "dmitry-kurinskiy"
   ],
-  "media": {
-    "duration": 1333,
-    "language": "en",
-    "sources": {
-      "youtube": "oW63ghqQO_8",
-      "ipfs": "MISSING",
-      "swarm": "8bface5e2071dae473cfba59ee96ca390e776846c3f7a868aa89858dbebfc0a7"
-    }
-  }
+  "sources_youtubeId": "oW63ghqQO_8",
+  "sources_ipfsHash": "MISSING",
+  "sources_swarmHash": "8bface5e2071dae473cfba59ee96ca390e776846c3f7a868aa89858dbebfc0a7",
+  "duration": 1333,
+  "language": "en"
 }

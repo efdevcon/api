@@ -20,13 +20,9 @@
   "speakers": [
     "loi-luu"
   ],
-  "media": {
-    "duration": 706,
-    "language": "en",
-    "sources": {
-      "youtube": "bCvh6ED-cj0",
-      "ipfs": "QmSuQX3SnFcUx9BToWqcYPVMbdAaejrVpYQfiB123scBuV",
-      "swarm": "37f8ef469e8bf0d96e49f9c8b12d08ecff8f1cbc7a40372480dd3c60527ea49e"
-    }
-  }
+  "sources_youtubeId": "bCvh6ED-cj0",
+  "sources_ipfsHash": "QmSuQX3SnFcUx9BToWqcYPVMbdAaejrVpYQfiB123scBuV",
+  "sources_swarmHash": "37f8ef469e8bf0d96e49f9c8b12d08ecff8f1cbc7a40372480dd3c60527ea49e",
+  "duration": 706,
+  "language": "en"
 }

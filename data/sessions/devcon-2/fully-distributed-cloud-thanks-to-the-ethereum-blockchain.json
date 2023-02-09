@@ -35,13 +35,9 @@
   "speakers": [
     "gilles-fedak"
   ],
-  "media": {
-    "duration": 767,
-    "language": "en",
-    "sources": {
-      "youtube": "aCpv3qLZJWU",
-      "ipfs": "QmcvZTn796P3qoiQ7SgiSQsSahpd2KsQfyj49dyPJVg5zu",
-      "swarm": "86170c23a0c2dc4ac96e88300d2b156f2a1fda43019f0049b73ca13b96efbf05"
-    }
-  }
+  "sources_youtubeId": "aCpv3qLZJWU",
+  "sources_ipfsHash": "QmcvZTn796P3qoiQ7SgiSQsSahpd2KsQfyj49dyPJVg5zu",
+  "sources_swarmHash": "86170c23a0c2dc4ac96e88300d2b156f2a1fda43019f0049b73ca13b96efbf05",
+  "duration": 767,
+  "language": "en"
 }

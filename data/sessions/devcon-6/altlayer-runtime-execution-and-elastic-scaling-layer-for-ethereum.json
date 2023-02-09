@@ -16,27 +16,12 @@
   "speakers": [
     "yaoqi"
   ],
-  "resources": {
-    "slides": "/resources/6/altlayer-runtime-execution-and-elastic-scaling-layer-for-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665510000000,
-    "end": 1665510600000,
-    "length": 600,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 519,
-    "language": "en",
-    "sources": {
-      "youtube": "kpjnu198Btc",
-      "swarm": "56a4ab2911eaa30f001a5d481c5730cf8fc9353ad0fb3a810c32c8001693d56b"
-    }
-  }
+  "resources_slides": "/resources/6/altlayer-runtime-execution-and-elastic-scaling-layer-for-ethereum.pdf",
+  "slot_start": 1665510000000,
+  "slot_end": 1665510600000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "kpjnu198Btc",
+  "sources_swarmHash": "56a4ab2911eaa30f001a5d481c5730cf8fc9353ad0fb3a810c32c8001693d56b",
+  "duration": 519,
+  "language": "en"
 }

@@ -14,27 +14,12 @@
   "speakers": [
     "andrew-milich"
   ],
-  "resources": {
-    "slides": "/resources/6/skiff.pdf"
-  },
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665656700000,
-    "length": 1500,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1396,
-    "language": "en",
-    "sources": {
-      "youtube": "D3JoX9YnfEQ",
-      "swarm": "14a75bd45b350c5233907044daee107f3c5146f3f5bc1b7f33509ad2dcb04305"
-    }
-  }
+  "resources_slides": "/resources/6/skiff.pdf",
+  "slot_start": 1665655200000,
+  "slot_end": 1665656700000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "D3JoX9YnfEQ",
+  "sources_swarmHash": "14a75bd45b350c5233907044daee107f3c5146f3f5bc1b7f33509ad2dcb04305",
+  "duration": 1396,
+  "language": "en"
 }

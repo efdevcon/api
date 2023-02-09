@@ -17,27 +17,12 @@
   "speakers": [
     "konstantinos-paparas"
   ],
-  "resources": {
-    "slides": "/resources/6/rotki-why-its-open-source-and-local-first-and-why-should-you-care.pdf"
-  },
-  "slot": {
-    "start": 1665757800000,
-    "end": 1665759300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1253,
-    "language": "en",
-    "sources": {
-      "youtube": "72kLanSGq00",
-      "swarm": "e5ba1c503ecf854fc9b148e8546f09c5c848cf088dc6e106367a7fb027688d22"
-    }
-  }
+  "resources_slides": "/resources/6/rotki-why-its-open-source-and-local-first-and-why-should-you-care.pdf",
+  "slot_start": 1665757800000,
+  "slot_end": 1665759300000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "72kLanSGq00",
+  "sources_swarmHash": "e5ba1c503ecf854fc9b148e8546f09c5c848cf088dc6e106367a7fb027688d22",
+  "duration": 1253,
+  "language": "en"
 }

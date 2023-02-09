@@ -20,13 +20,9 @@
   "speakers": [
     "rhys-lindmark"
   ],
-  "media": {
-    "duration": 1112,
-    "language": "en",
-    "sources": {
-      "youtube": "aCrpt3t7MxU",
-      "ipfs": "QmWYFU1Fu5Tva2VgCHuchgwJEzWcMuBQNEjdpauDBAvKFY",
-      "swarm": "f3ae49cbff1ba905d2665862d2e211737c538e859248cdc9e6cbc8dc3b26ceda"
-    }
-  }
+  "sources_youtubeId": "aCrpt3t7MxU",
+  "sources_ipfsHash": "QmWYFU1Fu5Tva2VgCHuchgwJEzWcMuBQNEjdpauDBAvKFY",
+  "sources_swarmHash": "f3ae49cbff1ba905d2665862d2e211737c538e859248cdc9e6cbc8dc3b26ceda",
+  "duration": 1112,
+  "language": "en"
 }

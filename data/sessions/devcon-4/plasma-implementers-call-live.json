@@ -18,12 +18,8 @@
   "speakers": [
     "karl-floersch"
   ],
-  "media": {
-    "duration": 3221,
-    "language": "en",
-    "sources": {
-      "youtube": "fKs4IKkHpP4",
-      "ipfs": "QmdjK3UFSpCAH2ZeZvBjF5gf4m83CTH8Vb4FVzYuYyqfg4"
-    }
-  }
+  "sources_youtubeId": "fKs4IKkHpP4",
+  "sources_ipfsHash": "QmdjK3UFSpCAH2ZeZvBjF5gf4m83CTH8Vb4FVzYuYyqfg4",
+  "duration": 3221,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "everett-hildenbrandt"
   ],
-  "media": {
-    "duration": 1295,
-    "language": "en",
-    "sources": {
-      "youtube": "tIq_xECoicQ",
-      "ipfs": "QmWvXT8BnTCx66LMwcXhcjDXkibq5CuWtwbFZr7XxD55r9",
-      "swarm": "b9e2bba7b7c77dd0019933d4234b07bc9f4fb6da3b90795d4a8f50a7a2ceabd2"
-    }
-  }
+  "sources_youtubeId": "tIq_xECoicQ",
+  "sources_ipfsHash": "QmWvXT8BnTCx66LMwcXhcjDXkibq5CuWtwbFZr7XxD55r9",
+  "sources_swarmHash": "b9e2bba7b7c77dd0019933d4234b07bc9f4fb6da3b90795d4a8f50a7a2ceabd2",
+  "duration": 1295,
+  "language": "en"
 }

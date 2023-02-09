@@ -20,24 +20,11 @@
     "chuy-cepeda",
     "geoffrey-see"
   ],
-  "slot": {
-    "start": 1665666000000,
-    "end": 1665669600000,
-    "length": 3600,
-    "room": {
-      "id": "talk-1",
-      "name": "Talk 1",
-      "description": "Tropical Sunset",
-      "info": "Floor 2",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 2894,
-    "language": "en",
-    "sources": {
-      "youtube": "znkAg3fVDJ4",
-      "swarm": "d9183105bf25405257dea483c5ba9a5884bbf33330e5d133a5dac9eee994ee8a"
-    }
-  }
+  "slot_start": 1665666000000,
+  "slot_end": 1665669600000,
+  "slot_roomId": "talk-1",
+  "sources_youtubeId": "znkAg3fVDJ4",
+  "sources_swarmHash": "d9183105bf25405257dea483c5ba9a5884bbf33330e5d133a5dac9eee994ee8a",
+  "duration": 2894,
+  "language": "en"
 }

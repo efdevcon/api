@@ -18,13 +18,9 @@
     "iuri-matias",
     "rob-stupay"
   ],
-  "media": {
-    "duration": 5403,
-    "language": "en",
-    "sources": {
-      "youtube": "7kJLgb2bEJY",
-      "ipfs": "QmZR7n9WD8HvHSPueH1TCNGdnDudUX3f5TJyzkLvahkrcd",
-      "swarm": "e82acbbba88c97817c1b389cde47d64424a9ccaacb7ac319c4d62935a2fbe654"
-    }
-  }
+  "sources_youtubeId": "7kJLgb2bEJY",
+  "sources_ipfsHash": "QmZR7n9WD8HvHSPueH1TCNGdnDudUX3f5TJyzkLvahkrcd",
+  "sources_swarmHash": "e82acbbba88c97817c1b389cde47d64424a9ccaacb7ac319c4d62935a2fbe654",
+  "duration": 5403,
+  "language": "en"
 }

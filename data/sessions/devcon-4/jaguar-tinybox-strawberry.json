@@ -15,13 +15,9 @@
   "speakers": [
     "nicholas-salloum"
   ],
-  "media": {
-    "duration": 2108,
-    "language": "en",
-    "sources": {
-      "youtube": "f8jbMCuR40o",
-      "ipfs": "QmQbJLyq1jJjdg3abpLRaj676Gy4NLFQGtN6YV42RV2DNS",
-      "swarm": "2f5ac2964beeb0bb149487dab6c34ac501195c50fd8cb3e7d01a9266b20ff23f"
-    }
-  }
+  "sources_youtubeId": "f8jbMCuR40o",
+  "sources_ipfsHash": "QmQbJLyq1jJjdg3abpLRaj676Gy4NLFQGtN6YV42RV2DNS",
+  "sources_swarmHash": "2f5ac2964beeb0bb149487dab6c34ac501195c50fd8cb3e7d01a9266b20ff23f",
+  "duration": 2108,
+  "language": "en"
 }

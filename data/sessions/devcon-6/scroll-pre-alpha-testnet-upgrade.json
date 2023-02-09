@@ -16,27 +16,12 @@
   "speakers": [
     "ye-zhang"
   ],
-  "resources": {
-    "slides": "/resources/6/scroll-pre-alpha-testnet-upgrade.pdf"
-  },
-  "slot": {
-    "start": 1665658800000,
-    "end": 1665660600000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1529,
-    "language": "en",
-    "sources": {
-      "youtube": "a6kOGas--dE",
-      "swarm": "094589f6192d9297ca4223ed8f4e9c1ebe8352fb170cef2bbc6eeccb476d5a9b"
-    }
-  }
+  "resources_slides": "/resources/6/scroll-pre-alpha-testnet-upgrade.pdf",
+  "slot_start": 1665658800000,
+  "slot_end": 1665660600000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "a6kOGas--dE",
+  "sources_swarmHash": "094589f6192d9297ca4223ed8f4e9c1ebe8352fb170cef2bbc6eeccb476d5a9b",
+  "duration": 1529,
+  "language": "en"
 }

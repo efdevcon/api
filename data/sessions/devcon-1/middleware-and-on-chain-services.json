@@ -18,13 +18,9 @@
     "nikolai-mushegian",
     "george-hallam"
   ],
-  "media": {
-    "duration": 3510,
-    "language": "en",
-    "sources": {
-      "youtube": "Ik_E6JWJrkM",
-      "ipfs": "QmTzpJi6JPnVTnY897KuxzqbRWQxu8Q9uLiQFkVdcnXrUg",
-      "swarm": "4436af801e262855b60d9f1f26cd92066e7d1ed8e6a2b523f779dc387cbf2c4f"
-    }
-  }
+  "sources_youtubeId": "Ik_E6JWJrkM",
+  "sources_ipfsHash": "QmTzpJi6JPnVTnY897KuxzqbRWQxu8Q9uLiQFkVdcnXrUg",
+  "sources_swarmHash": "4436af801e262855b60d9f1f26cd92066e7d1ed8e6a2b523f779dc387cbf2c4f",
+  "duration": 3510,
+  "language": "en"
 }

@@ -14,23 +14,10 @@
   "speakers": [
     "aqeel-mohammad"
   ],
-  "slot": {
-    "start": 1665655200000,
-    "end": 1665684000000,
-    "length": 28800,
-    "room": {
-      "id": "workshop-4",
-      "name": "Workshop 4",
-      "description": "",
-      "info": "Floor 3",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 7647,
-    "language": "en",
-    "sources": {
-      "youtube": "ovf40FGJBOE"
-    }
-  }
+  "slot_start": 1665655200000,
+  "slot_end": 1665684000000,
+  "slot_roomId": "workshop-4",
+  "sources_youtubeId": "ovf40FGJBOE",
+  "duration": 7647,
+  "language": "en"
 }

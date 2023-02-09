@@ -16,27 +16,12 @@
   "speakers": [
     "danno-ferrin"
   ],
-  "resources": {
-    "slides": "/resources/6/what-alternative-blockchains-compatibility-with-ethereum-tooling-can-teach-us-about-ethereums-future.pdf"
-  },
-  "slot": {
-    "start": 1665756000000,
-    "end": 1665757500000,
-    "length": 1500,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1224,
-    "language": "en",
-    "sources": {
-      "youtube": "KqE9HN4QGpM",
-      "swarm": "51aecc8fbb15df4433e992a3ab19de90ad59e3e7dccf04cd985fcdb900911096"
-    }
-  }
+  "resources_slides": "/resources/6/what-alternative-blockchains-compatibility-with-ethereum-tooling-can-teach-us-about-ethereums-future.pdf",
+  "slot_start": 1665756000000,
+  "slot_end": 1665757500000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "KqE9HN4QGpM",
+  "sources_swarmHash": "51aecc8fbb15df4433e992a3ab19de90ad59e3e7dccf04cd985fcdb900911096",
+  "duration": 1224,
+  "language": "en"
 }

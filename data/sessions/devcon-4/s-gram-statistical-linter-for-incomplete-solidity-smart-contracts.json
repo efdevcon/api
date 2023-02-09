@@ -16,13 +16,9 @@
   "speakers": [
     "han-liu"
   ],
-  "media": {
-    "duration": 415,
-    "language": "en",
-    "sources": {
-      "youtube": "tCZGgDSAMAs",
-      "ipfs": "QmXr16iMqccQuSioj81jRT3fwyR4zndaBbXdeCCtWEcbsy",
-      "swarm": "479c4177ae3e89d2d6e7a1dbf54ac80483cec49e051af823b1814de2c0f5f4b2"
-    }
-  }
+  "sources_youtubeId": "tCZGgDSAMAs",
+  "sources_ipfsHash": "QmXr16iMqccQuSioj81jRT3fwyR4zndaBbXdeCCtWEcbsy",
+  "sources_swarmHash": "479c4177ae3e89d2d6e7a1dbf54ac80483cec49e051af823b1814de2c0f5f4b2",
+  "duration": 415,
+  "language": "en"
 }

@@ -16,27 +16,12 @@
   "speakers": [
     "patrick-mccorry"
   ],
-  "resources": {
-    "slides": "/resources/6/a-better-mental-model-for-rollups-plasma-and-validating-bridges.pdf"
-  },
-  "slot": {
-    "start": 1665493200000,
-    "end": 1665495000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-3",
-      "name": "Talk 3",
-      "description": "Flowers",
-      "info": "Floor 3",
-      "capacity": 260
-    }
-  },
-  "media": {
-    "duration": 1602,
-    "language": "en",
-    "sources": {
-      "youtube": "Z1dDVW7QTTM",
-      "swarm": "770086b89312657f922d8d8ec15c54d47d1ecfee74069a81d206590ab9652d81"
-    }
-  }
+  "resources_slides": "/resources/6/a-better-mental-model-for-rollups-plasma-and-validating-bridges.pdf",
+  "slot_start": 1665493200000,
+  "slot_end": 1665495000000,
+  "slot_roomId": "talk-3",
+  "sources_youtubeId": "Z1dDVW7QTTM",
+  "sources_swarmHash": "770086b89312657f922d8d8ec15c54d47d1ecfee74069a81d206590ab9652d81",
+  "duration": 1602,
+  "language": "en"
 }

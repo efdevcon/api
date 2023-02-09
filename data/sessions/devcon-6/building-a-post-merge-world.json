@@ -19,23 +19,10 @@
     "kris-kaczor",
     "paul-hauner"
   ],
-  "slot": {
-    "start": 1665583500000,
-    "end": 1665585600000,
-    "length": 2100,
-    "room": {
-      "id": "workshop-1",
-      "name": "Workshop 1",
-      "description": "SLS/Community Room",
-      "info": "Floor 2",
-      "capacity": 112
-    }
-  },
-  "media": {
-    "duration": 2221,
-    "language": "en",
-    "sources": {
-      "youtube": "5zDxex9YBvA"
-    }
-  }
+  "slot_start": 1665583500000,
+  "slot_end": 1665585600000,
+  "slot_roomId": "workshop-1",
+  "sources_youtubeId": "5zDxex9YBvA",
+  "duration": 2221,
+  "language": "en"
 }

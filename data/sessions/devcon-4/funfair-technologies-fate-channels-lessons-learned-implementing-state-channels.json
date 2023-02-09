@@ -14,13 +14,9 @@
   "speakers": [
     "jeremy-longley"
   ],
-  "media": {
-    "duration": 1336,
-    "language": "en",
-    "sources": {
-      "youtube": "1ZHCpb-htMk",
-      "ipfs": "QmQoz347y2fHhUFTAQCG33TtZqJ3pgcLwVg9aPAXWccQUp",
-      "swarm": "6397b84f582239c90a412236eac78ee180b3e8430387429dabf7b2ad464c6391"
-    }
-  }
+  "sources_youtubeId": "1ZHCpb-htMk",
+  "sources_ipfsHash": "QmQoz347y2fHhUFTAQCG33TtZqJ3pgcLwVg9aPAXWccQUp",
+  "sources_swarmHash": "6397b84f582239c90a412236eac78ee180b3e8430387429dabf7b2ad464c6391",
+  "duration": 1336,
+  "language": "en"
 }

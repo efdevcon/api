@@ -16,23 +16,10 @@
     "alex-beregszaszi",
     "pawel-bylica"
   ],
-  "slot": {
-    "start": 1665577200000,
-    "end": 1665577620000,
-    "length": 420,
-    "room": {
-      "id": "talk-4",
-      "name": "Talk 4",
-      "description": "River",
-      "info": "Floor 3",
-      "capacity": 110
-    }
-  },
-  "media": {
-    "duration": 442,
-    "language": "en",
-    "sources": {
-      "youtube": "pyxtgilJgKg"
-    }
-  }
+  "slot_start": 1665577200000,
+  "slot_end": 1665577620000,
+  "slot_roomId": "talk-4",
+  "sources_youtubeId": "pyxtgilJgKg",
+  "duration": 442,
+  "language": "en"
 }

@@ -13,13 +13,9 @@
   "speakers": [
     "lawrence-orisini"
   ],
-  "media": {
-    "duration": 974,
-    "language": "en",
-    "sources": {
-      "youtube": "kq8RPbFz5UU",
-      "ipfs": "QmdBxaYquRcQNF357LrHFJVYf1zWs8RMSM7LWi9BAYKZeA",
-      "swarm": "5c45d175a3a9a78bcfe1db57a6cadcc5641dfadc8054223cb273abaa001aab93"
-    }
-  }
+  "sources_youtubeId": "kq8RPbFz5UU",
+  "sources_ipfsHash": "QmdBxaYquRcQNF357LrHFJVYf1zWs8RMSM7LWi9BAYKZeA",
+  "sources_swarmHash": "5c45d175a3a9a78bcfe1db57a6cadcc5641dfadc8054223cb273abaa001aab93",
+  "duration": 974,
+  "language": "en"
 }

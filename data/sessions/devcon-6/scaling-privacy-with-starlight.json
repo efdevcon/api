@@ -19,27 +19,12 @@
     "paul-brody",
     "chaitanya-konda"
   ],
-  "resources": {
-    "slides": "/resources/6/scaling-privacy-with-starlight.pdf"
-  },
-  "slot": {
-    "start": 1665741600000,
-    "end": 1665743400000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1703,
-    "language": "en",
-    "sources": {
-      "youtube": "HJtoGbZFLNI",
-      "swarm": "69cc7115ad8cadec3a3f8096012897d5db7a604e3bd43210697b9f378387d582"
-    }
-  }
+  "resources_slides": "/resources/6/scaling-privacy-with-starlight.pdf",
+  "slot_start": 1665741600000,
+  "slot_end": 1665743400000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "HJtoGbZFLNI",
+  "sources_swarmHash": "69cc7115ad8cadec3a3f8096012897d5db7a604e3bd43210697b9f378387d582",
+  "duration": 1703,
+  "language": "en"
 }

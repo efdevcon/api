@@ -17,13 +17,9 @@
     "john-mardlin",
     "bernhard-mueller"
   ],
-  "media": {
-    "duration": 3231,
-    "language": "en",
-    "sources": {
-      "youtube": "Zs-P5FSJvGQ",
-      "ipfs": "QmctCT5Rcmokat6tf6qpdrFDXDWp2KeyigtesfX4C1Snzm",
-      "swarm": "b3a4ae2514595a2322f8f7360385919f925cffaeee03cf2a1e973a4bfda8def9"
-    }
-  }
+  "sources_youtubeId": "Zs-P5FSJvGQ",
+  "sources_ipfsHash": "QmctCT5Rcmokat6tf6qpdrFDXDWp2KeyigtesfX4C1Snzm",
+  "sources_swarmHash": "b3a4ae2514595a2322f8f7360385919f925cffaeee03cf2a1e973a4bfda8def9",
+  "duration": 3231,
+  "language": "en"
 }

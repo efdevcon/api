@@ -14,13 +14,9 @@
   "speakers": [
     "sunniva-sandbukt"
   ],
-  "media": {
-    "duration": 1231,
-    "language": "en",
-    "sources": {
-      "youtube": "CVA9069rO4I",
-      "ipfs": "QmQVYPeefAZ2oXA3BUrCGeAys7x8HnEY6jxzZ4DGoiaDNt",
-      "swarm": "05b3bdfd5ff44755bd39885bf86e11a7c7eef86ede55ad945eb3a70601f28c66"
-    }
-  }
+  "sources_youtubeId": "CVA9069rO4I",
+  "sources_ipfsHash": "QmQVYPeefAZ2oXA3BUrCGeAys7x8HnEY6jxzZ4DGoiaDNt",
+  "sources_swarmHash": "05b3bdfd5ff44755bd39885bf86e11a7c7eef86ede55ad945eb3a70601f28c66",
+  "duration": 1231,
+  "language": "en"
 }

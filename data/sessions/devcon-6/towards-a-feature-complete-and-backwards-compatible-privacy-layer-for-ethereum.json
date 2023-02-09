@@ -16,27 +16,12 @@
     "wei-dai",
     "kyle-charbonnet"
   ],
-  "resources": {
-    "slides": "/resources/6/towards-a-feature-complete-and-backwards-compatible-privacy-layer-for-ethereum.pdf"
-  },
-  "slot": {
-    "start": 1665745200000,
-    "end": 1665747000000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1598,
-    "language": "en",
-    "sources": {
-      "youtube": "aHiPt8QA9Wo",
-      "swarm": "1cdff35dd7fcc653568c22330ce77e265d45c0d96c139f7ce8b5e92da1932c63"
-    }
-  }
+  "resources_slides": "/resources/6/towards-a-feature-complete-and-backwards-compatible-privacy-layer-for-ethereum.pdf",
+  "slot_start": 1665745200000,
+  "slot_end": 1665747000000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "aHiPt8QA9Wo",
+  "sources_swarmHash": "1cdff35dd7fcc653568c22330ce77e265d45c0d96c139f7ce8b5e92da1932c63",
+  "duration": 1598,
+  "language": "en"
 }

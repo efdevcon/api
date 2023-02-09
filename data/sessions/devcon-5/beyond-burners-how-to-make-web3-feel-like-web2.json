@@ -15,13 +15,9 @@
   "speakers": [
     "james-duncan"
   ],
-  "media": {
-    "duration": 1196,
-    "language": "en",
-    "sources": {
-      "youtube": "dgA1WXn-dr0",
-      "ipfs": "QmemrZqEqjaqSrywc8KVEReZamJrgRF17z4UExsDEpqAvo",
-      "swarm": "a5b188bae46ddd6cbab0b3626fc0488722bce2e6a7d39791c99fa602f44a3e7c"
-    }
-  }
+  "sources_youtubeId": "dgA1WXn-dr0",
+  "sources_ipfsHash": "QmemrZqEqjaqSrywc8KVEReZamJrgRF17z4UExsDEpqAvo",
+  "sources_swarmHash": "a5b188bae46ddd6cbab0b3626fc0488722bce2e6a7d39791c99fa602f44a3e7c",
+  "duration": 1196,
+  "language": "en"
 }

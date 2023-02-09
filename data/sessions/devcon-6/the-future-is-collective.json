@@ -15,27 +15,12 @@
   "speakers": [
     "pia-mancini"
   ],
-  "resources": {
-    "slides": "/resources/6/the-future-is-collective.pdf"
-  },
-  "slot": {
-    "start": 1665757800000,
-    "end": 1665759300000,
-    "length": 1500,
-    "room": {
-      "id": "talk-5",
-      "name": "Talk 5",
-      "description": "On Top of the Mountain",
-      "info": "Floor 5",
-      "capacity": 1140
-    }
-  },
-  "media": {
-    "duration": 1666,
-    "language": "en",
-    "sources": {
-      "youtube": "TLdweFiQSY4",
-      "swarm": "2d125412c08841b8b357b956b047751fb96a3cf0d25202597e146dd7ca3132d1"
-    }
-  }
+  "resources_slides": "/resources/6/the-future-is-collective.pdf",
+  "slot_start": 1665757800000,
+  "slot_end": 1665759300000,
+  "slot_roomId": "talk-5",
+  "sources_youtubeId": "TLdweFiQSY4",
+  "sources_swarmHash": "2d125412c08841b8b357b956b047751fb96a3cf0d25202597e146dd7ca3132d1",
+  "duration": 1666,
+  "language": "en"
 }

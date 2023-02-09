@@ -13,13 +13,9 @@
   "speakers": [
     "clement-lesaege"
   ],
-  "media": {
-    "duration": 946,
-    "language": "en",
-    "sources": {
-      "youtube": "GvXwD7SY7dw",
-      "ipfs": "QmcbZtfUuuVqMPeR2Tt9KFQqnAt2TmgotCRvenGiSk8N6n",
-      "swarm": "b3062b787921ccddfa0842ed1dcc5ad5a594a36dc2526f163a3211646d012248"
-    }
-  }
+  "sources_youtubeId": "GvXwD7SY7dw",
+  "sources_ipfsHash": "QmcbZtfUuuVqMPeR2Tt9KFQqnAt2TmgotCRvenGiSk8N6n",
+  "sources_swarmHash": "b3062b787921ccddfa0842ed1dcc5ad5a594a36dc2526f163a3211646d012248",
+  "duration": 946,
+  "language": "en"
 }

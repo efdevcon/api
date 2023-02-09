@@ -16,27 +16,12 @@
   "speakers": [
     "piper-merriam"
   ],
-  "resources": {
-    "slides": "/resources/6/the-portal-network.pdf"
-  },
-  "slot": {
-    "start": 1665491400000,
-    "end": 1665493200000,
-    "length": 1800,
-    "room": {
-      "id": "talk-2",
-      "name": "Talk 2",
-      "description": "Cold Forest",
-      "info": "Floor 3",
-      "capacity": 414
-    }
-  },
-  "media": {
-    "duration": 1491,
-    "language": "en",
-    "sources": {
-      "youtube": "0stc9jnQLXA",
-      "swarm": "1b3b50df7d33de2a85927d05a72dec1f08fa8753159abb98dbce3c67d21178ad"
-    }
-  }
+  "resources_slides": "/resources/6/the-portal-network.pdf",
+  "slot_start": 1665491400000,
+  "slot_end": 1665493200000,
+  "slot_roomId": "talk-2",
+  "sources_youtubeId": "0stc9jnQLXA",
+  "sources_swarmHash": "1b3b50df7d33de2a85927d05a72dec1f08fa8753159abb98dbce3c67d21178ad",
+  "duration": 1491,
+  "language": "en"
 }

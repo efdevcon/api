@@ -17,13 +17,9 @@
   "speakers": [
     "jason-carver"
   ],
-  "media": {
-    "duration": 1278,
-    "language": "en",
-    "sources": {
-      "youtube": "Be0oRAjYvbw",
-      "ipfs": "QmTKxgBaWVQFUcyYbS4FhKFnihhz5ZXSKicU2sL7qyHUZa",
-      "swarm": "05222974cdcb6c9b5a9597457246457c5246c0eaeea12e511becad07515df998"
-    }
-  }
+  "sources_youtubeId": "Be0oRAjYvbw",
+  "sources_ipfsHash": "QmTKxgBaWVQFUcyYbS4FhKFnihhz5ZXSKicU2sL7qyHUZa",
+  "sources_swarmHash": "05222974cdcb6c9b5a9597457246457c5246c0eaeea12e511becad07515df998",
+  "duration": 1278,
+  "language": "en"
 }
