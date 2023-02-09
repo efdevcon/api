@@ -1,3 +1,4 @@
-/generated
-/data
+data
+generated
+node_modules
 src
