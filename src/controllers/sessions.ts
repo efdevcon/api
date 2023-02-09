@@ -68,26 +68,31 @@ async function GetSessionImage(req: Request, res: Response) {
     speakers: data.speakers.length > 1 ? data.speakers : [],
   })
 
-  const browser = await puppeteer.launch({
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-    headless: true, // switch headless to debug
-  })
-  const page = await browser.newPage()
+  try {
+    const browser = await puppeteer.launch({
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
+      headless: true, // switch headless to debug
+    })
+    const page = await browser.newPage()
 
-  if (imageType === 'video') {
-    await page.setViewport({ width: 1920, height: 1080 })
-  } else {
-    await page.setViewport({ width: 1200, height: 630 })
+    if (imageType === 'video') {
+      await page.setViewport({ width: 1920, height: 1080 })
+    } else {
+      await page.setViewport({ width: 1200, height: 630 })
+    }
+
+    await page.setContent(html, { waitUntil: 'domcontentloaded' })
+    const image = await page.screenshot({ type: 'png', omitBackground: true })
+
+    await page.close()
+    await browser.close()
+
+    res.statusCode = 200
+    res.setHeader('Content-Type', 'image/png')
+    res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
+    res.end(image)
+  } catch (error) {
+    console.error(error)
+    res.status(500).send({ status: 500, message: 'Internal Server Error' })
   }
-
-  await page.setContent(html, { waitUntil: 'domcontentloaded' })
-  const image = await page.screenshot({ type: 'png', omitBackground: true })
-
-  await page.close()
-  await browser.close()
-
-  res.statusCode = 200
-  res.setHeader('Content-Type', 'image/png')
-  res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
-  res.end(image)
 }
