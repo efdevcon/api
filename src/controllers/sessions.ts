@@ -4,9 +4,10 @@ import Handlebars from 'handlebars'
 import puppeteer from 'puppeteer'
 import { ogImageTemplate } from 'templates/og'
 import { templateStyles } from 'templates/styles'
-import { Session } from 'types/sessions'
-import { GetData, GetSessionData } from 'clients/filesystem'
 import { GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
+import { PrismaClient } from '@prisma/client'
+
+const client = new PrismaClient()
 
 export const sessionsRouter = Router()
 sessionsRouter.get(`/sessions`, GetSessions)
@@ -15,50 +16,60 @@ sessionsRouter.get(`/sessions/:id/image`, GetSessionImage)
 
 async function GetSessions(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = GetData<Session>('sessions')
+  const data = await client.session.findMany()
 
   res.status(200).send({ status: 200, message: '', data })
 }
 
 async function GetSession(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = GetData<Session>('sessions')
-  const item = data.find((e) => e.id.toLowerCase() === req.params.id.toLowerCase() || e.sourceId.toLowerCase() === req.params.id.toLowerCase())
+  const data = await client.session.findFirst({
+    where: {
+      OR: [{ id: req.params.id }, { sourceId: req.params.id }],
+    },
+  })
 
-  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
+  if (!data) return res.status(404).send({ status: 404, message: 'Not Found' })
 
   res.status(200).send({ status: 200, message: '', data })
 }
 
 async function GetSessionImage(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = GetSessionData()
-  const item = data.find((e) => e.id.toLowerCase() === req.params.id.toLowerCase() || e.sourceId.toLowerCase() === req.params.id.toLowerCase())
+  const data = await client.session.findFirst({
+    where: {
+      OR: [{ id: req.params.id }, { sourceId: req.params.id }],
+    },
+    include: {
+      speakers: true,
+    },
+  })
 
-  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
+  if (!data) return res.status(404).send({ status: 404, message: 'Not Found' })
 
   const imageType: string = 'og' // og | video
   const styles = Handlebars.compile(templateStyles)({
     fontSize: imageType === 'video' ? '1.8rem' : '1.4rem',
-    scaledFontSize: item.title.length > 100 ? 'smaller' : item.title.length < 50 ? 'larger' : 'inherit',
+    scaledFontSize: data.title.length > 100 ? 'smaller' : data.title.length < 50 ? 'larger' : 'inherit',
   })
 
+  console.log('SPEAKERS', data.speakers.length, data.speakers)
   const baseUri = `${req.protocol}://${req.headers.host}`
   const html = Handlebars.compile(ogImageTemplate)({
     cssStyle: styles,
     logoUrl: `${baseUri}/static/dc6/dcvibogota.svg`,
     imageType: imageType,
-    track: GetTrackId(item.track),
-    trackImage: GetTrackImage(baseUri, item.track),
-    type: item.type,
-    title: item.title,
-    eventDay: GetEventDay(item.slot?.start || 0),
-    eventDate: dayjs(item.slot?.start).format('MMM DD, YYYY'),
-    speaker: item.speakers.length === 1 ? item.speakers[0] : null,
-    speakers: item.speakers.length > 1 ? item.speakers : [],
+    track: GetTrackId(data.track),
+    trackImage: GetTrackImage(baseUri, data.track),
+    type: data.type,
+    title: data.title,
+    eventDay: GetEventDay(data.slot_start ?? new Date()),
+    eventDate: dayjs(data.slot_start).format('MMM DD, YYYY'),
+    speaker: data.speakers.length === 1 ? data.speakers[0] : null,
+    speakers: data.speakers.length > 1 ? data.speakers : [],
   })
 
-  const browser = await puppeteer.launch({ args: ['--no-sandbox'] })
+  const browser = await puppeteer.launch({ args: ['--no-sandbox'], headless: true }) // switch headless to debug
   const page = await browser.newPage()
 
   if (imageType === 'video') {
@@ -75,6 +86,6 @@ async function GetSessionImage(req: Request, res: Response) {
 
   res.statusCode = 200
   res.setHeader('Content-Type', 'image/png')
-  res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
+  // res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
   res.end(image)
 }

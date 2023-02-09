@@ -1,8 +1,6 @@
-import { getDefaultProvider } from '@ethersproject/providers'
 import dayjs from 'dayjs'
-import makeBlockie from 'ethereum-blockies-base64'
 
-export function GetEventDay(date: number) {
+export function GetEventDay(date: Date) {
   const days = ['Day 1', 'Day 2', 'Day 3', 'Day 4']
   const diff = dayjs(date).diff(1665489600000, 'day')
   return days[diff]

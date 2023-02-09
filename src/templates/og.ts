@@ -40,7 +40,7 @@ export const ogImageTemplate = `
         <footer class="multiple">
           <div class="avatars">
             {{#each speakers}}
-              <img src="{{this.avatar}}" alt="{{name}}" class="avatar" crossorigin="anonymous" />
+              <img src="{{this.avatar}}" alt="{{this.name}}" class="avatar" crossorigin="anonymous" />
             {{/each}}
           </div>
           <p>

@@ -34,20 +34,6 @@
         }
       }
     },
-    "/test": {
-      "get": {
-        "tags": [
-          "Default"
-        ],
-        "description": "",
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/account": {
       "get": {
         "tags": [
@@ -280,7 +266,7 @@
         }
       }
     },
-    "/events/{id}/venue": {
+    "/events/{id}/rooms": {
       "get": {
         "tags": [
           "Events"
@@ -297,6 +283,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
           }
         }
       }

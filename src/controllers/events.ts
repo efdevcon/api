@@ -1,47 +1,65 @@
 import { Request, Response, Router } from 'express'
-import { GetData, GetSessionData, GetSpeakerData } from 'clients/filesystem'
-import { Event } from 'types/events'
+import { PrismaClient } from '@prisma/client'
+
+const client = new PrismaClient()
 
 export const eventsRouter = Router()
 eventsRouter.get(`/events`, GetEvents)
 eventsRouter.get(`/events/:id`, GetEvent)
 eventsRouter.get(`/events/:id/sessions`, GetSessions)
 eventsRouter.get(`/events/:id/speakers`, GetSpeakers)
-eventsRouter.get(`/events/:id/venue`, GetVenue)
+eventsRouter.get(`/events/:id/rooms`, GetRooms)
 
 async function GetEvents(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const data = GetData<Event>('events')
+  const data = await client.event.findMany()
 
-  res.status(200).send({ status: 200, message: '', data })
+  res.status(200).send({ status: 200, message: '', data: data })
 }
 
 async function GetEvent(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const data = GetData<Event>('events')
-  const item = data.find((e) => e.id.toLowerCase() === req.params.id.toLowerCase())
+  const data = await client.event.findFirst({
+    where: { id: req.params.id },
+  })
 
-  if (!item) return res.status(404).send({ status: 404, message: 'Not Found' })
+  if (!data) return res.status(404).send({ status: 404, message: 'Not Found' })
 
-  res.status(200).send({ status: 200, message: '', data: item })
-}
-
-async function GetSpeakers(req: Request, res: Response) {
-  // #swagger.tags = ['Events']
-  const data = GetSpeakerData()
-
-  res.status(200).send({ status: 200, message: '', data })
+  res.status(200).send({ status: 200, message: '', data: data })
 }
 
 async function GetSessions(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const data = GetSessionData().filter((i) => i.eventId.toLowerCase() === req.params.id.toLowerCase())
+  const data = await client.session.findMany({
+    where: { eventId: req.params.id },
+  })
 
   res.status(200).send({ status: 200, message: '', data })
 }
 
-async function GetVenue(req: Request, res: Response) {
+async function GetSpeakers(req: Request, res: Response) {
   // #swagger.tags = ['Events']
+  const data = await client.speaker.findMany({
+    where: {
+      sessions: {
+        some: { eventId: req.params.id },
+      },
+    },
+  })
 
-  res.status(200).send({ status: 200, message: '', data: [] })
+  res.status(200).send({ status: 200, message: '', data })
+}
+
+async function GetRooms(req: Request, res: Response) {
+  // #swagger.tags = ['Events']
+  const data = await client.event.findFirst({
+    where: { id: req.params.id },
+    include: {
+      rooms: true,
+    },
+  })
+
+  if (!data) return res.status(404).send({ status: 404, message: 'Not Found' })
+
+  res.status(200).send({ status: 200, message: '', data: data.rooms })
 }

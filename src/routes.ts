@@ -15,15 +15,6 @@ router.get('/', (req, res) => {
   res.status(200).send({ status: 200, message: '', data: API_INFO })
 })
 
-router.get('/test', async (req, res) => {
-  // #swagger.tags = ['Default']
-
-  const client = new PrismaClient()
-  const data = await client.user.findMany({ include: { posts: true } })
-
-  res.status(200).send({ status: 200, message: '', data })
-})
-
 router.use(accountRouter)
 router.use(dipsRouter)
 router.use(eventsRouter)

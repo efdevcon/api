@@ -1,17 +1,15 @@
 import fs from 'fs'
 import { join } from 'path'
-import { Session } from 'types/sessions'
-import { Speaker } from 'types/speakers'
 import { CreateBlockie } from '../utils/account'
 
-export function GetData<T>(folder: string): Array<T> {
-  const files: T[] = []
+export function GetData(folder: string) {
+  const files: any[] = []
   const dir = join(process.cwd(), 'data', folder)
   const items = fs.readdirSync(dir, { withFileTypes: true })
 
   for (const i of items) {
     if (i.isDirectory()) {
-      const subFiles = GetData<T>(join(folder, i.name))
+      const subFiles = GetData(join(folder, i.name))
       files.push(...subFiles)
     }
 
@@ -28,26 +26,14 @@ export function GetData<T>(folder: string): Array<T> {
   return files
 }
 
-export function GetSpeakerData() {
-  const speakers = GetData<Speaker>('speakers')
+export function GetSpeakerData(): Array<any> {
+  const speakers = GetData('speakers')
   return speakers.map((i) => {
     const avatar = i.avatar || CreateBlockie(i.name)
 
     return {
       ...i,
       avatar,
-    }
-  })
-}
-
-export function GetSessionData() {
-  const sessions = GetData<Session>('sessions')
-  const speakers = GetSpeakerData()
-
-  return sessions.map((session) => {
-    return {
-      ...session,
-      speakers: (session.speakers as unknown as string[]).map((s) => speakers.find((sp) => sp.id === s)),
     }
   })
 }
