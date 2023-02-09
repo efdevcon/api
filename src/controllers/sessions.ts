@@ -86,6 +86,6 @@ async function GetSessionImage(req: Request, res: Response) {
 
   res.statusCode = 200
   res.setHeader('Content-Type', 'image/png')
-  // res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
+  res.setHeader('Cache-Control', `immutable, no-transform, s-max-age=2592000, max-age=2592000`)
   res.end(image)
 }
