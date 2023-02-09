@@ -68,7 +68,7 @@
     "helmet": "^6.0.1",
     "markdown-it": "^13.0.1",
     "prisma": "^4.9.0",
-    "puppeteer": "18.2.1",
+    "puppeteer": "^19.6.3",
     "slugify": "^1.6.5",
     "sqlite3": "^5.1.4",
     "swagger-ui-express": "^4.6.0"
