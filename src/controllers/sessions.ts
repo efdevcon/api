@@ -53,7 +53,6 @@ async function GetSessionImage(req: Request, res: Response) {
     scaledFontSize: data.title.length > 100 ? 'smaller' : data.title.length < 50 ? 'larger' : 'inherit',
   })
 
-  console.log('SPEAKERS', data.speakers.length, data.speakers)
   const baseUri = `${req.protocol}://${req.headers.host}`
   const html = Handlebars.compile(ogImageTemplate)({
     cssStyle: styles,
@@ -69,7 +68,10 @@ async function GetSessionImage(req: Request, res: Response) {
     speakers: data.speakers.length > 1 ? data.speakers : [],
   })
 
-  const browser = await puppeteer.launch({ args: ['--no-sandbox'], headless: true }) // switch headless to debug
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    headless: true, // switch headless to debug
+  })
   const page = await browser.newPage()
 
   if (imageType === 'video') {
