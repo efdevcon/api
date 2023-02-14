@@ -68,6 +68,9 @@ async function GetSessionImage(req: Request, res: Response) {
     speakers: data.speakers.length > 1 ? data.speakers : [],
   })
 
+  console.log('Render Session card with html')
+  console.log(html)
+
   try {
     const browser = await puppeteer.launch({
       args: ['--no-sandbox', '--disable-setuid-sandbox'],

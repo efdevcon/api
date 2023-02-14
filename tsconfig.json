@@ -10,6 +10,6 @@
   "ts-node": {
     "require": ["tsconfig-paths/register"]
   },
-  "include": ["./src", "src/.puppeteerrc.cjs"],
+  "include": ["./src"],
   "exclude": ["node_modules", "./src/**/*.test.ts", "./src/**/*.spec.ts"]
 }
