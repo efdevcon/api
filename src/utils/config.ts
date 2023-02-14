@@ -20,7 +20,7 @@ export const API_INFO = {
 }
 
 export const SERVER_CONFIG = {
-  NODE_ENV: process.env.NODE_ENV === 'production' || process.env.RENDER ? 'production' : process.env.NODE_ENV || 'development',
+  NODE_ENV: process.env.RENDER ? 'production' : process.env.NODE_ENV || 'development',
   PORT: process.env.PORT || 3000,
 
   ELASTIC_ENDPOINT: process.env.ELASTIC_ENDPOINT,
