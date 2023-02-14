@@ -23,4 +23,5 @@ const doc = {
 const outputFile = './definition.json'
 const endpointsFiles = ['../routes', '../controllers/*.ts']
 
+console.log('API Info', doc)
 swaggerAutogen(outputFile, endpointsFiles, doc)
