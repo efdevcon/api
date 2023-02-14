@@ -20,7 +20,8 @@
     "prettier": "prettier './src' --write",
     "db:generate": "prisma db push --force-reset --accept-data-loss && prisma db seed",
     "db:studio": "prisma studio",
-    "swagger:generate": "ts-node ./src/swagger/generate"
+    "swagger:generate": "ts-node ./src/swagger/generate",
+    "postinstall": "tsc && yarn swagger:generate && yarn db:generate"
   },
   "prisma": {
     "schema": "./src/db/schema.prisma",
@@ -67,7 +68,7 @@
     "helmet": "^6.0.1",
     "markdown-it": "^13.0.1",
     "prisma": "^4.10.1",
-    "puppeteer": "19.6.3",
+    "puppeteer": "18.2.1",
     "slugify": "^1.6.5",
     "sqlite3": "^5.1.4",
     "swagger-ui-express": "^4.6.0"
