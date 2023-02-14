@@ -10,7 +10,7 @@
     "url": "https://github.com/efdevcon/api"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && yarn swagger:generate && yarn db:generate",
     "start": "NODE_PATH=./dist node ./dist/index",
     "predev": "yarn swagger:generate && yarn db:generate",
     "dev": "nodemon ./src/index.ts",
