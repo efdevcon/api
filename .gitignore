@@ -13,6 +13,7 @@
 /out/
 /build
 /dist
+/.cache/
 
 # production
 /build
