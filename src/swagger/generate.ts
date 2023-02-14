@@ -17,8 +17,8 @@ const doc = {
       url: API_INFO.repository,
     },
   },
-  host: SERVER_CONFIG.NODE_ENV === 'development' ? 'localhost:3000' : API_INFO.host,
-  schemes: SERVER_CONFIG.NODE_ENV === 'development' ? ['http'] : ['https'],
+  host: process.env.NODE_ENV === 'production' || process.env.RENDER ? API_INFO.host : 'localhost:3000',
+  schemes: process.env.NODE_ENV === 'production' || process.env.RENDER ? ['https'] : ['http'],
 }
 const outputFile = './definition.json'
 const endpointsFiles = ['../routes', '../controllers/*.ts']
