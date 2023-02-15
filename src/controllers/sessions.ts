@@ -74,7 +74,7 @@ async function GetSessionImage(req: Request, res: Response) {
   try {
     const browser = await puppeteer.launch({
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      headless: true, // switch headless to debug
+      headless: true, // (default) switch to false to debug
     })
     const page = await browser.newPage()
 
@@ -84,7 +84,7 @@ async function GetSessionImage(req: Request, res: Response) {
       await page.setViewport({ width: 1200, height: 630 })
     }
 
-    await page.setContent(html, { waitUntil: 'domcontentloaded' })
+    await page.setContent(html, { waitUntil: 'networkidle0' })
     const image = await page.screenshot({ type: 'png', omitBackground: true })
 
     await page.close()
