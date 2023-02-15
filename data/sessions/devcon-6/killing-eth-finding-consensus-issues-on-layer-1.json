@@ -7,18 +7,12 @@
   "track": "Layer 1 Protocol",
   "type": "Talk",
   "expertise": "Beginner",
-  "tags": [
-    "Layer 1 Protocol",
-    "Testing",
-    "Fuzzing"
-  ],
-  "speakers": [
-    "marius-van-der-wijden"
-  ],
+  "tags": ["Layer 1 Protocol", "Testing", "Fuzzing"],
+  "speakers": ["marius-van-der-wijden"],
   "resources_slides": "/resources/6/killing-eth-finding-consensus-issues-on-layer-1.pdf",
   "slot_start": 1665495000000,
   "slot_end": 1665496800000,
   "slot_roomId": "talk-5-opening-ceremonies",
-  "sources_youtubeId": "FS9PPDSK6wc",
+  "sources_youtubeId": "WpbaWAwtG_M",
   "language": "en"
 }
