@@ -24,7 +24,7 @@ export const ogImageTemplate = `
       <main>
         <div>
           <p class="title">{{title}}</p>
-          <p class="date">{{eventDay}} — {{eventDate}}</p>
+          <p class="date">{{eventDay}}</p>
         </div>
         <img src="{{trackImage}}" alt="{{track}}" class="track-icon" crossorigin="anonymous" />
       </main>

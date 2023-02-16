@@ -1,9 +1,15 @@
+import { GetData } from 'clients/filesystem'
 import dayjs from 'dayjs'
 
-export function GetEventDay(date: Date) {
-  const days = ['Day 1', 'Day 2', 'Day 3', 'Day 4']
-  const diff = dayjs(date).diff(1665489600000, 'day')
-  return days[diff]
+export function GetEventDay(eventId: string, date: Date) {
+  const events = GetData('events')
+  const event = events.find((i) => i.id === eventId)
+
+  if (!event) return ''
+  const startDate = dayjs(event.startDate)
+  const diff = dayjs(date).diff(startDate, 'day')
+
+  return `Day ${diff + 1}`
 }
 
 export function GetRandomStyle() {

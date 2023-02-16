@@ -3,7 +3,7 @@
   "description": "Devcon API exposes information about Devcon, past events, schedules and our video archive. You can find more information at https://github.com/efdevcon/api",
   "homepage": "https://devcon-api.onrender.com",
   "author": "support@devcon.org",
-  "version": "0.3.3",
+  "version": "0.4.1",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
     "build": "tsc",
     "start": "NODE_PATH=./dist node ./dist/index",
     "predev": "yarn swagger:generate && yarn db:generate",
+    "d": "nodemon ./src/index.ts",
     "dev": "nodemon ./src/index.ts",
     "test": "NODE_ENV=test jest --detectOpenHandles --watchAll --no-cache",
     "test:coverage": "NODE_ENV=test jest --coverage --detectOpenHandles --no-cache",

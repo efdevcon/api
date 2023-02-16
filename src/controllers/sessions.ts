@@ -53,6 +53,10 @@ async function GetSessionImage(req: Request, res: Response) {
     scaledFontSize: data.title.length > 100 ? 'smaller' : data.title.length < 50 ? 'larger' : 'inherit',
   })
 
+  let eventDay = ''
+  if (data.slot_start) {
+    eventDay = `${GetEventDay(data.eventId, data.slot_start)} — ${dayjs(data.slot_start).format('MMM DD, YYYY')}`
+  }
   const baseUri = `${req.protocol}://${req.headers.host}`
   const html = Handlebars.compile(ogImageTemplate)({
     cssStyle: styles,
@@ -62,14 +66,10 @@ async function GetSessionImage(req: Request, res: Response) {
     trackImage: GetTrackImage(baseUri, data.track),
     type: data.type,
     title: data.title,
-    eventDay: GetEventDay(data.slot_start ?? new Date()),
-    eventDate: dayjs(data.slot_start).format('MMM DD, YYYY'),
+    eventDay: eventDay,
     speaker: data.speakers.length === 1 ? data.speakers[0] : null,
     speakers: data.speakers.length > 1 ? data.speakers : [],
   })
-
-  console.log('Render Session card with html')
-  console.log(html)
 
   try {
     const browser = await puppeteer.launch({
@@ -91,7 +91,6 @@ async function GetSessionImage(req: Request, res: Response) {
     }
 
     await page.setContent(html, { waitUntil: 'domcontentloaded' })
-    // await new Promise((r) => setTimeout(r, 1000))
 
     // Wait until all images and fonts have loaded
     await page.evaluate(async () => {
