@@ -73,8 +73,14 @@ async function GetSessionImage(req: Request, res: Response) {
 
   try {
     const browser = await puppeteer.launch({
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
       headless: true, // (default) switch to false to debug
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-web-security',
+        '--disable-features=IsolateOrigins',
+        '--disable-site-isolation-trials',
+      ],
     })
     const page = await browser.newPage()
 
@@ -84,7 +90,31 @@ async function GetSessionImage(req: Request, res: Response) {
       await page.setViewport({ width: 1200, height: 630 })
     }
 
-    await page.setContent(html, { waitUntil: 'networkidle0' })
+    await page.setContent(html, { waitUntil: 'domcontentloaded' })
+    // await new Promise((r) => setTimeout(r, 1000))
+
+    // Wait until all images and fonts have loaded
+    await page.evaluate(async () => {
+      const selectors = Array.from(document.querySelectorAll('img'))
+      await Promise.all([
+        document.fonts.ready,
+        ...selectors.map((img) => {
+          // Image has already finished loading, let’s see if it worked
+          if (img.complete) {
+            // Image loaded and has presence
+            if (img.naturalHeight !== 0) return
+            // Image failed, so it has no height
+            throw new Error('Image failed to load')
+          }
+          // Image hasn’t loaded yet, added an event listener to know when it does
+          return new Promise((resolve, reject) => {
+            img.addEventListener('load', resolve)
+            img.addEventListener('error', reject)
+          })
+        }),
+      ])
+    })
+
     const image = await page.screenshot({ type: 'png', omitBackground: true })
 
     await page.close()
