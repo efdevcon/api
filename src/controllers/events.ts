@@ -1,23 +1,25 @@
 import { Request, Response, Router } from 'express'
+import { GetSessions } from './sessions'
 import { PrismaClient } from '@prisma/client'
+import { GetSpeakers } from './speakers'
 
 const client = new PrismaClient()
 
 export const eventsRouter = Router()
 eventsRouter.get(`/events`, GetEvents)
 eventsRouter.get(`/events/:id`, GetEvent)
-eventsRouter.get(`/events/:id/sessions`, GetSessions)
-eventsRouter.get(`/events/:id/speakers`, GetSpeakers)
+eventsRouter.get(`/events/:id/sessions`, GetEventSessions)
+eventsRouter.get(`/events/:id/speakers`, GetEventSpeakers)
 eventsRouter.get(`/events/:id/rooms`, GetRooms)
 
-async function GetEvents(req: Request, res: Response) {
+export async function GetEvents(req: Request, res: Response) {
   // #swagger.tags = ['Events']
   const data = await client.event.findMany()
 
   res.status(200).send({ status: 200, message: '', data: data })
 }
 
-async function GetEvent(req: Request, res: Response) {
+export async function GetEvent(req: Request, res: Response) {
   // #swagger.tags = ['Events']
   const data = await client.event.findFirst({
     where: { id: req.params.id },
@@ -28,29 +30,23 @@ async function GetEvent(req: Request, res: Response) {
   res.status(200).send({ status: 200, message: '', data: data })
 }
 
-async function GetSessions(req: Request, res: Response) {
+export async function GetEventSessions(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const data = await client.session.findMany({
-    where: { eventId: req.params.id },
-  })
+  // #swagger.parameters['id'] = { description: 'AUTO-GENERATED. Can be ignored in Swagger' }
 
-  res.status(200).send({ status: 200, message: '', data })
+  req.query.event = req.params.id
+  GetSessions(req, res)
 }
 
-async function GetSpeakers(req: Request, res: Response) {
+export async function GetEventSpeakers(req: Request, res: Response) {
   // #swagger.tags = ['Events']
-  const data = await client.speaker.findMany({
-    where: {
-      sessions: {
-        some: { eventId: req.params.id },
-      },
-    },
-  })
+  // #swagger.parameters['id'] = { description: 'AUTO-GENERATED. Can be ignored in Swagger' }
 
-  res.status(200).send({ status: 200, message: '', data })
+  req.query.event = req.params.id
+  GetSpeakers(req, res)
 }
 
-async function GetRooms(req: Request, res: Response) {
+export async function GetRooms(req: Request, res: Response) {
   // #swagger.tags = ['Events']
   const data = await client.event.findFirst({
     where: { id: req.params.id },

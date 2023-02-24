@@ -1,4 +1,3 @@
-import { PrismaClient } from '@prisma/client'
 import { accountRouter } from 'controllers/account'
 import { dipsRouter } from 'controllers/dips'
 import { eventsRouter } from 'controllers/events'

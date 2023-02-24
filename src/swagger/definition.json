@@ -3,7 +3,7 @@
   "info": {
     "title": "Devcon API",
     "description": "Devcon API exposes information about Devcon, past events, schedules and our video archive. You can find more information at https://github.com/efdevcon/api",
-    "version": "0.3.3",
+    "version": "0.5.0",
     "contact": {
       "email": "support@devcon.org"
     },
@@ -235,14 +235,16 @@
             "name": "id",
             "in": "path",
             "required": true,
+            "type": "string",
+            "description": "AUTO-GENERATED. Can be ignored in Swagger"
+          },
+          {
+            "name": "event",
+            "in": "query",
             "type": "string"
           }
         ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
+        "responses": {}
       }
     },
     "/events/{id}/speakers": {
@@ -256,14 +258,16 @@
             "name": "id",
             "in": "path",
             "required": true,
+            "type": "string",
+            "description": "AUTO-GENERATED. Can be ignored in Swagger"
+          },
+          {
+            "name": "event",
+            "in": "query",
             "type": "string"
           }
         ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
+        "responses": {}
       }
     },
     "/events/{id}/rooms": {
@@ -296,7 +300,53 @@
           "Sessions"
         ],
         "description": "",
-        "parameters": [],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "size",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "order",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "event",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "expertise",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "tags",
+            "in": "query",
+            "type": "string"
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -361,7 +411,33 @@
           "Speakers"
         ],
         "description": "",
-        "parameters": [],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "size",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "order",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "event",
+            "in": "query",
+            "type": "string"
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"

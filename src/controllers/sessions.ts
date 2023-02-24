@@ -6,6 +6,7 @@ import { ogImageTemplate } from 'templates/og'
 import { templateStyles } from 'templates/styles'
 import { GetEventDay, GetTrackId, GetTrackImage } from 'utils/templates'
 import { PrismaClient } from '@prisma/client'
+import { API_DEFAULTS } from 'utils/config'
 
 const client = new PrismaClient()
 
@@ -14,14 +15,85 @@ sessionsRouter.get(`/sessions`, GetSessions)
 sessionsRouter.get(`/sessions/:id`, GetSession)
 sessionsRouter.get(`/sessions/:id/image`, GetSessionImage)
 
-async function GetSessions(req: Request, res: Response) {
+export async function GetSessions(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
-  const data = await client.session.findMany()
 
-  res.status(200).send({ status: 200, message: '', data })
+  const currentPage = req.query.from && req.query.size ? Math.ceil((Number(req.query.from) + 1) / Number(req.query.size)) : 1
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const args: any = {
+    skip: 0,
+    take: API_DEFAULTS.SIZE,
+    where: {},
+    include: {
+      speakers: true,
+    },
+  }
+  if (req.query.from) args.skip = parseInt(req.query.from as string)
+  if (req.query.size) args.take = parseInt(req.query.size as string)
+  if (req.query.sort) args.orderBy = { [req.query.sort as string]: req.query.order || API_DEFAULTS.ORDER }
+
+  // Note: filters are case sensitive
+  if (req.query.q) {
+    const query = req.query.q as string
+    args.where.OR = [
+      {
+        title: {
+          contains: query,
+        },
+      },
+      {
+        description: {
+          contains: query,
+        },
+      },
+      {
+        speakers: {
+          some: {
+            name: {
+              contains: query,
+            },
+          },
+        },
+      },
+    ]
+    args.where.eventId = {
+      in: req.query.event as string[],
+    }
+  }
+  if (req.query.event) {
+    args.where.eventId = {
+      in: req.query.event as string[],
+    }
+  }
+  if (req.query.expertise) {
+    args.where.expertise = {
+      in: req.query.expertise as string[],
+    }
+  }
+  if (req.query.type) {
+    args.where.type = {
+      in: req.query.type as string[],
+    }
+  }
+  if (req.query.tags) {
+    args.where.track = {
+      in: req.query.tags as string[],
+    }
+  }
+
+  const data = await client.$transaction([client.session.count({ where: args.where }), client.session.findMany(args)])
+  res.status(200).send({
+    status: 200,
+    message: '',
+    data: {
+      total: data[0],
+      currentPage: currentPage,
+      items: data[1],
+    },
+  })
 }
 
-async function GetSession(req: Request, res: Response) {
+export async function GetSession(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
   const data = await client.session.findFirst({
     where: {
@@ -34,7 +106,7 @@ async function GetSession(req: Request, res: Response) {
   res.status(200).send({ status: 200, message: '', data })
 }
 
-async function GetSessionImage(req: Request, res: Response) {
+export async function GetSessionImage(req: Request, res: Response) {
   // #swagger.tags = ['Sessions']
   const data = await client.session.findFirst({
     where: {
