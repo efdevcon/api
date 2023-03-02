@@ -132,7 +132,7 @@ export async function GetSessionImage(req: Request, res: Response) {
   const baseUri = `${req.protocol}://${req.headers.host}`
   const html = Handlebars.compile(ogImageTemplate)({
     cssStyle: styles,
-    logoUrl: `${baseUri}/static/dc6/dcvibogota.svg`,
+    logoUrl: `${baseUri}/static/images/editions/${data.eventId}.svg`,
     imageType: imageType,
     track: GetTrackId(data.track),
     trackImage: GetTrackImage(baseUri, data.track),

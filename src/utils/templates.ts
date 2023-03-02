@@ -46,17 +46,17 @@ export function GetTrackId(track: string) {
 }
 
 export function GetTrackImage(baseUri: string, track: string) {
-  if (track === 'Cryptoeconomics') return `${baseUri}/static/dc6/tracks/Cryptoeconomics.svg`
-  if (track === 'Developer Infrastructure') return `${baseUri}/static/dc6/tracks/Developer Infrastructure.svg`
-  if (track === 'Governance & Coordination') return `${baseUri}/static/dc6/tracks/Governance & Coordination.svg`
-  if (track === 'Layer 1 Protocol') return `${baseUri}/static/dc6/tracks/Layer 1 Protocol.svg`
-  if (track === 'Layer 2s') return `${baseUri}/static/dc6/tracks/Layer 2s.svg`
-  if (track === 'Opportunity & Global Impact') return `${baseUri}/static/dc6/tracks/Opportunity & Global Impact.svg`
-  if (track === 'Security') return `${baseUri}/static/dc6/tracks/Security.svg`
-  if (track === 'Staking & Validator Experience') return `${baseUri}/static/dc6/tracks/Staking & Validator Experience.svg`
-  if (track === 'UX & Design') return `${baseUri}/static/dc6/tracks/UX & Design.svg`
-  if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return `${baseUri}/static/dc6/tracks/ZKPs and Privacy.svg`
+  if (track === 'Cryptoeconomics') return `${baseUri}/static/images/tracks/Cryptoeconomics.svg`
+  if (track === 'Developer Infrastructure') return `${baseUri}/static/images/tracks/Developer Infrastructure.svg`
+  if (track === 'Governance & Coordination') return `${baseUri}/static/images/tracks/Governance & Coordination.svg`
+  if (track === 'Layer 1 Protocol') return `${baseUri}/static/images/tracks/Layer 1 Protocol.svg`
+  if (track === 'Layer 2s') return `${baseUri}/static/images/tracks/Layer 2s.svg`
+  if (track === 'Opportunity & Global Impact') return `${baseUri}/static/images/tracks/Opportunity & Global Impact.svg`
+  if (track === 'Security') return `${baseUri}/static/images/tracks/Security.svg`
+  if (track === 'Staking & Validator Experience') return `${baseUri}/static/images/tracks/Staking & Validator Experience.svg`
+  if (track === 'UX & Design') return `${baseUri}/static/images/tracks/UX & Design.svg`
+  if (track === 'ZKPs: Privacy, Identity, Infrastructure, & More') return `${baseUri}/static/images/tracks/ZKPs and Privacy.svg`
 
-  if (track === 'Music') return `${baseUri}/static/dc6/tracks/Activities.png`
+  if (track === 'Music') return `${baseUri}/static/images/tracks/Activities.png`
   return null
 }
