@@ -54,7 +54,6 @@
     ]
   },
   "dependencies": {
-    "@elastic/elasticsearch": "^8.6.0",
     "@ethersproject/providers": "^5.7.1",
     "@octokit/rest": "^19.0.7",
     "@prisma/client": "4.9.0",
