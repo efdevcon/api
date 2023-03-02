@@ -1,6 +1,7 @@
 import { accountRouter } from 'controllers/account'
 import { dipsRouter } from 'controllers/dips'
 import { eventsRouter } from 'controllers/events'
+import { rssRouter } from 'controllers/rss'
 import { sessionsRouter } from 'controllers/sessions'
 import { speakersRouter } from 'controllers/speakers'
 import { Router } from 'express'
@@ -17,5 +18,6 @@ router.get('/', (req, res) => {
 router.use(accountRouter)
 router.use(dipsRouter)
 router.use(eventsRouter)
+router.use(rssRouter)
 router.use(sessionsRouter)
 router.use(speakersRouter)
