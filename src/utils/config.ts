@@ -22,6 +22,7 @@ export const API_INFO = {
   host: packageData.homepage.replace('https://', ''),
   version: packageData.version,
   license: packageData.license,
+  githubDataUrl: 'https://raw.githubusercontent.com/efdevcon/api/dev/data',
 }
 
 export const API_DEFAULTS = {

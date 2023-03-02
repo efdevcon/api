@@ -42,7 +42,7 @@ async function GetPodcasts(req: Request, res: Response) {
 
     return `<item>
         <title>${session.title}</title>
-        <enclosure url="https://raw.githubusercontent.com/efdevcon/media-tools/main/output/mp3/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
+        <enclosure url="${API_INFO.githubDataUrl}/audio/devcon-${edition}/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
         <itunes:duration>${session.duration}</itunes:duration>
         <itunes:description><![CDATA[${session.description}]]></itunes:description>
         <link>https://archive.devcon.org/archive/watch/${edition}/${i.id}/</link>
