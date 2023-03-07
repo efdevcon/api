@@ -1,7 +1,7 @@
 import { PrismaClient } from '@prisma/client'
 import { GetAudioData } from 'clients/filesystem'
 import { Request, Response, Router } from 'express'
-import { API_INFO, DEVCON_INFO } from 'utils/config'
+import { API_DEFAULTS, API_INFO, DEVCON_INFO } from 'utils/config'
 
 const client = new PrismaClient()
 
@@ -42,7 +42,7 @@ async function GetPodcasts(req: Request, res: Response) {
 
     return `<item>
         <title>${session.title}</title>
-        <enclosure url="${API_INFO.githubDataUrl}/audio/devcon-${edition}/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
+        <enclosure url="${API_DEFAULTS.githubDataUrl}/audio/devcon-${edition}/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
         <itunes:duration>${session.duration}</itunes:duration>
         <itunes:description><![CDATA[${session.description}]]></itunes:description>
         <link>https://archive.devcon.org/archive/watch/${edition}/${i.id}/</link>
