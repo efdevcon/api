@@ -294,6 +294,20 @@
         }
       }
     },
+    "/rss/podcast": {
+      "get": {
+        "tags": [
+          "RSS"
+        ],
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/sessions": {
       "get": {
         "tags": [
