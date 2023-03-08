@@ -1,9 +1,9 @@
 {
   "name": "devcon-api",
   "description": "Devcon API exposes information about Devcon, past events, schedules and our video archive. You can find more information at https://github.com/efdevcon/api",
-  "homepage": "https://devcon-api.onrender.com",
+  "homepage": "https://api.devcon.org",
   "author": "support@devcon.org",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "license": "MIT",
   "repository": {
     "type": "git",
