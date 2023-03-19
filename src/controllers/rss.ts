@@ -22,7 +22,7 @@ async function GetPodcasts(req: Request, res: Response) {
     <language>en-us</language>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology" />
-    <itunes:image href="${API_INFO.website}/static/images/podcast.png" />
+    <itunes:image href="${API_INFO.website}/static/images/podcast/default.png" />
     <link>${DEVCON_INFO.website}</link>
     <itunes:author>${DEVCON_INFO.title}</itunes:author>
     <itunes:owner>
@@ -37,14 +37,17 @@ async function GetPodcasts(req: Request, res: Response) {
     // Other recommended, but not required fields/metadata
     // <guid>${i.id}</guid> // unique identifier that should always remain the same. Otherwise, enclosure url is used. Could result in duplicate uploads
     // <pubDate>${session.pubDate}</pubDate>
-    // <itunes:image href="${session.image}" /> // Event/Track specific images?
     const edition = session.eventId.replace('devcon-', '')
-
+    let showImage = ''
+    if (edition === '6') {
+      showImage = `<itunes:image href="${API_INFO.website}/static/images/podcast/devcon-6.png" />`
+    }
     return `<item>
         <title>${session.title}</title>
-        <enclosure url="${API_DEFAULTS.githubDataUrl}/audio/devcon-${edition}/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
+        <enclosure url="${API_DEFAULTS.githubDataUrl}/audio/${session.eventId}/${i.id}.mp3" length="${i.fileSize}" type="audio/mpeg" />
         <itunes:duration>${session.duration}</itunes:duration>
         <itunes:description><![CDATA[${session.description}]]></itunes:description>
+        ${showImage}
         <link>https://archive.devcon.org/archive/watch/${edition}/${i.id}/</link>
       </item>`
   })}
