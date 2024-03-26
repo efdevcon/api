@@ -44,6 +44,20 @@ export const SERVER_CONFIG = {
   SMTP_PASSWORD: process.env.SMTP_PASSWORD,
 }
 
+export const PRETALX_CONFIG = {
+  PRETALX_API_KEY: process.env.PRETALX_API_KEY,
+
+  PRETALX_BASE_URI: 'https://speak.devcon.org/api', // 'https://speak.devcon.org/api' // https://speak.ticketh.xyz/api
+  PRETALX_EVENT_NAME: 'devcon-test', // 'devcon-vi-2022' // 'pwa-data'
+
+  PRETALX_QUESTIONS_TWITTER: 44,
+  PRETALX_QUESTIONS_GITHUB: 43,
+  PRETALX_QUESTIONS_EXPERTISE: 40,
+  PRETALX_QUESTIONS_TAGS: 42,
+
+  DEFAULT_LIMIT: 100,
+}
+
 export const SESSION_CONFIG = {
   cookieName: API_INFO.title,
   password: process.env.SESSION_SECRET || 'default-test-session-secret-for-iron-session',

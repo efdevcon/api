@@ -5,6 +5,8 @@ import dayjs from 'dayjs'
 const client = new PrismaClient()
 
 async function main() {
+  console.log('Seed local data sources into Sqlite..')
+
   // Rooms
   const rooms = GetData('rooms')
   console.log(`- Add ${rooms.length} rooms`)

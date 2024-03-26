@@ -12,6 +12,7 @@
   "scripts": {
     "build": "tsc",
     "start": "NODE_PATH=./dist node ./dist/index",
+    "seed:pretalx": "ts-node ./src/db/seed-pretalx.ts",
     "dev:generate": "yarn swagger:generate && yarn db:generate && nodemon ./src/index.ts",
     "dev": "nodemon ./src/index.ts",
     "test": "NODE_ENV=test jest --detectOpenHandles --watchAll --no-cache",
