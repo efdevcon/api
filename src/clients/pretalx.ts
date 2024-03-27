@@ -3,16 +3,29 @@ import { CreateBlockie } from 'utils/account'
 import { PRETALX_CONFIG } from 'utils/config'
 import dayjs from 'dayjs'
 import utc from 'dayjs/plugin/utc'
+import Parser from 'rss-parser'
 
 dayjs.extend(utc)
 
 const cache = new Map()
 
-export async function GetRooms() {
-  const rooms = await exhaustResource(`/events/${PRETALX_CONFIG.PRETALX_EVENT_NAME}/rooms`)
+export async function GetLastcheduleUpdate(eventName = PRETALX_CONFIG.PRETALX_EVENT_NAME) {
+  try {
+    const parser = new Parser()
+    const feed = await parser.parseURL(`https://speak.devcon.org/${eventName}/schedule/feed.xml`)
+    const lastUpdate = dayjs(feed.lastBuildDate)
+
+    return lastUpdate.valueOf()
+  } catch (e) {
+    console.log('Unable to fetch schedule update. Make sure the event name is correct and made public.')
+  }
+}
+
+export async function GetRooms(eventName = PRETALX_CONFIG.PRETALX_EVENT_NAME) {
+  const rooms = await exhaustResource(`/events/${eventName}/rooms`)
   return rooms.map((i: any) => {
     return {
-      id: `${PRETALX_CONFIG.PRETALX_EVENT_NAME}_${i.name?.en ? defaultSlugify(i.name?.en) : String(i.id)}`,
+      id: `${eventName}_${i.name?.en ? defaultSlugify(i.name?.en) : String(i.id)}`,
       name: i.name?.en ?? '',
       description: i.description?.en ?? '',
       info: i.speaker_info?.en ?? '',
@@ -21,8 +34,8 @@ export async function GetRooms() {
   })
 }
 
-export async function GetSpeakers() {
-  const speakersData = await exhaustResource(`/events/${PRETALX_CONFIG.PRETALX_EVENT_NAME}/speakers`)
+export async function GetSpeakers(eventName = PRETALX_CONFIG.PRETALX_EVENT_NAME) {
+  const speakersData = await exhaustResource(`/events/${eventName}/speakers`)
   const speakers = speakersData.map((i: any) => {
     const twitter = i.answers?.find((i: any) => i.question.id === PRETALX_CONFIG.PRETALX_QUESTIONS_TWITTER)?.answer
     const github = i.answers?.find((i: any) => i.question.id === PRETALX_CONFIG.PRETALX_QUESTIONS_GITHUB)?.answer
@@ -44,15 +57,15 @@ export async function GetSpeakers() {
   return speakers
 }
 
-export async function GetSessions() {
-  const talks = await exhaustResource(`/events/${PRETALX_CONFIG.PRETALX_EVENT_NAME}/talks`)
+export async function GetSessions(eventName = PRETALX_CONFIG.PRETALX_EVENT_NAME) {
+  const talks = await exhaustResource(`/events/${eventName}/talks`)
 
   const sessions = talks.map((i: any) => {
     const expertise = i.answers?.find((i: any) => i.question.id === PRETALX_CONFIG.PRETALX_QUESTIONS_EXPERTISE)?.answer as string
     const tagsAnswer = i.answers?.find((i: any) => i.question.id === PRETALX_CONFIG.PRETALX_QUESTIONS_TAGS)?.answer as string
 
     return {
-      id: `${PRETALX_CONFIG.PRETALX_EVENT_NAME}_${defaultSlugify(i.title)}`,
+      id: `${eventName}_${defaultSlugify(i.title)}`,
       sourceId: i.code,
       title: i.title,
       description: i.description ?? i.abstract,
@@ -68,7 +81,7 @@ export async function GetSessions() {
       speakers: i.speakers.map((i: any) => i.code),
       slot_start: dayjs.utc(i.slot.start).toDate(),
       slot_end: dayjs.utc(i.slot.end).toDate(),
-      slot_roomId: i.slot?.room ? `${PRETALX_CONFIG.PRETALX_EVENT_NAME}_${defaultSlugify(i.slot.room.en)}` : null,
+      slot_roomId: i.slot?.room ? `${eventName}_${defaultSlugify(i.slot.room.en)}` : null,
     }
   })
 
