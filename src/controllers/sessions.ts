@@ -57,27 +57,27 @@ export async function GetSessions(req: Request, res: Response) {
       },
     ]
     args.where.eventId = {
-      in: [req.query.event] as string[],
+      in: [req.query.event].flat() as string[],
     }
   }
   if (req.query.event) {
     args.where.eventId = {
-      in: [req.query.event] as string[],
+      in: [req.query.event].flat() as string[],
     }
   }
   if (req.query.expertise) {
     args.where.expertise = {
-      in: [req.query.expertise] as string[],
+      in: [req.query.expertise].flat() as string[],
     }
   }
   if (req.query.type) {
     args.where.type = {
-      in: [req.query.type] as string[],
+      in: [req.query.type].flat() as string[],
     }
   }
   if (req.query.tags) {
     args.where.track = {
-      in: [req.query.tags] as string[],
+      in: [req.query.tags].flat() as string[],
     }
   }
 
