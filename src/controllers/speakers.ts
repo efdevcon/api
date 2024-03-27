@@ -24,7 +24,7 @@ export async function GetSpeakers(req: Request, res: Response) {
   // Note: filters are case sensitive
   if (req.query.event) {
     args.where.eventId = {
-      in: req.query.event as string[],
+      in: [req.query.event] as string[],
     }
   }
 
