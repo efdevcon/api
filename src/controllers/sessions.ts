@@ -56,9 +56,6 @@ export async function GetSessions(req: Request, res: Response) {
         },
       },
     ]
-    args.where.eventId = {
-      in: [req.query.event].flat() as string[],
-    }
   }
   if (req.query.event) {
     args.where.eventId = {
